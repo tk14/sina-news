@@ -1,8 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "新浪新闻",
-    "home_page_url": "https://ruanyf.github.io/sina-news/",
-    "feed_url": "https://ruanyf.github.io/sina-news/rss.json",
+    "home_page_url": "https://tk14.github.io/sina-news/",
+    "feed_url": "https://tk14.github.io/sina-news/rss.json",
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
