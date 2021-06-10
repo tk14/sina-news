@@ -4,11 +4,64 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 10 Jun 2021 17:52:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jun 2021 18:46:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【俄总理米舒斯京签署命令 终止俄美关于开放陆地的谅解备忘录】当地时间6月10日，俄罗斯总理米舒斯京签署命令，终止1992年6月17日签署的俄罗斯政府与美国政府之间关于开放陆地的谅解备忘录。相关文件已在俄官方法律信息门户网站上公布。俄罗斯外交部将负责就此周知美方。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0355326.d.html</link>
+            <guid>2204380</guid>
+            <pubDate>Thu, 10 Jun 2021 18:38:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：据悉英特尔出价超过20亿美元收购半导体公司SiFive。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi8954509.d.html</link>
+            <guid>2204377</guid>
+            <pubDate>Thu, 10 Jun 2021 18:25:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国重申拟向纳米比亚提供的11亿欧元不是赔偿金】当地时间6月9日，德国外长马斯称，德国没有就种族屠杀历史向纳米比亚赔偿的法律义务，拟向纳米比亚提供的11亿欧元资金系基于自愿原则。德国尊重纳民众对和解协议的批评，但要求德向纳赔偿数百亿欧元不切实际]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi8954139.d.html</link>
+            <guid>2204376</guid>
+            <pubDate>Thu, 10 Jun 2021 18:18:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国航空让数千名员工重返休假计划】由于国际旅行重开进程的延误，英国航空已经让数千名工作人员重回休假计划。英国航空在声明中称，“像许多公司一样，我们正在使用政府的带薪休假计划以便在这场前所未有的危机中保住就业”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi8953953.d.html</link>
+            <guid>2204375</guid>
+            <pubDate>Thu, 10 Jun 2021 18:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：本周市政债券基金流入24.6亿美元；高收益市政债券基金流入8.16亿美元。]]></title>
+            <guid>2204374</guid>
+            <pubDate>Thu, 10 Jun 2021 18:11:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国10年期国债收益率跌至1.464％，为3月4日以来最低水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0353875.d.html</link>
+            <guid>2204373</guid>
+            <pubDate>Thu, 10 Jun 2021 18:11:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：美国高收益基金本周资金流出6.42亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0353710.d.html</link>
+            <guid>2204371</guid>
+            <pubDate>Thu, 10 Jun 2021 18:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国2021财年迄今为止的赤字为2.064万亿美元，而2020财年的可比赤字为1.88万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0353505.d.html</link>
+            <guid>2204369</guid>
+            <pubDate>Thu, 10 Jun 2021 18:05:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国2021财年前八个月预算赤字2.06万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0353203.d.html</link>
+            <guid>2204368</guid>
+            <pubDate>Thu, 10 Jun 2021 18:00:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  标普：将亚马逊(AMZN.O)评级从“AA-”上调至“AA”，前景展望稳定。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0352084.d.html</link>
@@ -222,59 +275,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi8944895.d.html</link>
             <guid>2204283</guid>
             <pubDate>Thu, 10 Jun 2021 16:17:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fuboTV(FUBO.N)短线走低，跌约6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi8944745.d.html</link>
-            <guid>2204277</guid>
-            <pubDate>Thu, 10 Jun 2021 16:15:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[奈飞(NFLX.O)直线走高，现涨近1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi8944738.d.html</link>
-            <guid>2204276</guid>
-            <pubDate>Thu, 10 Jun 2021 16:15:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登和英国首相约翰逊在新大西洋宪章中重申了美英关系；美国和英国承诺保护创新，防止虚假信息；美国和英国支持集体安全，包括网络威胁。]]></title>
-            <guid>2204274</guid>
-            <pubDate>Thu, 10 Jun 2021 16:13:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国解除对迪拜一些实体的制裁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi8944368.d.html</link>
-            <guid>2204272</guid>
-            <pubDate>Thu, 10 Jun 2021 16:10:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 市场消息：奈飞推出奈飞商店（NETFLIX.SHOP）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi8944251.d.html</link>
-            <guid>2204270</guid>
-            <pubDate>Thu, 10 Jun 2021 16:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：法国总统马克龙希望七国集团支持国际货币基金组织规则的改革，以帮助非洲。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0344126.d.html</link>
-            <guid>2204269</guid>
-            <pubDate>Thu, 10 Jun 2021 16:09:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【希腊众多行业工会举行联合大罢工 抗议新的劳工法案】当地时间6月10日，希腊众多行业工会联合举行24小时全国大罢工，以抗议新的劳工法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0343810.d.html</link>
-            <guid>2204265</guid>
-            <pubDate>Thu, 10 Jun 2021 16:06:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【布里斯班有望在下月获得2032年奥运会举办权】国际奥委会执行委员会10日决定提名澳大利亚布里斯班为2032年第三十五届奥林匹克运动会的东道主。这一决定是根据国际奥委会“夏季奥运会举办地委员会”的建议作出的。国际奥委会成员将于7月21日在东京举行的第138届国际奥委会全会上投票，正式确认布里斯班为2032年奥运会的举办地。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi8943876.d.html</link>
-            <guid>2204263</guid>
-            <pubDate>Thu, 10 Jun 2021 16:05:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[电子艺界(EA.O)盘中直线下跌，跌至1%，此前有报道称黑客从该公司窃取了大量数据。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0343718.d.html</link>
-            <guid>2204262</guid>
-            <pubDate>Thu, 10 Jun 2021 16:05:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
