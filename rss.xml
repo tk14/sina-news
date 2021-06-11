@@ -4,11 +4,51 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 11 Jun 2021 17:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jun 2021 18:31:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：七国集团领导人就现阶段继续支持财政扩张达成了广泛共识。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0564915.d.html</link>
+            <guid>2205475</guid>
+            <pubDate>Fri, 11 Jun 2021 18:25:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：由于缺少半导体，大众汽车在巴西的3家工厂停产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0564586.d.html</link>
+            <guid>2205474</guid>
+            <pubDate>Fri, 11 Jun 2021 18:18:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股AI板块齐涨，Palantir(PLTR.N)涨1.5%，英伟达(NVDA.O)涨2.64%，C3.ai(AI.N)涨3.41%，Veritone(VERI.O)涨4.23%。]]></title>
+            <guid>2205473</guid>
+            <pubDate>Fri, 11 Jun 2021 18:18:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：专门从事亚马逊第三方卖家收购的消费品公司Thrasio据悉正在就与Michael Klein的特殊目的收购公司(SPAC)合并上市事宜进行谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0563675.d.html</link>
+            <guid>2205470</guid>
+            <pubDate>Fri, 11 Jun 2021 18:00:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：空白支票公司Churchill Capital Corp II与在线教育公司Skillsoft宣布完成业务合并，并且即将收购技术技能培训提供商Global Knowledge，以打造领先的企业数字学习公司。]]></title>
+            <guid>2205469</guid>
+            <pubDate>Fri, 11 Jun 2021 17:52:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  第九城市(NCTY.O)直线走高，涨超10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0562950.d.html</link>
+            <guid>2205468</guid>
+            <pubDate>Fri, 11 Jun 2021 17:45:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Moderna(MRNA.O)小幅走高，涨至0.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0562783.d.html</link>
+            <guid>2205466</guid>
+            <pubDate>Fri, 11 Jun 2021 17:42:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  市场消息：Mudrick Capital在AMC院线(AMC.N)交易中亏损10%。（此前Mudrick Capital告知客户AMC被“严重高估”）]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0560412.d.html</link>
@@ -164,18 +204,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0546694.d.html</link>
             <guid>2205375</guid>
             <pubDate>Fri, 11 Jun 2021 14:28:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  fuboTV盘中异动走高，现涨近10%，接近收复本周跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0545612.d.html</link>
-            <guid>2205367</guid>
-            <pubDate>Fri, 11 Jun 2021 14:16:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Argus：苹果在维持近10年跑赢大市的强势后，今年的走势相对较弱，不过主要是因为板块轮动，而不是管理层决策错误。维持苹果买入评级，目标价165美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi9145374.d.html</link>
-            <guid>2205363</guid>
-            <pubDate>Fri, 11 Jun 2021 14:12:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
