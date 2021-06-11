@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 11 Jun 2021 16:43:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jun 2021 17:37:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：Mudrick Capital在AMC院线(AMC.N)交易中亏损10%。（此前Mudrick Capital告知客户AMC被“严重高估”）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0560412.d.html</link>
+            <guid>2205452</guid>
+            <pubDate>Fri, 11 Jun 2021 17:13:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：软件领域领先供应商Medallia据悉正在探索潜在的出售机会，正在与顾问就潜在的选择进行合作；据悉吸引了私人股本公司的兴趣。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9159680.d.html</link>
+            <guid>2205446</guid>
+            <pubDate>Fri, 11 Jun 2021 17:01:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至6月11日当周石油钻井总数为365口，前值为359口，预期为363口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9159660.d.html</link>
+            <guid>2205445</guid>
+            <pubDate>Fri, 11 Jun 2021 17:01:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国金融公司Finance of America(FOA.N)盘中跌超3%，股价创历史新低。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9156836.d.html</link>
@@ -158,66 +176,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi9145374.d.html</link>
             <guid>2205363</guid>
             <pubDate>Fri, 11 Jun 2021 14:12:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  抗疫概念股Vaxart(VXRT.O)盘中大涨26%，此前Piper Sandler首予该股增持评级，目标价18美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi9145013.d.html</link>
-            <guid>2205362</guid>
-            <pubDate>Fri, 11 Jun 2021 14:10:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两连板的中科软：不存在未披露的重大信息】连续2个涨停的中科软发布股票交易异常波动公告，经公司自查并书面问询控股股东(实际控制人)，截止公告披露日，不存在应披露而未披露的重大信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi9144957.d.html</link>
-            <guid>2205361</guid>
-            <pubDate>Fri, 11 Jun 2021 14:09:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗：将好未来、新东方评级下调至卖出。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0544655.d.html</link>
-            <guid>2205360</guid>
-            <pubDate>Fri, 11 Jun 2021 14:09:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[密歇根大学消费者调查首席经济学家Richard Curtin：美国消费者信心在6月初有所回升，收复了去年5月损失的三分之二。6月初的消费者信心增长主要来自于中、高收入家庭和未来经济前景，而不是当前状况。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0544302.d.html</link>
-            <guid>2205356</guid>
-            <pubDate>Fri, 11 Jun 2021 14:06:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  3B家居目前上涨3%，尽管KeyBanc表示，随着Reddit热潮放缓，该公司股价可能会下跌30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi9144501.d.html</link>
-            <guid>2205355</guid>
-            <pubDate>Fri, 11 Jun 2021 14:05:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据美国CNN电视台援引两名美国官员的消息称，从目前来看，美国总统拜登和俄罗斯总统普京不会在6月16日会晤后举行联合记者会。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi9144320.d.html</link>
-            <guid>2205354</guid>
-            <pubDate>Fri, 11 Jun 2021 14:04:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  极光盘初强势反弹，现涨近9%，昨日在公布一季度业绩后收跌超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi9144020.d.html</link>
-            <guid>2205352</guid>
-            <pubDate>Fri, 11 Jun 2021 14:01:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[   密歇根大学6月份消费者信心指数报86.4，预期为84.2。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi9143994.d.html</link>
-            <guid>2205351</guid>
-            <pubDate>Fri, 11 Jun 2021 14:01:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【隆平高科：隆平生物拟引入战略性投资者央企基金 公司持股降至18.13%】隆平高科公告，公司现持有隆平生物52.34%股权，对应注册资本3125万元。公司以2.85亿元对价向央企基金转让所持隆平生物的28.48%的股份(对应注册资本1700万元)；为激励隆平生物核心团队，结合2020年《隆平生物增资协议》约定，公司将对隆平生物的125万元股权认缴权以零对价转让给隆平生物核心团队成立的合伙企业海南智玉农业信息咨询合伙企业(有限合伙)。上述增资及股权转让完成后，隆平生物的注册资本由5970万元变更为7170万元，公司对隆平生物的持股比例由52.34%变更为18.13%，隆平生物不再纳入公司合并报表范围。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0542599.d.html</link>
-            <guid>2205343</guid>
-            <pubDate>Fri, 11 Jun 2021 13:50:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：不能重复2008年在经济上的错误。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0542506.d.html</link>
-            <guid>2205342</guid>
-            <pubDate>Fri, 11 Jun 2021 13:49:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
