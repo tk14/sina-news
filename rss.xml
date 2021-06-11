@@ -4,11 +4,34 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 11 Jun 2021 21:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jun 2021 22:25:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【丽贝卡·格林斯潘被任命为联合国贸发会议秘书长】当地时间11日，联合国大会宣布丽贝卡·格林斯潘成为联合国贸发会议新任秘书长，也是该机构首位女性秘书长。丽贝卡·格林斯潘来自哥斯达黎加，是一名经济学家，曾任哥斯达黎加副总统、联合国副秘书长和联合国开发计划署副署长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9176501.d.html</link>
+            <guid>2205513</guid>
+            <pubDate>Fri, 11 Jun 2021 22:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网自动测定：06月12日05时58分在中国台湾地区附近（北纬22.69度，东经121.10度）发生4.8级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>2205512</guid>
+            <pubDate>Fri, 11 Jun 2021 22:11:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据英国金融时报：美国清洁能源公司Invenergy报告称遭受网络入侵。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0573956.d.html</link>
+            <guid>2205511</guid>
+            <pubDate>Fri, 11 Jun 2021 21:53:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Boss直聘(BZ.O)盘后跌近4%，报35.77美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0572554.d.html</link>
+            <guid>2205509</guid>
+            <pubDate>Fri, 11 Jun 2021 21:29:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  据美国证券交易委员会文件：二手电子产品平台爱回收在美IPO预计将发行1623万ADSs，每ADS定价在13-15美元之间。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9171872.d.html</link>
@@ -252,12 +275,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi9151708.d.html</link>
             <guid>2205415</guid>
             <pubDate>Fri, 11 Jun 2021 15:22:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国恒大(03333.HK)：今日根据公司购股权计划发行125.4万股股份，发行价3.5港元，较上一交易日折让69.67%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0550511.d.html</link>
-            <guid>2205407</guid>
-            <pubDate>Fri, 11 Jun 2021 15:11:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
