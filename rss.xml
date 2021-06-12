@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 12 Jun 2021 20:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jun 2021 21:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国国家飓风中心：东太平洋东部开阔水域正在形成热带低气压，预计很快转变为热带风暴。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9331563.d.html</link>
+            <guid>2205850</guid>
+            <pubDate>Sat, 12 Jun 2021 20:50:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[乌克兰外交部：欧安组织主席将于6月13-15日访问乌克兰。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9330501.d.html</link>
@@ -312,18 +318,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0689414.d.html</link>
             <guid>2205745</guid>
             <pubDate>Sat, 12 Jun 2021 10:58:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫官员：总统拜登与普京会晤后将举行单独的新闻发布会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0689313.d.html</link>
-            <guid>2205744</guid>
-            <pubDate>Sat, 12 Jun 2021 10:56:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川发布11个县市区地质灾害气象风险3级黄色预警】结合四川省气象台天气预报情况，四川省地质灾害指挥部办公室今天（12日）下午5时发布6月12日20时～6月13日20时，四川省地质灾害气象风险3级黄色预警。预警区域为广元利州区、昭化区、旺苍县、苍溪县，巴中巴州区、恩阳区、南江县，南充阆中市、南部县、仪陇县、西充县等11个县市区。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0688460.d.html</link>
-            <guid>2205741</guid>
-            <pubDate>Sat, 12 Jun 2021 10:47:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
