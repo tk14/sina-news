@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 12 Jun 2021 16:41:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jun 2021 17:34:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[伊拉克油长：虽然埃克森美孚退出了West Qurna 1油田项目，但相信该公司会维持在其他项目的投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9322762.d.html</link>
+            <guid>2205830</guid>
+            <pubDate>Sat, 12 Jun 2021 17:31:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊拉克油长：如果欧佩克遵守当前的产量协议，预测第二季度油价将在68-75美元/桶区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0722200.d.html</link>
+            <guid>2205829</guid>
+            <pubDate>Sat, 12 Jun 2021 17:19:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  中国地震台网正式测定：06月12日23时58分在新疆阿克苏地区拜城县（北纬42.16度，东经81.11度）发生3.0级地震，震源深度6千米。]]></title>
             <guid>2205823</guid>
@@ -318,24 +330,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0683032.d.html</link>
             <guid>2205721</guid>
             <pubDate>Sat, 12 Jun 2021 09:58:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊发言人Blain：法国总统马克龙没有将法国与英国之间更深层次的关系和脱欧联系起来。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0682994.d.html</link>
-            <guid>2205719</guid>
-            <pubDate>Sat, 12 Jun 2021 09:57:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊在七国峰会上与法国总统马克龙、德国总理默克尔、欧洲理事会主席米歇尔和欧盟委员会主席冯德莱恩会面。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0682864.d.html</link>
-            <guid>2205718</guid>
-            <pubDate>Sat, 12 Jun 2021 09:56:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京东618期间将累计发放百亿消费券】京东方面消息，截至目前，今年京东618期间，京东已向全国14个地区的消费者发放了消费券，且还有更多地区的消费者即将享受到消费券的福利。而在整个京东618期间，预计将有100亿规模的消费券通过京东发放。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9282223.d.html</link>
-            <guid>2205717</guid>
-            <pubDate>Sat, 12 Jun 2021 09:54:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
