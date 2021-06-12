@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 12 Jun 2021 02:39:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jun 2021 03:29:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【乌克兰宣布与美国总统7月底会晤 专家：美国在搞外交平衡】根据俄罗斯媒体报道，乌克兰外长库列巴11日表示，乌总统泽连斯基与美国总统拜登的会晤计划于7月底在华盛顿举行。专家表示，这是美国在做的一种外交平衡，很大程度上是象征意义。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9222429.d.html</link>
+            <guid>2205600</guid>
+            <pubDate>Sat, 12 Jun 2021 02:57:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯将向伊朗交付先进卫星系统】据美国媒体10日报道，俄罗斯将向伊朗交付一套带有高分辨率摄像头的地球遥感卫星系统“老人星-V”。据报道，“老人星-V”遥感卫星装有分辨率达1.2米的摄像头，卫星可能在未来数月内从俄罗斯境内发射。美国方面对此表示担忧，报道援引一名美国政府官员的话说，伊朗可以借助这一卫星系统“持续监视”中东地区目标，包括以色列的军事基地以及驻有美军的伊拉克军事基地等。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0622223.d.html</link>
+            <guid>2205599</guid>
+            <pubDate>Sat, 12 Jun 2021 02:57:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【国家航天局：天问一号任务实现了中国航天史的6个首次】中国国家航天局12日在北京举办新闻发布会，介绍我国首次火星探测任务情况。中国国家航天局新闻发言人许洪亮在会上表示，天问一号任务成功是我国航天事业自主创新，跨越发展的标志性成就。在我国航天发展史上，天问一号任务实现了6个首次，一是首次实现地火转移轨道探测器发射；二是首次实现行星际飞行；三是首次实现地外行星软着陆；四是首次实现地外行星表面巡视探测；五是首次实现4亿公里距离的测控通信；六是首次获取第一手的火星科学数据。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9216575.d.html</link>
@@ -336,24 +348,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0567225.d.html</link>
             <guid>2205485</guid>
             <pubDate>Fri, 11 Jun 2021 19:15:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国证交会主席根斯勒：已要求工作人员研究货币市场基金的潜在结构性问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9167615.d.html</link>
-            <guid>2205484</guid>
-            <pubDate>Fri, 11 Jun 2021 19:14:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国防部宣布向乌克兰提供1.5亿美元的新军事援助。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9166847.d.html</link>
-            <guid>2205481</guid>
-            <pubDate>Fri, 11 Jun 2021 18:56:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：Shopify(SHOP.N)购买增强现实设计应用Primer。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9166397.d.html</link>
-            <guid>2205480</guid>
-            <pubDate>Fri, 11 Jun 2021 18:47:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
