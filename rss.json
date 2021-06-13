@@ -6,6 +6,19 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 2207213,
+            "content_html": "",
+            "title": "【亚马逊将德国仓库的最低工资提高到每小时12欧元】面对顶级工会的长期斗争，亚马逊周五表示，将保证其德国仓库的最低工资为每小时12欧元（合15美元）。",
+            "date_modified": "2021-06-13T22:08:54.000Z"
+        },
+        {
+            "id": 2207059,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca0884328.d.html",
+            "title": "【欧洲资管巨头安中集团赵柏龄：中国市场未来将跳出亚洲和新兴市场“限制” 被作为独立市场看待】海外资金看重中国市场，也在增配中国市场。安中集团(Azimut Group)中国区总裁赵柏龄(Stefano CHAO)在接受记者专访时表示，从去年开始，许多海外机构和个人投资者都提高了对中国A+H股的配置。安中集团也是投资大中华市场最大的海外资产管理集团之一。（ 证券市场红周刊）",
+            "date_modified": "2021-06-13T21:23:58.000Z"
+        },
+        {
             "id": 2206651,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9481247.d.html",
@@ -289,41 +302,6 @@
             "url": "https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9454831.d.html",
             "title": "七国集团公报：关于重新分配1000亿美元国际货币基金组织特别提款权的目标，我们呼吁其他有能力的国家和七国集团一起捐款。",
             "date_modified": "2021-06-13T13:25:54.000Z"
-        },
-        {
-            "id": 2206098,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0854834.d.html",
-            "title": "七国集团公报：我们重申支持安全稳妥地举办东京奥运会和残奥会。",
-            "date_modified": "2021-06-13T13:24:42.000Z"
-        },
-        {
-            "id": 2206097,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9454499.d.html",
-            "title": "【英美法三国领导人公开表示支持东京奥运会如期举办】据日本媒体报道，英国、美国和法国三国领导人在七国集团峰会期间，都向日本首相菅义伟表示，支持东京奥运会如期举办。",
-            "date_modified": "2021-06-13T13:21:12.000Z"
-        },
-        {
-            "id": 2206094,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9454150.d.html",
-            "title": "七国集团公报：一旦经济复苏稳固起来，我们需要确保公共财政的长期可持续性。我们承诺迅速扩大技术和政策规模，进一步加速关闭未减量煤炭（unabated coal）产能的过渡。",
-            "date_modified": "2021-06-13T13:17:28.000Z"
-        },
-        {
-            "id": 2206093,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0853897.d.html",
-            "title": "七国集团公报：各国领导人同意在改革后的贸易体系中支持更自由、更公平的贸易，并建立更具弹性的全球经济。",
-            "date_modified": "2021-06-13T13:13:24.000Z"
-        },
-        {
-            "id": 2206092,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0853782.d.html",
-            "title": "英国首相约翰逊：仍未就解除封锁做出最终决定。",
-            "date_modified": "2021-06-13T13:11:51.000Z"
         }
     ]
 }
