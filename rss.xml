@@ -4,11 +4,89 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 13 Jun 2021 11:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jun 2021 12:38:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【多城发文剑指房企“多马甲抢地”，房企拿地难度进一步加大】 2021年是“双集中”供地开启的元年，多个城市已完成首轮土地出让，但集中供地更多改变正在发生。 除了“多马甲抢地”被堵，各地土拍都设置了复杂的出让规则，其中包括大量配建公租房和人才房面积，可以说开发商利润“被严格限制”。迫于一线城市拿地的巨大压力，许多房产机构迅速将目光转移至第二梯队。而在粤港澳大湾区第二梯队的三城中，从市场火热程度来看，东莞无疑拔得头筹。5月份，东莞全市共出让7宗地块，涵盖4宗商住地+3宗商服地，成交达到98亿元，环比4月暴涨338%。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9450917.d.html</link>
+            <guid>2206082</guid>
+            <pubDate>Sun, 13 Jun 2021 12:37:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【仍存变数？以色列议会将就是否成立新一届政府投票】当地时间6月13日16时（北京时间13日21时），以色列议会120名议员将就是否成立新一届政府投票。此间媒体普遍预测：除非在最后一刻出现意外情况，否则统一右翼联盟领导人纳夫塔利·贝内特和“拥有未来”党主席亚伊尔·拉皮德领导的新政府将在以色列议会通过信任投票，贝内特将宣誓就任以色列第13任总理，接替现任总理内塔尼亚胡。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0850868.d.html</link>
+            <guid>2206081</guid>
+            <pubDate>Sun, 13 Jun 2021 12:37:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：七国集团将宣布针对反腐败和勒索软件采取联合行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9449880.d.html</link>
+            <guid>2206077</guid>
+            <pubDate>Sun, 13 Jun 2021 12:24:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱尔兰外长科夫尼：我们需要欧盟的灵活应对，也需要与英国达成伙伴关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9449684.d.html</link>
+            <guid>2206076</guid>
+            <pubDate>Sun, 13 Jun 2021 12:22:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务卿布林肯：如果俄罗斯继续采取侵略行动，我们将采取应对行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0848356.d.html</link>
+            <guid>2206074</guid>
+            <pubDate>Sun, 13 Jun 2021 12:08:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[七国集团：俄罗斯方面应该对从其领土发起的勒索软件攻击采取行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0848332.d.html</link>
+            <guid>2206073</guid>
+            <pubDate>Sun, 13 Jun 2021 12:08:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[七国集团呼吁俄罗斯方面停止破坏稳定的行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9447706.d.html</link>
+            <guid>2206072</guid>
+            <pubDate>Sun, 13 Jun 2021 12:02:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国政府发言人：德国方面将寻求将其对贫穷国家的气候资助从2020年的40亿欧元/年增加到60亿欧元/年，此目标最迟将于2025年实现。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9447420.d.html</link>
+            <guid>2206071</guid>
+            <pubDate>Sun, 13 Jun 2021 12:00:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[七国集团公报：七国集团没有对电动汽车做出新的承诺。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9447243.d.html</link>
+            <guid>2206070</guid>
+            <pubDate>Sun, 13 Jun 2021 11:58:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【湖北：立即开展燃气行业专项整治，全面开展安全生产大检查】湖北省委办公厅、省政府办公厅发布关于做好当前安全生产工作的紧急通知。通知指出，深刻汲取事故教训、切实加强安全生产工作。立即开展燃气行业专项整治；全面开展安全生产大检查；强化重点行业领域安全生产专项整治；及时科学有效处置各类突发事件。（湖北发布）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0846808.d.html</link>
+            <guid>2206068</guid>
+            <pubDate>Sun, 13 Jun 2021 11:51:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其总统埃尔多安：土耳其方面与中国签署了36亿美元的新互换协议，与中国互换协议的总额增加到60亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9446275.d.html</link>
+            <guid>2206066</guid>
+            <pubDate>Sun, 13 Jun 2021 11:46:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其总统埃尔多安：与拜登的会谈将重点讨论未来的合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0845709.d.html</link>
+            <guid>2206063</guid>
+            <pubDate>Sun, 13 Jun 2021 11:38:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其总统埃尔多安：需与美国总统拜登在北约讨论土美关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9445506.d.html</link>
+            <guid>2206062</guid>
+            <pubDate>Sun, 13 Jun 2021 11:37:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据法新社：德国总理默克尔表示，美国总统拜登为七国集团会谈带来了“新动力”。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9443089.d.html</link>
@@ -283,78 +361,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0818377.d.html</link>
             <guid>2205976</guid>
             <pubDate>Sun, 13 Jun 2021 07:14:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒华科技：积极开展公司自主软件平台及产品与鸿蒙系统的适配工作】恒华科技(300365)在互动平台表示，公司是一家“BIM平台软件及行业数字化应用和运营的服务商”。公司积极关注鸿蒙系统的发展，也在积极开展公司自主软件平台及产品与鸿蒙系统的适配工作，以满足行业客户对国产操作系统的需求，从而更好服务客户。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0816156.d.html</link>
-            <guid>2205971</guid>
-            <pubDate>Sun, 13 Jun 2021 06:59:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【兰州市人民政府与融创中国签署全面战略合作协议】 6月12日，兰州市人民政府与融创中国签订战略合作框架协议，双方将在会议会展及城市综合服务、康养度假、投资运营、项目开发等领域开展深度合作，践行“十四五”规划，共建美好兰州，加快推动城市经济社会高质量发展，以新的姿态向现代化中心城市迈进。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0815704.d.html</link>
-            <guid>2205969</guid>
-            <pubDate>Sun, 13 Jun 2021 06:55:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马克龙：拜登“绝对”让盟友相信美国回来了】据外媒12日报道，法国总统马克龙在与美国总统拜登会晤时说，美国重新成为“自由世界的合作领袖”。马克龙说：“有一位美国总统是俱乐部的一员并且非常愿意合作，这真是太好了。你所展示的是，领导力正是伙伴关系。我们对此很感谢，我认为我们将大有可为。”据报道，有记者问拜登“你是否让盟友相信美国回来了？”拜登随即转向马克龙，并说这个问题应该问他，马克龙则回答说：“当然！” （环球时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0815405.d.html</link>
-            <guid>2205968</guid>
-            <pubDate>Sun, 13 Jun 2021 06:53:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【应勇：全省要尽快对燃气管道、老旧小区消防等组织专项大检查】今日，十堰市张湾区艳湖社区集贸市场发生燃气爆炸事故，截至目前共造成12人死亡，138人受伤，其中重伤37人。应勇要求，要全力组织搜救被困人员、救治伤者，把损失降到最低程度。要科学组织现场施救，科学组织燃气、电力、水等检修和安全供应，坚决防止次生灾害发生。要做好伤亡人员家属安抚等工作，切实维护社会稳定。要对社会及时公开事故信息和施救处理等情况，回应社会关切。要查明事故原因，消除隐患，严肃追责。全省要尽快对燃气管道、老旧小区消防等组织专项大检查，对燃气、化工、电力等安全生产工作进行再检查、再部署，确保人民生命财产安全。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9414872.d.html</link>
-            <guid>2205967</guid>
-            <pubDate>Sun, 13 Jun 2021 06:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据央视新闻：截至目前，湖北十堰市张湾区燃气爆炸事故共造成12人死亡，138人受伤，其中重伤37人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0812049.d.html</link>
-            <guid>2205963</guid>
-            <pubDate>Sun, 13 Jun 2021 06:27:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【湖北深度放开放宽城市落户限制 取消除武汉市外全省其他地区落户限制】湖北省发改委近日印发《2021年全省新型城镇化和城乡融合发展工作要点》,其中有明确：深度放开放宽城市落户限制。取消除武汉市外全省其他地区落户限制,进一步降低武汉市落户门槛，实行省内户口迁移一地办结机制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0811728.d.html</link>
-            <guid>2205962</guid>
-            <pubDate>Sun, 13 Jun 2021 06:25:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据外媒，日本寻求通过使用液化天然气等更清洁的燃料进行“现实的”能源转型。 日本还将提供100亿美元的资金，帮助引入液化天然气作为低碳排放燃料。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0811544.d.html</link>
-            <guid>2205961</guid>
-            <pubDate>Sun, 13 Jun 2021 06:24:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【韩国5月汽车生产同比增长10.9% 出口同比增长57.5%】据韩联社，韩国产业通商资源部13日发布的一份资料显示，5月汽车生产和出口同比分增10.9%和57.5%，内销则同比减少10.1%。值得关注的是，新能源汽车在出口总额中所占份额高达25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9411799.d.html</link>
-            <guid>2205960</guid>
-            <pubDate>Sun, 13 Jun 2021 06:23:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普称自己正“疯狂地写作”：“最好的书”即将问世】6月11日，美国前总统特朗普宣布，他正在打造一个新的个人项目：出版一本书。“我正在疯狂地写作。”特朗普11日在通过自己领导的政治行动委员会发布的一份声明中写道，“到时候，你们会看到最好的那一本书（the book of all books）。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9411309.d.html</link>
-            <guid>2205959</guid>
-            <pubDate>Sun, 13 Jun 2021 06:19:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒瑞医药：入选2021全球制药企业50强榜单排名第38位】恒瑞医药消息，美国制药经理人杂志（PharmExec）公布了2021年全球制药企业TOP50榜单，今年共有5家中国药企上榜，数量创历史纪录。恒瑞医药连续第3年上榜，从2019年的第47位升至第38位，排名逐年攀升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0806905.d.html</link>
-            <guid>2205955</guid>
-            <pubDate>Sun, 13 Jun 2021 05:49:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家航天局：天问一号实现6个首次！】12日，国家航天局举行新闻发布会，对我国首次火星探测任务以及后续规划进行介绍。作为我国首次火星探测任务，天问一号任务取得圆满成功，实现了我国航天发展史上的6个首次: ①首次实现地火转移轨道探测器发射；②首次实现行星际飞行；③首次实现地外行星软着陆；④首次实现地外行星表面巡视探测；⑤首次实现4亿公里距离的测控通信；⑥首次获取第一手的火星科学数据。 目前“祝融号”火星车正在火星表面巡视勘查，工作状态良好。下一步，火星车将向着陆点南向行进。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0805474.d.html</link>
-            <guid>2205954</guid>
-            <pubDate>Sun, 13 Jun 2021 05:39:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【应急管理部派工作组赴湖北省十堰市燃气爆炸事故现场指导救援】据应急管理部网站消息，6月13日6时30分，湖北十堰市张湾区艳湖小区发生燃气爆炸事故，截至上午11时，已搜救出144人，目前均在医院接受救治，其中重伤37人，死亡11人。接报后，应急管理部部长黄明立即赶到部指挥中心，视频连线湖北省应急管理厅、省消防救援总队，与在现场的十堰市政府和消防救援支队负责同志通电话，调度了解事故有关情况，要求全力抢险救援，全力救治伤员，尽快核准人数，加强疏散警戒，对中心区域细致搜救，对周边区域深入摸排，严防次生灾害，并派出应急管理部副部长宋元明带队的工作组赶赴现场指导事故处置工作。当地消防救援队伍已派出38车173名指战员带6头搜救犬到场处置。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9404951.d.html</link>
-            <guid>2205951</guid>
-            <pubDate>Sun, 13 Jun 2021 05:31:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
