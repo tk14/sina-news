@@ -4,11 +4,63 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 14 Jun 2021 20:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jun 2021 21:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[大众汽车首席执行官Herbert Diess在推特上传了一张大众汽车的图片，并对特斯拉(TSLA.O)首席执行官埃隆•马斯克说:“大众超越了特斯拉。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqcfnca1043437.d.html</link>
+            <guid>2208092</guid>
+            <pubDate>Mon, 14 Jun 2021 21:18:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间6月14日，美国佐治亚州亚特兰大市发生枪击事件，导致3人受伤。（央视）]]></title>
+            <guid>2208088</guid>
+            <pubDate>Mon, 14 Jun 2021 21:15:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：软件公司Ping Identity据悉发行价为每股24.00至24.25美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9641426.d.html</link>
+            <guid>2208084</guid>
+            <pubDate>Mon, 14 Jun 2021 21:03:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议员呼吁加快实施电子烟法规。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqcfnca1042655.d.html</link>
+            <guid>2208083</guid>
+            <pubDate>Mon, 14 Jun 2021 21:03:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国得克萨斯州电力可靠性委员会（ERCOT）：今晚可能会出现电力短缺，但不太可能停电。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9640842.d.html</link>
+            <guid>2208079</guid>
+            <pubDate>Mon, 14 Jun 2021 20:53:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国得克萨斯州电力可靠性委员会（ERCOT）：发电厂的停电量上升到12178兆瓦。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9639948.d.html</link>
+            <guid>2208078</guid>
+            <pubDate>Mon, 14 Jun 2021 20:38:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带低压位于北卡罗来纳州哈特拉斯角以东约200英里（320公里）处，最大持续风速为35英里/小时（55公里/小时）。]]></title>
+            <guid>2208077</guid>
+            <pubDate>Mon, 14 Jun 2021 20:38:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MSCI全球所有国家指数收涨0.22%至721.10，创收盘纪录新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9639382.d.html</link>
+            <guid>2208076</guid>
+            <pubDate>Mon, 14 Jun 2021 20:28:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根士丹利CEO戈尔曼：Archegos爆仓的损失是2008年金融危机以来的第一个乌龙球。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9639223.d.html</link>
+            <guid>2208075</guid>
+            <pubDate>Mon, 14 Jun 2021 20:24:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  FUSION PHARMA(FUSN.O)盘后上涨19%，此前该公司公布早期癌症研究数据。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9639040.d.html</link>
@@ -296,36 +348,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9628830.d.html</link>
             <guid>2207994</guid>
             <pubDate>Mon, 14 Jun 2021 17:18:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  消息人士：GS Acquisition Holdings Corp II与Mirion Technologies的交易谈判还在进行中，仍有可能破裂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqcfnca1029837.d.html</link>
-            <guid>2207992</guid>
-            <pubDate>Mon, 14 Jun 2021 17:16:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：高盛(GS.N)的空白支票公司GS Acquisition Holdings Corp II据悉正在就与Mirion Technologies的交易进行深入谈判，据悉将于本周尽快达成交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqcfnca1029582.d.html</link>
-            <guid>2207989</guid>
-            <pubDate>Mon, 14 Jun 2021 17:14:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Smartsheet(SMAR.N)小幅走高，现涨0.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9628124.d.html</link>
-            <guid>2207987</guid>
-            <pubDate>Mon, 14 Jun 2021 17:11:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据The Information：亚马逊(AMZN.O)正在就制裁Smartsheet移动应用程序进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqcfnca1029167.d.html</link>
-            <guid>2207986</guid>
-            <pubDate>Mon, 14 Jun 2021 17:10:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：保留审查进展和提前解除限制的权利。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqcfnca1029129.d.html</link>
-            <guid>2207985</guid>
-            <pubDate>Mon, 14 Jun 2021 17:10:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
