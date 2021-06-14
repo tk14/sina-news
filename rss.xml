@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 14 Jun 2021 03:30:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jun 2021 04:33:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[日本4月工业产出环比终值2.9% ，前值: 2.5%。日本4月工业产出同比终值15.8%，前值: 15.4%。日本4月设备利用指数环比 1.12%，前值 5.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca0949044.d.html</link>
+            <guid>2207467</guid>
+            <pubDate>Mon, 14 Jun 2021 04:32:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其5月份汽车产量增长31.2%，达到82,860辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9546386.d.html</link>
+            <guid>2207463</guid>
+            <pubDate>Mon, 14 Jun 2021 04:21:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上合成员国外贸总额20年增加百倍】6月15日，上海合作组织即将迎来成立20周年华诞。发展至今，上合组织已成为当今世界上幅员最广、人口最多的综合性区域组织，拥有八个成员国、四个观察员国和六个对话伙伴国。当前，上合组织的经济总量接近20万亿美元，比成立之初增加了13倍多，对外贸易总额达到6.6万亿美元，比20年前增加了100倍。 （央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9546139.d.html</link>
+            <guid>2207462</guid>
+            <pubDate>Mon, 14 Jun 2021 04:19:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息，乌克兰准备对俄罗斯天然气工业股份公司采取额外制裁行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9543502.d.html</link>
+            <guid>2207457</guid>
+            <pubDate>Mon, 14 Jun 2021 04:04:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场研究机构IHS MARKIT：持续的芯片短缺预计将继续对到2021年第四季度的新车产量造成挑战。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9543417.d.html</link>
+            <guid>2207456</guid>
+            <pubDate>Mon, 14 Jun 2021 04:04:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【山西代县铁矿透水事故搜救出3名遇难者】代县大红才铁矿“6·10”透水事故现场，井下救援继续加速进行，排水设备保持满负荷运转，排水进度不断加快。14日凌晨1时30分开始至8时09分许，共搜救出3名遇难者。目前救援仍在加快进行。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9543367.d.html</link>
+            <guid>2207455</guid>
+            <pubDate>Mon, 14 Jun 2021 04:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广州公布4例确诊病例详情：3人来自荔湾白鹤洞街道，一名22岁女性来自白云区大源街道。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9540005.d.html</link>
+            <guid>2207452</guid>
+            <pubDate>Mon, 14 Jun 2021 03:43:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息，英国将限制网络平台以保护广播公司。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca0934317.d.html</link>
@@ -186,34 +228,6 @@
             <title><![CDATA[【恒瑞医药：入选2021全球制药企业50强榜单排名第38位】恒瑞医药消息，6月11日，美国制药经理人杂志（PharmExec）公布了2021年全球制药企业TOP50榜单，今年共有5家中国药企上榜，数量创历史纪录。恒瑞医药连续第3年上榜，从2019年的第47位升至第38位，排名逐年攀升。]]></title>
             <guid>2207315</guid>
             <pubDate>Sun, 13 Jun 2021 22:40:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新西兰5月服务业表现指数为56.1，前值为61.2。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9487580.d.html</link>
-            <guid>2207285</guid>
-            <pubDate>Sun, 13 Jun 2021 22:30:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚马逊将德国仓库的最低工资提高到每小时12欧元】面对顶级工会的长期斗争，亚马逊周五表示，将保证其德国仓库的最低工资为每小时12欧元（合15美元）。]]></title>
-            <guid>2207213</guid>
-            <pubDate>Sun, 13 Jun 2021 22:08:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲资管巨头安中集团赵柏龄：中国市场未来将跳出亚洲和新兴市场“限制” 被作为独立市场看待】海外资金看重中国市场，也在增配中国市场。安中集团(Azimut Group)中国区总裁赵柏龄(Stefano CHAO)在接受记者专访时表示，从去年开始，许多海外机构和个人投资者都提高了对中国A+H股的配置。安中集团也是投资大中华市场最大的海外资产管理集团之一。（ 证券市场红周刊）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca0884328.d.html</link>
-            <guid>2207059</guid>
-            <pubDate>Sun, 13 Jun 2021 21:23:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：06月14日04时02分在四川绵阳市北川县发生3.8级地震，震源深度15千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9481247.d.html</link>
-            <guid>2206651</guid>
-            <pubDate>Sun, 13 Jun 2021 20:11:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网自动测定：06月14日04时02分在四川绵阳市北川县附近（北纬31.95度，东经104.54度）发生4.1级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>2206607</guid>
-            <pubDate>Sun, 13 Jun 2021 20:05:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
