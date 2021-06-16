@@ -4,189 +4,46 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 16 Jun 2021 18:33:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Jun 2021 19:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[美国总统拜登：俄罗斯迫切希望保持大国地位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1439834.d.html</link>
-            <guid>2210577</guid>
-            <pubDate>Wed, 16 Jun 2021 18:29:25 GMT</pubDate>
+            <title><![CDATA[策略师GUY LEBAS：超额准备金利率（IOER）上调实际上是为了缓解与金融系统现金海啸相关的曲线前端的一些压力。银行过度储备，货币市场基金发现很难在任何地方获得正收益，因此它解决了其中一些问题。然而，这也将略微拉高收益率曲线。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1441548.d.html</link>
+            <guid>2210667</guid>
+            <pubDate>Wed, 16 Jun 2021 19:00:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【由中企投资建设的几内亚达圣铁路通车】当地时间6月16日，由中企投资建设的几内亚达圣铁路（Dapilon-Santou Railway）通车仪式在几达必隆港举行。几内亚总统孔戴出席仪式，并高度赞扬中企建设达圣铁路的快速行动力。据悉，达圣铁路总长约125公里，设计时速80公里，横跨几内亚博凯和博法地区，连接赢联盟圣图—胡达矿区与达必隆港，建有21座桥梁、2条隧道和6个车站，是几内亚自20世纪70年代以来建造的第一条现代化铁路。来自中国的设计和建设单位承担了该项目的主要工程建设。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1439775.d.html</link>
-            <guid>2210576</guid>
-            <pubDate>Wed, 16 Jun 2021 18:28:27 GMT</pubDate>
+            <title><![CDATA[10年期美债收益率高位回落逾2个基点，报1.5652，日内上涨7.6个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0039237.d.html</link>
+            <guid>2210652</guid>
+            <pubDate>Wed, 16 Jun 2021 18:54:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国总统拜登：还没有看到新的基础设施法案提案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1439629.d.html</link>
-            <guid>2210573</guid>
-            <pubDate>Wed, 16 Jun 2021 18:25:07 GMT</pubDate>
+            <title><![CDATA[美元兑墨西哥比索USD/MXN涨至4月1日以来新高，报20.39。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1441188.d.html</link>
+            <guid>2210647</guid>
+            <pubDate>Wed, 16 Jun 2021 18:52:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国两年期国债收益率触及0.191%，为2020年6月以来的最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1439561.d.html</link>
-            <guid>2210570</guid>
-            <pubDate>Wed, 16 Jun 2021 18:23:50 GMT</pubDate>
+            <title><![CDATA[美国5年期通胀保值债券（TIPS）盈亏平衡收益率逼近2.4%，为3月以来最低水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0039132.d.html</link>
+            <guid>2210643</guid>
+            <pubDate>Wed, 16 Jun 2021 18:52:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  澳元兑美元跌至4月13日以来逾2个月新低0.7631。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0037449.d.html</link>
-            <guid>2210564</guid>
-            <pubDate>Wed, 16 Jun 2021 18:20:38 GMT</pubDate>
+            <title><![CDATA[英镑兑美元GBP/USD失守1.40关口，创5月10日以来新低，日内跌逾0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0038871.d.html</link>
+            <guid>2210631</guid>
+            <pubDate>Wed, 16 Jun 2021 18:47:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国5至30年期国债收益率曲线为1月28日以来最持平的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0037099.d.html</link>
-            <guid>2210552</guid>
-            <pubDate>Wed, 16 Jun 2021 18:14:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：在与普京的会谈中没有讨论军事上的回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1437925.d.html</link>
-            <guid>2210517</guid>
-            <pubDate>Wed, 16 Jun 2021 17:59:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：与普京的会谈并不是为了信任，而是为了自身利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0035181.d.html</link>
-            <guid>2210515</guid>
-            <pubDate>Wed, 16 Jun 2021 17:48:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：看到了显著改善两国关系的真实前景。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0035160.d.html</link>
-            <guid>2210514</guid>
-            <pubDate>Wed, 16 Jun 2021 17:48:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：普京说他愿意在阿富汗和伊朗的安全问题上提供帮助。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0035155.d.html</link>
-            <guid>2210513</guid>
-            <pubDate>Wed, 16 Jun 2021 17:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：讨论了一些很基础的东西，在与普京的讨论中没有出现威胁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1437169.d.html</link>
-            <guid>2210512</guid>
-            <pubDate>Wed, 16 Jun 2021 17:48:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：这不是相互拥抱的“欢聚时刻”，但不是新冷战的时候。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0035135.d.html</link>
-            <guid>2210511</guid>
-            <pubDate>Wed, 16 Jun 2021 17:47:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：与普京的会谈没有预期的那么长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1437137.d.html</link>
-            <guid>2210510</guid>
-            <pubDate>Wed, 16 Jun 2021 17:47:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：陷入新冷战显然不符合任何人的利益。]]></title>
-            <guid>2210509</guid>
-            <pubDate>Wed, 16 Jun 2021 17:47:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：陷入新冷战显然不符合任何人的利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0034655.d.html</link>
-            <guid>2210507</guid>
-            <pubDate>Wed, 16 Jun 2021 17:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：美国将以网络方式回应俄罗斯的侵犯行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1436641.d.html</link>
-            <guid>2210506</guid>
-            <pubDate>Wed, 16 Jun 2021 17:40:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 美国总统拜登：普京现在最不想看到的就是冷战。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0034635.d.html</link>
-            <guid>2210505</guid>
-            <pubDate>Wed, 16 Jun 2021 17:40:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：如果普京希望美国企业在俄罗斯投资，就得让被拘留的美国人离开。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0034627.d.html</link>
-            <guid>2210504</guid>
-            <pubDate>Wed, 16 Jun 2021 17:40:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：根据反垄断法案，苹果(AAPL.O)预装的应用程序将被禁止。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0034158.d.html</link>
-            <guid>2210503</guid>
-            <pubDate>Wed, 16 Jun 2021 17:33:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国总统拜登：美国将对损害美国切身利益的行动作出回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0034141.d.html</link>
-            <guid>2210502</guid>
-            <pubDate>Wed, 16 Jun 2021 17:33:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：与普京会面非常重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1435648.d.html</link>
-            <guid>2210501</guid>
-            <pubDate>Wed, 16 Jun 2021 17:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：普京同意致力于确保伊朗不获得核武器，讨论了确保北极成为自由地区的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1435642.d.html</link>
-            <guid>2210500</guid>
-            <pubDate>Wed, 16 Jun 2021 17:28:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：我们同意请专家就什么是网络禁区达成具体的理解。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1435618.d.html</link>
-            <guid>2210499</guid>
-            <pubDate>Wed, 16 Jun 2021 17:28:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：与普京就网络安全问题讨论了很久，重要的基础设施应该禁止被攻击。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1435599.d.html</link>
-            <guid>2210498</guid>
-            <pubDate>Wed, 16 Jun 2021 17:28:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：同意就军备控制问题启动稳定的双边对话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0033389.d.html</link>
-            <guid>2210496</guid>
-            <pubDate>Wed, 16 Jun 2021 17:26:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：已告知普京，我们需要有一些大家都能遵守的基本规则。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1435444.d.html</link>
-            <guid>2210495</guid>
-            <pubDate>Wed, 16 Jun 2021 17:26:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：已告知普京，议程不是针对俄罗斯，议程是为了美国人民。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0033145.d.html</link>
-            <guid>2210494</guid>
-            <pubDate>Wed, 16 Jun 2021 17:23:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：美俄关系必须稳定、可预测。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1435013.d.html</link>
-            <guid>2210492</guid>
-            <pubDate>Wed, 16 Jun 2021 17:21:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：我和普京都有独特的责任。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0032945.d.html</link>
-            <guid>2210491</guid>
-            <pubDate>Wed, 16 Jun 2021 17:21:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【积极回馈股东，A股上市公司分红连年破万亿元】截至6月16日，在A股市场4321家上市公司中，已有2997家上市公司披露了利润分配预案，占比近七成。其中，完成实施的上市公司共1915家，合计发放金额达5132.88亿元；还在执行中的上市公司共1082家，预计发放金额合计为7082.50亿元。据此估算，2020年A股上市公司合计发放现金红包将达到1.22万亿元，该分红金额更是创下历史新高。此外，现金分红在利润分配预案中的比重更是逐年增加，2020年进行现金分红的上市公司共有2984家，占所有进行利润分配上市公司的99.53%。（经参）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1434043.d.html</link>
-            <guid>2210487</guid>
-            <pubDate>Wed, 16 Jun 2021 17:12:55 GMT</pubDate>
+            <title><![CDATA[【苹果“大健康”计划流产：媒体称其放弃基础医疗项目 将专注手表】虽然苹果此前曾打算通过Apple Watch等苹果设备所获取的健康数据开办诊所，并进入基础医疗领域，但最终又回到了“卖设备”的老路上。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0038752.d.html</link>
+            <guid>2210625</guid>
+            <pubDate>Wed, 16 Jun 2021 18:45:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
