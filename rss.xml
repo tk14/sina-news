@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 18 Jun 2021 17:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Jun 2021 18:31:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：密苏里钴业公司（Missouri Cobalt）计划通过与一家特殊目的收购公司（SPAC）合并实现公开上市，预计将通过交易获得50亿美元估值。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0462459.d.html</link>
+            <guid>2213914</guid>
+            <pubDate>Fri, 18 Jun 2021 18:25:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股区块链板块多数走弱，LongFin跌25.7%，第九城市跌7.6%，Riot Blockchain跌5.3%，嘉楠科技跌4.3%，Bit Digital跌3.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1863507.d.html</link>
+            <guid>2213913</guid>
+            <pubDate>Fri, 18 Jun 2021 18:19:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CGS-CIMB：将SOHO中国(00410.HK)评级下调至持有，目标价4.80港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1862720.d.html</link>
+            <guid>2213911</guid>
+            <pubDate>Fri, 18 Jun 2021 18:06:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  TTF基准荷兰天然气期货收涨3.9%，报29.404欧元/兆瓦时，创2008年11月份以来收盘新高，2021年迄今已涨54%，欧洲当前的天然气库存较以往低逾20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0460546.d.html</link>
+            <guid>2213908</guid>
+            <pubDate>Fri, 18 Jun 2021 17:56:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[洲际交易所（ICE）：上周布伦特原油期货投机性净多头头寸增加21521至312266手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0460526.d.html</link>
+            <guid>2213907</guid>
+            <pubDate>Fri, 18 Jun 2021 17:56:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利总理德拉吉：将在周末询问卫生专家何时不需要在户外佩戴口罩。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0459321.d.html</link>
+            <guid>2213902</guid>
+            <pubDate>Fri, 18 Jun 2021 17:38:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Paypal涨2.4%，此前公司宣布上调支付费率。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1860495.d.html</link>
@@ -229,11 +265,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1848717.d.html</link>
             <guid>2213768</guid>
             <pubDate>Fri, 18 Jun 2021 15:19:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【风语筑：拟公开发行不超6亿元可转债】风语筑公告，公司拟公开发行可转债，募资总额不超6亿元，投资于太原市城市规划博物馆项目、秀水新区展示馆项目、范县文化艺术中心项目、海淀区规划展览馆项目、巩义市智慧城市体验中心项目、洛阳市中国牡丹博物馆项目、麻城市城乡规划展示馆项目、荆门市城市规划展览馆项目、天水市规划馆项目、中韩（长春）国际文化交流中心项目、阳泉山城记忆1974文化园区项目和补充流动资金。]]></title>
-            <guid>2213688</guid>
-            <pubDate>Fri, 18 Jun 2021 14:48:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
