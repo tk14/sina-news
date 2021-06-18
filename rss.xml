@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 18 Jun 2021 18:31:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Jun 2021 19:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[穆迪：将麦格纳国际(MGA.N)前景展望调整为稳定，并确认其A3短期评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0465200.d.html</link>
+            <guid>2213939</guid>
+            <pubDate>Fri, 18 Jun 2021 19:15:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：Delta变体毒株不太可能触发新的封锁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1866083.d.html</link>
+            <guid>2213937</guid>
+            <pubDate>Fri, 18 Jun 2021 19:04:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：Delta变体毒株更容易传播，可能致命。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0464633.d.html</link>
+            <guid>2213936</guid>
+            <pubDate>Fri, 18 Jun 2021 19:04:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际货币基金组织预计，与阿根廷的450亿美元的协议将推迟到2022年。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0463700.d.html</link>
+            <guid>2213921</guid>
+            <pubDate>Fri, 18 Jun 2021 18:47:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息： 沙特阿美与EIG&MUBADALA达成价值124亿美元的基础设施交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1864503.d.html</link>
+            <guid>2213919</guid>
+            <pubDate>Fri, 18 Jun 2021 18:35:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：密苏里钴业公司（Missouri Cobalt）计划通过与一家特殊目的收购公司（SPAC）合并实现公开上市，预计将通过交易获得50亿美元估值。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0462459.d.html</link>
@@ -235,36 +265,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1851014.d.html</link>
             <guid>2213840</guid>
             <pubDate>Fri, 18 Jun 2021 15:46:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英伟达（NVDA）一度涨超3.8%，刷新盘中历史高位至775美元，投资者对该公司收购英国芯片设计公司ARM的前景感到乐观。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0448386.d.html</link>
-            <guid>2213822</guid>
-            <pubDate>Fri, 18 Jun 2021 15:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯副总理诺瓦克将于6月22日与俄罗斯石油公司高管召开会议，议题是燃料供应问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0448061.d.html</link>
-            <guid>2213807</guid>
-            <pubDate>Fri, 18 Jun 2021 15:33:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  明星科技股跌幅扩大，美光科技(MU.O)跌超4%，英特尔(INTC.O)跌超3%，台积电(TSM.N)、思科(CSCO.O)跌超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1849732.d.html</link>
-            <guid>2213798</guid>
-            <pubDate>Fri, 18 Jun 2021 15:31:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国新能源汽车数量约占全球总量一半】从中国汽车工业协会方面获悉，截至2021年5月底，我国新能源汽车保有量约580万辆，约占全球新能源汽车总量的50%。新能源汽车的快速发展，有利于碳达峰、碳中和的目标实现，促进经济社会全面绿色转型。据了解，今年1月至5月，我国新能源汽车产销分别完成96.7万辆和95万辆，同比均增长2.2倍，市场渗透率达到8.7%，增长势头强劲。与此同时，新能源汽车配套环境日趋完善，截至今年4月，全国已累计建设充电站6.5万座、换电站644座，各类充电桩187万个，建成覆盖176个城市、超过5万公里的高速公路快充网络。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0447135.d.html</link>
-            <guid>2213769</guid>
-            <pubDate>Fri, 18 Jun 2021 15:20:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国外交大臣拉布：英国和北约盟国对俄罗斯决定退出《开放天空条约》 感到失望。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1848717.d.html</link>
-            <guid>2213768</guid>
-            <pubDate>Fri, 18 Jun 2021 15:19:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
