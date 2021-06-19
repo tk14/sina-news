@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 19 Jun 2021 19:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jun 2021 20:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：06月20日04时01分在西藏日喀则市仲巴县发生3.8级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0639086.d.html</link>
+            <guid>2214779</guid>
+            <pubDate>Sat, 19 Jun 2021 20:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列总理贝内特将于6月28日访问白宫，与美国总统拜登举行会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0638907.d.html</link>
+            <guid>2214777</guid>
+            <pubDate>Sat, 19 Jun 2021 20:11:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[雪佛龙开始增加墨西哥湾Tahiti平台的原油产量，此前该平台因风暴而停产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2039614.d.html</link>
+            <guid>2214774</guid>
+            <pubDate>Sat, 19 Jun 2021 19:40:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[雪佛龙开始将因风暴而撤离的工人送回墨西哥湾海上平台。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2039564.d.html</link>
+            <guid>2214773</guid>
+            <pubDate>Sat, 19 Jun 2021 19:39:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：06月20日02时57分在墨西哥发生5.3级地震，震源深度210千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2039168.d.html</link>
+            <guid>2214771</guid>
+            <pubDate>Sat, 19 Jun 2021 19:27:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国地质勘探局：墨西哥恰帕斯州Rizo De Oro东北偏东10公里处发生5.4级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2038732.d.html</link>
@@ -258,18 +288,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1993526.d.html</link>
             <guid>2214217</guid>
             <pubDate>Sat, 19 Jun 2021 10:41:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【基民不挣钱的一大原因：投资姿势不正确】富国基金等10家基金公司曾经联合第三方理财平台发布了《一季度基民报告》。报告数据显示，除了市场行情波动外，因追涨杀跌、频繁交易等原因，持有基金时长短于3个月的用户中，超7成是亏损的。“基民不挣钱的一大原因，是因为投资姿势不正确，‘追涨杀跌’，这是一种普遍现象。”平安银行零售业务总监兼私财事业部总裁李明表示，数据显示，长期持有权益基金，不要被市场波动影响，赢是大概率事件。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0587134.d.html</link>
-            <guid>2214203</guid>
-            <pubDate>Sat, 19 Jun 2021 09:57:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南自贸港2021年（第三批）重点项目集中签约】6月19日，海南自由贸易港2021年（第三批）重点项目集中签约活动在海南国际会展中心举行。本次活动共签署50个项目，协议投资金额超过150亿元。50个项目中，外资项目12个，内资项目38个。涵盖旅游业、现代服务业、高新技术产业“三大产业”，包括高端装备制造、研发、创新生物医药研发生产、智慧供应链、数字文化、金融科技创新等项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1986415.d.html</link>
-            <guid>2214201</guid>
-            <pubDate>Sat, 19 Jun 2021 09:40:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
