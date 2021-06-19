@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 19 Jun 2021 20:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jun 2021 21:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[俄罗斯能源部：克里米亚此前因雷雨天气断电，目前已经恢复供电。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0640390.d.html</link>
+            <guid>2214784</guid>
+            <pubDate>Sat, 19 Jun 2021 20:54:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国地震台网正式测定：06月20日04时01分在西藏日喀则市仲巴县发生3.8级地震，震源深度10千米。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0639086.d.html</link>
@@ -270,24 +276,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0594716.d.html</link>
             <guid>2214227</guid>
             <pubDate>Sat, 19 Jun 2021 11:04:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海金融对外开放更上一层楼 新一批中外资金融机构在沪集体开业】6月18日，包括全国首家获批开业的外商独资公募基金公司在内的3家中外资金融机构，在上海举行集体开业仪式。此次开业的3家中外资机构都具有代表性意义。包括全国首家外资独资公募基金公司、外资控股证券公司和金融科技企业。其中贝莱德基金管理有限公司是我国于2020年4月1日正式取消对公募基金管理公司外资持股比例限制后，全国首家获批开业的外资独资公募基金管理公司。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0594225.d.html</link>
-            <guid>2214224</guid>
-            <pubDate>Sat, 19 Jun 2021 10:59:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【持续回暖：短短半个多月，基金新发已超1200亿】据Wind数据显示，以基金成立日作为统计标准，截至6月18日，新发基金数量为115只，发行规模达1274.07亿元。6月刚过半，新发基金规模已较整个4月份和5月份分别了增长23%和30%。其中，权益类基金（股票型+混合型）发行规模达1181.02亿元，较整个4月份和5月份分别增长了23%和37%。多位业内人士表示，近期新基金销售有所回暖，这与市场短期赚钱效应恢复有关，同时A股成交金额明显增长，市场活跃度增加，新增资金入市对新基金的发行也有带动作用。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0594202.d.html</link>
-            <guid>2214223</guid>
-            <pubDate>Sat, 19 Jun 2021 10:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯驻伊朗大使馆发布消息称，俄总统普京致电祝贺易卜拉欣·莱西赢得伊朗总统大选。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1993526.d.html</link>
-            <guid>2214217</guid>
-            <pubDate>Sat, 19 Jun 2021 10:41:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
