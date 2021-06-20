@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 20 Jun 2021 10:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Jun 2021 11:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[埃及法院推将“长赐号”货轮搁浅苏伊士运河事件听证会迟至7月4日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2161645.d.html</link>
+            <guid>2214979</guid>
+            <pubDate>Sun, 20 Jun 2021 11:18:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【黑龙江呼玛县河流水位持续上涨 部分村庄出现内涝】6月20日，受上游来水及区间降雨共同影响。黑龙江干流上游呼玛江段与黑龙江支流呼玛河段水位上涨迅速，呼玛河桥水位仅一天的时间就比19日上涨1.45米。据当地水文部门介绍，目前水位仍在上涨，将在6月23日迎来洪峰。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2150640.d.html</link>
@@ -217,54 +223,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0693907.d.html</link>
             <guid>2214864</guid>
             <pubDate>Sun, 20 Jun 2021 03:33:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据新华社：记者20日从南方电网深圳供电局获悉，深圳全社会日用电量首次突破4亿千瓦时，用电负荷创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2091957.d.html</link>
-            <guid>2214861</guid>
-            <pubDate>Sun, 20 Jun 2021 03:13:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【首届全国行星科学大会在江苏苏州召开】6月19日至21日，首届全国行星科学大会在江苏省苏州市召开。记者从会上获悉，我国深空探测的快速发展，催生发展出一门多领域交叉新学科——行星科学。未来，我国科学家将在行星科学和行星探测领域开展一系列前沿探索。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0689772.d.html</link>
-            <guid>2214860</guid>
-            <pubDate>Sun, 20 Jun 2021 03:11:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广州市卫生健康委副主任陈斌：6月19日，全市开展核酸采样23.03万人次，暂未发现阳性结果。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2089971.d.html</link>
-            <guid>2214859</guid>
-            <pubDate>Sun, 20 Jun 2021 03:03:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【LG首推83英寸OLED电视】LG电子6月20日表示，全球率先推出83英寸OLED电视。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0684988.d.html</link>
-            <guid>2214856</guid>
-            <pubDate>Sun, 20 Jun 2021 02:45:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【决计自研芯片架构，消息称三星正尝试聘请苹果和 AMD 前工程师】韩国论坛 Clien.net 上有爆料者声称，三星正在与来自 Apple 和 AMD 的前架构工程师进行商谈，最终目标是敲定三星自己的定制芯片架构。据报道，三星正在与一位指导苹果芯片架构开发的前工程师进行交谈。此外，爆料者还表示这位工程师要求掌控整个项目和团队，但没有透露其他任何信息和具体的人名。（IT之家）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0684165.d.html</link>
-            <guid>2214855</guid>
-            <pubDate>Sun, 20 Jun 2021 02:40:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三峡船闸18年累计通过货物逾16亿吨】据长江三峡通航管理局介绍，三峡船闸2003年6月18日投入运行以来，截至2021年6月17日，已安全运行172674闸次，通过91.24万艘次船舶、16.04亿吨货物、1222.86万人次旅客，成为服务沿江经济发展的重要物流通道。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0682575.d.html</link>
-            <guid>2214853</guid>
-            <pubDate>Sun, 20 Jun 2021 02:31:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江西首条特高压预计6月下旬投运】江西首条特高压（雅中—江西工程）预计在2021年6月下旬投运。6月19日，记者从国网江西电力获悉，该工程于2019年8月获得国家发改委核准，同年9月开工建设。 (中国日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0682191.d.html</link>
-            <guid>2214852</guid>
-            <pubDate>Sun, 20 Jun 2021 02:29:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江西：“十四五”计划投资约500亿元改造城镇老旧小区】记者从江西省住建厅了解到，《江西省城镇老旧小区改造专项规划（2021－2025年）》近日编制完成，“十四五”期间全省计划改造城镇老旧小区6243个，涉及总户数约161万户，总投资约500亿元。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0681743.d.html</link>
-            <guid>2214851</guid>
-            <pubDate>Sun, 20 Jun 2021 02:26:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
