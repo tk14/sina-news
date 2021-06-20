@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 20 Jun 2021 06:31:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Jun 2021 07:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[当地时间20日上午9时20分，俄罗斯驻美大使安东诺夫从莫斯科谢列梅捷沃机场启程前往纽约，然后再从那里返回华盛顿驻地。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0728664.d.html</link>
+            <guid>2214904</guid>
+            <pubDate>Sun, 20 Jun 2021 07:00:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【合肥先进计算中心正式运行】合肥先进计算中心正式运行暨合作签约推进会6月20日上午在合肥高新区举行，标志着我国先进计算阵营再添重要一员。作为合肥“最强大脑”的先进计算中心，双精度计算峰值相当于31250台酷睿I7-9700电脑，存储容量相当于117187部128G手机。目前已服务于气象预报、宇宙演化模拟、抗震分析等科研创新，全面融入生活的方方面面。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2129184.d.html</link>
+            <guid>2214901</guid>
+            <pubDate>Sun, 20 Jun 2021 06:53:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【今年以来新三板挂牌公司成交金额达550亿元】根据全国中小企业股份转让系统（新三板）数据，截至6月18日收盘时，今年以来新三板挂牌公司累计成交金额达550亿元。在交易方式方面，本周（6月15日至18日）新三板挂牌公司成交21.66亿元，其中精选层成交11亿元。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2127372.d.html</link>
+            <guid>2214897</guid>
+            <pubDate>Sun, 20 Jun 2021 06:40:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[韩国下月1日放宽防疫措施。 (韩联社)]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0721909.d.html</link>
@@ -330,24 +348,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2044331.d.html</link>
             <guid>2214790</guid>
             <pubDate>Sat, 19 Jun 2021 21:50:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国加州州长出行期间遭流浪者袭击，嫌犯已被逮捕。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0641689.d.html</link>
-            <guid>2214788</guid>
-            <pubDate>Sat, 19 Jun 2021 21:24:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯能源部：克里米亚此前因雷雨天气断电，目前已经恢复供电。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0640390.d.html</link>
-            <guid>2214784</guid>
-            <pubDate>Sat, 19 Jun 2021 20:54:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：06月20日04时01分在西藏日喀则市仲巴县发生3.8级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0639086.d.html</link>
-            <guid>2214779</guid>
-            <pubDate>Sat, 19 Jun 2021 20:17:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
