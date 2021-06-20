@@ -4,11 +4,16 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 20 Jun 2021 20:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Jun 2021 21:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国国家飓风中心：预计在离开北卡罗来纳州海岸之前，热带风暴克劳德特（Claudette）的风力将重新增强。]]></title>
+            <guid>2215107</guid>
+            <pubDate>Sun, 20 Jun 2021 20:34:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【法国大区和省议会选举第一轮投票结束 投票率又创新低】当地时间6月20日20时，法国大区和省议会选举第一轮投票正式结束。初步统计显示，执政党共和国前进党仅获得10.9%的选票；国民联盟政党获得19.1%的选票；社会党获得16.5%的选票；右翼联盟（共和党及其他右翼党派）获得29.3%的选票。另外，此次选举投票率又创新低。截至投票结束时，法国本土投票率仅为32.8%，弃权率为67.2%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2203309.d.html</link>
@@ -344,18 +349,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0769115.d.html</link>
             <guid>2215008</guid>
             <pubDate>Sun, 20 Jun 2021 12:49:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广东省东莞市麻涌镇人民政府：根据工作安排，麻涌镇6月20日晚将开展全员核酸检测工作。（美丽麻涌）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2170107.d.html</link>
-            <guid>2215007</guid>
-            <pubDate>Sun, 20 Jun 2021 12:48:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中环股份：拟推485.68万份的2021年股票期权激励计划】中环股份发布2021年股票期权激励计划(草案)，拟向激励对象授予股票期权485.68万份，占公告时公司股本总额的0.16%。每股股票期权在满足行权条件的情况下，拥有在有效期内以行权价格购买1股公司股票的权利。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0768490.d.html</link>
-            <guid>2215003</guid>
-            <pubDate>Sun, 20 Jun 2021 12:42:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
