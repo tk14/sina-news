@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 22 Jun 2021 16:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jun 2021 17:34:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  家庭健身平台Peloton(PTON.O)涨超6%，此前宣布公司会员计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2618990.d.html</link>
+            <guid>2217375</guid>
+            <pubDate>Tue, 22 Jun 2021 17:17:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构分析：交易商关注欧佩克+增产，油价失去上涨动力】油价在今日下跌，因投资者评估了有关俄罗斯和其他欧佩克+国家正在考虑增加产量的报告。尽管价格指标和库存数据显示需求超过供应，但仍有人担心欧佩克+将增产，传统能源市场研究主管Gary Cunningham表示，欧佩克+将考虑增加产量的传言足以让油价从75美元/桶的关口回落。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2618675.d.html</link>
+            <guid>2217371</guid>
+            <pubDate>Tue, 22 Jun 2021 17:13:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：拜登和美国农业部部长Vilsack将于6月29日在威斯康星州讨论农业问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1217517.d.html</link>
+            <guid>2217367</guid>
+            <pubDate>Tue, 22 Jun 2021 17:04:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据了解，目前，兴业证券首席策略分析师尚无确定人选。王德伦赴任兴证资管之后，张忆东或将分配更多精力关注A股市场。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2617429.d.html</link>
+            <guid>2217365</guid>
+            <pubDate>Tue, 22 Jun 2021 17:01:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：06月23日00时44分在西藏山南市错那县发生3.3级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1216755.d.html</link>
+            <guid>2217363</guid>
+            <pubDate>Tue, 22 Jun 2021 16:56:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫：普京与古巴总统通电话，双方讨论了国家间的合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2616888.d.html</link>
+            <guid>2217362</guid>
+            <pubDate>Tue, 22 Jun 2021 16:55:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  黑莓(BB.N)涨超5%，报13.44美元。其余WSB热门概念股涨跌不一，Express(EXPR.N)涨近10%，游戏驿站(GME.N)涨超5%；维视图像(MVIS.O)跌近13%，AMC院线(AMC.N)跌近3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1216113.d.html</link>
+            <guid>2217360</guid>
+            <pubDate>Tue, 22 Jun 2021 16:50:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  普拉格能源(PLUG.O)涨超11%，该公司Q1财报显示销售额同比增长76%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2615911.d.html</link>
+            <guid>2217359</guid>
+            <pubDate>Tue, 22 Jun 2021 16:45:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【伊朗禁止加密货币挖矿后 当地警方在一处矿场没收了7000台矿机】伊朗德黑兰警察局长表示，伊朗当局在过去48小时内突袭了伊朗首都的50个地点，发现了3000名非法矿工。伊朗地方警察继续打击大大小小的加密矿工，有消息称，他们没收了首都德黑兰一个矿场的7000多台矿机。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1214841.d.html</link>
@@ -181,78 +229,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2606803.d.html</link>
             <guid>2217297</guid>
             <pubDate>Tue, 22 Jun 2021 15:04:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5月份二手房售价中值同比上涨23.6%，达到了创纪录的350300美元。其中单价100万美元以上的房屋销售涨幅最大。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1204881.d.html</link>
-            <guid>2217282</guid>
-            <pubDate>Tue, 22 Jun 2021 14:46:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝克休斯油服：氢经济的出现需要监管框架的支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1204598.d.html</link>
-            <guid>2217280</guid>
-            <pubDate>Tue, 22 Jun 2021 14:43:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝克休斯油服：石油峰值将在几年内，而非几十年内出现，但碳氢化合物不会消失。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2604878.d.html</link>
-            <guid>2217279</guid>
-            <pubDate>Tue, 22 Jun 2021 14:42:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫：俄罗斯总统普京和德国总理默克尔进行了电话通话，就美俄峰会进行讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2604727.d.html</link>
-            <guid>2217276</guid>
-            <pubDate>Tue, 22 Jun 2021 14:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：奥迪将从2026年开始只推出纯电动汽车。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1204148.d.html</link>
-            <guid>2217273</guid>
-            <pubDate>Tue, 22 Jun 2021 14:38:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5月二手房销售总数环比下降0.9%，至580万户，为连续第4个月下降，创下2020年6月以来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2604467.d.html</link>
-            <guid>2217272</guid>
-            <pubDate>Tue, 22 Jun 2021 14:38:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[每日优鲜：一些投资者表示有兴趣以IPO价格购买价值高达9000万美元的ADSs。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2604174.d.html</link>
-            <guid>2217269</guid>
-            <pubDate>Tue, 22 Jun 2021 14:35:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国电影打造旗舰影城】中国电影相关人士6月22日介绍，由公司负责建设运营的党史展览馆配套工程——“中影国际影城”旗舰店，将于7月1日开业。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1203113.d.html</link>
-            <guid>2217265</guid>
-            <pubDate>Tue, 22 Jun 2021 14:28:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3D系统(DDD.N)涨幅扩大至22%，公司和以色列再生医学公司CollPlant宣布达成一项协议，以应用3D生物打印再生软组织基质。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1203048.d.html</link>
-            <guid>2217264</guid>
-            <pubDate>Tue, 22 Jun 2021 14:28:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[旅游业经历了历史上最糟糕的一年后，2021年开局仍很缓慢。据联合国世界旅游组织 (UNWTO) 数据，与2020年同期相比，2021年一季度的国际游客人数下降了 83%。在接受调查的专家中，16%的人预计旅游业在2021年三季度将出现大幅上升，22%的人认为四季度将出现反弹，60%的人预计2022年之前都不会出现实质性的复苏。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2602466.d.html</link>
-            <guid>2217258</guid>
-            <pubDate>Tue, 22 Jun 2021 14:18:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[百世集团(BEST.N)直线拉涨超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1202062.d.html</link>
-            <guid>2217257</guid>
-            <pubDate>Tue, 22 Jun 2021 14:18:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国广电股份公司出手招标 全国一网深度整合现重大进展】近日，三份广电领域的重大招标文件正式对外公示，反映了“全国一网”后半段重大走向。“全国一网”将建成统一的运营管理体系，以有线电视网络整合为契机，深入实施智慧广电战略，加快以全国互联互通平台为基础的有线电视网络IP化、智能化改造，建设具有广电特色的5G网络，推动大屏小屏联动、无线与有线对接、卫星与地面协同，显著提升全国有线电视网络的承载能力和内容支撑能力。 (中证报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2602205.d.html</link>
-            <guid>2217256</guid>
-            <pubDate>Tue, 22 Jun 2021 14:15:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
