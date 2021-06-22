@@ -4,11 +4,58 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 22 Jun 2021 17:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jun 2021 18:31:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[新能源汽车板块跌势持续。小鹏汽车跌近8%，小牛电动跌5.7%，蔚来汽车、理想汽车跌超5%，Workhorse跌2.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1224809.d.html</link>
+            <guid>2217400</guid>
+            <pubDate>Tue, 22 Jun 2021 18:29:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国民主党参议员曼钦：两党小组希望在明天能得到一份基建计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1224594.d.html</link>
+            <guid>2217399</guid>
+            <pubDate>Tue, 22 Jun 2021 18:25:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国国会议员提出两党立法，防止政府停摆期间航空公司雇员被强制休假。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2624103.d.html</link>
+            <guid>2217395</guid>
+            <pubDate>Tue, 22 Jun 2021 18:18:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  推特(TWTR.N)涨2.5%，此前Variety报道称，推特承诺为“超级关注”和Ticketed空间的内容创作者提供巨额分成。]]></title>
+            <guid>2217394</guid>
+            <pubDate>Tue, 22 Jun 2021 18:14:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国支持在9月份举行缩小规模的、线下的联合国大会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2622909.d.html</link>
+            <guid>2217391</guid>
+            <pubDate>Tue, 22 Jun 2021 17:59:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱尔兰外长科夫尼：北爱尔兰协议问题上“情况不太好”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1221687.d.html</link>
+            <guid>2217387</guid>
+            <pubDate>Tue, 22 Jun 2021 17:45:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook公司：将把商店功能拓展到WhatsApp和Facebook Marketplace。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1221080.d.html</link>
+            <guid>2217386</guid>
+            <pubDate>Tue, 22 Jun 2021 17:40:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据法新社：美国查封了伊朗国营电视台Press TV的网站。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1220788.d.html</link>
+            <guid>2217384</guid>
+            <pubDate>Tue, 22 Jun 2021 17:37:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  家庭健身平台Peloton(PTON.O)涨超6%，此前宣布公司会员计划。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2618990.d.html</link>
@@ -223,12 +270,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1207140.d.html</link>
             <guid>2217301</guid>
             <pubDate>Tue, 22 Jun 2021 15:10:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据港交所文件：叮当健康科技集团向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2606803.d.html</link>
-            <guid>2217297</guid>
-            <pubDate>Tue, 22 Jun 2021 15:04:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
