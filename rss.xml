@@ -4,11 +4,58 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 23 Jun 2021 16:32:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jun 2021 17:25:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：声明显示，美国国际贸易委员会认为从韩国、泰国进口的轮胎严重损害了美国的产业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1439547.d.html</link>
+            <guid>2218588</guid>
+            <pubDate>Wed, 23 Jun 2021 17:21:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Apple Watch 7系列可能采用更小的双面结构S7芯片】Apple Watch 7系列可能采用更小的“S7”芯片，有可能为更大的电池或其他组件提供更多空间。来自DigiTimes报告，下一代Apple Watch型号将采用供应商日月光科技的双面系统集成（SiP）封装。Apple Watch7系列型号预计将在9月发布，与过去几代设备的情况一致。体温感应和血糖监测等先进的健康功能也被传言用于未来的Apple Watch，但这些功能被认为不太可能在今年的7系列机型上实现。]]></title>
+            <guid>2218586</guid>
+            <pubDate>Wed, 23 Jun 2021 17:16:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫官员：拜登将在周三宣布，将任命一位反映政府价值观的白宫官员取代现任联邦住房金融局局长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2838657.d.html</link>
+            <guid>2218584</guid>
+            <pubDate>Wed, 23 Jun 2021 17:11:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【Apple Watch 7系列可能采用更小的双面结构S7芯片】Apple Watch 7系列可能采用更小的“S7”芯片，有可能为更大的电池或其他组件提供更多空间。来自DigiTimes报告，下一代Apple Watch型号将采用供应商日月光科技的双面系统集成（SiP）封装。Apple Watch7系列型号预计将在9月发布，与过去几代设备的情况一致。体温感应和血糖监测等先进的健康功能也被传言用于未来的Apple Watch，但这些功能被认为不太可能在今年的7系列机型上实现。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2838649.d.html</link>
+            <guid>2218583</guid>
+            <pubDate>Wed, 23 Jun 2021 17:11:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国5年期国债收益率攀升至日内高点，报0.878％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1435657.d.html</link>
+            <guid>2218575</guid>
+            <pubDate>Wed, 23 Jun 2021 16:43:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美元指数DXY短线走高8点，现报91.76。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2835378.d.html</link>
+            <guid>2218573</guid>
+            <pubDate>Wed, 23 Jun 2021 16:41:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股三大股指跳水，纳指转跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1435184.d.html</link>
+            <guid>2218570</guid>
+            <pubDate>Wed, 23 Jun 2021 16:39:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据华尔街日报：拜登政府将更换房利美和房地美监管者。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2834543.d.html</link>
+            <guid>2218560</guid>
+            <pubDate>Wed, 23 Jun 2021 16:35:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  和黄医药(HCM.O)涨超14%，沃利替尼已在中国获得有条件批准。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1433605.d.html</link>
@@ -251,90 +298,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2823360.d.html</link>
             <guid>2218487</guid>
             <pubDate>Wed, 23 Jun 2021 14:33:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至6月18日当周除却战略储备的商业原油进口量为2020年7月3日当周以来最高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2823342.d.html</link>
-            <guid>2218486</guid>
-            <pubDate>Wed, 23 Jun 2021 14:33:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至6月18日当周EIA原油库存降幅录得761.4万桶，降幅创2021年4月30日当周以来最大。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2823330.d.html</link>
-            <guid>2218485</guid>
-            <pubDate>Wed, 23 Jun 2021 14:33:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国上周原油出口减少23.3万桶/日至365.1万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1423190.d.html</link>
-            <guid>2218483</guid>
-            <pubDate>Wed, 23 Jun 2021 14:33:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国原油产品四周平均供应量为1954.4万桶/日，较去年同期增加14.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2823287.d.html</link>
-            <guid>2218482</guid>
-            <pubDate>Wed, 23 Jun 2021 14:33:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：除却战略储备的商业原油上周进口694.3万桶/日，较前一周增加19.7万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2823274.d.html</link>
-            <guid>2218481</guid>
-            <pubDate>Wed, 23 Jun 2021 14:32:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：上周美国国内原油产量减少10万桶至1110万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2823263.d.html</link>
-            <guid>2218480</guid>
-            <pubDate>Wed, 23 Jun 2021 14:32:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：除却战略储备的商业原油库存减少761.4万桶至4.591亿桶，减少1.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1423152.d.html</link>
-            <guid>2218479</guid>
-            <pubDate>Wed, 23 Jun 2021 14:32:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至6月18日当周EIA原油库存-761.4万桶，前值-735.5万桶，预期-394.2万桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2823205.d.html</link>
-            <guid>2218477</guid>
-            <pubDate>Wed, 23 Jun 2021 14:32:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  对冲基金亿万富翁Bill Ackman：环球音乐在美国上市没有限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2822859.d.html</link>
-            <guid>2218476</guid>
-            <pubDate>Wed, 23 Jun 2021 14:29:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛：预计到年底智利的政策利率将在1.50%-1.75%之间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2822843.d.html</link>
-            <guid>2218475</guid>
-            <pubDate>Wed, 23 Jun 2021 14:28:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【小鹏汽车通过港交所上市聆讯，第二大股东淘宝持股11.9%】6月23日，港交所官网显示，小鹏汽车已通过港交所主板聆讯。招股书显示，小鹏汽车联席保荐人为摩根大通和美银证券，拟发行8075万股股份。股东方面，招股书显示，小鹏汽车联合创始人、董事长兼首席执行官何小鹏及其关联公司为小鹏汽车控股股东，持股21.75%；淘宝中国持股11.9%，IDG资本持股4.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2822277.d.html</link>
-            <guid>2218472</guid>
-            <pubDate>Wed, 23 Jun 2021 14:22:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全球各地财富不平等程度令人震惊。据瑞士信贷最新报告，全球家庭财富的45.8%掌握在仅1.1%的人口手中，这5600万人控制的财富金额达到191.6万亿美元。全球5.83亿人口（占全球成年人口的11.1%）掌握的财富金额为163.9万亿美元，占到全球财富总额的39.1%。29亿人口（占世界人口的55%）掌握5.5万亿美元的财富，仅占全球财富总额的1.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1421947.d.html</link>
-            <guid>2218470</guid>
-            <pubDate>Wed, 23 Jun 2021 14:20:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西能源部长：巴西没有出现能源短缺问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1420728.d.html</link>
-            <guid>2218463</guid>
-            <pubDate>Wed, 23 Jun 2021 14:09:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据英国金融时报：德国和法国寻求进行欧盟-俄罗斯会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2820786.d.html</link>
-            <guid>2218462</guid>
-            <pubDate>Wed, 23 Jun 2021 14:09:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
