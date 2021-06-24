@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 24 Jun 2021 20:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jun 2021 21:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[滴滴：计划于纽约证券交易所上市，股票代码为“DIDI”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3073758.d.html</link>
+            <guid>2219833</guid>
+            <pubDate>Thu, 24 Jun 2021 21:21:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊：希望基础设施计划迅速实施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3070977.d.html</link>
+            <guid>2219807</guid>
+            <pubDate>Thu, 24 Jun 2021 20:25:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  公布财报后，耐克(NKE.N)盘后涨3.8%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3070503.d.html</link>
@@ -252,48 +264,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3059450.d.html</link>
             <guid>2219733</guid>
             <pubDate>Thu, 24 Jun 2021 17:21:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党参议员MURKOWSKI：基础设施计划中不会增加汽油税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3059438.d.html</link>
-            <guid>2219732</guid>
-            <pubDate>Thu, 24 Jun 2021 17:21:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国商会首席执行官Clark：支持基础设施协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1658551.d.html</link>
-            <guid>2219715</guid>
-            <pubDate>Thu, 24 Jun 2021 16:58:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党参议员罗姆尼：周四晚些时候将发布基础设施计划框架。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3056903.d.html</link>
-            <guid>2219709</guid>
-            <pubDate>Thu, 24 Jun 2021 16:52:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国基建股快速拉升，Summit Materials涨2.7%，卡特彼勒涨2.4%，美国钢铁涨超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3056298.d.html</link>
-            <guid>2219708</guid>
-            <pubDate>Thu, 24 Jun 2021 16:46:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党参议员柯林斯：双方在法案规模、范围和如何为基础设施协议筹款方面达成了一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3056287.d.html</link>
-            <guid>2219707</guid>
-            <pubDate>Thu, 24 Jun 2021 16:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国共和党参议员Portman：基础设施协议没有要求征收新的税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3055936.d.html</link>
-            <guid>2219703</guid>
-            <pubDate>Thu, 24 Jun 2021 16:42:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国共和党参议员Portman：基础设施协议是一个很好的妥协，将帮助美国人民。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3055834.d.html</link>
-            <guid>2219702</guid>
-            <pubDate>Thu, 24 Jun 2021 16:41:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
