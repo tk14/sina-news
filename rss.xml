@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 24 Jun 2021 18:28:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jun 2021 19:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：美国投资级基金上周净流入2.33亿美元，市政债券基金净流入19亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3067453.d.html</link>
+            <guid>2219780</guid>
+            <pubDate>Thu, 24 Jun 2021 19:17:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：美国高收益率基金上周流入1.89亿美元资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3067448.d.html</link>
+            <guid>2219779</guid>
+            <pubDate>Thu, 24 Jun 2021 19:17:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议员Klobuchar：“小而强大”的组织正在试图破坏反垄断。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1667341.d.html</link>
+            <guid>2219776</guid>
+            <pubDate>Thu, 24 Jun 2021 18:54:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议员Klobuchar：企业拆分、剥离应该是调整的选项。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3066289.d.html</link>
+            <guid>2219775</guid>
+            <pubDate>Thu, 24 Jun 2021 18:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议员Klobuchar：国会应该改变（公司）并购标准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3065973.d.html</link>
+            <guid>2219774</guid>
+            <pubDate>Thu, 24 Jun 2021 18:47:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党参议员罗姆尼：预计至少有10名共和党参议员支持两党协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1666716.d.html</link>
+            <guid>2219773</guid>
+            <pubDate>Thu, 24 Jun 2021 18:42:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  联邦快递(FDX.N)涨2%，将于今日盘后公布财报。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1666371.d.html</link>
+            <guid>2219771</guid>
+            <pubDate>Thu, 24 Jun 2021 18:36:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【部委地方年中密集调研把脉经济】 据了解，国家发展改革委、工业和信息化部等多个部委就当前经济形势展开密集摸底，召开上半年经济运行会，不少地方也陆续召开经济运行监测调度会，在分析研判上半年经济形势的基础上，研究部署下一步工作。从这些会议释放的信号看，当前国内经济全面恢复的基础仍不牢固，结构性分化仍在延续，需求持续恢复仍受到制约。稳定工业增长、进一步扩大内需、纾困中小企业等依旧是下一步稳经济的重中之重。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3063916.d.html</link>
@@ -266,29 +308,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1653677.d.html</link>
             <guid>2219678</guid>
             <pubDate>Thu, 24 Jun 2021 16:13:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[热门中概股普涨。唯品会、雾芯科技涨超7%，哔哩哔哩涨超5%，拼多多涨超4%，爱奇艺、百度涨超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3052606.d.html</link>
-            <guid>2219677</guid>
-            <pubDate>Thu, 24 Jun 2021 16:13:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新股健康保险公司Bright Health Group(BHG.N)首日上市破发，开跌超4%，报17.2美元，IPO定价为18美元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3051869.d.html</link>
-            <guid>2219671</guid>
-            <pubDate>Thu, 24 Jun 2021 16:06:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  服饰销售公司Digital Brands Group(DBGI.O)盘中大涨近70%，此前宣布向亚马逊市场拓展渠道。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3050796.d.html</link>
-            <guid>2219668</guid>
-            <pubDate>Thu, 24 Jun 2021 15:55:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油期货短线走低0.3美元，现报73.08美元/桶；布伦特原油期货短线走低0.2美元，现报75.34美元/桶。]]></title>
-            <guid>2219666</guid>
-            <pubDate>Thu, 24 Jun 2021 15:52:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
