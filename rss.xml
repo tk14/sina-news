@@ -4,11 +4,95 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 24 Jun 2021 16:36:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jun 2021 17:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[纳斯达克100指数涨幅收窄至不足0.7%，刷新日低，苹果目前跌约0.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3059785.d.html</link>
+            <guid>2219737</guid>
+            <pubDate>Thu, 24 Jun 2021 17:25:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克100指数涨幅收窄，刷新日低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3059768.d.html</link>
+            <guid>2219736</guid>
+            <pubDate>Thu, 24 Jun 2021 17:25:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[全美最大医生社区Doximity美国IPO首日开盘上涨逾58.3%，报41.17美元，此前给出的IPO发行价为每股26.00美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3059484.d.html</link>
+            <guid>2219735</guid>
+            <pubDate>Thu, 24 Jun 2021 17:21:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党参议员MURKOWSKI：其他为新的基础设施投资融资的方式包括美国各州返还失业保险，以及确保更严格的联邦税收。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3059450.d.html</link>
+            <guid>2219733</guid>
+            <pubDate>Thu, 24 Jun 2021 17:21:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党参议员MURKOWSKI：基础设施计划中不会增加汽油税。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3059438.d.html</link>
+            <guid>2219732</guid>
+            <pubDate>Thu, 24 Jun 2021 17:21:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商会首席执行官Clark：支持基础设施协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1658551.d.html</link>
+            <guid>2219715</guid>
+            <pubDate>Thu, 24 Jun 2021 16:58:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党参议员罗姆尼：周四晚些时候将发布基础设施计划框架。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3056903.d.html</link>
+            <guid>2219709</guid>
+            <pubDate>Thu, 24 Jun 2021 16:52:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国基建股快速拉升，Summit Materials涨2.7%，卡特彼勒涨2.4%，美国钢铁涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3056298.d.html</link>
+            <guid>2219708</guid>
+            <pubDate>Thu, 24 Jun 2021 16:46:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党参议员柯林斯：双方在法案规模、范围和如何为基础设施协议筹款方面达成了一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3056287.d.html</link>
+            <guid>2219707</guid>
+            <pubDate>Thu, 24 Jun 2021 16:45:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国共和党参议员Portman：基础设施协议没有要求征收新的税。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3055936.d.html</link>
+            <guid>2219703</guid>
+            <pubDate>Thu, 24 Jun 2021 16:42:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国共和党参议员Portman：基础设施协议是一个很好的妥协，将帮助美国人民。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3055834.d.html</link>
+            <guid>2219702</guid>
+            <pubDate>Thu, 24 Jun 2021 16:41:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【特斯拉计划向其他汽车制造商开放超级充电网络】据Electrek报道，特斯拉一直在与挪威韦斯特兰(Vestland)郡的管理机构联系，以获取部署充电站的激励措施。然而，当地政府只对向所有汽车制造商开放的充电站提供激励措施。在媒体获得的会议纪要中，有官员证实，特斯拉计划在2022年9月之前向其他汽车制造商开放超级充电网络，因此当地批准特斯拉获得激励措施。目前尚未清楚这是否仅适用于挪威，但特斯拉最近在德国也进行了类似的谈判。对特斯拉而言，在欧洲开放充电网络会更容易，因为欧洲超级充电网络接口使用了CCS连接器，这是当地标准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3055821.d.html</link>
+            <guid>2219701</guid>
+            <pubDate>Thu, 24 Jun 2021 16:41:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：在基础设施方面做出了重大妥协。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1656566.d.html</link>
+            <guid>2219699</guid>
+            <pubDate>Thu, 24 Jun 2021 16:39:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：我们就基础设施问题开了一次很好的会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3055412.d.html</link>
+            <guid>2219696</guid>
+            <pubDate>Thu, 24 Jun 2021 16:37:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国迈阿密公寓楼倒塌后35人获救 51人下落不明】当地时间6月24日，美国佛罗里达州迈阿密一公寓楼部分倒塌。据迈阿密消防部门称，到目前为止，已有35人从建筑物内获救，但仍有住在公寓楼倒塌部分的51人下落不明。目前工作人员已经完成了搜索，现在正在转向恢复工作。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1655559.d.html</link>
@@ -139,96 +223,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3048033.d.html</link>
             <guid>2219638</guid>
             <pubDate>Thu, 24 Jun 2021 15:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：花旗银行在财富管理领域设立加密部门。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3047168.d.html</link>
-            <guid>2219627</guid>
-            <pubDate>Thu, 24 Jun 2021 15:09:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国国务大臣刘易斯：正在就北爱尔兰议定书的谈判寻求务实的解决方式。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1648013.d.html</link>
-            <guid>2219625</guid>
-            <pubDate>Thu, 24 Jun 2021 15:07:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国国务大臣刘易斯：北爱尔兰议定书在目前的形势下是不可持续的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3046991.d.html</link>
-            <guid>2219624</guid>
-            <pubDate>Thu, 24 Jun 2021 15:07:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微软：下一代Windows操作系统将于2021年“假日”季向公众发布。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3046296.d.html</link>
-            <guid>2219616</guid>
-            <pubDate>Thu, 24 Jun 2021 15:00:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱尔兰外长科夫尼：希望这周能看到北爱尔兰议定书的谈判进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1646921.d.html</link>
-            <guid>2219613</guid>
-            <pubDate>Thu, 24 Jun 2021 14:56:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中概教育股集体上涨，好未来涨约10%，高途涨7%，新东方涨5%，流利说涨3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3045905.d.html</link>
-            <guid>2219612</guid>
-            <pubDate>Thu, 24 Jun 2021 14:56:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国政府官员：美国总统拜登对大型科技领域的两党合作感到鼓舞。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1646747.d.html</link>
-            <guid>2219611</guid>
-            <pubDate>Thu, 24 Jun 2021 14:54:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外交部部长助理邓励同伊拉克第一副外长海鲁拉举行中伊外交部第三轮政治磋商】中方愿同伊方深化政治互信，加强抗疫、能源、基建等领域互利合作，扩大人文交流，推动中伊关系迈上新台阶。中方赞赏伊方在中东地区事务中发挥的独特作用，愿同伊方加强沟通，为维护和促进地区和平稳定作出不懈努力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3044401.d.html</link>
-            <guid>2219603</guid>
-            <pubDate>Thu, 24 Jun 2021 14:41:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【荣昌生物：拟登陆上交所科创板】荣昌生物日前发布首次公开发行股票并在科创板上市招股说明书，公司拟公开发行不超过5442.6301万股股票，募集资金用于加速公司新药产业化进程。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3043936.d.html</link>
-            <guid>2219600</guid>
-            <pubDate>Thu, 24 Jun 2021 14:37:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA天然气报告：截至6月18日当周，美国天然气库存总量为24820亿立方英尺，较此前一周增加550亿立方英尺，较去年同期减少5130亿立方英尺，同比降幅17.1%，同时较5年均值低1540亿立方英尺，降幅5.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1644144.d.html</link>
-            <guid>2219594</guid>
-            <pubDate>Thu, 24 Jun 2021 14:30:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【发改委要求报送二氧化碳捕集利用情况 后续将有重大工程】发改委要求报送二氧化碳捕集利用情况，报送目的系为做好碳达峰、碳中和相关工作，科学评估二氧化碳捕集利用与封存（CCUS）技术和项目现状，有力有序组织后续重大工程。机构指出，国内碳捕集市场正处于爆发增长前段，技术先行率先布局者，有望迅速抢占市场。惠博普拥有二氧化碳捕集回收、净化、回注等领域的相关工艺技术和业绩。冰轮环境拥有通过碳捕捉，将工业和有关能源产业所产生的二氧化碳分离出来净化再利用的相关技术。（中证资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3042949.d.html</link>
-            <guid>2219593</guid>
-            <pubDate>Thu, 24 Jun 2021 14:28:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST广珠：实控人张坚力控制的珍珠红酒业等资产不满足注入上市公司的条件】*ST广珠公告，近日公司股价涨幅明显，公司关注到有市场消息称“公司实际控制人张坚力将其控制的珍珠红酒业、大顶矿业的股权抵偿占用的资金以解决其资金占用问题”。经公司审慎论证，相关资产不满足注入上市公司的条件，不符合上市公司利益，张坚力也无前述相关资产的注入计划，张坚力将进一步寻求符合上市公司利益的方法解决资金占用问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3042897.d.html</link>
-            <guid>2219592</guid>
-            <pubDate>Thu, 24 Jun 2021 14:28:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【比特大陆发布蚂蚁矿机全球暂时停售现货的公告】比特大陆公告称，近期，为回笼资金或减少矿机在境内滞留时间，部分中国客户正在转卖机器。然而，矿场建设并非一蹴而就，二手市场出货压力很大，为了帮助行业平稳过渡，蚂蚁矿机决定全球暂时停售现货。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3042844.d.html</link>
-            <guid>2219590</guid>
-            <pubDate>Thu, 24 Jun 2021 14:27:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【节能环保且成本下降 空调行业有望实现铝代铜】近日，中国家用电器研究院牵头，联合相关政府部门、高校、企业召开“空调行业铝替换铜方案研讨会”，对空调行业铝替换铜的可行性进行研讨。业内认为，铜价的飞涨让空调行业纷纷寻找新的出路，择铝弃铜的办法开始浮出水面。康盛股份空调全铝换热器是空调“铝代铜”技术的核心主打产品。云海金属子公司扬州瑞斯乐复合金属材料有限公司主要生产多孔微通道扁管，该品主要广泛应用于家用空调和汽车用空调上，属于铝替代铜的应用项目。（中证资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3042544.d.html</link>
-            <guid>2219587</guid>
-            <pubDate>Thu, 24 Jun 2021 14:24:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天津正式施行常规公交与轨道交通联程优惠】从天津市交通运输委员会获悉，自6月26日起，天津正式施行常规公交与轨道交通联程优惠。据了解，联程优惠的实施范围为天津市公交集团、滨海公交集团的常规公交线路与天津轨道交通（地铁、轻轨）线路。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1643476.d.html</link>
-            <guid>2219586</guid>
-            <pubDate>Thu, 24 Jun 2021 14:24:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
