@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 26 Jun 2021 21:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jun 2021 22:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美媒：美国西部90%以上地区正在遭受历史性干旱的威胁】据美国福克斯新闻当地时间6月26日报道，美国西部90%以上地区都处于历史性的、危及生命的干旱状态中，超5800万居民将受到影响。美国国家海洋和大气局（NOAA）的国家综合干旱信息系统报告称，"极端"和"异常"的干旱水平已经连续第三周创下纪录，49.7%的美国西部地区正在经历“极端”干旱。美国西部地区近几周来一直遭受干旱和高温的影响，野火风险随之增加，多位州长已经宣布进入紧急状态。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3466732.d.html</link>
+            <guid>2221654</guid>
+            <pubDate>Sat, 26 Jun 2021 21:31:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【土耳其开建伊斯坦布尔运河项目】土耳其阿纳多卢通讯社当地时间6月26日报道，土耳其总统埃尔多安当日出席了伊斯坦布尔运河第一座大桥的开工仪式并发表讲话，称伊斯坦布尔运河项目翻开了土耳其发展史上新的一页。按照规划，伊斯坦布尔运河全长45公里，将连接黑海与马尔马拉海，预计每天可容纳160艘船通行。运河上将架起六座桥梁，两岸还将建设两座城市。项目预计耗资750亿土耳其里拉，约合人民币580多亿元，预计在6至7年内完工。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2065114.d.html</link>
@@ -299,18 +305,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3410649.d.html</link>
             <guid>2221287</guid>
             <pubDate>Sat, 26 Jun 2021 10:44:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[工银瑞信基金证实，已接到基金投顾试点批文。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3409688.d.html</link>
-            <guid>2221285</guid>
-            <pubDate>Sat, 26 Jun 2021 10:38:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[即日起，广州天河全面恢复堂食服务。（羊城派）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3406676.d.html</link>
-            <guid>2221282</guid>
-            <pubDate>Sat, 26 Jun 2021 10:13:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
