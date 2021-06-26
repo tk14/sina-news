@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 26 Jun 2021 06:29:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jun 2021 07:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【国内10家绿地品牌酒店签约落地】6月25日，绿地酒店旅游集团举行十家酒店项目暨战略合作签约仪式，绿地品牌酒店将落地上海、南京、昆明、洛阳、无锡、安吉、梅州等城市。此外，绿地酒店旅游集团还与银联商务股份有限公司签署合作协议，双方将在文旅板块共同拓展新业务，推进多层次合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3382401.d.html</link>
+            <guid>2221250</guid>
+            <pubDate>Sat, 26 Jun 2021 07:15:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天津港集团集装箱吞吐量突破1000万 创历史最好成绩】天津港集团消息，截至6月26日8时，随着目前世界最大的满载量23000箱，超大型双燃料集装箱船“达飞卢浮宫”轮4700余个集装箱在天津港太平洋码头完成装卸作业，天津港集团集装箱吞吐量突破1000万标准箱，同比增长20%以上，比去年提前一个月完成千万箱，突破历史最好成绩。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1982913.d.html</link>
+            <guid>2221246</guid>
+            <pubDate>Sat, 26 Jun 2021 07:06:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国最大海洋综合科考实习船今天交付】今天（26日）上午，我国最大海洋综合科考实习船“中山大学”号在上海的江南造船厂正式交付。“中山大学”号还对外发布了首航科考任务，计划于今年10月前往南海西沙海域进行科学考察。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1979610.d.html</link>
+            <guid>2221241</guid>
+            <pubDate>Sat, 26 Jun 2021 06:41:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：印度各州需要政府提供更多的财政支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3377785.d.html</link>
+            <guid>2221240</guid>
+            <pubDate>Sat, 26 Jun 2021 06:41:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：所罗门群岛发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3377132.d.html</link>
+            <guid>2221239</guid>
+            <pubDate>Sat, 26 Jun 2021 06:38:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【深科技：合肥沛顿存储一期项目封顶】深科技(000021)消息，合肥沛顿存储科技有限公司一期项目圆满封顶。按照建设规划，合肥沛顿存储项目将于今年9月底完成全部建设任务，10月初进驻生产设备，力争于今年年底实现投产并形成有效产能。项目达产后，预计可实现年封测DRAM颗粒5.76亿颗，年封装NAND FLASH 3840万颗，年产内存模组3000万条的生产能力，预计可实现年营收28亿元左右。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1975280.d.html</link>
@@ -284,36 +314,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3294725.d.html</link>
             <guid>2221113</guid>
             <pubDate>Fri, 25 Jun 2021 22:45:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天津市氢能产业示范区成果展亮相，展现商用市场前景】6月25日，天津市氢能产业示范区成果展日前在国家会展中心(天津)首展上亮相，向公众展示了国内首套固体储氢燃料电池发动机系统，以及氢燃料电池叉车、环卫车、渣土车的运营场景和配套加氢装置等，展现了氢燃料电池商用市场前景。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1893442.d.html</link>
-            <guid>2221108</guid>
-            <pubDate>Fri, 25 Jun 2021 22:10:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【并购重组上会企业缩水逾5成】2021年以来，截至6月25日晚，并购重组上会企业合计仅19家，较2020年同期的42家再度缩水逾5成，不过过会率有所提升，2021年1-6月过会企业合计17家，占比89.47%，而2020年同期过会率仅85.71%，6家企业被否。（21世纪经济报道）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1893285.d.html</link>
-            <guid>2221107</guid>
-            <pubDate>Fri, 25 Jun 2021 22:08:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：哥伦比亚总统乘坐的直升机遇袭，未造成人员伤亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3291119.d.html</link>
-            <guid>2221105</guid>
-            <pubDate>Fri, 25 Jun 2021 22:03:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IMF理事会一致支持6500亿美元特别提款权（SDR）计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1892688.d.html</link>
-            <guid>2221103</guid>
-            <pubDate>Fri, 25 Jun 2021 21:59:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  周五（6月25）纽约尾盘，CBOT玉米期货跌2.37%，报6.37-3/4美元/蒲式耳。 CBOT小麦期货跌2.61%，报6.34-3/4美元/蒲式耳。 CBOT大豆期货跌3.34%，报13.29-1/2美元/蒲式耳。 CBOT软木期货跌7.48%，报779.30美元/1000板英尺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1892289.d.html</link>
-            <guid>2221101</guid>
-            <pubDate>Fri, 25 Jun 2021 21:49:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
