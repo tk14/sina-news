@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 26 Jun 2021 08:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jun 2021 09:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[自然资源部：2021年06月26日20时至27日20时，新疆西北部、四川东北部、湖北东部、安徽西部和南部部发生地质灾害的可能性较大（黄色预警）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3398206.d.html</link>
+            <guid>2221271</guid>
+            <pubDate>Sat, 26 Jun 2021 09:08:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【河北气象台发布高温橙色预警信号 中南部出现高温天气】6月26日，上午11时，河北气象台发布高温橙色预警信号：预计26日下午，保定南部、石家庄、衡水、邢台、邯郸最高气温为35~37°C，局地可达38~39°C。6月26日14时，河北中部的保定市清苑区的气温达到了36°C，在炙热的太阳和闷热的空气下，体感十分炎热。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1985319.d.html</link>
@@ -274,18 +280,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3304467.d.html</link>
             <guid>2221133</guid>
             <pubDate>Fri, 25 Jun 2021 23:59:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国企业将在上法兰西大区成立动力电池工厂】当地时间6月25日，上法兰西大区主席格扎维埃·贝特朗表示，中国远景科技集团旗下的远景动力（Envision AESC）公司将在该大区诺尔成立动力电池工厂。动力电池工厂毗邻法国汽车制造商雷诺的电动汽车研发中心和生产工厂，未来将为雷诺旗下电动汽车生产电池。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1903130.d.html</link>
-            <guid>2221126</guid>
-            <pubDate>Fri, 25 Jun 2021 23:35:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：1、中宣部举行中外记者见面会，五名农业农村领域党员代表分享体会——扎根田畴，兴产业鼓口袋（权威发布）；2、国务院印发全民科学素质行动规划纲要（2021—2035年）；3、2021中国国际生态竞争力峰会在赣开幕，何维出席开幕式并致辞；4、世界屋脊进入“复兴号”时代——写在拉林铁路开通运营之际；5、应急管理部派工作组赴河南柘城武术馆火灾现场指导救援；6、深圳盐田港全面复工复产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3300082.d.html</link>
-            <guid>2221123</guid>
-            <pubDate>Fri, 25 Jun 2021 23:26:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
