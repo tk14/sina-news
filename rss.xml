@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 26 Jun 2021 19:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jun 2021 20:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【大众汽车计划到2035年停止在欧洲销售内燃机汽车】大众汽车负责销售的董事会成员Klaus Zellmer透露，大众汽车计划在2035年前停止在欧洲销售内燃机汽车。他补充说，在美国和中国停止销售内燃机将需要更长的时间，也就是说，这将 "晚一些"，在南美和非洲也可能"需要更长的时间"。Zellmer说，该汽车制造商的整个产品线最迟将在2050年实现碳中和，希望到2030年，电动汽车能占到该公司在欧洲总销量的70%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2064610.d.html</link>
+            <guid>2221647</guid>
+            <pubDate>Sat, 26 Jun 2021 20:21:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：大众汽车计划在2035年前停止在欧洲销售内燃机汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3462930.d.html</link>
+            <guid>2221646</guid>
+            <pubDate>Sat, 26 Jun 2021 20:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：若和解程序未能通过，不会否决基建法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2063650.d.html</link>
+            <guid>2221645</guid>
+            <pubDate>Sat, 26 Jun 2021 20:02:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：基础设施建设计划与民党的主和解法案没有联系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3462106.d.html</link>
+            <guid>2221644</guid>
+            <pubDate>Sat, 26 Jun 2021 20:01:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国农业信贷：预计美元逐步建立起优势，尤其是相对于日元及瑞郎等低收益货币更为明显。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3461886.d.html</link>
+            <guid>2221643</guid>
+            <pubDate>Sat, 26 Jun 2021 19:56:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：法国电力公司将于6月26日至28日停止奇农4号法国反应堆。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3461258.d.html</link>
+            <guid>2221640</guid>
+            <pubDate>Sat, 26 Jun 2021 19:45:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国芝加哥一夜之间发生15起枪击案 造成2人死亡至少23人受伤】美国芝加哥警方当地时间6月26日报告，从25日晚间到26日早间，芝加哥总共发生了15起枪击事件，造成2名男子死亡，至少23人受伤。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2057318.d.html</link>
@@ -281,12 +317,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk2002571.d.html</link>
             <guid>2221275</guid>
             <pubDate>Sat, 26 Jun 2021 09:30:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[自然资源部：2021年06月26日20时至27日20时，新疆西北部、四川东北部、湖北东部、安徽西部和南部部发生地质灾害的可能性较大（黄色预警）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3398206.d.html</link>
-            <guid>2221271</guid>
-            <pubDate>Sat, 26 Jun 2021 09:08:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
