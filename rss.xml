@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 26 Jun 2021 09:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jun 2021 10:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[即日起，广州天河全面恢复堂食服务。（羊城派）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3406676.d.html</link>
+            <guid>2221282</guid>
+            <pubDate>Sat, 26 Jun 2021 10:13:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【未来几天云南将出现强降雨过程 局地累积雨量将超250毫米】受低涡切变影响，预计6月27日晚至30日，云南省自北向南将出现大到暴雨局部大暴雨，并伴有雷暴、短时强降水、局地冰雹和大风天气。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk2007982.d.html</link>
+            <guid>2221281</guid>
+            <pubDate>Sat, 26 Jun 2021 10:11:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[根据日前工信部公布的最新消息，华为P50的4G版本目前已经入网公示，并且信息显示该机将出场直接预装鸿蒙系统，这也是华为首款直接预装鸿蒙系统的手机产品。目前工信部页面暂未公布设备图片。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3401700.d.html</link>
+            <guid>2221276</guid>
+            <pubDate>Sat, 26 Jun 2021 09:35:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈电集团正式签订巴基斯坦塔贝拉五期水电扩建项目机电总承包合同】巴基斯坦当地时间6月25日14时，哈电集团国际公司与巴基斯坦水电发展总署（WAPDA）在拉合尔签订了巴基斯坦塔贝拉（Tarbela）五期3×470MW水电项目机电总承包合同。该项目水电机组是巴基斯坦单机容量最大的水电机组，也是哈电集团直接对外出口的单机容量最大的水电机组，主机设备将由哈电集团电机公司生产制造。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk2002571.d.html</link>
+            <guid>2221275</guid>
+            <pubDate>Sat, 26 Jun 2021 09:30:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[自然资源部：2021年06月26日20时至27日20时，新疆西北部、四川东北部、湖北东部、安徽西部和南部部发生地质灾害的可能性较大（黄色预警）。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3398206.d.html</link>
@@ -274,12 +298,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1908207.d.html</link>
             <guid>2221141</guid>
             <pubDate>Sat, 26 Jun 2021 00:10:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多家银行跟进“提价”，广州新一轮房贷利率上涨潮来了】继工行之后，多家银行上调广州地区房贷利率。从多家银行独家获悉，民生银行、邮政储蓄银行及平安银行将分别于6月25日、26日及下周一起上调房贷利率。其中，民生银行广州分行于6月25日起首套、二套房贷利率同时上调15个BP。（南方日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3304467.d.html</link>
-            <guid>2221133</guid>
-            <pubDate>Fri, 25 Jun 2021 23:59:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
