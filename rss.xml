@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 26 Jun 2021 17:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jun 2021 18:28:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国芝加哥一夜之间发生15起枪击案 造成2人死亡至少23人受伤】美国芝加哥警方当地时间6月26日报告，从25日晚间到26日早间，芝加哥总共发生了15起枪击事件，造成2名男子死亡，至少23人受伤。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2057318.d.html</link>
+            <guid>2221632</guid>
+            <pubDate>Sat, 26 Jun 2021 18:21:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【丹麦发现首例感染“德尔塔”变异毒株病例】当地时间6月26日，丹麦广播电视台（DR）报道，丹麦发现首例感染“德尔塔”变异毒株病例，该病例于6月21日发现，感染者乘坐来自葡萄牙的飞机抵达丹麦。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3454399.d.html</link>
+            <guid>2221631</guid>
+            <pubDate>Sat, 26 Jun 2021 18:05:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【庆祝中国共产党成立100周年大会第二次综合演练圆满结束】从中国共产党成立100周年庆祝活动新闻中心获悉，6月26日20时至27日凌晨，北京天安门地区举行了庆祝中国共产党成立100周年大会第二次综合演练，3.3万人参加演练、观礼及现场保障工作。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3451485.d.html</link>
+            <guid>2221594</guid>
+            <pubDate>Sat, 26 Jun 2021 17:31:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【多举措保障迎峰度夏煤炭供应 就煤炭保供稳价访国家发展改革委有关负责人】近期，我国煤炭价格高位波动，保供稳价工作受到社会广泛关注。煤炭供应是否有保障？如何应对迎峰度夏需求增长？后期价格走势如何？新华社26日采访了国家发展改革委经济运行调节局有关负责人。相关负责人表示，供应总体稳定，价格不存在大幅上涨基础；迎峰度夏能源供应有保障；预计7月份煤价将进入下降通道。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3449391.d.html</link>
@@ -269,24 +287,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3398206.d.html</link>
             <guid>2221271</guid>
             <pubDate>Sat, 26 Jun 2021 09:08:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河北气象台发布高温橙色预警信号 中南部出现高温天气】6月26日，上午11时，河北气象台发布高温橙色预警信号：预计26日下午，保定南部、石家庄、衡水、邢台、邯郸最高气温为35~37°C，局地可达38~39°C。6月26日14时，河北中部的保定市清苑区的气温达到了36°C，在炙热的太阳和闷热的空气下，体感十分炎热。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1985319.d.html</link>
-            <guid>2221252</guid>
-            <pubDate>Sat, 26 Jun 2021 07:24:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内10家绿地品牌酒店签约落地】6月25日，绿地酒店旅游集团举行十家酒店项目暨战略合作签约仪式，绿地品牌酒店将落地上海、南京、昆明、洛阳、无锡、安吉、梅州等城市。此外，绿地酒店旅游集团还与银联商务股份有限公司签署合作协议，双方将在文旅板块共同拓展新业务，推进多层次合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3382401.d.html</link>
-            <guid>2221250</guid>
-            <pubDate>Sat, 26 Jun 2021 07:15:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天津港集团集装箱吞吐量突破1000万 创历史最好成绩】天津港集团消息，截至6月26日8时，随着目前世界最大的满载量23000箱，超大型双燃料集装箱船“达飞卢浮宫”轮4700余个集装箱在天津港太平洋码头完成装卸作业，天津港集团集装箱吞吐量突破1000万标准箱，同比增长20%以上，比去年提前一个月完成千万箱，突破历史最好成绩。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1982913.d.html</link>
-            <guid>2221246</guid>
-            <pubDate>Sat, 26 Jun 2021 07:06:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
