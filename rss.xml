@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 27 Jun 2021 19:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Jun 2021 20:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【多地银行暂停新房、二手房房贷业务“接单” 年内房贷放款或仍趋紧】继多个热点城市房贷利率上升之后，近期，有关多个城市二手房“停贷”的消息引发热议。热点二线城市中，南京、郑州、重庆、武汉、杭州、合肥等城市出现了银行房贷业务收紧的现象：部分银行暂停了二手房贷款业务，甚至有银行暂停受理新房房贷业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-28/detail-ikqciyzk2227825.d.html</link>
+            <guid>2221950</guid>
+            <pubDate>Sun, 27 Jun 2021 20:20:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  南非总统拉马福萨：将在6月30日起关闭所有学校。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-28/detail-ikqciyzk2227452.d.html</link>
+            <guid>2221948</guid>
+            <pubDate>Sun, 27 Jun 2021 20:10:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[雷诺将购买中国远景集团生产的电动车电池，远景集团将为雷诺建立价值24亿美元的电池工厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-28/detail-ikqcfnca3625742.d.html</link>
+            <guid>2221947</guid>
+            <pubDate>Sun, 27 Jun 2021 20:03:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[交易平台币安（Binance）：集团在2020年5月收购了BML，但并未推出在英国的业务，也并不适用于FCA的监管许可。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-28/detail-ikqcfnca3624798.d.html</link>
+            <guid>2221945</guid>
+            <pubDate>Sun, 27 Jun 2021 19:37:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[交易平台币安（Binance）：英国金融行为监管局（FCA）的通知对币安提供的服务未产生直接影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-28/detail-ikqciyzk2225762.d.html</link>
+            <guid>2221944</guid>
+            <pubDate>Sun, 27 Jun 2021 19:24:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【43℃ 美国西北部地区遭遇历史最高纪录高温天气】当地时间6月27日，美国西北部地区多个城市遭遇历史最高纪录高温天气，俄勒冈州波特兰市通报了破纪录的43℃高温，华盛顿州西雅图市也即将打破高温纪录。在美国西海岸，从加拿大边境到墨西哥边境，政府向超过2000万居民发布了高温警告。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-28/detail-ikqciyzk2225085.d.html</link>
@@ -278,12 +308,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3569555.d.html</link>
             <guid>2221839</guid>
             <pubDate>Sun, 27 Jun 2021 09:35:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黑龙江和嫩江洪峰正向中下游演进 27日仍有7条河流超警】水利部消息，截至今天（27日）中午12点，黑龙江干流洪峰已通过三道卡江段，正在向张地营子乡江段演进。嫩江干流洪峰正在通过江桥江段。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2170169.d.html</link>
-            <guid>2221836</guid>
-            <pubDate>Sun, 27 Jun 2021 09:26:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
