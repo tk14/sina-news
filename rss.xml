@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 27 Jun 2021 06:29:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Jun 2021 07:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【日本东京电力公司拟在福岛集中建设反应堆报废相关产业基地】据日本共同社6月27日报道，东京电力公司日前决定，在福岛第一核电站事故的发生地福岛县沿岸地区，集中建设福岛第一、第二核电站反应堆报废所需的技术开发和产品生产的基地。首先将兴建生产第一核电站熔落核燃料（燃料碎片）与第二核电站乏燃料的保管容器等的工厂，还计划陆续建设研发基地和废弃物去污设施等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3553479.d.html</link>
+            <guid>2221790</guid>
+            <pubDate>Sun, 27 Jun 2021 07:15:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国大区和省议会选举第二轮投票开始举行】法国大区和省议会选举第二轮投票开始举行。投票最晚将持续到当天20时结束。法国大区和省议会选举每6年举行一次，选举分两轮举行。在6月20日举行的第一轮投票中，66.74%的选民没有参与投票，弃权率创下历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3551776.d.html</link>
+            <guid>2221788</guid>
+            <pubDate>Sun, 27 Jun 2021 07:02:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿根廷外长敦促英国就马岛主权问题恢复双边谈判】阿根廷外长费利佩·索拉日前在联合国大会非殖民化特别委员会会议上敦促英国政府就马尔维纳斯群岛（英国称福克兰群岛）主权问题恢复与阿根廷政府的双边谈判。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2152113.d.html</link>
+            <guid>2221782</guid>
+            <pubDate>Sun, 27 Jun 2021 06:52:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【网红饮品检出添加剂日落黄,深圳15家茶饮单位被立案调查】6月27日,记者从深圳市市场监督管理局获悉,近日,深圳市市场监督管理局在对“泰式茶饮”等网红饮品进行专项抽检时发现,20批次样品中有15批次超范围添加食品添加剂日落黄,为确保深圳市夏季自制饮品市场质量安全,及时发现和消除潜在安全隐患,市市场监管局迅速组织开展为期两个月的针对“泰式茶饮”等网红饮品的专项整治。（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3547399.d.html</link>
+            <guid>2221775</guid>
+            <pubDate>Sun, 27 Jun 2021 06:31:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国国家飓风中心：预计飓风Enrique中心将经过墨西哥西南部海岸附近或沿海地区。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3542172.d.html</link>
@@ -261,48 +285,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2078066.d.html</link>
             <guid>2221665</guid>
             <pubDate>Sat, 26 Jun 2021 23:14:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国西部90%以上地区正在遭受历史性干旱的威胁】据美国福克斯新闻当地时间6月26日报道，美国西部90%以上地区都处于历史性的、危及生命的干旱状态中，超5800万居民将受到影响。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2077690.d.html</link>
-            <guid>2221663</guid>
-            <pubDate>Sat, 26 Jun 2021 23:11:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：爱尔兰克马德克群岛地区发生5.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3475899.d.html</link>
-            <guid>2221662</guid>
-            <pubDate>Sat, 26 Jun 2021 23:08:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华安基金获基金投顾试点批文】据悉华安基金已获得公募基金投资顾问业务试点资格，公司将在完成基金投资顾问业务相关筹备工作后，正式开展投资顾问业务试点。除该公司外，银华基金、汇添富基金，广发基金、招商基金、博时基金、工银瑞信基金、交银施罗德基金、兴证全球等在内的多家基金公司也获得了新一批投顾资格备案函。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3475059.d.html</link>
-            <guid>2221661</guid>
-            <pubDate>Sat, 26 Jun 2021 23:01:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第二十届“汉语桥”世界大学生中文比赛全英大区赛决赛线上举行】当地时间26日，由中国教育部中外语言交流合作中心主办，中外语言交流合作中心英国代表处承办的第二十届“汉语桥”世界大学生中文比赛全英大区赛决赛在线上举行。“汉语桥”世界大学生中文比赛自2002年创办以来，已吸引160多个国家的150多万名青年学生参赛。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2075457.d.html</link>
-            <guid>2221659</guid>
-            <pubDate>Sat, 26 Jun 2021 22:52:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【建党百年庆祝活动新闻中心26日正式运行】昨天（6月26日），设在北京梅地亚中心的庆祝中国共产党成立100周年活动新闻中心正式运行。新闻中心网站和相关新媒体平台账号已于6月24日开通。新闻中心网站设置了“记者专区”，为注册的中外记者提供信息服务。 （央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3473865.d.html</link>
-            <guid>2221658</guid>
-            <pubDate>Sat, 26 Jun 2021 22:51:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国新墨西哥州发生热气球坠毁事故致4死1伤】美国南部新墨西哥州26日发生一起热气球撞上电线后坠毁事故，造成4人死亡、1人重伤。据新墨西哥州警方证实，事故发生在该州最大城市阿尔伯克基。当地时间26日7时许，一只热气球在撞上电线后坠毁，目前已造成4人死亡、1人重伤。死者中有一人是热气球的飞行操作员。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3472542.d.html</link>
-            <guid>2221657</guid>
-            <pubDate>Sat, 26 Jun 2021 22:39:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒：美国西部90%以上地区正在遭受历史性干旱的威胁】据美国福克斯新闻当地时间6月26日报道，美国西部90%以上地区都处于历史性的、危及生命的干旱状态中，超5800万居民将受到影响。美国国家海洋和大气局（NOAA）的国家综合干旱信息系统报告称，"极端"和"异常"的干旱水平已经连续第三周创下纪录，49.7%的美国西部地区正在经历“极端”干旱。美国西部地区近几周来一直遭受干旱和高温的影响，野火风险随之增加，多位州长已经宣布进入紧急状态。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3466732.d.html</link>
-            <guid>2221654</guid>
-            <pubDate>Sat, 26 Jun 2021 21:31:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
