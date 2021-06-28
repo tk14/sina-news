@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 28 Jun 2021 18:36:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Jun 2021 19:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据美国证券交易委员会文件：叮咚买菜将在美股IPO中发行370万股ADS，发行价区间为23.5-25.5美元/ADS。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2436598.d.html</link>
+            <guid>2223041</guid>
+            <pubDate>Mon, 28 Jun 2021 18:56:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[波音(BA.N)盘中跌幅扩大至3.8%，为表现最差的道指成分股。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2434403.d.html</link>

@@ -6,6 +6,13 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 2223041,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2436598.d.html",
+            "title": "据美国证券交易委员会文件：叮咚买菜将在美股IPO中发行370万股ADS，发行价区间为23.5-25.5美元/ADS。",
+            "date_modified": "2021-06-28T18:56:21.000Z"
+        },
+        {
             "id": 2223039,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2434403.d.html",
