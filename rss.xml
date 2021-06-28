@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 28 Jun 2021 20:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Jun 2021 21:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美股盘后，高盛涨超2%，摩根士丹利涨超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca3842184.d.html</link>
+            <guid>2223087</guid>
+            <pubDate>Mon, 28 Jun 2021 20:54:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国银行宣布计划将其季度普通股股息增加17%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2441923.d.html</link>
+            <guid>2223085</guid>
+            <pubDate>Mon, 28 Jun 2021 20:51:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：风暴“丹尼”可能于今晚在南卡罗来纳南部海岸登陆。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2441805.d.html</link>
+            <guid>2223083</guid>
+            <pubDate>Mon, 28 Jun 2021 20:48:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【富时罗素：滴滴或有资格被快速纳入富时罗素全球股票指数系列】富时罗素发布报告称，若滴滴美股ADS在首日上市后的收盘价满足相关门槛，则有望被快速纳入富时罗素全球股票指数系列，随后会在2021年7月7日之后正式纳入。当前获准纳入富时罗素亚太区(日本除外)的最低门槛为总市值不小于76.2亿美元以及25.4亿美元可投资市值。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca3841441.d.html</link>
+            <guid>2223082</guid>
+            <pubDate>Mon, 28 Jun 2021 20:39:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根士丹利将季度股息翻倍至70美分，将回购最高120亿美元股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2441317.d.html</link>
+            <guid>2223081</guid>
+            <pubDate>Mon, 28 Jun 2021 20:38:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：美国总统拜登将于7月3日前往密歇根州的特拉弗斯市。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2440595.d.html</link>
@@ -16,7 +46,7 @@
             <pubDate>Mon, 28 Jun 2021 20:21:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国总统拜登表示，在他的任期内，伊朗永远不会获得核武器。]]></title>
+            <title><![CDATA[美国总统拜登表示，在其任期内，伊朗永远不会获得核武器。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2440588.d.html</link>
             <guid>2223077</guid>
             <pubDate>Mon, 28 Jun 2021 20:20:59 GMT</pubDate>
@@ -222,42 +252,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca3828474.d.html</link>
             <guid>2222992</guid>
             <pubDate>Mon, 28 Jun 2021 17:10:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国白宫正在制定一项反垄断行政命令，旨在推动政府机构在决策时考虑竞争问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca3828345.d.html</link>
-            <guid>2222990</guid>
-            <pubDate>Mon, 28 Jun 2021 17:09:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油期货日内跌幅达2%，现报74.66美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2427792.d.html</link>
-            <guid>2222987</guid>
-            <pubDate>Mon, 28 Jun 2021 17:05:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：拜登打算签署两项有关基础设施支出的法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca3826792.d.html</link>
-            <guid>2222985</guid>
-            <pubDate>Mon, 28 Jun 2021 16:54:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  LME期铜收跌26美元，报9388美元/吨。 LME期铝收涨4美元，报2490美元/吨。 LME期锌收跌2美元，报2905美元/吨。 LME期铅收涨13美元，报2233美元/吨。 LME期镍收跌224美元，报18299美元/吨。 LME期锡收涨378美元，报31152美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2426636.d.html</link>
-            <guid>2222984</guid>
-            <pubDate>Mon, 28 Jun 2021 16:53:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：一直在与民主党领导人就基础设施支出的双轨方案进行接触。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2426193.d.html</link>
-            <guid>2222982</guid>
-            <pubDate>Mon, 28 Jun 2021 16:49:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：拜登与国会两党领导人就基础设施协议进行了交谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2426072.d.html</link>
-            <guid>2222981</guid>
-            <pubDate>Mon, 28 Jun 2021 16:47:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
