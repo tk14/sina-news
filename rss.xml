@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 29 Jun 2021 21:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Jun 2021 22:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  百得利在港交所发布公告，申请通过香港IPO发行1.5亿股股票，将股票发行价指导区间设在每股4.00-4.80港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2659485.d.html</link>
+            <guid>2224190</guid>
+            <pubDate>Tue, 29 Jun 2021 22:20:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据日经新闻：日本将放弃重建核电站的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2659125.d.html</link>
+            <guid>2224188</guid>
+            <pubDate>Tue, 29 Jun 2021 22:16:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  环球新材国际在港交所公告称，计划通过香港IPO发行2.907亿股股票，发行价指导区间为每股3.52-4.22港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4059526.d.html</link>
+            <guid>2224187</guid>
+            <pubDate>Tue, 29 Jun 2021 22:15:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Salesforce(CRM.N)：为首次可持续发展债券发行定价，规模为10亿美元。10亿美元是80亿美元优先债券公开发行的一部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4058489.d.html</link>
+            <guid>2224182</guid>
+            <pubDate>Tue, 29 Jun 2021 22:00:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦航空管理局（FAA）：因直升机侵入，SpaceX公司的火箭发射受阻。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4057599.d.html</link>
+            <guid>2224179</guid>
+            <pubDate>Tue, 29 Jun 2021 21:43:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：06月30日05时33分在山西太原市小店区附近发生3.1级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2656900.d.html</link>
+            <guid>2224178</guid>
+            <pubDate>Tue, 29 Jun 2021 21:36:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国贸易代表戴琪与墨西哥、加拿大贸易代表会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2656822.d.html</link>
+            <guid>2224177</guid>
+            <pubDate>Tue, 29 Jun 2021 21:34:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【东京奥运会菜单有“福岛比目鱼”，韩国代表团将“自备盒饭”】 韩国《中央日报》6月29日报道称，韩国前选手村村长李艾丽莎28日对日本方面的做法提出批评，称：“听说菜单中有福岛比目鱼，真是令我大吃一惊[⋯⋯]不知道日本从哪里来的自信。”韩国奥运会代表团团长张仁华表示，韩国代表团已经在选手村附近成立供餐中心，必要食材已经运到当地，水果、肉类和鱼类会挑选经过日本检验的食材使用。此外，韩国运动员在前往赛场或训练场地时，代表团会为他们提供盒饭。东京奥组委拒绝公开食品来源具体信息，表示为保证食材供应量将在选手村开村前做决定。福岛则打算通过奥运会宣传其食品安全性。（环球网）]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4056462.d.html</link>
@@ -277,66 +319,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4037651.d.html</link>
             <guid>2224090</guid>
             <pubDate>Tue, 29 Jun 2021 16:30:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[老牌加密货币交易所Kraken：将数字资产的存款费用下调至零。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4037229.d.html</link>
-            <guid>2224089</guid>
-            <pubDate>Tue, 29 Jun 2021 16:26:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[部分热门中概股上行。知乎涨超11%，拼多多涨超5%，唯品会涨4.5%，老虎证券、京东涨超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2636572.d.html</link>
-            <guid>2224088</guid>
-            <pubDate>Tue, 29 Jun 2021 16:22:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：俄罗斯从Primorsk港口出口的乌拉尔石油7月份出口量减少了10万吨，至300万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4036504.d.html</link>
-            <guid>2224087</guid>
-            <pubDate>Tue, 29 Jun 2021 16:19:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉CEO埃隆·马斯克：将在未来几个月首次尝试发射星际飞船。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2635139.d.html</link>
-            <guid>2224084</guid>
-            <pubDate>Tue, 29 Jun 2021 16:07:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会贸易司总司长Weyand：这届美国政府必须与上届美国政府保持距离。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4034823.d.html</link>
-            <guid>2224083</guid>
-            <pubDate>Tue, 29 Jun 2021 16:01:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉CEO埃隆·马斯克：Spacex在主要国家与两家电信公司有合作关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4034454.d.html</link>
-            <guid>2224082</guid>
-            <pubDate>Tue, 29 Jun 2021 15:55:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：美国政府正在调查与美国房地产市场相关的供应问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4034103.d.html</link>
-            <guid>2224072</guid>
-            <pubDate>Tue, 29 Jun 2021 15:50:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉CEO埃隆·马斯克：在实现正现金流之前，我们将向星链投资50亿至100亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2633694.d.html</link>
-            <guid>2224071</guid>
-            <pubDate>Tue, 29 Jun 2021 15:50:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉CEO埃隆·马斯克：星链计划明年发射第二代卫星。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4033881.d.html</link>
-            <guid>2224067</guid>
-            <pubDate>Tue, 29 Jun 2021 15:47:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【天奇股份收关注函：要求说明是否存在利用信披配合二级市场炒作情形】天奇股份28日晚间披露，拟投资年产3万吨三元前驱体及1.2万吨电池级碳酸锂的生产项目，项目总投资约为50亿元。深交所29日对公司下发关注函。要求说明公司本次项目的筹划过程和信息保密情况，筹划期间公司是否接受采访调研，说明内幕知情人是否存在交易公司股票的情形。说明公司是否存在利用信息披露配合二级市场炒作的情形。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2633107.d.html</link>
-            <guid>2224056</guid>
-            <pubDate>Tue, 29 Jun 2021 15:42:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
