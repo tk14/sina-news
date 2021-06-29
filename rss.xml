@@ -4,11 +4,70 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 29 Jun 2021 17:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Jun 2021 18:28:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国总统拜登：延长儿童税收抵免将很有意义。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4048436.d.html</link>
+            <guid>2224128</guid>
+            <pubDate>Tue, 29 Jun 2021 18:28:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：将继续努力通过更多的经济议程。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4048431.d.html</link>
+            <guid>2224127</guid>
+            <pubDate>Tue, 29 Jun 2021 18:27:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[大和证券SMBC株式会社：给予农夫山泉H股跑赢大盘的初始评级，目标价46.10港元（即上涨17%）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2647192.d.html</link>
+            <guid>2224123</guid>
+            <pubDate>Tue, 29 Jun 2021 18:14:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美方将限制前往白俄罗斯旅行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4047480.d.html</link>
+            <guid>2224122</guid>
+            <pubDate>Tue, 29 Jun 2021 18:14:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：西北地区的热浪天气是我们现在必须行动的一个原因。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2646882.d.html</link>
+            <guid>2224121</guid>
+            <pubDate>Tue, 29 Jun 2021 18:10:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据U.Today：软银支持的旅游预订平台GetYourGuide增加了狗狗币作为支付选项。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4046845.d.html</link>
+            <guid>2224119</guid>
+            <pubDate>Tue, 29 Jun 2021 18:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：欧佩克部长级会议将在7月1日维也纳时间13:00（北京时间19:00）举行，联合部长级监督委员会（JMMC）会议将在维也纳时间15:30（北京时间21:30）举行，欧佩克+会议将在维也纳时间17:00（北京时间23:00）举行。]]></title>
+            <guid>2224115</guid>
+            <pubDate>Tue, 29 Jun 2021 17:55:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：推迟联合部长级监督委员会（JMMC）会议的请求是由俄罗斯副总理诺瓦克提出的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2644812.d.html</link>
+            <guid>2224114</guid>
+            <pubDate>Tue, 29 Jun 2021 17:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【孟晚舟案再次开庭 听证进入关键阶段】华为公司副董事长、首席财务官孟晚舟引渡案温哥华当地时间6月29日在不列颠哥伦比亚省高等法院再次开庭，孟晚舟抵达法庭参加听证。本轮庭审主要围绕将汇丰银行证据中的哪些内容引入下一阶段审理来进行。具体来说，就是孟晚舟的律师递交的申请中，会列出来若干条希望法庭可以引为证据的内容。法官将根据双方律师的陈述来决定，是否允许或者允许哪几条内容作为下一阶段审理的证据。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2644069.d.html</link>
+            <guid>2224110</guid>
+            <pubDate>Tue, 29 Jun 2021 17:42:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧佩克+代表：欧佩克+联合部长级监督委员会（JMMC）会议延后将为我们争取更多讨论的时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4043775.d.html</link>
+            <guid>2224108</guid>
+            <pubDate>Tue, 29 Jun 2021 17:34:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OPEC+代表：OPEC+联合减产监督委员会（JMMC）会议推迟一天，至周四举行。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4043021.d.html</link>
@@ -332,60 +391,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2625296.d.html</link>
             <guid>2223952</guid>
             <pubDate>Tue, 29 Jun 2021 14:21:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：我的夫人吉尔·拜登可能前往东京参加奥运会开幕式。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4024244.d.html</link>
-            <guid>2223939</guid>
-            <pubDate>Tue, 29 Jun 2021 14:10:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：最早可能在周四前往佛罗里达州，因为迈阿密的一栋建筑发生了倒塌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2623948.d.html</link>
-            <guid>2223938</guid>
-            <pubDate>Tue, 29 Jun 2021 14:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中孚信息：零信任TNA安全网关移动客户端已适配鸿蒙OS】近日，中孚信息在“新技术新产品集中发布推广活动”上正式发布面向零信任网络的可信接入网关TNA。目前，零信任TNA安全网关的移动客户端已完成与鸿蒙OS兼容性测试工作，可切实为广大政企客户的移动办公保驾护航。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4023493.d.html</link>
-            <guid>2223933</guid>
-            <pubDate>Tue, 29 Jun 2021 14:04:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【长春经开：拟购买万丰科技持有的美国万丰100%股权 交易作价为15.99亿元】公司拟以支付现金的方式购买浙江万丰科技开发股份有限公司（以下简称“万丰科技”）持有的 AmericaWanfeng Corporation（以下简称“美国万丰”）100%股权（以下简称“本次交易”）。经公司和万丰科技协商一致，标的资产的交易作价确定为人民币 15.99亿元。本次交易完成后，美国万丰将成为公司的全资下属公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4023261.d.html</link>
-            <guid>2223929</guid>
-            <pubDate>Tue, 29 Jun 2021 14:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国6月谘商会消费者信心指数录得127.3，创去年2月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4023183.d.html</link>
-            <guid>2223928</guid>
-            <pubDate>Tue, 29 Jun 2021 14:01:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国6月谘商会消费者信心指数127.3，前值117.2，预期119。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4023107.d.html</link>
-            <guid>2223925</guid>
-            <pubDate>Tue, 29 Jun 2021 14:00:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：在伦敦银行同业拆借利率（Libor）没有明确“继任者”的情况下，可能会出现过渡中断现象。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4022533.d.html</link>
-            <guid>2223921</guid>
-            <pubDate>Tue, 29 Jun 2021 13:54:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  通用汽车(GM.N)：电动车部门BrightDrop今年晚些时候将按计划生产全电动送货车EV600。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4021765.d.html</link>
-            <guid>2223916</guid>
-            <pubDate>Tue, 29 Jun 2021 13:48:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【我国科学家在磁性芯片高精度检测领域取得新突破】在庆祝中国共产党建党百年前夕，北京航空航天大学科研工作者在五个原子层厚的纳米磁性薄膜上写下了“100年中国‘芯’”。这个厚度相当于一张普通打印纸的十万分之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4021463.d.html</link>
-            <guid>2223915</guid>
-            <pubDate>Tue, 29 Jun 2021 13:45:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
