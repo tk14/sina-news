@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 30 Jun 2021 20:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Jun 2021 21:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[澳新银行：新西兰迅速接近最大就业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk2864483.d.html</link>
+            <guid>2225276</guid>
+            <pubDate>Wed, 30 Jun 2021 20:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪：瑞典首相辞职增加其国内政治的不确定性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4264086.d.html</link>
+            <guid>2225272</guid>
+            <pubDate>Wed, 30 Jun 2021 20:47:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[彭博大宗商品现货指数2021年上半年累涨21%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk2863249.d.html</link>
+            <guid>2225270</guid>
+            <pubDate>Wed, 30 Jun 2021 20:36:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股行业ETF中，能源业ETF收涨逾1.2%领跑，日常消费品ETF涨约0.8%，网络股指数ETF表现最差——收跌逾0.7%，科技行业ETF、全球科技股ETF、公用事业ETF均跌超0.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk2862988.d.html</link>
+            <guid>2225269</guid>
+            <pubDate>Wed, 30 Jun 2021 20:32:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CureVac盘后跌超10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk2862981.d.html</link>
+            <guid>2225268</guid>
+            <pubDate>Wed, 30 Jun 2021 20:32:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国纽约市呼吁所有居民储备电源，以防停电。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk2862375.d.html</link>
@@ -247,35 +277,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4248082.d.html</link>
             <guid>2225185</guid>
             <pubDate>Wed, 30 Jun 2021 16:21:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  受油价上涨影响，标普500能源指数涨1.1%；华高(NOV.N)、卡伯特油气(COG.N)、戴文能源(DVN.N)在该指数中涨幅居前。]]></title>
-            <guid>2225172</guid>
-            <pubDate>Wed, 30 Jun 2021 16:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中概股普普文化(CPOP.O)上市首日开盘大涨124%，触发熔断，IPO定价为6美元/ADS。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk2846331.d.html</link>
-            <guid>2225170</guid>
-            <pubDate>Wed, 30 Jun 2021 16:06:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  在线法律技术独角兽公司LegalZoom.com(LZ.O)首日上市开涨超31%，IPO定价28美元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk2845915.d.html</link>
-            <guid>2225168</guid>
-            <pubDate>Wed, 30 Jun 2021 16:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：8月份，支撑布伦特基准原油的5种等级北海原油的供应量平均为79.4万桶/天，而7月份为75.5万桶/天。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4245648.d.html</link>
-            <guid>2225167</guid>
-            <pubDate>Wed, 30 Jun 2021 15:58:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货钯金上涨3%至2759美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2845105.d.html</link>
-            <guid>2225165</guid>
-            <pubDate>Wed, 30 Jun 2021 15:52:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
