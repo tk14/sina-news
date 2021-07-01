@@ -4,11 +4,143 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 01 Jul 2021 15:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jul 2021 16:36:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国总统拜登就全球最低企业税发表评论：今天迈出了重要的一步。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqcfnca4439765.d.html</link>
+            <guid>2226203</guid>
+            <pubDate>Thu, 01 Jul 2021 16:32:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  克班资本：将美光科技(MU.O)目标价从115美元升至120美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3039560.d.html</link>
+            <guid>2226201</guid>
+            <pubDate>Thu, 01 Jul 2021 16:29:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：意大利政府部门1月至6月的预算赤字为848亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3038589.d.html</link>
+            <guid>2226197</guid>
+            <pubDate>Thu, 01 Jul 2021 16:14:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Facebook(FB.O)：移动云游戏基础设施已大幅扩张，覆盖美国本土超过98%的用户。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqcfnca4438294.d.html</link>
+            <guid>2226193</guid>
+            <pubDate>Thu, 01 Jul 2021 16:12:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Facebook(FB.O)：开始在加拿大和墨西哥推出移动云游戏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqcfnca4438286.d.html</link>
+            <guid>2226192</guid>
+            <pubDate>Thu, 01 Jul 2021 16:12:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利6月新车销售同比增长12.62%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqcfnca4438223.d.html</link>
+            <guid>2226189</guid>
+            <pubDate>Thu, 01 Jul 2021 16:11:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[玻利维亚经济部长：本国计划每年购买2-4吨黄金，以建立外汇储备。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqcfnca4437577.d.html</link>
+            <guid>2226188</guid>
+            <pubDate>Thu, 01 Jul 2021 16:02:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[香港特区政府卫生署卫生防护中心7月1日晚间公布一例源头不明的本地初步确诊病例，患者带有L452R变异病毒株。据悉，患者为一名41岁女子，她在一间指定检疫酒店担任兼职清洁员。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3037575.d.html</link>
+            <guid>2226187</guid>
+            <pubDate>Thu, 01 Jul 2021 16:02:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国财政大臣：希望全球最低企业税协议在10月份敲定细节。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3037255.d.html</link>
+            <guid>2226185</guid>
+            <pubDate>Thu, 01 Jul 2021 15:57:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：参与全球企业税改革谈判的国家表示，参与谈判的139个国家中有130个签署了周四的声明。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3036977.d.html</link>
+            <guid>2226184</guid>
+            <pubDate>Thu, 01 Jul 2021 15:51:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：俄罗斯经济部上调2021年GDP预测。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4436848.d.html</link>
+            <guid>2226183</guid>
+            <pubDate>Thu, 01 Jul 2021 15:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：俄罗斯经济部预计8月份将出现通货紧缩。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3036808.d.html</link>
+            <guid>2226182</guid>
+            <pubDate>Thu, 01 Jul 2021 15:48:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  软件公司Evercommerce首日开盘报20美元，IPO发行价为17美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3036758.d.html</link>
+            <guid>2226181</guid>
+            <pubDate>Thu, 01 Jul 2021 15:47:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：正在进行全球企业税改革谈判的国家表示，采掘业和受监管的金融服务业被排除在对跨国公司征税的新规定之外。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4436613.d.html</link>
+            <guid>2226180</guid>
+            <pubDate>Thu, 01 Jul 2021 15:47:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：经合组织的计划包括在2023年让最低企业税实施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4436540.d.html</link>
+            <guid>2226177</guid>
+            <pubDate>Thu, 01 Jul 2021 15:45:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[葡萄牙政府：高风险城市将从晚上11点开始实行夜间宵禁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4436491.d.html</link>
+            <guid>2226175</guid>
+            <pubDate>Thu, 01 Jul 2021 15:44:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：正在进行全球企业税改革谈判的国家表示，最低企业税率规定将国际航运收入排除在外。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4436328.d.html</link>
+            <guid>2226172</guid>
+            <pubDate>Thu, 01 Jul 2021 15:41:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：正在进行全球企业税改革谈判的国家表示，经合组织将在2021年10月之前敲定详细的实施计划以及剩余问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4436303.d.html</link>
+            <guid>2226171</guid>
+            <pubDate>Thu, 01 Jul 2021 15:41:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯驻维也纳军事安全与军控谈判代表团方面1日表示，《开放天空条约》的成员国将于7月20日开会讨论俄罗斯退约的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4436270.d.html</link>
+            <guid>2226170</guid>
+            <pubDate>Thu, 01 Jul 2021 15:41:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：经合组织关于税收改革的时间表包括2023年的实施计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4436224.d.html</link>
+            <guid>2226169</guid>
+            <pubDate>Thu, 01 Jul 2021 15:40:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股三大股指短线波动不大。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4436042.d.html</link>
+            <guid>2226166</guid>
+            <pubDate>Thu, 01 Jul 2021 15:39:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：南印度洋发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4435566.d.html</link>
+            <guid>2226157</guid>
+            <pubDate>Thu, 01 Jul 2021 15:32:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[叮咚买菜一度跌20%，现报31.4美元/股。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3035525.d.html</link>
@@ -168,148 +300,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3029365.d.html</link>
             <guid>2226104</guid>
             <pubDate>Thu, 01 Jul 2021 14:14:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国供应管理协会ISM：所有六大制造业部门，包括计算机和电子产品、化工产品、金属制品、运输设备、食品饮料及烟草制品、石油和煤炭产品行业在6月份录得温和到强劲的增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4428366.d.html</link>
-            <guid>2226102</guid>
-            <pubDate>Thu, 01 Jul 2021 14:06:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国供应管理协会ISM：6月制造业PMI为60.6%，较5月的61.2%下降0.6个百分点。该数据表明，总体经济在2020年4月收缩后，已连续13个月出现扩张。新订单指数为66%，较5月份的67%下降了1个百分点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3028137.d.html</link>
-            <guid>2226100</guid>
-            <pubDate>Thu, 01 Jul 2021 14:02:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  葛兰素史克(GSK.N)涨0.71%，知名对冲基金Elliott Management称葛兰素史克拥有巨大的创造价值的机会，其股价还有45%的上涨空间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3028091.d.html</link>
-            <guid>2226099</guid>
-            <pubDate>Thu, 01 Jul 2021 14:01:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马来西亚全国管制 全球被动元件供货吃紧】根据集邦咨询调查，受到马来西亚政府延长全国行动管制影响，全球被动元件（MLCC）市场供货将面临挑战。其中又以高端MLCC最为吃紧。MLCC被称作是“电子工业大米”，被广泛应用于手机、PC、基站、物联网、汽车等领域。（e公司）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3028022.d.html</link>
-            <guid>2226098</guid>
-            <pubDate>Thu, 01 Jul 2021 14:01:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国6月ISM制造业PMI60.6，前值61.2，预期61。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3027991.d.html</link>
-            <guid>2226097</guid>
-            <pubDate>Thu, 01 Jul 2021 14:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5月营建支出月率-0.3%，前值0.20%，预期0.40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3027923.d.html</link>
-            <guid>2226096</guid>
-            <pubDate>Thu, 01 Jul 2021 14:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯成功发射搭载36颗卫星的联盟火箭】据俄罗斯国家航天集团消息，当地时间7月1日15时48分，载有36颗通信卫星的联盟-2.1B火箭在“东方”发射中心成功发射。消息说，目前火箭第三级发动机已脱离。按照计划，莫斯科时间19时40分前火箭将完成9次调整并最终将卫星送至距地面450公里的轨道上。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4427456.d.html</link>
-            <guid>2226095</guid>
-            <pubDate>Thu, 01 Jul 2021 13:58:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据Business Insider：亚马逊(AMZN.O)与Slack(WORK.N)和Dropbox(DBX.O)等公司已经讨论过结成“反叛联盟”，目的是与微软(MSFT.O)竞争。]]></title>
-            <guid>2226088</guid>
-            <pubDate>Thu, 01 Jul 2021 13:45:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国6月Markit制造业PMI终值62.1，前值62.6，预期62.6。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3026547.d.html</link>
-            <guid>2226087</guid>
-            <pubDate>Thu, 01 Jul 2021 13:45:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特宝生物：预计上半年实现净利润7000万元-7400万元，同比增加 50.18%-58.76%；公司派格宾和特尔立等主营业务产品的销售收入持续增加，实现净利润同比增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4425320.d.html</link>
-            <guid>2226084</guid>
-            <pubDate>Thu, 01 Jul 2021 13:36:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【锂电铜箔供不应求 部分企业加工费较前期低点已翻番】在锂电需求的带动下，自去年下半年以来，锂电铜箔行业快速回暖，市场供不应求。记者从多家铜箔上市公司了解到，铜箔产品的定价一般采用铜价+加工费的报价形式产生，随着市场需求趋暖，今年上半年铜箔需求较旺，供应上偏紧，加工费较去年同期有明显上涨，部分企业加工费较前期低点至今已翻番。 (证券时报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3025007.d.html</link>
-            <guid>2226079</guid>
-            <pubDate>Thu, 01 Jul 2021 13:31:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英伟达股价续创新高，总市值突破5000亿美元，现涨0.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3024974.d.html</link>
-            <guid>2226078</guid>
-            <pubDate>Thu, 01 Jul 2021 13:30:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【晶丰明源再次发布涨价函，7月1日起生效】6月30日，晶丰明源再次发布价格调整通知函称，目前整个全球半导体供应链陷入前所未有的困境，公司产品价格将根据具体产品型号做出不同程度的调整，自2021年7月1日起，所有此前已生效但尚未完成交付的订单及新订单均适用调整后的新价格。（集微网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3023726.d.html</link>
-            <guid>2226076</guid>
-            <pubDate>Thu, 01 Jul 2021 13:19:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗石油记者Reza Zandi：有分析称，两小时的联合部长级监督委员会（JMMC）会议意味着沙特决心通过长时间和广泛的游说，防止俄罗斯推动增产这一意愿实现。]]></title>
-            <guid>2226075</guid>
-            <pubDate>Thu, 01 Jul 2021 13:14:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  奥本海默：将摩根士丹利(MS.N)目标价从98美元上调至99美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4422386.d.html</link>
-            <guid>2226074</guid>
-            <pubDate>Thu, 01 Jul 2021 13:10:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  奥本海默：将高盛(GS.N)目标价从484美元上调至493美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3022698.d.html</link>
-            <guid>2226073</guid>
-            <pubDate>Thu, 01 Jul 2021 13:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  奥本海默：将花旗集团(C.N)目标价从118美元下调至114美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3022678.d.html</link>
-            <guid>2226072</guid>
-            <pubDate>Thu, 01 Jul 2021 13:09:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：黑石集团(BX.N)石以38.9亿美元收购美高梅(MGM.N)拉斯维加斯的Aria和Vdara房地产资产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3022467.d.html</link>
-            <guid>2226071</guid>
-            <pubDate>Thu, 01 Jul 2021 13:07:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  奥本海默：将Uber(UBER.N)目标价从79美元上调至80美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3021976.d.html</link>
-            <guid>2226066</guid>
-            <pubDate>Thu, 01 Jul 2021 13:03:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：联邦应急管理局还提供了额外资金，以协助迈阿密的建筑倒塌救援工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4421523.d.html</link>
-            <guid>2226063</guid>
-            <pubDate>Thu, 01 Jul 2021 13:02:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：在迈阿密的一座大楼倒塌后，联邦应急管理局已增派工作人员协助搜救工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4421180.d.html</link>
-            <guid>2226061</guid>
-            <pubDate>Thu, 01 Jul 2021 12:59:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Loop Capital：将3B家居(BBBY.O)目标价从24美元上调至31美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3021176.d.html</link>
-            <guid>2226058</guid>
-            <pubDate>Thu, 01 Jul 2021 12:55:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克+联合部长级监督委员会（JMMC）会议将在北京时间22:30举行，欧佩克+部长级会议将在北京时间次日凌晨00:30举行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3020886.d.html</link>
-            <guid>2226057</guid>
-            <pubDate>Thu, 01 Jul 2021 12:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄罗斯卫星网：俄罗斯外交部召见捷克大使。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4420490.d.html</link>
-            <guid>2226056</guid>
-            <pubDate>Thu, 01 Jul 2021 12:51:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
