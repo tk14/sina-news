@@ -4,11 +4,71 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 01 Jul 2021 18:31:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jul 2021 19:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美、布两油期货短线走低0.2美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqcfnca4449313.d.html</link>
+            <guid>2226287</guid>
+            <pubDate>Thu, 01 Jul 2021 19:14:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[本田汽车6月美国汽车销量同比增长33.4%，上年同期下降15.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3049624.d.html</link>
+            <guid>2226286</guid>
+            <pubDate>Thu, 01 Jul 2021 19:10:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Robinhood美股IPO目标估值至少为400亿美元】有消息人士表示，美国在线券商Robinhood将上市时的估值定为至少400亿美元。在招股书公布的前一天，美国金融业监管局对Robinhood处以创纪录的7000万美元罚款。1月，因模因股交易激增，该平台被迫暂停部分证券交易，导致财务紧张。Robinhood当时筹资35亿美元，这笔融资导致其在第一季度录得14亿美元的亏损。招股书披露，Robinhood还在接受加州总检察长办公室的调查，并为纽约州金融服务管理局可能提出的一项洗钱诉讼预留了至少1500万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3049457.d.html</link>
+            <guid>2226284</guid>
+            <pubDate>Thu, 01 Jul 2021 19:08:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国经济部长：欢迎国际税收体系改革谈判取得重大进展】当地时间7月1日，在经合组织宣布130个国家和司法管辖区就国际税收体系改革双支柱方案达成一致之后，法国经济、财政与振兴部长勒梅尔随即发表声明对此表示欢迎，并称这是相关谈判取得的重大进展。勒梅尔认为，当前达成的协议不仅代表着雄心与革新，还具有历史性意义，是过去一个世纪以来最重要的国际税收协议。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3049037.d.html</link>
+            <guid>2226282</guid>
+            <pubDate>Thu, 01 Jul 2021 19:04:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国新增确诊病例中感染德尔塔变异毒株的比例继续急剧上升，根据德国疾控机构罗伯特·科赫研究所的预计，感染该变异毒株的病例已占本周所有新增确诊的至少一半。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqcfnca4448397.d.html</link>
+            <guid>2226278</guid>
+            <pubDate>Thu, 01 Jul 2021 19:01:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美加多地酷热难耐数百人不幸猝死，气象学家警告：气候变化对人类生活环境的影响已达“事关存亡”的程度】连日来，北美洲西部多地遭遇酷暑“烤”验，美国、加拿大竟有高达数百人在热浪中不幸猝死，且死亡统计仍有继续攀升的空间，令人惊呼“前所未见”。气象学家警告称，这种极端气候状况充分说明气候变化对人类生活环境的影响已达到“事关存亡”的程度。6月25日至30日，俄勒冈州至少有63人因酷暑猝死——该州6月28日最高气温达47℃。其中，至少有45例死亡事件发生在该州姆尔特诺默县，死者年龄在44岁到97岁不等，大多有基础疾病。该县卫生官员瓦因斯表示，当地正在经历一场“真正的公共卫生危机”。他认为这种情况可能会继续出现。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3048673.d.html</link>
+            <guid>2226274</guid>
+            <pubDate>Thu, 01 Jul 2021 18:57:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：市政债券基金本周录得资金流入8.32亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3048569.d.html</link>
+            <guid>2226273</guid>
+            <pubDate>Thu, 01 Jul 2021 18:55:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：美国投资级基金录得34.3亿美元资金流入。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3048509.d.html</link>
+            <guid>2226272</guid>
+            <pubDate>Thu, 01 Jul 2021 18:54:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华尔街资管公司科文：将Uber(UBER.N)目标价从76美元升至80美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3047929.d.html</link>
+            <guid>2226270</guid>
+            <pubDate>Thu, 01 Jul 2021 18:43:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：高盛据悉将寻求40亿美元用于最新的基础设施基金。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3047599.d.html</link>
+            <guid>2226269</guid>
+            <pubDate>Thu, 01 Jul 2021 18:39:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：美国总统拜登开始制定更严格的汽车污染规定。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqcfnca4446704.d.html</link>
@@ -235,90 +295,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqcfnca4438223.d.html</link>
             <guid>2226189</guid>
             <pubDate>Thu, 01 Jul 2021 16:11:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[玻利维亚经济部长：本国计划每年购买2-4吨黄金，以建立外汇储备。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqcfnca4437577.d.html</link>
-            <guid>2226188</guid>
-            <pubDate>Thu, 01 Jul 2021 16:02:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[香港特区政府卫生署卫生防护中心7月1日晚间公布一例源头不明的本地初步确诊病例，患者带有L452R变异病毒株。据悉，患者为一名41岁女子，她在一间指定检疫酒店担任兼职清洁员。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3037575.d.html</link>
-            <guid>2226187</guid>
-            <pubDate>Thu, 01 Jul 2021 16:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣：希望全球最低企业税协议在10月份敲定细节。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3037255.d.html</link>
-            <guid>2226185</guid>
-            <pubDate>Thu, 01 Jul 2021 15:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：参与全球企业税改革谈判的国家表示，参与谈判的139个国家中有130个签署了周四的声明。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3036977.d.html</link>
-            <guid>2226184</guid>
-            <pubDate>Thu, 01 Jul 2021 15:51:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：俄罗斯经济部上调2021年GDP预测。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4436848.d.html</link>
-            <guid>2226183</guid>
-            <pubDate>Thu, 01 Jul 2021 15:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：俄罗斯经济部预计8月份将出现通货紧缩。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3036808.d.html</link>
-            <guid>2226182</guid>
-            <pubDate>Thu, 01 Jul 2021 15:48:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  软件公司Evercommerce首日开盘报20美元，IPO发行价为17美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk3036758.d.html</link>
-            <guid>2226181</guid>
-            <pubDate>Thu, 01 Jul 2021 15:47:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：正在进行全球企业税改革谈判的国家表示，采掘业和受监管的金融服务业被排除在对跨国公司征税的新规定之外。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4436613.d.html</link>
-            <guid>2226180</guid>
-            <pubDate>Thu, 01 Jul 2021 15:47:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：经合组织的计划包括在2023年让最低企业税实施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4436540.d.html</link>
-            <guid>2226177</guid>
-            <pubDate>Thu, 01 Jul 2021 15:45:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[葡萄牙政府：高风险城市将从晚上11点开始实行夜间宵禁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4436491.d.html</link>
-            <guid>2226175</guid>
-            <pubDate>Thu, 01 Jul 2021 15:44:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：正在进行全球企业税改革谈判的国家表示，最低企业税率规定将国际航运收入排除在外。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4436328.d.html</link>
-            <guid>2226172</guid>
-            <pubDate>Thu, 01 Jul 2021 15:41:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：正在进行全球企业税改革谈判的国家表示，经合组织将在2021年10月之前敲定详细的实施计划以及剩余问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4436303.d.html</link>
-            <guid>2226171</guid>
-            <pubDate>Thu, 01 Jul 2021 15:41:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯驻维也纳军事安全与军控谈判代表团方面1日表示，《开放天空条约》的成员国将于7月20日开会讨论俄罗斯退约的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4436270.d.html</link>
-            <guid>2226170</guid>
-            <pubDate>Thu, 01 Jul 2021 15:41:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：经合组织关于税收改革的时间表包括2023年的实施计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4436224.d.html</link>
-            <guid>2226169</guid>
-            <pubDate>Thu, 01 Jul 2021 15:40:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
