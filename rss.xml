@@ -4,11 +4,64 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 02 Jul 2021 18:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jul 2021 19:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：一位欧佩克+的官员建议，那些希望改变基线产量的国家将在未来一周向秘书处提交请求。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4642377.d.html</link>
+            <guid>2228401</guid>
+            <pubDate>Fri, 02 Jul 2021 19:13:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克100指数涨幅扩大至1%；标普500指数涨0.71%，涨至日内高点。]]></title>
+            <guid>2228400</guid>
+            <pubDate>Fri, 02 Jul 2021 19:11:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛：上调京东目标价 维持强烈推荐买入评级】高盛分析师Ronald Keung将京东(JD.O)目标价从119美元上调至130美元，维持强烈推荐买入评级。分析师预计，该公司的核心业务京东零售在第二季度保持“稳健势头”。他指出，京东当前的股价意味着，要么是已经对京东零售进行全面估值（同时无视其他业务），要么是对其上市业务进行估值，并对京东零售的估值进行大幅折价。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3241565.d.html</link>
+            <guid>2228398</guid>
+            <pubDate>Fri, 02 Jul 2021 19:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：有很多欧佩克+代表支持将减产协议延长到2022年4月以后，目前投票仍在继续。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3240160.d.html</link>
+            <guid>2228393</guid>
+            <pubDate>Fri, 02 Jul 2021 18:42:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国总统马克龙告诉俄罗斯总统普京，希望在欧盟和俄罗斯之间建立更多的信任。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3239663.d.html</link>
+            <guid>2228391</guid>
+            <pubDate>Fri, 02 Jul 2021 18:36:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国金融业监管局主席Murray：担心并非所有的技术风险都能被企业理解。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4639496.d.html</link>
+            <guid>2228385</guid>
+            <pubDate>Fri, 02 Jul 2021 18:28:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国金融业监管局主席Murray：金融领域的新技术很像“科幻小说”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4639408.d.html</link>
+            <guid>2228383</guid>
+            <pubDate>Fri, 02 Jul 2021 18:27:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国金融业监管局主席Murray：公司必须和监管机构合作研发技术。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3239125.d.html</link>
+            <guid>2228382</guid>
+            <pubDate>Fri, 02 Jul 2021 18:26:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国金融业监管局主席Murray：技术为监管机构带来新风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3239080.d.html</link>
+            <guid>2228381</guid>
+            <pubDate>Fri, 02 Jul 2021 18:26:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  火箭发射初创公司Astra(ASTR.O)涨超25%，此前维珍银河和蓝色起源均宣布启动载人飞行。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3238768.d.html</link>
@@ -258,60 +311,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3226801.d.html</link>
             <guid>2228268</guid>
             <pubDate>Fri, 02 Jul 2021 15:37:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉转跌，此前涨超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3226374.d.html</link>
-            <guid>2228256</guid>
-            <pubDate>Fri, 02 Jul 2021 15:31:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Lordstown Motors(RIDE.O)盘中直线跳水，现跌13.62%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3226332.d.html</link>
-            <guid>2228255</guid>
-            <pubDate>Fri, 02 Jul 2021 15:31:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国司法部正在调查Lordstown Motors。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3226327.d.html</link>
-            <guid>2228253</guid>
-            <pubDate>Fri, 02 Jul 2021 15:31:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：白俄罗斯总统卢卡申科下令全面关闭白俄罗斯与乌克兰边境。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3226212.d.html</link>
-            <guid>2228252</guid>
-            <pubDate>Fri, 02 Jul 2021 15:30:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国广电完成“集团”更名】7月1日，中国广播电视网络有限公司完成工商变更登记并领取《营业执照》，正式更名为“中国广播电视网络集团有限公司”。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqcfnca4626076.d.html</link>
-            <guid>2228245</guid>
-            <pubDate>Fri, 02 Jul 2021 15:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：奥运会组织者考虑禁止观众入场观看开幕式。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3225859.d.html</link>
-            <guid>2228244</guid>
-            <pubDate>Fri, 02 Jul 2021 15:23:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三峡能源上半年发电量创历史新高】据中国三峡新能源(集团)股份有限公司7月2日消息，1-6月三峡能源累计完成发电量超160亿千瓦时，同比增长44%，完成全年计划发电量的52%，再创历史新高，实现“时间过半、任务过半”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3225744.d.html</link>
-            <guid>2228240</guid>
-            <pubDate>Fri, 02 Jul 2021 15:21:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微软股价续创历史新高，报275.37美元，现涨1.38%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3225412.d.html</link>
-            <guid>2228236</guid>
-            <pubDate>Fri, 02 Jul 2021 15:17:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新加坡制造业连续12个月扩张】当地时间7月2日晚，新加坡采购与物流管理学院（SIPMM）发布数据显示，6月份新加坡采购经理指数（PMI）从50.7攀高至50.8。在新订单和新出口订单等的推动下，制造业连续第12个月扩张，并且加快了扩张速度。数据显示，制造业新订单、新出口订单、工厂产出、库存和就业指数纷纷加快扩张，积压订单指数已连续12个月扩张，就业指数连续4个月扩张，成品指数连续3个月萎缩。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3225409.d.html</link>
-            <guid>2228235</guid>
-            <pubDate>Fri, 02 Jul 2021 15:17:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
