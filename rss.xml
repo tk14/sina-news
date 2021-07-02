@@ -4,11 +4,64 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 02 Jul 2021 20:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jul 2021 21:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：沙特王储本·萨勒曼将访问美国华盛顿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4648063.d.html</link>
+            <guid>2228449</guid>
+            <pubDate>Fri, 02 Jul 2021 21:18:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊赠与即将上任的CEO Andy Jassy 6.1万股该公司股票，按照周五收盘价计算价值约2.14亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4647219.d.html</link>
+            <guid>2228447</guid>
+            <pubDate>Fri, 02 Jul 2021 21:03:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【OPEC+仍未能就增产达成协议 油价连续第六周上涨】原油连续第六周走高，创下12月以来最长连涨周期，OPEC+周五仍未能就产量政策达成协议。纽约市场原油期货本周累计上涨1.5%。据与会代表透露，大多数OPEC+成员国支持增加供应并将增产延长至明年晚些时候，但阿联酋仍持反对态度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4647104.d.html</link>
+            <guid>2228444</guid>
+            <pubDate>Fri, 02 Jul 2021 21:01:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登任命埃米·古特曼为美国驻德国大使。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3246718.d.html</link>
+            <guid>2228439</guid>
+            <pubDate>Fri, 02 Jul 2021 20:56:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：07月03日04时14分在斐济群岛发生6.2级地震，震源深度600千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3246330.d.html</link>
+            <guid>2228438</guid>
+            <pubDate>Fri, 02 Jul 2021 20:44:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ThinkMarkets分析师Fawad Razaqzada表示，今天就业报告整体上表现得更强劲了，但还没强到让人担心通胀和政策紧缩，这维持了对股市来说“刚刚好”的状态，鼓励了美元多头在长周末假期前松松油门。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4646405.d.html</link>
+            <guid>2228437</guid>
+            <pubDate>Fri, 02 Jul 2021 20:42:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标普500指数11大板块中，9大板块收涨，2大板块收跌；其中，信息技术板块领涨，其次是非日常生活消费品板块；金融和能源板块收跌。]]></title>
+            <guid>2228436</guid>
+            <pubDate>Fri, 02 Jul 2021 20:37:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【福特汽车电动汽车6月销量激增117% 全美总销量下滑】福特汽车今日公布最新统计数据，6月份全美总销量为115789辆，同比下降26.9%。全年销售额增长4.9%。6月份电动汽车销量激增117%，创下了56，570辆的上半年销售新纪录。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4646113.d.html</link>
+            <guid>2228435</guid>
+            <pubDate>Fri, 02 Jul 2021 20:33:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：斐济地区发生5.7级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3245602.d.html</link>
+            <guid>2228434</guid>
+            <pubDate>Fri, 02 Jul 2021 20:26:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美股各大类资产类ETF中，纳指100ETF领涨，其次是美国布伦特原油基金；罗素2000指数ETF领跌，其次是农产品基金。]]></title>
             <guid>2228432</guid>
@@ -208,47 +261,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4635618.d.html</link>
             <guid>2228349</guid>
             <pubDate>Fri, 02 Jul 2021 17:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫国家经济委员会主任布赖恩·迪斯：这项行动将是拜登不久后推出的鼓励竞争的更广泛工作的一部分。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3234971.d.html</link>
-            <guid>2228346</guid>
-            <pubDate>Fri, 02 Jul 2021 17:27:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据The Information：内部数据显示，迪士尼+在美国的增长在2021年上半年大幅放缓。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4635183.d.html</link>
-            <guid>2228345</guid>
-            <pubDate>Fri, 02 Jul 2021 17:26:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫国家经济委员会主任布赖恩·迪斯：拜登政府计划正在制定规则以保护航空乘客。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3234848.d.html</link>
-            <guid>2228344</guid>
-            <pubDate>Fri, 02 Jul 2021 17:26:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：俄罗斯总统普京与法国总统马克龙就欧盟关系、乌克兰和卡拉巴赫问题进行了通话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3234390.d.html</link>
-            <guid>2228343</guid>
-            <pubDate>Fri, 02 Jul 2021 17:21:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：沙特王子阿卜杜勒阿齐兹强调了继续监测市场的重要性，因为尽管需求复苏，但未来仍存在风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3233580.d.html</link>
-            <guid>2228340</guid>
-            <pubDate>Fri, 02 Jul 2021 17:11:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[部分热门中概股持续下探。好未来(TAL.N)、高途(GOTU.N)、滴滴(DIDI.N)跌超9%，理想汽车(LI.O)跌超6%，每日优鲜(MF.O)跌5.4%，网易有道(DAO.N)跌5%。]]></title>
-            <guid>2228337</guid>
-            <pubDate>Fri, 02 Jul 2021 17:06:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧佩克+目前至少提出了2个或3个场景方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3232233.d.html</link>
-            <guid>2228332</guid>
-            <pubDate>Fri, 02 Jul 2021 16:55:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
