@@ -4,11 +4,75 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 02 Jul 2021 19:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jul 2021 20:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美股各大类资产类ETF中，纳指100ETF领涨，其次是美国布伦特原油基金；罗素2000指数ETF领跌，其次是农产品基金。]]></title>
+            <guid>2228432</guid>
+            <pubDate>Fri, 02 Jul 2021 20:22:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股各行业ETF中，科技行业ETF领涨，其次是医疗业ETF；银行业ETF领跌，其次是全球航空业ETF。]]></title>
+            <guid>2228431</guid>
+            <pubDate>Fri, 02 Jul 2021 20:19:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京市怀柔区、房山区、石景山区发布暴雨黄色预警】北京市气象台03日02时40分升级发布怀柔区暴雨黄色预警。目前，怀柔区九渡河出现小时雨强40毫米以上的强降水，预计当前至07时雨强将增大并维持，局地小时雨强可达50毫米以上，并伴有短时大风，请注意防范。山区和浅山区需注意防范山洪、地质灾害等次生灾害。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3245118.d.html</link>
+            <guid>2228427</guid>
+            <pubDate>Fri, 02 Jul 2021 20:12:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧佩克代表：欧佩克+将于周一恢复谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3244580.d.html</link>
+            <guid>2228421</guid>
+            <pubDate>Fri, 02 Jul 2021 20:01:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士称，欧佩克+谈判可能会延长到周一。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3244480.d.html</link>
+            <guid>2228418</guid>
+            <pubDate>Fri, 02 Jul 2021 19:59:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据美国证券交易委员会文件：天鹅到家（原58到家）递交美股IPO申请，寻求在纽交所上市，交易代码为“JIA”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3244253.d.html</link>
+            <guid>2228416</guid>
+            <pubDate>Fri, 02 Jul 2021 19:53:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【花旗：上调小鹏汽车目标价 维持买入评级】花旗分析师Jeff Chung将小鹏汽车(XPEV.N)的目标价从50.30美元上调至56.30美元，维持买入评级。分析师指出，该公司6月交付数据比市场预期高出5%，而且该公司最近在港股IPO中取得成功。分析师表示，一旦在港股成功上市，小鹏汽车将成为港美两地上市公司，这将扩大投资者的范围。考虑到更强劲的销售前景和不断提升的产品竞争力，分析师将小鹏汽车2021年的交付量预期小幅上调至7.1万辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4644339.d.html</link>
+            <guid>2228414</guid>
+            <pubDate>Fri, 02 Jul 2021 19:50:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：投机者将美元净空头押注削减至4月底以来的最低水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4643959.d.html</link>
+            <guid>2228413</guid>
+            <pubDate>Fri, 02 Jul 2021 19:42:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Truist：上调礼来目标价 维持买入评级】Truist分析师Gregg Gilbert将礼来(LLY.N)的目标价从225美元上调至262美元，维持买入评级。分析师引用了该公司最近的公告，即它计划在今年晚些时候将向FDA申请批准其用于阿尔茨海默症的药物donanemab，这将分析师对获批预期的时间提前两年至2023年，并将成功概率预期从75%提高到90%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4643752.d.html</link>
+            <guid>2228409</guid>
+            <pubDate>Fri, 02 Jul 2021 19:38:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至6月29日当周，COMEX白银期货投机性净多头头寸增加3260手至33142手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4643345.d.html</link>
+            <guid>2228407</guid>
+            <pubDate>Fri, 02 Jul 2021 19:30:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【RBC Capital：上调淡水河谷目标价 维持跑赢大市评级】RBC Capital分析师Tyler Broda将淡水河谷(VALE.N)目标价从29美元下调至27美元，维持跑赢大市评级。分析师指出，新谷大坝的复杂情况减缓了Timbopeba铁矿的开工速度，同时巴西第二季度的航运数据“看起来很疲弱”。然而，分析师补充表示，即使有这些不利因素，考虑到“第二季度异常强劲的价格”，他将该公司2021财年每股收益的预期上调10美分至4.86美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4642894.d.html</link>
+            <guid>2228403</guid>
+            <pubDate>Fri, 02 Jul 2021 19:23:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：一位欧佩克+的官员建议，那些希望改变基线产量的国家将在未来一周向秘书处提交请求。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4642377.d.html</link>
@@ -185,132 +249,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3232233.d.html</link>
             <guid>2228332</guid>
             <pubDate>Fri, 02 Jul 2021 16:55:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[博通：乐意解决美国联邦贸易委员会（FTC）的调查事宜，不同意FTC所指控的公司行为违反了法律， FTC对商业的定性是错误的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3232182.d.html</link>
-            <guid>2228331</guid>
-            <pubDate>Fri, 02 Jul 2021 16:54:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[维珍银河(SPCE.N)盘中涨幅收窄至4%，此前一度涨超25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4632115.d.html</link>
-            <guid>2228329</guid>
-            <pubDate>Fri, 02 Jul 2021 16:49:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧佩克+为了在今天达成协议以恢复产量，一个选择是推迟作出将石油减产协议延长至2022年4月之后的决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4631563.d.html</link>
-            <guid>2228328</guid>
-            <pubDate>Fri, 02 Jul 2021 16:41:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ST大洲欠所得税4333万，董事长被阻止出境 近3年亏了18亿】ST大洲7月2日晚间公告，公司于当日收到国家税务总局海口桂林洋经济开发区税务局的《阻止出境决定书》。决定书内容显示，鉴于你（单位）未按规定结清应纳税款、滞纳金，又不能提供纳税担保，依据《中华人民共和国税收征收管理法》第四十四条规定，决定并通知出入境管理机关于2021年1月28日起阻止你（单位）公司法定代表人、董事长王磊出境。截至公告披露日，ST大洲累计已缴纳809.51万元（不含滞纳金），尚欠缴2017年度所得税4333.8万元（不含滞纳金）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4631375.d.html</link>
-            <guid>2228327</guid>
-            <pubDate>Fri, 02 Jul 2021 16:39:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  普惠公司：正在协助美国调查波音(BA.N)货机坠毁事件。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4630185.d.html</link>
-            <guid>2228321</guid>
-            <pubDate>Fri, 02 Jul 2021 16:22:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：俄罗斯7月的离线炼油产能预计将比计划增加5.4%，达到了329.2万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4630173.d.html</link>
-            <guid>2228320</guid>
-            <pubDate>Fri, 02 Jul 2021 16:22:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：伊朗的欧佩克理事Amirhosein Zamaninia表示，伊核协议比欧佩克+认为的更接近达成。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3229588.d.html</link>
-            <guid>2228319</guid>
-            <pubDate>Fri, 02 Jul 2021 16:19:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国联邦贸易委员会(FTC)的命令将禁止博通(AVGO.O)签订某些客户协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3229423.d.html</link>
-            <guid>2228318</guid>
-            <pubDate>Fri, 02 Jul 2021 16:16:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国联邦贸易委员会(FTC)：就博通(AVGO.O)发布了拟议的同意令。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3229417.d.html</link>
-            <guid>2228317</guid>
-            <pubDate>Fri, 02 Jul 2021 16:16:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  博通(AVGO.O)跳水，股价跌超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3229403.d.html</link>
-            <guid>2228316</guid>
-            <pubDate>Fri, 02 Jul 2021 16:15:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦贸易委员会(FTC)指控博通(AVGO.O)非法垄断。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3229357.d.html</link>
-            <guid>2228315</guid>
-            <pubDate>Fri, 02 Jul 2021 16:15:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国联邦贸易委员会(FTC)命令博通(AVGO.O)停止反竞争行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3229348.d.html</link>
-            <guid>2228314</guid>
-            <pubDate>Fri, 02 Jul 2021 16:14:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：除了阿联酋以外，所有参加欧佩克+联合部长级监督委员会（JMMC）的国家都支持在8月至12月期间每月恢复40万桶/日产量的提议，并同意将石油供应协议延长至2022年4月之后。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4629216.d.html</link>
-            <guid>2228313</guid>
-            <pubDate>Fri, 02 Jul 2021 16:08:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟警告苹果：不要以隐私和安全为由遏制竞争对手】据报道，欧盟反垄断专员玛格丽特·维斯塔格今日警告苹果公司，不要利用所谓的隐私和安全担忧，来遏制来自App Store应用商店的竞争。众所周知，苹果主要以安全和隐私为由，不允许iPhone用户从App Store以外安装软件。上个月，苹果还在其官网上发表文章称，如果允许iPhone用户从App Store应用商店之外安装软件，将导致用户面临勒索软件、盗版软件和窃取用户数据软件的威胁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3228529.d.html</link>
-            <guid>2228311</guid>
-            <pubDate>Fri, 02 Jul 2021 16:03:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  OPEC代表：OPEC+全体会议即将召开。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3228477.d.html</link>
-            <guid>2228310</guid>
-            <pubDate>Fri, 02 Jul 2021 16:03:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[安哥拉加入新兴市场加息阵营中，出人意料地将利率从15.5%大幅上调至历史最高水平20%，这是该国近四年来首次加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqcfnca4628283.d.html</link>
-            <guid>2228309</guid>
-            <pubDate>Fri, 02 Jul 2021 15:58:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[迈阿密戴德县县长：迈阿密建筑倒塌事件的失踪人数降至128人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqcfnca4627688.d.html</link>
-            <guid>2228287</guid>
-            <pubDate>Fri, 02 Jul 2021 15:48:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[迈阿密戴德县县长：迈阿密建筑倒塌事件已造成20人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqcfnca4627572.d.html</link>
-            <guid>2228283</guid>
-            <pubDate>Fri, 02 Jul 2021 15:46:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国会预算办公室（CBO）预计不良资产救助计划（TARP）的净成本为310亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3227389.d.html</link>
-            <guid>2228282</guid>
-            <pubDate>Fri, 02 Jul 2021 15:46:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Marin Software目前上涨28%，盘初一度涨近70%，在WSB散户论坛上该股获得关注。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3227106.d.html</link>
-            <guid>2228276</guid>
-            <pubDate>Fri, 02 Jul 2021 15:41:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧股收盘涨跌不一 德国DAX指数涨0.22％】欧股收盘涨跌不一，德国DAX指数涨0.22％，本周累涨0.2％；法国CAC40指数跌0.08％，本周累跌1.13％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-02/detail-ikqciyzk3226801.d.html</link>
-            <guid>2228268</guid>
-            <pubDate>Fri, 02 Jul 2021 15:37:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
