@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 03 Jul 2021 03:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jul 2021 04:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中国邮政集团与农业农村部签署战略合作协议】 近日，中国邮政集团有限公司与农业农村部签署战略合作协议，将围绕农产品流通、农村消费、农村公共服务供给、智慧农业建设、新型农业经营主体发展壮大、农村金融服务体系建设等六方面重点领域展开合作。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4709414.d.html</link>
+            <guid>2228535</guid>
+            <pubDate>Sat, 03 Jul 2021 04:14:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO埃隆·马斯克：Cyber truck的实际造型将与之前所展示的一样。我们正在添加后轮转向功能，因此Cyber truck可以高敏捷性进行急转弯。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4707181.d.html</link>
+            <guid>2228534</guid>
+            <pubDate>Sat, 03 Jul 2021 04:02:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【闻泰科技回应安世拟收购英国最大的芯片制造商：不予置评】据媒体报道，闻泰科技旗下安世半导体将以6300万英镑（约合人民币5.64亿元）收购英国最大的芯片制造商Newport Wafer Fab。7月3日，闻泰科技方面回应称，不予置评。 (中国证券报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4702821.d.html</link>
+            <guid>2228530</guid>
+            <pubDate>Sat, 03 Jul 2021 03:37:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【卓创资讯：本周建筑钢材社会库存总量为1005.68万吨 连续三周库存增加】据卓创资讯监测，本周建筑钢材社会库存总量为1005.68万吨，较上周增加27万吨，连续三周库存增加。40城市螺纹钢社会库存799.70万吨，较上周增加18.98万吨，增幅2.43%；40城市线材库存205.98万吨，较上周增加8.02万吨，增幅4.05%；建材库存合计1005.68万吨，较上周增加27万吨，增幅2.76%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3300703.d.html</link>
@@ -279,12 +297,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3245118.d.html</link>
             <guid>2228427</guid>
             <pubDate>Fri, 02 Jul 2021 20:12:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克代表：欧佩克+将于周一恢复谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3244580.d.html</link>
-            <guid>2228421</guid>
-            <pubDate>Fri, 02 Jul 2021 20:01:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
