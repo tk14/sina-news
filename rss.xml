@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 04 Jul 2021 18:28:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jul 2021 19:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[阿联酋能源部长马兹鲁伊：阿联酋从来没有威胁过要退出欧佩克+协议，我们是一个理性的产油国，我们已经牺牲了很多，愿意与其他产油国合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3545545.d.html</link>
+            <guid>2229029</guid>
+            <pubDate>Sun, 04 Jul 2021 19:00:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据BNO新闻：阿塞拜疆沿岸的海上油井发生大爆炸。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3544806.d.html</link>
+            <guid>2229028</guid>
+            <pubDate>Sun, 04 Jul 2021 18:43:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：南桑威奇群岛发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3544418.d.html</link>
+            <guid>2229027</guid>
+            <pubDate>Sun, 04 Jul 2021 18:35:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【半年报业绩密集披露 多行业景气度高企】当前已有656家A股上市公司发布了2021年上半年业绩预告，近七成公司业绩预喜，更有27家公司净利润增幅超10倍。上半年化工、医药、集成电路、设备制造、汽车零部件等行业表现亮眼。在217家上半年净利润增幅超100%的上市公司中，设备制造企业占比约12%，电子行业占比约11%（多为集成电路企业），化工企业占比约17%。而在净利润增幅超10倍的公司中，医药、化工、汽车制造行业同样占比明显。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca4941356.d.html</link>
@@ -283,12 +301,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3500487.d.html</link>
             <guid>2228924</guid>
             <pubDate>Sun, 04 Jul 2021 09:30:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普丽盛：重大资产重组事项恢复审核】普丽盛(300442)7月4日晚间公告，公司重大资产重组申请文件中记载的财务资料已过有效期需要补充提交。7月2日，公司及独立财务顾问向深交所提交关于相关财务数据有效期延期及恢复审核的申请。同日，公司收到深交所同意恢复审核的回复。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4898244.d.html</link>
-            <guid>2228917</guid>
-            <pubDate>Sun, 04 Jul 2021 09:10:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
