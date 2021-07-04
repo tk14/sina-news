@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 04 Jul 2021 03:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jul 2021 04:29:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据人民日报：北京时间12时09分，航天员刘伯明、汤洪波协同完成空间站舱外全景相机抬升操作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3460734.d.html</link>
+            <guid>2228826</guid>
+            <pubDate>Sun, 04 Jul 2021 04:21:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【延黄高速公路建成通车，缓解陕北煤炭资源运力紧张局面】由中铁十八局集团参建的陕西延长至黄龙高速公路正式并网通车。作为国家高速公路榆蓝线的重要组成部分，该项目的建成标志着榆蓝线全线贯通。据悉，延黄高速为榆林、延安与西安间开辟了一条位于包茂高速以东的新高速通道，将有效缓解陕北煤炭资源“南下东出”运力紧张的局面。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3457049.d.html</link>
+            <guid>2228819</guid>
+            <pubDate>Sun, 04 Jul 2021 03:57:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港特区政府鼓励5G技术资助计划 总资助额增至1亿港币】7月4日，香港特区政府表示，为进一步鼓励公私营机构利用5G技术促进持续创新，“鼓励及早使用5G技术资助计划”的总资助额会由5000万港币增至1亿港币，并会延长申请期限至2022年7月31日，预计可惠及额外约100个符合资格的项目。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4856759.d.html</link>
+            <guid>2228818</guid>
+            <pubDate>Sun, 04 Jul 2021 03:52:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【日本静冈县热海泥石流仍有约20人失联 约130栋建筑受损】据日本静冈县政府及热海市当地政府4日早间透露，受静冈县热海市伊豆山地区发生的大规模泥石流影响，截至4日早上，除3日获救的10人外，仍有约20人失联。据推测，因泥石流受损的建筑至少约有130栋。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4851522.d.html</link>
@@ -325,30 +343,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4793229.d.html</link>
             <guid>2228723</guid>
             <pubDate>Sat, 03 Jul 2021 18:01:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：07月04日01时04分在阿拉伯海发生5.5级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3391589.d.html</link>
-            <guid>2228718</guid>
-            <pubDate>Sat, 03 Jul 2021 17:39:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：印度洋欧文断裂带发生5.7级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3391562.d.html</link>
-            <guid>2228717</guid>
-            <pubDate>Sat, 03 Jul 2021 17:38:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据以色列媒体援引该国国防部官员证实，一艘以色列货船遭袭击，原因尚不清楚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4789779.d.html</link>
-            <guid>2228714</guid>
-            <pubDate>Sat, 03 Jul 2021 17:11:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：一艘以色列货船在印度洋北部遇袭，但尚未获独立消息源证实。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3388136.d.html</link>
-            <guid>2228711</guid>
-            <pubDate>Sat, 03 Jul 2021 16:51:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
