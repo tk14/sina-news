@@ -4,11 +4,28 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 04 Jul 2021 04:29:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jul 2021 05:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[菲律宾武装部队司令：失事军机为C130运输机，目前已有15人获救。]]></title>
+            <guid>2228835</guid>
+            <pubDate>Sun, 04 Jul 2021 05:18:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新华社快讯：据外媒4日援引菲律宾军方消息报道，菲律宾一架载有85人的军机坠毁，伤亡情况暂不明。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4868519.d.html</link>
+            <guid>2228833</guid>
+            <pubDate>Sun, 04 Jul 2021 05:10:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃及国际合作部部长：预计埃及今年经济增速将超过5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3466406.d.html</link>
+            <guid>2228832</guid>
+            <pubDate>Sun, 04 Jul 2021 04:57:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据人民日报：北京时间12时09分，航天员刘伯明、汤洪波协同完成空间站舱外全景相机抬升操作。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3460734.d.html</link>
@@ -325,24 +342,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4793951.d.html</link>
             <guid>2228726</guid>
             <pubDate>Sat, 03 Jul 2021 18:12:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊拉克油长贾巴尔：英国石油公司正在考虑退出伊拉克。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4793770.d.html</link>
-            <guid>2228725</guid>
-            <pubDate>Sat, 03 Jul 2021 18:09:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：热带风暴“艾尔莎”位于多米尼加共和国比阿特岛西南约100英里(160公里)，最大持续风速为70英里/小时(110公里/小时)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4793237.d.html</link>
-            <guid>2228724</guid>
-            <pubDate>Sat, 03 Jul 2021 18:01:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【希腊7月3日起全面禁塑 10种塑料产品不能再使用】当地时间7月3日起，希腊全面禁塑令生效，塑料餐具、塑料盘、塑料吸管等10种塑料产品将不能再使用，迈出实现“无塑”目标的重要一步。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4793229.d.html</link>
-            <guid>2228723</guid>
-            <pubDate>Sat, 03 Jul 2021 18:01:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
