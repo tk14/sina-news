@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 04 Jul 2021 21:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jul 2021 22:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[东莞发布：自2021年7月5日起，东莞市麻涌镇广州新华学院（东莞校区）由中风险地区调整为低风险地区，其他地区风险等级不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3554351.d.html</link>
+            <guid>2229065</guid>
+            <pubDate>Sun, 04 Jul 2021 22:14:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白酒行业淡季不淡 五粮液线下市场出现缺货】据记者了解，虽然二季度是白酒销售淡季，但是五粮液的表现却是淡季不淡。重庆市崇誉商贸负责人黄进表示，企业生产供不应求，我们的计划量都卖到9月份了，整个重庆都是这样。北京一位五粮液经销商也对记者表示，目前五粮液市场缺货是事实。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3553178.d.html</link>
+            <guid>2229063</guid>
+            <pubDate>Sun, 04 Jul 2021 22:00:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：07月05日05时48分在四川甘孜州石渠县发生4.0级地震，震源深度7千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca4953202.d.html</link>
+            <guid>2229062</guid>
+            <pubDate>Sun, 04 Jul 2021 22:00:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年内247家公司首发上市 超五成为制造业企业】东方财富choice数据显示，截至7月4日，按证监会行业分类来看，年内有247家A股企业IPO上市，其中有141家为制造业企业，占比57%。制造业企业首发募集资金为1036.67亿元；细分行业来看，专用设备制造业、计算机通信和其他电子设备制造业、电气机械和器材制造业等行业所属IPO公司占比较高；从上市分布来看，在科创板上市的制造业企业有70家，创业板42家，沪深主板共有29家。（证券日报）]]></title>
+            <guid>2229061</guid>
+            <pubDate>Sun, 04 Jul 2021 21:53:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年内34家机构“持券入场” 基金投顾试点加速落地】7月2日，包括光大证券、平安证券、中泰证券在内的10家券商，以及华泰柏瑞、景顺长城、民生加银等7家基金公司收到了证监会出具的关于试点开展基金投资顾问业务有关事项的无异议复函。截至目前，今年以来已有多达34家获批开展试点业务，全市场机构数量累计超50家。机构人士预计，基金投顾市场未来三年规模有望达5000亿，长期来看，规模将达万亿级别。（经济参考报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3552407.d.html</link>
+            <guid>2229060</guid>
+            <pubDate>Sun, 04 Jul 2021 21:45:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【黑客猖獗 一天内全球千家公司遇袭】从5月的美国最大燃油管道被黑客掐断，引发全国范围内的大规模恐慌和天然气短缺；再到6月全球最大肉类供应厂商JBS被攻击，现在黑客的攻击已经不仅仅是针对单个公司了，而是盯上了为成百上千公司提供服务的IT服务供应商。美国政府也对此采取了行动。美国国土安全部网络安全和基础设施安全局上周五宣布正与联邦调查局合作，采取行动了解并解决“最近针对IT管理平台Kaseya的供应链勒索软件攻击事件”。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca4951357.d.html</link>
@@ -295,24 +324,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4913244.d.html</link>
             <guid>2228961</guid>
             <pubDate>Sun, 04 Jul 2021 11:41:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒：菲律宾军机坠毁事故死亡人数上升至31人】美国有线电视新闻网（CNN）刚刚援引官方消息称，地面上的两名平民也在菲律宾军用飞机坠毁事故中丧生，这导致该事故死亡人数上升至31人。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3512172.d.html</link>
-            <guid>2228960</guid>
-            <pubDate>Sun, 04 Jul 2021 11:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京冬奥会国际广播中心今日正式交付】今天（4日），北京冬奥会国际广播中心正式交付，并移交给奥林匹克转播服务公司。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4911675.d.html</link>
-            <guid>2228959</guid>
-            <pubDate>Sun, 04 Jul 2021 11:25:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西藏建立清洁能源领域方向研究平台】4日从西藏自治区政府获悉，西藏清洁能源专家工作站和清洁能源创新发展中心近日正式成立，这是西藏自治区打造省域低碳电力系统的一项重要举措，标志着西藏建立起清洁能源领域的创新发展研究平台。据了解，此举是国家电网公司碳达峰、碳中和行动方案在青藏高原落地的重要内容。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3510596.d.html</link>
-            <guid>2228954</guid>
-            <pubDate>Sun, 04 Jul 2021 11:10:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
