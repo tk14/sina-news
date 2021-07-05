@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 05 Jul 2021 19:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 20:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【2025年SiC电力电子市场规模将超过30亿美元】根据Yole和Omdia数据，到2025年SiC（碳化硅）电力电子市场规模将超过30亿美元，GaN（氮化镓）电力电子器件市场规模将超过6.8亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5150982.d.html</link>
+            <guid>2230098</guid>
+            <pubDate>Mon, 05 Jul 2021 20:05:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[达美航空(DAL.N)：希思罗机场已向本公司及维珍航空通知，允许在7月15日恢复在3号航站楼的业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5150327.d.html</link>
+            <guid>2230097</guid>
+            <pubDate>Mon, 05 Jul 2021 19:48:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：白宫官员敦促欧佩克+尽快达成折中的解决方案，并表示正在密切关注谈判状况。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5149547.d.html</link>
+            <guid>2230096</guid>
+            <pubDate>Mon, 05 Jul 2021 19:24:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[戛纳国际电影节策划人Thierry Fremaux周一接受记者采访时表示，目前戛纳对奈飞(NFLX.O)等流媒体企业出品的电影态度过于开放，轻而易举就使其入围电影节，这对传统院线行业造成很大伤害。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3749238.d.html</link>
@@ -282,24 +300,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3732068.d.html</link>
             <guid>2229933</guid>
             <pubDate>Mon, 05 Jul 2021 15:09:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[协合新能源(00182.HK)：2021年6月权益发电量336.79GWh，按年下跌8.7%。今年首六个月权益发电量2661.8GWh，按年上升8.07%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3731730.d.html</link>
-            <guid>2229924</guid>
-            <pubDate>Mon, 05 Jul 2021 15:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国有A级旅游景区13332个 我国有5A级旅游景区302个】从文化和旅游部获悉，截至2020年末，全国共有A级旅游景区13332个，比上年末增加930个。其中，5A级旅游景区302个，增加22个。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca5131345.d.html</link>
-            <guid>2229919</guid>
-            <pubDate>Mon, 05 Jul 2021 15:03:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【首家采用第二套上市标准，迈普医学即将登陆创业板】 广州迈普再生医学科技股份有限公司（简称“迈普医学”）对外发布《首次公开发行股票并在创业板上市提示公告》，这意味着全市场首家按照创业板第二套上市标准申请上市并完成注册的企业开始进入发行程序，即将登陆创业板。迈普医学本次创业板上市的顺利注册，受益于以信息披露为中心的注册制理念和股票上市制度的包容性，体现了注册制改革对成长型创新创业企业的支持。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3731445.d.html</link>
-            <guid>2229917</guid>
-            <pubDate>Mon, 05 Jul 2021 15:02:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
