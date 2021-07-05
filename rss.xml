@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 05 Jul 2021 20:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 21:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国国家飓风中心：“艾尔莎”（Elsa）伴随着大雨向古巴西部移动，预计周二会经过美国佛罗里达礁岛群。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3752363.d.html</link>
+            <guid>2230109</guid>
+            <pubDate>Mon, 05 Jul 2021 20:50:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年内A股募资超3300亿，资本加速挺进制造业】工信部、证监会等六部门日前发布了《关于加快培育发展制造业优质企业的指导意见》，提出加强企业融资能力和上市培育、支持符合条件的优质企业上市融资等方式。今年以来，资本市场对于制造业的支持进一步提升，同花顺数据显示，截至7月5日，年内共有188家制造业企业IPO上市，首募资金超1300亿元；148家制造业企业增发融资超1900亿元。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3751831.d.html</link>
+            <guid>2230104</guid>
+            <pubDate>Mon, 05 Jul 2021 20:28:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【币安对巴克莱阻止客户支付的“单边行动”感到失望】交易平台币安的一名发言人表示，巴克莱似乎是基于对事件的不准确理解而采取了单边行动。该事件指的是英国金融行为监管局（FCA）最近颁布的禁止币安市场有限公司(Binance Markets Limited)在英国开展业务的法令。他补充说，BML 是一个独立的法律实体，并没有透过主要的币安网站提供任何产品或服务。此前加拿大安大略省的监管机构针对加密货币交易所实施了更严格的监管，币安宣布将不再在该省运营。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3751791.d.html</link>
+            <guid>2230102</guid>
+            <pubDate>Mon, 05 Jul 2021 20:26:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【2025年SiC电力电子市场规模将超过30亿美元】根据Yole和Omdia数据，到2025年SiC（碳化硅）电力电子市场规模将超过30亿美元，GaN（氮化镓）电力电子器件市场规模将超过6.8亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5150982.d.html</link>
@@ -270,36 +288,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca5133689.d.html</link>
             <guid>2229980</guid>
             <pubDate>Mon, 05 Jul 2021 15:31:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[航天科技集团回应张陶打人事件：坚决支持公安机关依法处置，绝不姑息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca5132750.d.html</link>
-            <guid>2229959</guid>
-            <pubDate>Mon, 05 Jul 2021 15:20:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：俄罗斯最大的铁矿公司Metalloinvest Holding Co.近期与众多银行机构开会，讨论潜在的IPO事宜。如果决定公开发行股票，可能会在2022年进行IPO。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3732625.d.html</link>
-            <guid>2229948</guid>
-            <pubDate>Mon, 05 Jul 2021 15:16:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【警方通报张陶打人事件：已被刑拘】据平安北京朝阳通报：2021年6月12日12时许，王某年（男，54岁）到朝阳公安分局奥运村派出所报案，称6月6日其和吴某蓉（女，85岁）在朝阳区某小区被他人殴打。 综合事实认定和伤情鉴定情况，7月5日，朝阳公安分局已依法对张某刑事拘留。目前，案件正在进一步工作中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca5132248.d.html</link>
-            <guid>2229938</guid>
-            <pubDate>Mon, 05 Jul 2021 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【零佣金的罗宾侠当前手机月活跃用户占比高达60%，遥遥领先】在众多美国股票移动交易平台中，罗宾侠月活跃用户占比高达60%，遥遥领先。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca5132151.d.html</link>
-            <guid>2229937</guid>
-            <pubDate>Mon, 05 Jul 2021 15:11:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德尔塔毒株正在泰国迅速传播】泰国卫生部医学科学厅厅长素帕吉7月5日表示，在过去一周内，德尔塔毒株正在取代阿尔法毒株在泰国各地迅速传播，32.2%的确诊病例感染的是德尔塔毒株，而曼谷及周边地区这一比例高达52.2%，目前泰国全国77府中的47府都已出现德尔塔毒株感染者，其传播速度比预测的要快很多。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3732068.d.html</link>
-            <guid>2229933</guid>
-            <pubDate>Mon, 05 Jul 2021 15:09:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
