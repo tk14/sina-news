@@ -4,11 +4,71 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 07 Jul 2021 19:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jul 2021 20:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[谷歌A(GOOGL.O)盘后微跌0.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5560544.d.html</link>
+            <guid>2232492</guid>
+            <pubDate>Wed, 07 Jul 2021 20:14:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：谷歌将因涉嫌滥用Play商店而被各州起诉。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4162066.d.html</link>
+            <guid>2232477</guid>
+            <pubDate>Wed, 07 Jul 2021 20:09:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[知名润滑剂品牌WD40(WDFC.N)盘后涨5.4%，第二季度营收同比增长近四成，并上调全年收入预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4161951.d.html</link>
+            <guid>2232472</guid>
+            <pubDate>Wed, 07 Jul 2021 20:08:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[截至发稿，道指成交量报2.85亿股（上一交易日为3.48亿股），纳指成交量报41.48亿股（上一交易日为41.12亿股），标普500指数成量报18.14亿股（上一交易日为20.75亿股）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5559803.d.html</link>
+            <guid>2232448</guid>
+            <pubDate>Wed, 07 Jul 2021 20:02:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道指初步收涨约百点，成分股苹果、3M、霍尼韦尔等涨超1%，但波音跌超1%。甲骨文涨超3%，刷新历史高位，投资者关注其五角大楼云合同前景。亚马逊涨约0.6%，继续创历史新高。半导体和生物科技板块均跌超1%，跑输美股大盘，其中芯片股赛灵思和AMD跌超4%。新能源汽车类股普跌，蔚来汽车跌约8%，小鹏汽车跌超5%，理想汽车跌超4%，特斯拉也跌超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4161595.d.html</link>
+            <guid>2232447</guid>
+            <pubDate>Wed, 07 Jul 2021 20:01:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：迪拜发生爆炸，原因不明。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4161433.d.html</link>
+            <guid>2232444</guid>
+            <pubDate>Wed, 07 Jul 2021 19:58:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标普：确认菲利普斯66(PSX.N)评级为BBB+，符合此前预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5559277.d.html</link>
+            <guid>2232438</guid>
+            <pubDate>Wed, 07 Jul 2021 19:49:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西下议院院长：巴西改革后的股息税可能达到20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5558577.d.html</link>
+            <guid>2232401</guid>
+            <pubDate>Wed, 07 Jul 2021 19:33:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通：将长江基建集团(01038.HK)评级下调至中性，目标价49港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4160333.d.html</link>
+            <guid>2232399</guid>
+            <pubDate>Wed, 07 Jul 2021 19:32:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务院：美国对伊朗核问题将举行第七轮会谈充满期待。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5558062.d.html</link>
+            <guid>2232365</guid>
+            <pubDate>Wed, 07 Jul 2021 19:19:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[欧元兑美元EUR/USD暂时波动不大。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4159220.d.html</link>
@@ -68,78 +128,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4153760.d.html</link>
             <guid>2232235</guid>
             <pubDate>Wed, 07 Jul 2021 17:47:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Visa(V.N)表示，今年上半年加密货币信用卡消费价值已超过10亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5550757.d.html</link>
-            <guid>2232227</guid>
-            <pubDate>Wed, 07 Jul 2021 17:30:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国旅游业敦促拜登政府取消限制多国禁止进入美国的旅游限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5549869.d.html</link>
-            <guid>2232226</guid>
-            <pubDate>Wed, 07 Jul 2021 17:19:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：日本附近海域发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5549506.d.html</link>
-            <guid>2232224</guid>
-            <pubDate>Wed, 07 Jul 2021 17:15:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纳指短线下挫，日内再次转跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4151183.d.html</link>
-            <guid>2232223</guid>
-            <pubDate>Wed, 07 Jul 2021 17:14:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多地房贷全面收紧】今年以来，房地产交易继续保持旺盛。但在年中阶段，不少城市出现房贷额度紧张、放款周期延长的现象。贝壳研究院发布的数据显示，从6月放款周期来看，72个重点城市中，46个城市房贷放款周期延长，占比超过六成。专家将这种现象解读为因半年考核而导致的阶段性收紧，预计下半年银行信贷投放额度及放款周期将逐步恢复常态。（21世纪）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5548594.d.html</link>
-            <guid>2232219</guid>
-            <pubDate>Wed, 07 Jul 2021 17:03:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：巴里克黄金(GOLD.N)CEO与坦桑尼亚总统会面，讨论建立合资企业事宜。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5548192.d.html</link>
-            <guid>2232217</guid>
-            <pubDate>Wed, 07 Jul 2021 16:58:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  LME期铜收涨143美元，报9455美元/吨。 LME期铝收跌30美元，报2500美元/吨。 LME期锌收涨24美元，报2958美元/吨。 LME期铅收跌4美元，报2290美元/吨。 LME期镍收涨316美元，报8310美元/吨。 LME期锡收涨21美元，报31690美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4149557.d.html</link>
-            <guid>2232216</guid>
-            <pubDate>Wed, 07 Jul 2021 16:53:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【燧原科技发布第二代AI芯片，今年底量产】7月7日，腾讯投资的国内AI芯片初创企业燧原科技发布第二代人工智能训练产品——“邃思2.0”芯片、基于邃思2.0的“云燧T20”训练加速卡和“云燧T21”训练OAM模组，全面升级的“驭算TopsRider”软件平台以及全新的“云燧集群”。燧原科技创始人、CEO赵立东表示，“邃思2.0”和第一代产品均由格芯的12nm FinFET工艺打造，“邃思2.0”将于年底量产。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4149532.d.html</link>
-            <guid>2232215</guid>
-            <pubDate>Wed, 07 Jul 2021 16:52:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  周三（7月7日）欧市尾盘，ICE欧盟碳排放交易许可（期货价格）跌2.41%，报52.66欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4147532.d.html</link>
-            <guid>2232209</guid>
-            <pubDate>Wed, 07 Jul 2021 16:26:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：拜登政府官员向拜登通报了他们打击勒索软件攻击的最新情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4147071.d.html</link>
-            <guid>2232207</guid>
-            <pubDate>Wed, 07 Jul 2021 16:21:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：在网络攻击后，美国联邦调查局（FBI）和其他联邦当局与美国共和党全国委员会保持联系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5545355.d.html</link>
-            <guid>2232206</guid>
-            <pubDate>Wed, 07 Jul 2021 16:21:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA短期能源展望报告：预计2022年美国天然气消费量为828.7亿立方英尺/日，此前预期为828.5亿立方英尺/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5544301.d.html</link>
-            <guid>2232203</guid>
-            <pubDate>Wed, 07 Jul 2021 16:06:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
