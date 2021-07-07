@@ -4,11 +4,89 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 07 Jul 2021 16:43:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jul 2021 18:30:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[甲骨文（ORCL）一度涨超4.7%，刷新盘中历史高位至87.17美元。投资者关注的是，美国五角大楼将与该公司开会，以评估甲骨文是否为政府云合同的合格承包商。7月6日，美国国防部已经废止与微软（MSFT）的百亿美元级别JEDI云合同，转而要求微软与竞争对手亚马逊分工合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5554708.d.html</link>
+            <guid>2232279</guid>
+            <pubDate>Wed, 07 Jul 2021 18:19:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国得州法官裁定美国空军应对2017年得州教堂大规模枪击事件负主要责任】《国会山报》当地时间7月7日报道称，美国得克萨斯州一名联邦法官6日裁定，美国空军对2017年得克萨斯州萨瑟兰斯普林斯（Sutherland Springs）的大规模枪击事件负有主要责任，原因是美国空军未能将枪手德文·帕特里克·凯利的犯罪史输入联邦背景调查数据库，如果之前有记录，枪手可能无法购买枪支。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4154313.d.html</link>
+            <guid>2232238</guid>
+            <pubDate>Wed, 07 Jul 2021 17:53:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[甲骨文(ORCL.N)涨近5%，报87.11美元，股价创历史新高，市值达2426亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4154099.d.html</link>
+            <guid>2232237</guid>
+            <pubDate>Wed, 07 Jul 2021 17:51:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：亚马逊(AMZN.O)的Amazon Care与Aetna等健康公司接触，寻求将其纳入亚马逊的服务网络。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4153981.d.html</link>
+            <guid>2232236</guid>
+            <pubDate>Wed, 07 Jul 2021 17:50:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党众议员Brady：预计全球最低税率将需要花费数年时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4153760.d.html</link>
+            <guid>2232235</guid>
+            <pubDate>Wed, 07 Jul 2021 17:47:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Visa(V.N)表示，今年上半年加密货币信用卡消费价值已超过10亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5550757.d.html</link>
+            <guid>2232227</guid>
+            <pubDate>Wed, 07 Jul 2021 17:30:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国旅游业敦促拜登政府取消限制多国禁止进入美国的旅游限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5549869.d.html</link>
+            <guid>2232226</guid>
+            <pubDate>Wed, 07 Jul 2021 17:19:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：日本附近海域发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5549506.d.html</link>
+            <guid>2232224</guid>
+            <pubDate>Wed, 07 Jul 2021 17:15:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  纳指短线下挫，日内再次转跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4151183.d.html</link>
+            <guid>2232223</guid>
+            <pubDate>Wed, 07 Jul 2021 17:14:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多地房贷全面收紧】今年以来，房地产交易继续保持旺盛。但在年中阶段，不少城市出现房贷额度紧张、放款周期延长的现象。贝壳研究院发布的数据显示，从6月放款周期来看，72个重点城市中，46个城市房贷放款周期延长，占比超过六成。专家将这种现象解读为因半年考核而导致的阶段性收紧，预计下半年银行信贷投放额度及放款周期将逐步恢复常态。（21世纪）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5548594.d.html</link>
+            <guid>2232219</guid>
+            <pubDate>Wed, 07 Jul 2021 17:03:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：巴里克黄金(GOLD.N)CEO与坦桑尼亚总统会面，讨论建立合资企业事宜。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5548192.d.html</link>
+            <guid>2232217</guid>
+            <pubDate>Wed, 07 Jul 2021 16:58:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  LME期铜收涨143美元，报9455美元/吨。 LME期铝收跌30美元，报2500美元/吨。 LME期锌收涨24美元，报2958美元/吨。 LME期铅收跌4美元，报2290美元/吨。 LME期镍收涨316美元，报8310美元/吨。 LME期锡收涨21美元，报31690美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4149557.d.html</link>
+            <guid>2232216</guid>
+            <pubDate>Wed, 07 Jul 2021 16:53:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【燧原科技发布第二代AI芯片，今年底量产】7月7日，腾讯投资的国内AI芯片初创企业燧原科技发布第二代人工智能训练产品——“邃思2.0”芯片、基于邃思2.0的“云燧T20”训练加速卡和“云燧T21”训练OAM模组，全面升级的“驭算TopsRider”软件平台以及全新的“云燧集群”。燧原科技创始人、CEO赵立东表示，“邃思2.0”和第一代产品均由格芯的12nm FinFET工艺打造，“邃思2.0”将于年底量产。（一财）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4149532.d.html</link>
+            <guid>2232215</guid>
+            <pubDate>Wed, 07 Jul 2021 16:52:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  周三（7月7日）欧市尾盘，ICE欧盟碳排放交易许可（期货价格）跌2.41%，报52.66欧元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4147532.d.html</link>
@@ -122,167 +200,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5543673.d.html</link>
             <guid>2232183</guid>
             <pubDate>Wed, 07 Jul 2021 16:01:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  高盛：将颐海国际(01579.HK)评级下调至卖出，目标价42港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqcfnca5543359.d.html</link>
-            <guid>2232181</guid>
-            <pubDate>Wed, 07 Jul 2021 15:55:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  高盛：将呷哺呷哺(00520.HK)评级下调至中性，目标价8.70港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqcfnca5543289.d.html</link>
-            <guid>2232180</guid>
-            <pubDate>Wed, 07 Jul 2021 15:54:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国贸易代表戴琪与墨西哥官员讨论了由协调墨西哥和美国在乙醇汽油混合燃料方面的政策带来的潜在共同利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqciyzk4144544.d.html</link>
-            <guid>2232178</guid>
-            <pubDate>Wed, 07 Jul 2021 15:47:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【股市收盘】德国DAX30指数7月7日（周三）收盘上涨179.07点，涨幅1.15%，报15690.45点；英国富时100指数7月7日（周三）收盘上涨50.76点，涨幅0.71%，报7151.64点；法国CAC40指数7月7日（周三）收盘上涨20.24点，涨幅0.31%，报6527.72点；欧洲斯托克50指数7月7日（周三）收盘上涨24.01点，涨幅0.59%，报4076.68点；西班牙IBEX35指数7月7日（周三）收盘下跌5.80点，跌幅0.07%，报8855.00点；意大利富时MIB指数7月7日（周三）收盘上涨42.58点，涨幅0.17%，报25270.50点。]]></title>
-            <guid>2232177</guid>
-            <pubDate>Wed, 07 Jul 2021 15:41:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  小赢科技(XYF.N)持续拉升，涨幅扩大至35%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqcfnca5542270.d.html</link>
-            <guid>2232175</guid>
-            <pubDate>Wed, 07 Jul 2021 15:39:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  穆迪：煤炭行业将面临越来越大的人力资本相关风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqciyzk4143708.d.html</link>
-            <guid>2232172</guid>
-            <pubDate>Wed, 07 Jul 2021 15:35:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[穆迪：与煤炭开采相关的健康和安全问题仍将是煤炭生产商面临的重大风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqciyzk4143702.d.html</link>
-            <guid>2232171</guid>
-            <pubDate>Wed, 07 Jul 2021 15:35:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[穆迪：随着公众对煤炭的担忧加剧，发达市场的社会风险加速了煤炭价格的下跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqcfnca5542022.d.html</link>
-            <guid>2232169</guid>
-            <pubDate>Wed, 07 Jul 2021 15:34:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间7月7日下午，以色列第11任总统伊萨克·赫尔佐格宣誓就职。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqcfnca5541699.d.html</link>
-            <guid>2232166</guid>
-            <pubDate>Wed, 07 Jul 2021 15:29:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“长赐”号货轮驶离苏伊士运河】埃及苏伊士运河管理局主席乌萨马·拉比耶7月7日召开新闻发布会说，今年3月因搁浅造成苏伊士运河堵塞的“长赐”号货轮当天正式驶离运河。拉比耶说，“长赐”号船东已与管理局签署和解协议。他未透露协议最终确定的赔偿金额，但重申该事件给苏伊士运河带来了损失和负面影响。据埃及金字塔在线网站报道，伊斯梅利亚经济法院6日同意解除对“长赐”号的扣押令，并允许其应苏伊士运河管理局要求于7日离开运河，继续前往荷兰鹿特丹港。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqcfnca5541635.d.html</link>
-            <guid>2232165</guid>
-            <pubDate>Wed, 07 Jul 2021 15:27:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【小米启动含绿色债券的美元债发行 据悉已获12亿美元发债额度】据知情人士透露，小米集团(01810.HK)寻求通过发债筹资约10亿美元，其中将包含一部分绿色债券。知情人士称，小米已获得了12亿美元发债额度，将选择是否使用全部配额。澳新银行分析师Owen Gallimore等人在周三报告中表示，小米已有40多种节能产品。他们认为，小米10年期债券的公允价值为较美国国债收益率加码145个基点，30年期债券公允价值为加码210个基点。分析师在报告中称：“我们预计自5月该公司从美国黑名单上移除后，债券将受到良好支撑。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqciyzk4142416.d.html</link>
-            <guid>2232159</guid>
-            <pubDate>Wed, 07 Jul 2021 15:17:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Facebook转涨，脱离日低351.42美元，谷歌A涨超0.3%，暂报2532.70美元脱离日低2523.06美元，推特维持大约0.8%的跌幅，暂报69.64美元，此前一度走软至69.06美元。前美国总统特朗普在自己位于新泽西州的高尔夫球场宣布，其正在起诉这三家美国科技公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqciyzk4142357.d.html</link>
-            <guid>2232158</guid>
-            <pubDate>Wed, 07 Jul 2021 15:15:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：英国的旅游和隔离规定可能在周四出台。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqciyzk4142271.d.html</link>
-            <guid>2232156</guid>
-            <pubDate>Wed, 07 Jul 2021 15:14:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国前任总统特朗普表示，要求Facebook、谷歌和推特 平台停止对其账户的审查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqciyzk4142263.d.html</link>
-            <guid>2232155</guid>
-            <pubDate>Wed, 07 Jul 2021 15:14:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：梅琳达·盖茨将在两年后离开盖茨基金会，作为与比尔·盖茨离婚协议的一部分；同时，基金会也计划增加受托人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqcfnca5540182.d.html</link>
-            <guid>2232152</guid>
-            <pubDate>Wed, 07 Jul 2021 15:08:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【茅台租赁与宁波银行苏州分行战略合作】7月7日，茅台（上海）融资租赁有限公司与宁波银行苏州分行举行战略合作签约仪式。双方将在渠道、资金等多领域充分发挥各自优势，创新业务、共谋发展，预计一年内双方合作投放金额将超过50亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqcfnca5540123.d.html</link>
-            <guid>2232150</guid>
-            <pubDate>Wed, 07 Jul 2021 15:07:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：盖茨基金会表示，捐款金将增加150亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqcfnca5540096.d.html</link>
-            <guid>2232149</guid>
-            <pubDate>Wed, 07 Jul 2021 15:07:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国证交会主席根斯勒：已要求工作人员根据规定，要求"可持续"基金经理披露具体标准和数据。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqcfnca5539846.d.html</link>
-            <guid>2232148</guid>
-            <pubDate>Wed, 07 Jul 2021 15:04:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：“艾尔莎”将在佛罗里达海湾北部的泰勒县登陆。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqcfnca5539309.d.html</link>
-            <guid>2232143</guid>
-            <pubDate>Wed, 07 Jul 2021 14:59:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海干散货运价指数上涨 受海岬型船舶价格上涨提振】波罗的海干散货运价指周三结束了连续五个交易日的跌势，因海岬型船舶价格上涨。波罗的海干散货运价指数涨62点或2%，至3241点。海岬型船运价指数涨206点或6.3%，报3499点；日均获利增加1709美元至29018美元。巴拿马型船运价指数跌10点或0.2%，报4150点；日均获利减少90美元至37347美元。超灵便型船运价指数下跌11点，报2909点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqciyzk4140748.d.html</link>
-            <guid>2232142</guid>
-            <pubDate>Wed, 07 Jul 2021 14:57:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蓝思科技：已与相关电子烟客户达成合作获得业务订单】蓝思科技(300433)在互动平台表示，公司已与相关电子烟客户达成合作，获得业务订单，为客户设计、研发、生产、组装相关产品的结构件和功能件，涵盖陶瓷、玻璃、金属、塑胶等，目前业务正常、顺利开展中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqcfnca5537851.d.html</link>
-            <guid>2232135</guid>
-            <pubDate>Wed, 07 Jul 2021 14:41:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【成都：高标准高质量加快推进西部旅游环线规划建设】据成都日报报道，7月7日，四川省委常委、成都市委书记范锐平，市委副书记、市长王凤朝专题研究成都西部旅游环线规划建设。范锐平指出，西部旅游环线是成都“十四五”期间规划建设的重大功能性项目，将为“西控”区域高质量发展注入强劲动能。要高标准高质量加快推进西部旅游环线规划建设。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqcfnca5536764.d.html</link>
-            <guid>2232126</guid>
-            <pubDate>Wed, 07 Jul 2021 14:30:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中金作为方正重组财务顾问亮相 平安承诺合法合规解决平安证券与方正证券同业竞争】方正证券今日发布权益变动报告书，同时中金公司也以财务顾部身份发布了财务顾问核查意见，财务顾问核查意见中提到，平安人寿控股股东平安集团控股平安证券，平安证券与上市公司主营业务相似，故在本次重整投资完成后，平安证券与上市公司存在同业竞争关系。平安信托作为平安证券的直接控股股东，承诺将保障上市公司全体股东利益，通过合法合规的方式解决平安证券与上市公司的同业竞争问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqciyzk4138233.d.html</link>
-            <guid>2232125</guid>
-            <pubDate>Wed, 07 Jul 2021 14:30:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[保险公司投资管理能力信息披露自律管理准则征求意见：根据要求，保险公司开展无担保债券、股票、股权、不动产等投资管理业务的，均应以具备相应的投管能力为前提和基础，坚持诚实信用原则。保险公司开展相关投管业务前，应当对照监管标准做好调研论证、自评估和信息披露工作。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqciyzk4137895.d.html</link>
-            <guid>2232120</guid>
-            <pubDate>Wed, 07 Jul 2021 14:25:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特斯拉Model 3是6月份韩国最畅销的进口车型】6月份，Model 3取代了5月份进口最多的Model Y，成为韩国最畅销的进口车型。上个月，特斯拉在韩国共售出2884辆Model 3，帮助特斯拉实现了创纪录的第二季度销量。与5月份相比，这是一个很大的增长。Model 3仅售出126辆，这一数字之所以偏低，部分原因在于补贴审批问题，导致该月大部分时间交货都被推迟。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqciyzk4137523.d.html</link>
-            <guid>2232116</guid>
-            <pubDate>Wed, 07 Jul 2021 14:22:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国国债扩大涨幅，10年期国债收益率下跌5个基点至0.60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqcfnca5535849.d.html</link>
-            <guid>2232115</guid>
-            <pubDate>Wed, 07 Jul 2021 14:21:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海地临时总理：呼吁联合国安理会就海地问题举行会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqciyzk4137093.d.html</link>
-            <guid>2232113</guid>
-            <pubDate>Wed, 07 Jul 2021 14:18:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
