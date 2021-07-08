@@ -4,11 +4,100 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 08 Jul 2021 21:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jul 2021 22:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[环球新材国际控股有限公司(06616.HK)：本公司作出发售价下调决定，最终发售价已定于每股发售股份3.25港元，低于指示性发售价范围下限7.67%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4375665.d.html</link>
+            <guid>2234131</guid>
+            <pubDate>Thu, 08 Jul 2021 22:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上市银行现金分红加速派发 逾2800亿元真金白银已送达股东“腰包”】在上市银行2020年年报中，上市银行曾合计推出了近4900亿元（税前，下同）的现金分红方案。如今随着时间进入下半年，真金白银的银行分红正陆续“到位”。记者根据各家银行分红进度统计，截至7月8日，已有26家银行合计实施完成逾2800亿元的现金分红，占全部拟分红金额的比例近六成。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5773849.d.html</link>
+            <guid>2234128</guid>
+            <pubDate>Thu, 08 Jul 2021 22:18:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【A股成交额连续6个交易日超万亿元】周四，A股成交金额连续第六个交易日突破1万亿元关口。可以看到，7月份以来的6个交易日中，万亿元成交金额已然成为常态。业内人士一致认为，万亿元成交额背后，市场分化有所加剧，资金正在辗转腾挪，调仓换股，后市将继续演绎结构性行情。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4375369.d.html</link>
+            <guid>2234127</guid>
+            <pubDate>Thu, 08 Jul 2021 22:17:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  奈飞(NFLX.O)任命N'Jeri Eaton为播客部门负责人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5773575.d.html</link>
+            <guid>2234124</guid>
+            <pubDate>Thu, 08 Jul 2021 22:15:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  奈飞(NFLX.O)聘请苹果(AAPL.O)前高管负责播客运营。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4375131.d.html</link>
+            <guid>2234123</guid>
+            <pubDate>Thu, 08 Jul 2021 22:15:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[滴滴(DIDI.N)美股盘后涨0.45%，报11.26美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5773339.d.html</link>
+            <guid>2234118</guid>
+            <pubDate>Thu, 08 Jul 2021 22:12:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[明晟公司（MSCI）：将继续把滴滴ADR纳入MSCI全球标准指数和MSCI中国全股票指数的高市值部分，将从2021年7月15日起生效。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4374717.d.html</link>
+            <guid>2234116</guid>
+            <pubDate>Thu, 08 Jul 2021 22:11:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“买买买” 100家公司6月份以来获高管净增持2.24亿股】沪深交易所披露的董监高股份变动情况显示，6月份以来，有100家公司高管净增持自家股票，合计净增持22428.02万股，净增持金额合计41.96亿元。具体到个股方面，6月份以来，安记食品高管净增持金额最多，达到12.33亿元，光威复材、贵州燃气紧随其后，期间高管净增持金额分别达7.88亿元、5.22亿元，晶华新材、周大生、盐津铺子、新农股份等4家公司高管期间净增持金额也均逾1亿元。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4374366.d.html</link>
+            <guid>2234115</guid>
+            <pubDate>Thu, 08 Jul 2021 22:07:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【车联网数据安全开始影响产业发展进程】随着互联网、智能化技术在汽车领域的不断拓展，车联网作为汽车、电子、信息等深度融合的新兴产业生态，已成为推动制造业高质量发展的重要动力。然而，安全问题已经成为影响车联网行业健康发展的一个巨大隐患。业界专家认为，当下车联网的安全问题已经由实验室研究院开始走向产业化对抗，在经过整车安全单点防护阶段之后，当前行业进入体系化、标准化建设阶段，未来还将迎来实战化阶段。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5772689.d.html</link>
+            <guid>2234114</guid>
+            <pubDate>Thu, 08 Jul 2021 22:05:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国总统拜登将于周五签署促进铁路、海运竞争的行政令。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4373987.d.html</link>
+            <guid>2234112</guid>
+            <pubDate>Thu, 08 Jul 2021 22:01:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多国加大卫星投入布局太空经济】以商业航天、卫星互联网为代表的太空经济近期在全球多国高速发展，业界人士称，卫星将是连接产业应用上下游的关键，目前的行业高投入趋势显示出各方正抓紧占据产业先机。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5772392.d.html</link>
+            <guid>2234110</guid>
+            <pubDate>Thu, 08 Jul 2021 22:00:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“三医”联动推动医疗体系高质量发展】全民医保、集中带量采购、医保谈判、药品供应保障、综合监管制度等利国惠民，我国服务全民的基本医疗卫生制度框架基本建立。“看病难”“看病贵”已在逐步解决，看得起病、敢看病正成为现实。国家卫生健康委副主任李斌表示，下一步将推动各地推广三明医改经验，坚持“三医联动”改革（医保体制改革、卫生体制改革、药品流通体制改革联动），腾笼换鸟，推动医疗体系高质量可持续发展。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4373894.d.html</link>
+            <guid>2234109</guid>
+            <pubDate>Thu, 08 Jul 2021 21:59:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国能源部：美国2021年煤炭产量将增长15% 创1990年以来最大增幅】美国能源部周三发布报告称，美国今年的煤炭产量将增长15%，创下自1990年以来最大的增幅，相较于5月份预测的8%增幅，几乎提高了一倍。报告指出，无论是美国本土市场，还是海外市场，对煤炭的需求都在增长，美国今年煤炭出口将增加21%，2022年将增加19%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5770839.d.html</link>
+            <guid>2234101</guid>
+            <pubDate>Thu, 08 Jul 2021 21:29:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：07月09日05时04分在新疆喀什地区伽师县（北纬39.53度，东经76.94度）发生3.0级地震，震源深度17千米。]]></title>
+            <guid>2234100</guid>
+            <pubDate>Thu, 08 Jul 2021 21:29:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌认为美国关于反垄断法的指控毫无根据。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5770582.d.html</link>
+            <guid>2234098</guid>
+            <pubDate>Thu, 08 Jul 2021 21:24:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[离岸人民币（CNH）兑美元北京时间04:59报6.4934元，较周三纽约尾盘跌189点，盘中整体交投于6.4733-6.5001元区间。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4372040.d.html</link>
@@ -217,78 +306,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5757477.d.html</link>
             <guid>2234026</guid>
             <pubDate>Thu, 08 Jul 2021 17:17:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  奈飞(NFLX.O)与《实习医生格蕾》编剧Shonda Rhimes签下多年合作协议，她将在Netflix制作多部影视及游戏作品。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4358164.d.html</link>
-            <guid>2234021</guid>
-            <pubDate>Thu, 08 Jul 2021 17:07:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：仍在评估美国第一夫人是否会出席东京奥运会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4358139.d.html</link>
-            <guid>2234020</guid>
-            <pubDate>Thu, 08 Jul 2021 17:06:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Facebook(FB.O)：公司软件工程副总裁Tom Alison将成为Facebook App新任负责人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5755301.d.html</link>
-            <guid>2234016</guid>
-            <pubDate>Thu, 08 Jul 2021 16:54:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【通胀预期正大幅下降，但这种状况能持续多久？】① 当10年期美国国债收益率今早短暂跌破1.25%时，不难看出实际收益率也在下降。但债市近期走势的有趣之处在于，通胀预期也降低了。事实上，以5y5y远期利率衡量的通胀预期在上月创出2020年3月以来最大跌幅；② 值得关注下周二美国消费者价格指数(CPI)会使通胀预期有怎样的反应。6月CPI料环比上涨0.4%，5月上涨了0.7%。但是，美国楼市火热行情可能会意外借由租金和业主等价租金(OER)的上涨传导至CPI。考虑到房价上涨情况，这些CPI组成部分应该很快也会迅速上升；③ 根据劳工统计局，CPI市场篮子的211个项目类别中，OER和租金指数权重最高。虽然5月OER仅上涨2.1%，但预计未来涨幅会进一步上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4356548.d.html</link>
-            <guid>2234015</guid>
-            <pubDate>Thu, 08 Jul 2021 16:50:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【杰富瑞：中国教辅行业的不确定性料将缓和】杰富瑞引述教育行业媒体报道，近日部分城市政府下令禁止暑假期间为幼儿园至九年级开办课外辅导课，这一发展应能逐步消除令教辅业承压的不确定性。以John Chou牵头的分析师说，相关禁令比业者预计的最坏情况要好。该行表示：“初步反馈表明，从业者终于可以开始执行他们的应急计划。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4356503.d.html</link>
-            <guid>2234014</guid>
-            <pubDate>Thu, 08 Jul 2021 16:49:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：总统拜登将发布针对铁路、海运竞争的行政令。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5754566.d.html</link>
-            <guid>2234013</guid>
-            <pubDate>Thu, 08 Jul 2021 16:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：小鹏汽车将被纳入恒生综合指数。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4355980.d.html</link>
-            <guid>2234012</guid>
-            <pubDate>Thu, 08 Jul 2021 16:42:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒：在第三季度航运旺季之前，美国集装箱进口量已创历史新高】全球港口追踪机构报告称，美国主要港口的入港吞吐量达到230万个集装箱（以20英尺当量单位计）。这一数字较4月份上升了8.6%，较2020年5月的水平上升了52%，并打破了3月份创下的记录，成为自2002年有记录以来最繁忙的月份。这份由美国国家零售联合会（NRF）和Hackett Associates共同发布的估计，6月份的集装箱进口量将略微回落至215万箱，到8月份将回落到230万箱的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4355958.d.html</link>
-            <guid>2234011</guid>
-            <pubDate>Thu, 08 Jul 2021 16:42:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：在第三季度航运旺季之前，美国集装箱进口量已创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4355804.d.html</link>
-            <guid>2234009</guid>
-            <pubDate>Thu, 08 Jul 2021 16:40:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：洛杉矶在线会员杂货铺Thrive Markit考虑IPO，寻求获得超过20亿美元的估值。该公司正就此与高盛合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4353946.d.html</link>
-            <guid>2234000</guid>
-            <pubDate>Thu, 08 Jul 2021 16:15:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：英国公平竞争及市场管理局总裁Andrea Coscelli将在明年辞职。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5752101.d.html</link>
-            <guid>2233997</guid>
-            <pubDate>Thu, 08 Jul 2021 16:12:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纽蒙特矿业(NEM.N)：预计本财年归属本公司黄金产量为650万盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5751708.d.html</link>
-            <guid>2233995</guid>
-            <pubDate>Thu, 08 Jul 2021 16:07:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
