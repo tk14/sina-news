@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 08 Jul 2021 18:29:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jul 2021 19:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：美国共和党参议员图米在提倡减少监管后投资了加密货币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5764921.d.html</link>
+            <guid>2234058</guid>
+            <pubDate>Thu, 08 Jul 2021 19:12:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国5月消费信贷(亿美元)：前值 186.12，预期 184，公布 352.81。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5764415.d.html</link>
+            <guid>2234057</guid>
+            <pubDate>Thu, 08 Jul 2021 19:01:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：一架载有9人的飞机在瑞典厄勒布鲁郊外起飞后坠毁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4365077.d.html</link>
+            <guid>2234052</guid>
+            <pubDate>Thu, 08 Jul 2021 18:41:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海原油期货主力合约夜盘收跌0.41%，报441.7元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4364607.d.html</link>
+            <guid>2234051</guid>
+            <pubDate>Thu, 08 Jul 2021 18:31:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ 基金分析公司理柏（Lipper）：预计市政债基金本周资金流入23亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4364108.d.html</link>
@@ -275,24 +299,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5748448.d.html</link>
             <guid>2233906</guid>
             <pubDate>Thu, 08 Jul 2021 15:17:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  汽车制造商Stellantis(STLA.N)高管：Abarth将在2024年成为集团内第一个转型为全电动的品牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4349930.d.html</link>
-            <guid>2233904</guid>
-            <pubDate>Thu, 08 Jul 2021 15:15:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【富国银行将在未来几周关闭所有现有的个人信贷额度】据悉，富国银行(WFC.N)将终止提供一种热门的消费者贷款产品，并在未来几周关闭所有现有的个人信贷额度。这种循环信贷额度通常允许用户借款3000至10万美元，一般用于合并高息信用卡债务、支付房屋装修费用或避免关联支票账户透支费用。富国银行表示，最近对该产品进行了评估，决定停止提供新的个人和投资组合信贷账户额度，并关闭所有现有账户。此举将使该行专注于信用卡和个人贷款业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5747874.d.html</link>
-            <guid>2233887</guid>
-            <pubDate>Thu, 08 Jul 2021 15:09:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国墨西哥湾原油库存上周跌至2020年3月以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4349440.d.html</link>
-            <guid>2233886</guid>
-            <pubDate>Thu, 08 Jul 2021 15:09:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
