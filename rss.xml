@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 08 Jul 2021 20:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jul 2021 21:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间04:59报6.4934元，较周三纽约尾盘跌189点，盘中整体交投于6.4733-6.5001元区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4372040.d.html</link>
+            <guid>2234093</guid>
+            <pubDate>Thu, 08 Jul 2021 21:21:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：法拉第未来在与物业解决方案收购公司(PSAC)按计划完成合并之前，成功地与销售商和供应商举行了会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4372035.d.html</link>
+            <guid>2234092</guid>
+            <pubDate>Thu, 08 Jul 2021 21:21:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[辉瑞CSO：欧洲和其他地区的多个国家甚至在美国紧急使用授权之前就在考虑接种第三剂增强剂。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5769858.d.html</link>
+            <guid>2234090</guid>
+            <pubDate>Thu, 08 Jul 2021 21:09:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[滴滴ADR美股盘后涨约1.7%，明晟公司（MSCI）确认，将在7月15日如期把滴滴纳入其指数。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4370812.d.html</link>
+            <guid>2234083</guid>
+            <pubDate>Thu, 08 Jul 2021 20:51:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数11个板块全线收跌，金融板块收跌将近2.0%，工业和原材料收跌约1.4%，可选消费和房地产也跌将近0.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5768640.d.html</link>
+            <guid>2234080</guid>
+            <pubDate>Thu, 08 Jul 2021 20:36:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[明晟公司（MSCI）：确认继续将滴滴ADR纳入MSCI中国全股票指数，从2021年7月14日收盘后生效。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4370223.d.html</link>
+            <guid>2234078</guid>
+            <pubDate>Thu, 08 Jul 2021 20:34:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[iBio(IBIO.O)盘后涨超20%，公司宣布将新建肿瘤学药物管线，其中包含三个新抗体项目。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5768021.d.html</link>
@@ -253,47 +289,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5751708.d.html</link>
             <guid>2233995</guid>
             <pubDate>Thu, 08 Jul 2021 16:07:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[部分WSB概念股拉升，维珍银河(SPCE.N)涨10%，AMC院线(AMC.N)涨近5%，高斯电子(KOSS.O)涨2.5%。]]></title>
-            <guid>2233992</guid>
-            <pubDate>Thu, 08 Jul 2021 15:58:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：环球影视电影在康卡斯特(CMCSA.O)旗下流媒体平台Peacock上播出后，将在亚马逊(AMZN.O)Prime上线。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4352426.d.html</link>
-            <guid>2233990</guid>
-            <pubDate>Thu, 08 Jul 2021 15:55:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：亚马逊(AMZN.O)与康卡斯特(CMCSA.O)达成电影版权授权协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4352230.d.html</link>
-            <guid>2233989</guid>
-            <pubDate>Thu, 08 Jul 2021 15:51:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：假体和矫形器制造商Ottobock据悉正为2022年进行大规模IPO聘请顾问。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5750391.d.html</link>
-            <guid>2233978</guid>
-            <pubDate>Thu, 08 Jul 2021 15:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙江发布数字化改革标准化体系建设方案，将于2025年底建成】7月8日，《浙江省数字化改革标准化体系建设方案(2021-2025年)》正式印发。方案提出，到2021年底，浙江将初步建立支撑一体化智能化公共数据平台标准体系，在术语定义、方法标准、编码标准等方面率先形成一批广域通用标准；到2022年底，党政机关整体智治、数字政府、数字经济、数字社会、数字法治五大系统标准体系基本建成；到2025年底，全面建成系统集成、实用高效的标准体系，标准在数字化改革领域广泛实施。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4351943.d.html</link>
-            <guid>2233972</guid>
-            <pubDate>Thu, 08 Jul 2021 15:46:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国佛罗里达州住宅楼倒塌事故死亡人数升至60人】美国佛罗里达州迈阿密-戴德县县长达丹妮拉·莱雯·卡瓦(Daniella Levine Cava)当地时间7月8日宣布，佛罗里达州住宅楼倒塌事故的死亡人数已上升到60人，仍有80人下落不明；搜救团队8日正式停止搜救工作，过渡为废墟恢复工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4351429.d.html</link>
-            <guid>2233954</guid>
-            <pubDate>Thu, 08 Jul 2021 15:37:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数初步收跌1.94%，报450.61点。德国DAX 30指数初步收跌2.03%，报15375.06点。法国股指初步收跌2.30%，英国股指初步收跌1.92%，意大利股指初步收跌2.77%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4351118.d.html</link>
-            <guid>2233945</guid>
-            <pubDate>Thu, 08 Jul 2021 15:32:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
