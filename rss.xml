@@ -4,11 +4,28 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 09 Jul 2021 20:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jul 2021 21:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【法官未同意孟晚舟引入新证据的申请】当地时间7月9日下午，加拿大不列颠哥伦比亚省高等法院就孟晚舟的律师要求引入新证据的申诉做出判决，法官不同意引入从汇丰银行获取的新证据。这意味着，孟晚舟在8月举行的最后阶段审理中，将无法使用这些新证据来证明美方提交法庭的引渡依据——《案件记录》存在重大遗漏并误导了法庭。有法律界人士认为，如果引入这些新证据，将对美方要求引渡的关键证据构成挑战。法官不同意引入这些新证据，对辩方律师在最后阶段的审理中要求终止引渡程序是不利的。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4576482.d.html</link>
+            <guid>2235156</guid>
+            <pubDate>Fri, 09 Jul 2021 21:09:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉确认俄罗斯评级为“BBB”；前景展望稳定。]]></title>
+            <guid>2235155</guid>
+            <pubDate>Fri, 09 Jul 2021 21:04:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：日本本州东海岸发生5.3级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4575356.d.html</link>
+            <guid>2235152</guid>
+            <pubDate>Fri, 09 Jul 2021 20:39:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美股大类资产类ETF中，罗素2000指数ETF收涨逾2.1%，新兴市场ETF和美国布伦特原油基金（BNO）涨约1.7%，美国房地产ETF、标普500价值ETF、道指ETF、标普500ETF均涨超1.0%，恐慌指数做多ETF表现最差，收跌逾6.7%，美国国债20+年ETF以超过1.4%的跌幅紧随其后，美国国债7-10年ETF也跌0.5%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5972585.d.html</link>
@@ -299,18 +316,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5952522.d.html</link>
             <guid>2235057</guid>
             <pubDate>Fri, 09 Jul 2021 15:27:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  滴滴盘中再度转涨，现涨1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4554583.d.html</link>
-            <guid>2235055</guid>
-            <pubDate>Fri, 09 Jul 2021 15:23:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国国务卿布林肯与巴基斯坦外长就阿富汗问题进行了交谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5952021.d.html</link>
-            <guid>2235053</guid>
-            <pubDate>Fri, 09 Jul 2021 15:20:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
