@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 09 Jul 2021 18:31:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jul 2021 19:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[巴西经济部长盖德斯：我们不会增税。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4570857.d.html</link>
+            <guid>2235131</guid>
+            <pubDate>Fri, 09 Jul 2021 19:02:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：特斯拉(TSLA.O)与布鲁克菲尔德资管公司将在得州奥斯丁建立太阳能社区。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4570849.d.html</link>
+            <guid>2235130</guid>
+            <pubDate>Fri, 09 Jul 2021 19:02:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[凯投宏观：预计美国长期国债收益率近期的大跌不会持续下去，仍然认为未来几年收益率将会大幅上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5968200.d.html</link>
+            <guid>2235128</guid>
+            <pubDate>Fri, 09 Jul 2021 18:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  凯投宏观：目前预计到今年年底，10年期美债收益率将升至1.75%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5968198.d.html</link>
+            <guid>2235127</guid>
+            <pubDate>Fri, 09 Jul 2021 18:49:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ 通用汽车涨近5%，刷新日高至58.92美元。此前通用宣布第二季度中国汽车交付量同比增长5.2%，超过75万辆。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4569105.d.html</link>
@@ -240,24 +264,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5950181.d.html</link>
             <guid>2235031</guid>
             <pubDate>Fri, 09 Jul 2021 15:03:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD短线走低50点，现报1.2826。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5949886.d.html</link>
-            <guid>2235028</guid>
-            <pubDate>Fri, 09 Jul 2021 15:00:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：法国总统马克龙将于当地时间周一晚上8点（北京时间次日凌晨2点）在全国发表讲话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4551964.d.html</link>
-            <guid>2235027</guid>
-            <pubDate>Fri, 09 Jul 2021 14:59:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  苹果上涨1.4%，刷新盘中历史高位至145美元上方。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5949306.d.html</link>
-            <guid>2235025</guid>
-            <pubDate>Fri, 09 Jul 2021 14:54:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
