@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 09 Jul 2021 16:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jul 2021 17:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：北溪2号项目将成为总统拜登和德国总理默克尔会谈的议题之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5960865.d.html</link>
+            <guid>2235102</guid>
+            <pubDate>Fri, 09 Jul 2021 17:05:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至7月9日当周总钻井总数(口)公布 479，前值 475，预期 478。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5960422.d.html</link>
+            <guid>2235100</guid>
+            <pubDate>Fri, 09 Jul 2021 17:01:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至7月9日当周天然气钻井总数(口)公布 101，前值 99，预期 100。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5960395.d.html</link>
+            <guid>2235099</guid>
+            <pubDate>Fri, 09 Jul 2021 17:01:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国食品药品管理局（FDA）高管Woodcock呼吁调查FDA在阿尔兹海默症药品方面的审批。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4562292.d.html</link>
+            <guid>2235097</guid>
+            <pubDate>Fri, 09 Jul 2021 16:58:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：总统拜登将于7月15日在白宫迎接德国总理默克尔。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5960072.d.html</link>
+            <guid>2235096</guid>
+            <pubDate>Fri, 09 Jul 2021 16:57:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：总统拜登将在下周四讨论经济刺激和减税政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4562156.d.html</link>
+            <guid>2235095</guid>
+            <pubDate>Fri, 09 Jul 2021 16:56:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：总统拜登与俄罗斯总统普京周五进行了通话，谈及了勒索软件攻击。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4561998.d.html</link>
+            <guid>2235092</guid>
+            <pubDate>Fri, 09 Jul 2021 16:54:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首次开罚单：科创板网下打新乱报价，6家机构被处罚】7月9日晚间，上交所官网发布消息，对上海嘉恳资产管理有限公司、上海赫富投资有限公司、上海银叶投资有限公司、上海千象资产管理有限公司、上海玖鹏资产管理中心（有限合伙）、上海乘安资产管理有限公司等6家机构采取监管措施，予以监管警示。近期，上交所有针对性地开展了网下询价合规情况专项现场检查工作。根据检查结果，被罚的家等上述报价机构在参与科创板新股网下询价过程中，存在询价决策流程不规范、报价结果缺少研究支持与合理解释、内控制度和业务操作流程不完善等违反交易所业务规则与相关行业规范的行为。据悉，监管部门对于询价机制如何进一步优化完善也在做进一步的研究。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5958917.d.html</link>
+            <guid>2235089</guid>
+            <pubDate>Fri, 09 Jul 2021 16:44:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[大众汽车：将把CEO Herbert Diess的聘用合同延长至2025年10月份。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5957616.d.html</link>
@@ -216,36 +264,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5944854.d.html</link>
             <guid>2235007</guid>
             <pubDate>Fri, 09 Jul 2021 14:15:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华峰化学：半年度净利预增441%-486%】华峰化学(002064)7月9日晚间发布业绩预告，预计2021年半年度净利36亿元-39亿元，同比增长441.31%-486.42%。报告期内，行业下游需求复苏，景气度持续上升，公司主导产品产销量、销售价格较上年同期均有较大幅度的增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4545983.d.html</link>
-            <guid>2235003</guid>
-            <pubDate>Fri, 09 Jul 2021 14:05:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  G20可能会针对应对气候变化问题承认碳价。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5942851.d.html</link>
-            <guid>2234998</guid>
-            <pubDate>Fri, 09 Jul 2021 13:59:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华宝证券取得基金投顾试点资格 第二批试点券商增至20家】华宝证券今日收到证监会出具的复函，正式获批基金投资顾问业务试点资格。至此，第二批取得基金投顾试点资格的券商已达20家，分别是中信证券、招商证券、国信证券、东方证券、兴业证券、安信证券、浙商证券、平安证券、光大证券、中泰证券、国金证券、中银证券、山西证券、东兴证券、南京证券、华安证券、东方财富证券、财通证券、华西证券、华宝证券。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4543923.d.html</link>
-            <guid>2234993</guid>
-            <pubDate>Fri, 09 Jul 2021 13:47:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家发改委副主任：将推出东北振兴更多政策举措】国家发改委副主任宁吉喆8日在长春表示，随着企业向北投资增加，所谓投资不过山海关逐渐成为历史。“十四五”时期，东北全面振兴将形成新突破。宁吉喆表示，近年来中央和地方已经出台了一系列支持东北振兴的重要政策文件，下一步将不断完善东北振兴的政策体系，推出更多政策举措和工作方案，推动东北振兴取得新进展。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4543053.d.html</link>
-            <guid>2234989</guid>
-            <pubDate>Fri, 09 Jul 2021 13:40:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：印尼米纳哈萨县发生6.2级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4542714.d.html</link>
-            <guid>2234987</guid>
-            <pubDate>Fri, 09 Jul 2021 13:37:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
