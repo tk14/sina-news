@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 10 Jul 2021 07:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jul 2021 08:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【八成以上空调散热片细菌总数超标】 据了解，中国疾控中心、上海市疾控中心等机构，曾在上海、北京、深圳等地进行家用空调调查发现：有88%的空调散热片细菌总数超标，84%的空调散热片霉菌总数超标。除此之外，空调中还藏有大量灰尘、螨虫、花粉等。特别是夏季闷热潮湿的天气，更使空调成为了各类细菌、真菌和尘螨滋生的温床。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4675308.d.html</link>
+            <guid>2235330</guid>
+            <pubDate>Sat, 10 Jul 2021 08:24:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿里云首次发布产业智能核心技术体系】2021世界人工智能大会期间，阿里云首次公布产业智能的核心技术体系。据介绍，该核心技术体系是基于数据开发和智能引擎两大平台。（界面）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4673058.d.html</link>
+            <guid>2235309</guid>
+            <pubDate>Sat, 10 Jul 2021 08:08:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【国产最大直径土压平衡盾构机下线】从中国铁建股份有限公司了解到，一台刀盘涂装采用熊猫图案设计的超大直径盾构机10日正式下线。这台盾构机名为“锦绣号”，开挖直径达12.79米，是我国迄今研制具有完全自主知识产权的最大直径土压平衡盾构机。 (新华社)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6068641.d.html</link>
+            <guid>2235306</guid>
+            <pubDate>Sat, 10 Jul 2021 07:57:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英特尔提供200亿美元资金在欧盟范围内建造芯片工厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6067346.d.html</link>
+            <guid>2235302</guid>
+            <pubDate>Sat, 10 Jul 2021 07:47:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上半年券商跟投科创板浮盈近50亿，海通、华泰、中信夺得前三】 据统计，今年上半年科创板合计86家公司上市，由于科创板实行保荐机构跟投制度，跟投比例2%至5%，截至目前，跟投券商投入27.2亿元，合计浮盈达到48.5亿元。其中，海通证券、华泰证券和中信证券旗下投资子公司浮盈位居前三，分别浮盈6.89亿元、6.27亿元和6.17亿元，值得一提的是，投行“黑马”民生证券浮盈亦达到5.76亿元。尝到甜头的券商机构，今年7月以来，已经有包括东方证券和中泰证券纷纷选择增资另类投资子公司，以进一步深化协同效应，积极抓住科创板战略配售机会，从而优化整体业务布局和收入结构。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4666397.d.html</link>
+            <guid>2235298</guid>
+            <pubDate>Sat, 10 Jul 2021 07:20:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据悉美国特斯拉车主收到FSD V9自动驾驶软件版本更新，软件版本号为2021.4.18.12，目前看是大范围推送，基本上各个车款都收到了更新。此前特斯拉CEO埃隆·马斯克承诺将于周六发布全自动驾驶测试版V9。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4664712.d.html</link>
@@ -253,101 +283,6 @@
             <title><![CDATA[国家卫健委最新数据显示，7月9日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增无症状感染者16例，其中境外输入13例，本土3例（均在云南）；当日转为确诊病例3例（均为境外输入）；当日解除医学观察15例（均为境外输入）；尚在医学观察的无症状感染者480例（境外输入471例）。]]></title>
             <guid>2235211</guid>
             <pubDate>Sat, 10 Jul 2021 01:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家运输安全委员会已经找到7月2日在夏威夷欧胡岛(Oahu)坠毁的飞机残骸。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5999518.d.html</link>
-            <guid>2235206</guid>
-            <pubDate>Sat, 10 Jul 2021 00:56:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：07月10日08时43分在印尼马鲁古海北部附近（北纬2.88度，东经126.66度）发生6.2级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>2235205</guid>
-            <pubDate>Sat, 10 Jul 2021 00:49:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国政府高级官员表示，目前没有向海地提供军事援助的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4598049.d.html</link>
-            <guid>2235203</guid>
-            <pubDate>Sat, 10 Jul 2021 00:35:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为加拿大公司就法官拒绝引入新证据发表声明：遗憾！】当地时间7月9日，加拿大不列颠哥伦比亚省高等法院就孟晚舟律师要求引入新证据的申请作出判决，法官拒绝引入从汇丰银行获取的新证据。对于这一判决结果，华为加拿大在一份声明中表示，尊重法庭的判决，但对这样的结果表示遗憾。华为表示，尽管法庭拒绝引入新证据，但这些从汇丰银行获得的文件清楚表明，汇丰银行及其高管均知晓华为公司与星通公司的关系，以及星通公司在伊朗的业务。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5994718.d.html</link>
-            <guid>2235199</guid>
-            <pubDate>Sat, 10 Jul 2021 00:29:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗首都德黑兰西部发生大规模爆炸并起火】当地时间9日晚些时候，伊朗首都德黑兰西部地区发生大规模爆炸并起火，伤亡情况尚不清楚。报道援引当地媒体消息称，爆炸发生后，消防和救援队赶到现场。 (环球网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5994628.d.html</link>
-            <guid>2235198</guid>
-            <pubDate>Sat, 10 Jul 2021 00:28:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【车险前5个月增速现“剪刀差”：保费同比降7%保额大增67%】 银保监会近期披露的数据显示，今年前5个月车险保费达3140亿元，同比下降7%；不过，车险保额达323.8万亿元，同比增速高达67%。车险保费增速与保额增速出现了明显的“剪刀差”。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5990815.d.html</link>
-            <guid>2235193</guid>
-            <pubDate>Sat, 10 Jul 2021 00:05:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国佛罗里达州住宅楼倒塌事故死亡人数上升至78人】美国佛罗里达州迈阿密-戴德县县长丹妮拉·莱雯·卡瓦当地时间7月9日宣布，迈阿密住宅楼楼倒塌事故的死亡人数已经上升至78人，还有62人下落不明。自6月24日倒塌事故发生以来，搜救人员还未在废墟中发现幸存者。卡瓦称，寻找受难者的工作仍在紧迫地进行当中。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5988949.d.html</link>
-            <guid>2235190</guid>
-            <pubDate>Fri, 09 Jul 2021 23:53:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【太保新添一张投资牌照 保险系私募基金迎市场化扩容】来自中国证券投资基金业协会的信息显示，太保私募基金管理有限公司近日完成私募股权、创业投资基金管理人备案登记。太保私募基金由中国太保旗下太保资产100%持股，注册资本1亿元，中国太保总裁傅帆出任董事长。随着太保私募基金的设立，保险系私募基金再次迎来扩容。记者获悉，在政策鼓励保险资金发挥长期稳健投资优势、保险公司自身提高长期投资回报水平诉求上升等多因素驱动下，还有不少保险公司正计划申请设立私募基金。（上海证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5986362.d.html</link>
-            <guid>2235187</guid>
-            <pubDate>Fri, 09 Jul 2021 23:35:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贝莱德：战略性超配中国股票】全球资管巨头贝莱德正在积极布局A股，在2021年下半年展望中，贝莱德首次将中国资产与新兴资产区分开来，作为独立的战术配置类别，并提出“战略性超配中国股票”。此外，贝莱德申报的首只中国内地公募基金产品也已经“箭在弦上”。（上海证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5985991.d.html</link>
-            <guid>2235186</guid>
-            <pubDate>Fri, 09 Jul 2021 23:32:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【专家：不锈钢消费空间大 产业链建设亟待完善】在7月8日举行的2021（第一届）中国建筑用不锈钢创新论坛上，与会专家表示，我国不锈钢消费仍有较大发展空间。不锈钢具有耐腐蚀、少维护、低碳环保等特点，契合绿色建筑发展趋势，应加大不锈钢在建筑领域的推广力度。目前，不锈钢行业仍面临不少挑战，亟需在夯实发展基础、构建差异化竞争力、延伸产业链等方面加大努力。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5985820.d.html</link>
-            <guid>2235185</guid>
-            <pubDate>Fri, 09 Jul 2021 23:31:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今天《人民日报》头版的主要内容有：1、习近平主持召开中央全面深化改革委员会第二十次会议强调，统筹指导构建新发展格局，推进种业振兴，推动青藏高原生态环境保护和可持续发展，李克强王沪宁韩正出席；2、就中南建交10周年，习近平同南苏丹总统基尔互致贺电；3、哥伦比亚总统杜克通过视频方式向习近平主席致以问候；4、“文明其精神，野蛮其体魄”（习近平的小康故事）——习近平同少年儿童的故事；5、栗战书主持召开第九十七次委员长会议，审议有关法律草案；6、全国政协召开双周协商座谈会，围绕“加快绿色发展，保障农产品质量安全”协商议政，汪洋主持；7、王岐山出席基辛格秘密访华50周年纪念活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4587454.d.html</link>
-            <guid>2235182</guid>
-            <pubDate>Fri, 09 Jul 2021 23:28:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【通用汽车因侧气囊安全隐患召回超41万辆皮卡】当地时间7月9日，美国国家公路交通安全管理局（NHTSA）表示，由于汽车侧气囊出现安全隐患，通用汽车正在召回部分2015年和2016年款雪佛兰索罗德和GMC Sierra1500、2500和3500卡车，共计410019辆。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4586685.d.html</link>
-            <guid>2235180</guid>
-            <pubDate>Fri, 09 Jul 2021 23:22:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【武汉：全力支持重点企业做大做强】武汉市市长程用文9日主持召开支持重点企业做大做强座谈会。程用文说，政府要当好“金牌店小二”，给环境、给服务、给市场、给场景、给数据、给政策、给平台、给渠道，加快营造一流营商环境，加快完善金融、质量等服务体系，更大力度实施首台首套等政策，更大力度开放应用场景，更大力度推进信息数据共享，更大力度制定有效管用政策措施，更大力度搭建创新就业等平台，更大力度畅通政企沟通渠道，全力支持重点企业做大做强。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5984628.d.html</link>
-            <guid>2235179</guid>
-            <pubDate>Fri, 09 Jul 2021 23:22:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【广东昨日新增境外输入确诊病例1例、无症状感染者3例】广东省卫健委公布的数据显示，7月9日0-24时，全省新增境外输入确诊病例1例，广州报告1例，来自缅甸。新增境外输入无症状感染者3例，广州报告2例，分别来自伊拉克、孟加拉国；深圳报告1例，均来自印度。新增出院5例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5983766.d.html</link>
-            <guid>2235177</guid>
-            <pubDate>Fri, 09 Jul 2021 23:16:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国6月份炎热程度创历史新高，由于极端天气的缘故，美国从东海岸到西海岸气象灾害所造成的经济损失已经达到1980年以来最严重的年度受损规模。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5983349.d.html</link>
-            <guid>2235176</guid>
-            <pubDate>Fri, 09 Jul 2021 23:14:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【鸿蒙概念指数成立后大涨近40% 融资客青睐10只标的股增资逾40亿元】自6月3日同花顺发布鸿蒙概念指数以来，截至7月9日收盘，该指数累计上涨39.91%，排名同期同花顺各类板块涨幅第一。在众多看好理由的支持下，北向资金和两融资金开始加仓鸿蒙概念股。统计数据显示，6月3日至7月8日的25个交易日内，鸿蒙概念股中的9只沪股通、深股通标的股合计净买入6.79亿元，其中有5只呈买入状态，占比55.56%；同一时段，10只两融标的股均实现两融余额增长，增长额达40.09亿元。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4585168.d.html</link>
-            <guid>2235174</guid>
-            <pubDate>Fri, 09 Jul 2021 23:11:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
