@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 11 Jul 2021 12:34:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jul 2021 13:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【南非最大城市和港口因抗议活动陷入瘫痪】当地时间7月8日，南非前总统祖马前往警局自首并被送到南非夸祖卢-纳塔尔省某监狱服刑。7月8日起，夸祖卢-纳塔尔省出现各种抗议活动，并逐步升级。7月10日晚间，抗议活动蔓延到该国第一大城市约翰内斯堡，抗议者焚烧汽车、阻塞交通、打砸商店并抢夺商品，甚至殴打警员焚烧警车。位于夸祖卢-纳塔尔省的德班港是该国最大港口，为南部非洲14个国家输送各种主要生活物资，此次抗议活动已让南非这条最大的经济动脉处于停滞状态。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4860804.d.html</link>
+            <guid>2235726</guid>
+            <pubDate>Sun, 11 Jul 2021 13:12:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【雷雨来临 首都机场截至20时共取消航班83架次】预计北京首都国际机场今天（11日）20时40分至22时40分将出现雷雨天气，主要影响终端区西南部。首都机场今日计划航班1071架次，截至20时共取消83架次。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6256797.d.html</link>
+            <guid>2235720</guid>
+            <pubDate>Sun, 11 Jul 2021 13:05:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[贝莱德CEO芬克在G20气候会议上呼吁实施更强有力的气候融资计划。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4855816.d.html</link>
@@ -301,12 +313,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4821468.d.html</link>
             <guid>2235570</guid>
             <pubDate>Sun, 11 Jul 2021 07:04:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【甘肃省委书记尹弘会见中国宝武总经理胡望明】7月8日下午，甘肃省委书记、省人大常委会主任尹弘在兰州会见了中国宝武总经理、党委副书记胡望明。尹弘说，“十四五”时期，甘肃将立足产业基础，坚持市场需求导向，瞄准国际技术前沿，加快产业数字化步伐，不断提升市场竞争力。希望同中国宝武在技术创新、新材料研发、新能源利用等方面加强战略合作，推动产业协同发展，着力培育新的经济增长点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6215469.d.html</link>
-            <guid>2235560</guid>
-            <pubDate>Sun, 11 Jul 2021 06:39:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
