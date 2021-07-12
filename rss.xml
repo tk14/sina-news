@@ -4,11 +4,160 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 12 Jul 2021 05:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jul 2021 06:30:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[港股特斯拉概念板块持续拉升，赣锋锂业涨7.7%，A股赣锋锂业触及涨停；比亚迪股份AH股均涨超7%；雅迪控股涨2.7%，福耀玻璃涨2.1%。]]></title>
+            <guid>2236233</guid>
+            <pubDate>Mon, 12 Jul 2021 06:29:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚S&P/ASX200指数收盘上涨60.20点，涨幅0.83%，报7333.50点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6395002.d.html</link>
+            <guid>2236230</guid>
+            <pubDate>Mon, 12 Jul 2021 06:20:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【顶点软件：HTS极速交易系列产品已在30多家券商完成升级替代】顶点软件接受调研时表示，公司的新交易体系系列产品包括A5信创版分布式核心交易系统、HTS极速交易系列产品。新交易体系的所有解决方案，全面满足信创的要求。其中核心交易系统A5已经在东吴证券全面上线1周年，另有多家券商正在测试过程中。而顶点的HTS系列产品极速交易系统，也已在30多家券商中完成了对原有系统的升级替代。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4998628.d.html</link>
+            <guid>2236229</guid>
+            <pubDate>Mon, 12 Jul 2021 06:18:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：阿塞拜疆表示，在6月份履行了石油减产的承诺。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4998593.d.html</link>
+            <guid>2236228</guid>
+            <pubDate>Mon, 12 Jul 2021 06:18:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【消息称MCU封装产能吃紧 Q3报价上涨15%】据产业链消息，目前微控制器（MCU）封装产能紧张，最小下单量从年初到近期，翻了5倍。从Q3整体封测报价来看，MCU封装涨幅最大，为15%，测试也同步上涨15%；驱动IC封装涨幅则为个位数百分比；存储器封装需求可见度也较高。 (台湾经济日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4997821.d.html</link>
+            <guid>2236224</guid>
+            <pubDate>Mon, 12 Jul 2021 06:13:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全通教育：子公司与华为云基于云计算、大数据领域开展合作】全通教育在互动平台表示，子公司全通智汇（西安）教育科技有限公司与华为云基于云计算、大数据领域开展合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4997682.d.html</link>
+            <guid>2236223</guid>
+            <pubDate>Mon, 12 Jul 2021 06:12:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今年笔电出货量或突破2.36亿台 创历史新高】据TrendForce调查，2020年因远距办公与教学等宅经济需求，使笔电出货表现打破过去年增、减3%的低谷循环，年成长近26%，而此波强劲的需求动能也延续至2021年，预估今年出货量将突破2.36亿台，年成长率15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4996991.d.html</link>
+            <guid>2236221</guid>
+            <pubDate>Mon, 12 Jul 2021 06:08:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[银行板块持续走弱，杭州银行跌超6%，成都银行、江苏银行、南京银行跟跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4996786.d.html</link>
+            <guid>2236220</guid>
+            <pubDate>Mon, 12 Jul 2021 06:07:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沪深两市成交额突破1.1万亿元】A股交易量持续走高，截至目前，沪深两市成交额突破1.1万亿元，其中沪市成交额4746亿元，深市成交额6281亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6392612.d.html</link>
+            <guid>2236219</guid>
+            <pubDate>Mon, 12 Jul 2021 06:06:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国6月批发物价指数年率上涨10.7%，月率上涨1.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4995729.d.html</link>
+            <guid>2236214</guid>
+            <pubDate>Mon, 12 Jul 2021 06:01:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华为鸿蒙 HarmonyOS 应用服务伙伴峰会将于7 月 30 日在杭州举办】华为 HarmonyOS 开发者官方公众号在今日宣布，HarmonyOS 应用服务伙伴峰会在今日开启报名，将于 7 月 30 日在杭州举办。华为 HarmonyOS 应用服务伙伴峰会的将包含以下内容：HarmonyOS 2 最新进展、HarmonyOS 2 最新生态案例解读、HarmonyOS 2 应用与服务方案、Codelabs 及 HarmonyOS 2 创新成果体验。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4995260.d.html</link>
+            <guid>2236213</guid>
+            <pubDate>Mon, 12 Jul 2021 05:57:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[回天新材在互动平台表示，公司研制的PVDF氟膜主要用于太阳能电池背膜产品生产，目前年产能6000万平方米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4994890.d.html</link>
+            <guid>2236211</guid>
+            <pubDate>Mon, 12 Jul 2021 05:54:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德尔股份：泵类产品已用于华为汽车的新能源电驱动系统】德尔股份在互动平台表示，公司的泵类产品已通过直供金康新能源汽车有限公司配套用于华为汽车的新能源电驱动系统。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4994166.d.html</link>
+            <guid>2236210</guid>
+            <pubDate>Mon, 12 Jul 2021 05:49:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[稀土永磁板块走弱，领益智造跌停，科恒股份、惠城环保、久吾高科跟跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6389817.d.html</link>
+            <guid>2236207</guid>
+            <pubDate>Mon, 12 Jul 2021 05:46:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【神州细胞：与国药控股在西北五省达成战略合作】近日，神州细胞与国药控股旗下中西部地区的5家公司（国控河南、国控陕西、国控甘肃、国控宁夏、国控青海）举行了战略合作签约仪式。未来，神州细胞与国药控股将在药房专业服务、渠道合作、服务创新等多方面展开全方位、深度的合作。将把越来越多的优质新产品推向市场，提升创新药品的可及性，进一步保障人民群众的身体健康。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4993275.d.html</link>
+            <guid>2236205</guid>
+            <pubDate>Mon, 12 Jul 2021 05:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新加坡副总理：东盟和中国应深化数码领域等方面的可持续发展合作】7月12日，新加坡副总理兼经济政策统筹部部长王瑞杰在“通商中国”主办的“2021年慧眼中国环球论坛”致开幕辞时表示，今年是东盟与中国建立对话关系30周年，双方在坚实的基础上可进一步深化数码领域等方面的可持续发展合作。王瑞杰称，这30年来，东盟与中国的关系蓬勃发展，不断深化，经济领域的合作造福了东盟及中国的共约20亿人民。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4993137.d.html</link>
+            <guid>2236204</guid>
+            <pubDate>Mon, 12 Jul 2021 05:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【荣耀50连续17天斩获京东+天猫2500元-4000元价位段销量第一】据荣耀官方旗舰店官微发布消息称，荣耀50连续17天斩获京东+天猫平台2500元-4000元价位段销量第一。据称由于销售火爆，公司正全力提拉产能。（中证网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6388786.d.html</link>
+            <guid>2236203</guid>
+            <pubDate>Mon, 12 Jul 2021 05:39:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家卫健委将就儿童青少年近视防控和暑期学生健康有关情况举行发布会】国家卫生健康委于7月13日（周二）上午10：00召开新闻发布会。国家卫生健康委疾控局、妇幼司、中华预防医学会公共卫生眼科学分会、中国疾控中心学校卫生中心有关负责同志及相关专家将出席，介绍儿童青少年近视防控和暑期学生健康有关情况，并回答媒体提问。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4992478.d.html</link>
+            <guid>2236201</guid>
+            <pubDate>Mon, 12 Jul 2021 05:37:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沪深两市成交额连续第8个交易日突破1万亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4992125.d.html</link>
+            <guid>2236199</guid>
+            <pubDate>Mon, 12 Jul 2021 05:35:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  网络安全概念股午后掀涨停潮，绿盟科技、兆日股份、任子行、卫士通、天鹅股份、格尔软件等十余股先后涨停，另有蓝盾股份、奇安信、美亚柏科、深信服、安恒信息等多股涨超10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4990798.d.html</link>
+            <guid>2236192</guid>
+            <pubDate>Mon, 12 Jul 2021 05:27:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国防军工板块午后持续拉升，盟升电子涨超10%，科思科技、中航机电、新光光电、智明达等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4990492.d.html</link>
+            <guid>2236189</guid>
+            <pubDate>Mon, 12 Jul 2021 05:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沪深两市成交额突破9500亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4990454.d.html</link>
+            <guid>2236188</guid>
+            <pubDate>Mon, 12 Jul 2021 05:24:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大和：重申港股阿里巴巴买入评级 目标价260港元】大和发表研究报告指，预计阿里巴巴2022财年首季度整体收入按年升36％，EBITA预测约370亿元人民币，料核心收入按年升17％，本季度中国网络实体货物零售将见高基数，该行重申港股阿里巴巴买入评级，目标价260港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6386140.d.html</link>
+            <guid>2236187</guid>
+            <pubDate>Mon, 12 Jul 2021 05:22:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【吉利推出轿跑SUV星越S 提供两种动力组合四款车型】吉利星越S日前正式上市，共推出四款车型，官方售价为13.57万元-17.17万元。新车基于吉利CMA超级母体架构打造，采用轿跑SUV造型，全系搭载2.0T发动机。（上海证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6385752.d.html</link>
+            <guid>2236186</guid>
+            <pubDate>Mon, 12 Jul 2021 05:20:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乐高集团高级副总裁：今年在华品牌零售店将达300家】乐高集团高级副总裁、中国区总经理黄国强近日接受采访时称，今年乐高集团在华品牌零售店将达到300家，未来在华市场布局将进一步向二三线城市倾斜。（中国新闻网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6385686.d.html</link>
+            <guid>2236185</guid>
+            <pubDate>Mon, 12 Jul 2021 05:20:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[光伏股继续走强，光伏指数涨超2%再创历史新高。成分股中，隆基股份、阳光电源、中环股份、晶盛机电、上机数控、锦浪科技、中信博、金博股份等创历史新高。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6384945.d.html</link>
@@ -39,7 +188,7 @@
             <pubDate>Mon, 12 Jul 2021 05:08:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【消息称台积电将扩产大28nm产能】据市场消息，台积电为了满足车用芯片、CMOS影像感测器（CIS）、驱动芯片、射频元件等客户需求，规划积极扩大成熟制程的28nm产能，预计未来2-3年，28nm总产能每月可望扩增10万到15万片。 (台湾经济日报)]]></title>
+            <title><![CDATA[【消息称台积电将扩大28nm产能】据市场消息，台积电为了满足车用芯片、CMOS影像感测器（CIS）、驱动芯片、射频元件等客户需求，规划积极扩大成熟制程的28nm产能，预计未来2-3年，28nm总产能每月可望扩增10万到15万片。 (台湾经济日报)]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6383723.d.html</link>
             <guid>2236176</guid>
             <pubDate>Mon, 12 Jul 2021 05:08:04 GMT</pubDate>
@@ -175,173 +324,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6356066.d.html</link>
             <guid>2236125</guid>
             <pubDate>Mon, 12 Jul 2021 03:03:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新西兰总理阿德恩将于本周主持亚太经合组织非正式领导人会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6355404.d.html</link>
-            <guid>2236122</guid>
-            <pubDate>Mon, 12 Jul 2021 03:01:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国信通院：截至6月底，全国增值电信业务经营许可企业共106281家】今日，中国信通院发布《国内增值电信业务许可情况分析报告（2021.6）》。报告显示，截至2021年6月底，全国增值电信业务经营许可企业共106281家（其中4900家企业同时持有工业和信息化部及省通信管理局颁发的增值电信业务经营许可），比上月增长2.27%，其中工业和信息化部许可的跨地区企业24355家，各省（区、市）通信管理局许可的本地企业合计86826家，分别比上月增长1.10%和2.53%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6354109.d.html</link>
-            <guid>2236118</guid>
-            <pubDate>Mon, 12 Jul 2021 02:56:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【科思科技：公司智能无线电基带处理芯片已完成所有前端开发工作 全面转入后端设计】科思科技在互动平台表示，公司智能无线电基带处理芯片已完成所有前端开发工作，全面转入后端设计，为了确保芯片研发的成功，过去一年的时间公司对几千万行代码完成了模拟仿真，纠正了几千个bug。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6353967.d.html</link>
-            <guid>2236116</guid>
-            <pubDate>Mon, 12 Jul 2021 02:56:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【重庆银保监局：互联网贷款业务严禁嵌入不法支付机构 防止形成“资金池”】近日重庆银保监局印发《关于进一步规范银行业金融机构互联网贷款业务的通知》。《通知》要求加强贷款资金支付和回收管理。银行业金融机构的资金支付和回收必须逐笔确认，单独管理，严禁在支付和回收流程中嵌入不具备合法支付业务资质的合作机构，防止形成“资金池”。对于不能有效防控信贷资金和还款资金被挪用的合作业务，应立即停止合作。在整改完成前，不得新增业务，并妥善处置存量业务风险。 (21世纪经济报道)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6353850.d.html</link>
-            <guid>2236115</guid>
-            <pubDate>Mon, 12 Jul 2021 02:55:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  军工股持续拉升，光力科技一度触板（20%），霍莱沃、光启技术、苏试试验、航锦科技等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6353667.d.html</link>
-            <guid>2236114</guid>
-            <pubDate>Mon, 12 Jul 2021 02:54:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【太原出台新规：同一套住宅6年内只能有学区内一个小学学位】据山西省太原市教育局印发的《关于做好2021年普通中小学招生入学工作的通知》，为防止学区房炒作，今年起，太原市将实行房产地址“学位限定”，即自登记入学之年起，同一套住宅6年内只能享有学区内小学1个学位，3年内只能享有学区内初中1个学位(符合国家生育政策的除外)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4957006.d.html</link>
-            <guid>2236113</guid>
-            <pubDate>Mon, 12 Jul 2021 02:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据DOWNDETECTOR：用户报告显示亚马逊网页服务出现问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6353127.d.html</link>
-            <guid>2236112</guid>
-            <pubDate>Mon, 12 Jul 2021 02:52:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【证监会发文督促投行归位尽责 坚决杜绝“带病闯关”】7月9日，证监会官网发布《关于注册制下督促证券公司从事投行业务归位尽责的指导意见》，对注册制下证券公司投行业务归位尽责作出全面部署和安排。《意见》自公布之日起施行。扩大现场检查和督导面，坚持“申报即担责”的原则，对收到现场检查或督导通知后撤回的项目，应依法组织核查，坚决杜绝“带病闯关”的行为。建立投行业务违规问题台帐，重点对项目撤否率高、公司债券违约比例高、执业质量评价低、市场反映问题较多的证券公司开展专项检查。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6352370.d.html</link>
-            <guid>2236111</guid>
-            <pubDate>Mon, 12 Jul 2021 02:50:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  银行股高开低走，成都银行、杭州银行双双跌超5%，江苏银行、宁波银行、南京银行、建设银行等集体下行翻绿。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4955273.d.html</link>
-            <guid>2236110</guid>
-            <pubDate>Mon, 12 Jul 2021 02:47:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[腾讯控股下跌1.9%，此前一度上涨2.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4955047.d.html</link>
-            <guid>2236109</guid>
-            <pubDate>Mon, 12 Jul 2021 02:46:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【银保监会：一季度接收并转送银行业消费投诉78414件 环比增长2.9%】银保监会消费者权益保护局发布关于2021年第一季度银行业消费投诉情况的通报。其中，2021年第一季度，中国银保监会及其派出机构共接收并转送银行业消费投诉78414件，环比增长2.9%。工商银行、农业银行的投诉量位列国有大型商业银行前两位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4954155.d.html</link>
-            <guid>2236107</guid>
-            <pubDate>Mon, 12 Jul 2021 02:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[工信部拟成立网络安全产业高质量发展专家咨询委员会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6350133.d.html</link>
-            <guid>2236106</guid>
-            <pubDate>Mon, 12 Jul 2021 02:42:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【发改委印发《国家物流枢纽网络建设实施方案（2021-2025年）》】国家发改委印发《国家物流枢纽网络建设实施方案（2021-2025年）》。《方案》指出，"十四五"期间将聚焦打造"通道+枢纽+网络"现代物流运行体系。围绕加快健全国家物流枢纽网络，按照"成熟一个、落地一个"原则，稳步推进120个左右国家物流枢纽布局建设；支持城市群内国家物流枢纽共建共享共用和一体化衔接，强化都市圈物流网点体系与国家物流枢纽网络有机衔接、协同联动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6349714.d.html</link>
-            <guid>2236104</guid>
-            <pubDate>Mon, 12 Jul 2021 02:41:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【工信部：强化数据安全技术研究与应用】工信部公开征求对《网络安全产业高质量发展三年行动计划（2021-2023年）（征求意见稿）》的意见。意见指出，针对数据防泄露、防篡改、防窃取等传统数据安全保障需求，进一步优化数据安全管理、分类分级安全防护等产品功能和性能，提升数据安全智能防护和管理水平。针对数据安全共享需求，大力推进安全多方计算、联邦学习、可信计算等技术的研究攻关和部署应用，促进数据要素安全有序流动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4952646.d.html</link>
-            <guid>2236102</guid>
-            <pubDate>Mon, 12 Jul 2021 02:39:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【东京奥运空场致电视销量大增：居酒屋遭双重打击】日前，东京奥组委陆续公布各项赛事的空场决定，导致东京酒店出现了大批退订浪潮。除此之外，东京市政府还要求提供酒类的餐饮店从7月12日开始停止营业。这对东京大量的居酒屋等经营场所造成了双重打击。但在餐饮业遭受巨大打击的同时，电视机等家用电器在日本的销量却节节攀升。一位日本民众表示“本来买了闭幕式的门票，退钱后用这个钱买台电视，屏幕更大一点，可以看体操和球类比赛的”。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6348121.d.html</link>
-            <guid>2236101</guid>
-            <pubDate>Mon, 12 Jul 2021 02:35:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞丰光电：目前公司显示、照明、其他LED业务均处于满产满销的状态】瑞丰光电在互动平台表示，目前公司显示、照明、其他LED业务均处于满产满销的状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4951488.d.html</link>
-            <guid>2236098</guid>
-            <pubDate>Mon, 12 Jul 2021 02:34:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【山西焦煤：公司第三季度长协价格相比上季度 各煤种平均含税价约上涨100元/吨】山西焦煤在互动平台表示，公司第三季度长协价格比上季度，各煤种平均含税价约上涨100元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4950994.d.html</link>
-            <guid>2236096</guid>
-            <pubDate>Mon, 12 Jul 2021 02:32:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国产自主海洋天然气水合物技术装备海试获重大进展】中海油研究总院有限责任公司（简称研究总院）对外宣布，由国家重点研发计划“海洋天然气水合物试采技术和工艺”项目支持的“国产自主天然气水合物钻探和测井技术装备海试任务”在我国南海海域顺利完成海试作业，此举标志着我国海洋天然气水合物钻探和测井技术取得重大进展。]]></title>
-            <guid>2236095</guid>
-            <pubDate>Mon, 12 Jul 2021 02:32:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【百度在海南成立人工智能公司】天眼查App显示，近日，海南小度人工智能有限公司成立，注册资本1000万元，该公司由北京百度网讯科技有限公司间接100%持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6344275.d.html</link>
-            <guid>2236088</guid>
-            <pubDate>Mon, 12 Jul 2021 02:21:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国家航天局：计划组织部分月球样品入藏湖南韶山】记者从国家航天局7月12日召开的新闻发布会上了解到，国家航天局正计划组织部分月球样品入藏毛泽东同志的故乡湖南韶山进行异地灾备，以告慰毛泽东同志提出的“可上九天揽月”这个夙愿。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4948055.d.html</link>
-            <guid>2236087</guid>
-            <pubDate>Mon, 12 Jul 2021 02:21:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 北京2021年积分落户名单6045人入围，7名人员弄虚作假被取消积分落户资格。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6344112.d.html</link>
-            <guid>2236086</guid>
-            <pubDate>Mon, 12 Jul 2021 02:21:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国中免一度上涨6.2%，创4月14日以来最大涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4947827.d.html</link>
-            <guid>2236084</guid>
-            <pubDate>Mon, 12 Jul 2021 02:20:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[雅虎财经前瞻美国6月CPI：预计数据将显示CPI录得上涨，原因是供应链瓶颈和劳动力短缺拖累了经济复苏，并推高了通胀压力。季调后CPI月率继5月份上涨0.6%之后，预计本月将录得0.5%。与去年相比，CPI可能增长4.9% ，几乎与5月份5.0%的13年高点持平。预计剔除食品和能源价格的核心CPI同比上涨4%，为近30年来的最大涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6343619.d.html</link>
-            <guid>2236082</guid>
-            <pubDate>Mon, 12 Jul 2021 02:20:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国一个核反应堆自动停止运行 主管机构称没有辐射泄漏】据韩国原子能安全委员会的公告，韩国古里3号核反应堆在当地时间周一06:12自动停止运行，该反应堆原计划不久将进行维护。该设施处于安全状态，没有辐射泄漏。将进行检查。计划维护时间定在7月14日至12月7日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6343335.d.html</link>
-            <guid>2236081</guid>
-            <pubDate>Mon, 12 Jul 2021 02:19:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股比亚迪股份涨幅一度扩大至6.2%，为6月17日以来的最大涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6342632.d.html</link>
-            <guid>2236080</guid>
-            <pubDate>Mon, 12 Jul 2021 02:16:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上证指数涨幅扩大至1％，深证成指现涨超1.7％，北向资金净流入超20亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4945763.d.html</link>
-            <guid>2236078</guid>
-            <pubDate>Mon, 12 Jul 2021 02:13:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  CRO板块持续拉升回暖，博腾股份涨超10%，康龙化成、华测检测、昭衍新药、美迪西等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6341538.d.html</link>
-            <guid>2236076</guid>
-            <pubDate>Mon, 12 Jul 2021 02:11:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沃特股份在活动平台表示，公司未向客户提供芯片材料配套。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4945319.d.html</link>
-            <guid>2236075</guid>
-            <pubDate>Mon, 12 Jul 2021 02:11:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
