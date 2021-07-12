@@ -4,11 +4,64 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 12 Jul 2021 19:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jul 2021 20:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  标普500指数的11个板块里，金融板块和通信板块至少涨0.9%，房地产涨超0.8%，能源板块则跌超0.1%，可选消费跌超0.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6493720.d.html</link>
+            <guid>2236905</guid>
+            <pubDate>Mon, 12 Jul 2021 20:13:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  维珍银河(SPCE.N)收跌超17%，创去年12月14日以来最大单日跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6493272.d.html</link>
+            <guid>2236898</guid>
+            <pubDate>Mon, 12 Jul 2021 20:03:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  道指初步收涨逾百点，成分股迪士尼涨超4%领跑，高盛涨超2%，摩根大通等涨超1%，但苹果和波音跌约0.4%。半导体和银行指数涨超1%，表现好于三大指数。特斯拉涨超4%。理想汽车涨约3%，但高途教育、叮咚买菜、斗鱼均跌约8%，普普文化跌超17%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6493174.d.html</link>
+            <guid>2236893</guid>
+            <pubDate>Mon, 12 Jul 2021 20:00:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  金融科技公司Greensky(GSKY.O)：公司与美国金融消费者保护局（CFPB）达成协议并同意支付250万美元的罚款，以解决此前披露的调查。]]></title>
+            <guid>2236891</guid>
+            <pubDate>Mon, 12 Jul 2021 19:59:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国对德国入境旅游人员警告级别下调至2级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6493101.d.html</link>
+            <guid>2236890</guid>
+            <pubDate>Mon, 12 Jul 2021 19:59:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【传三星与特斯拉达成价值4亿美元的摄像头交易】据韩媒报道，三星已经签署了一项4.36亿美元的巨额协议，向 "美国第一大电动车制造商 "提供摄像头，用于该公司2019年11月发布的一款汽车。报道称，该电动车制造商计划推出一款新型电动车，该车型没有侧后视镜，而是通过车上配备的摄像头让司机观察后方情况，这款电动车有超过8个摄像头，用于自动驾驶。据猜测，三星将为特斯拉(TSLA.O)旗下电动皮卡Cybertruck提供摄像头。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6493076.d.html</link>
+            <guid>2236889</guid>
+            <pubDate>Mon, 12 Jul 2021 19:58:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Greensky(GSKY.O)短线走低，涨幅收窄至2.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5096404.d.html</link>
+            <guid>2236888</guid>
+            <pubDate>Mon, 12 Jul 2021 19:35:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：华特迪士尼(DIS.N)计划提高ESPN+的月度和年度订阅费用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5096106.d.html</link>
+            <guid>2236887</guid>
+            <pubDate>Mon, 12 Jul 2021 19:26:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据JOY FM：加纳将从9月开始试行数字货币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6491804.d.html</link>
+            <guid>2236886</guid>
+            <pubDate>Mon, 12 Jul 2021 19:25:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国民主党参议员Warren：敦促司法部门及美国联邦贸易委员会(FTC)就此对亚马逊(AMZN.O)展开调查。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6491489.d.html</link>
@@ -258,60 +311,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6477686.d.html</link>
             <guid>2236806</guid>
             <pubDate>Mon, 12 Jul 2021 16:07:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：微软(MSFT.O)将通过收购网络安全公司RiskIQ加强网络安全数字化转型和混合工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk5081361.d.html</link>
-            <guid>2236801</guid>
-            <pubDate>Mon, 12 Jul 2021 15:59:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亚马逊(AMZN.O)CEO贝佐斯旗下太空飞行公司蓝色起源：7月20日太空飞行活动的直播将从美国中央时区（CDT）06:30开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6476913.d.html</link>
-            <guid>2236800</guid>
-            <pubDate>Mon, 12 Jul 2021 15:56:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  法国正推动更加宽大的欧盟2030年汽车尾气排放目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6476310.d.html</link>
-            <guid>2236794</guid>
-            <pubDate>Mon, 12 Jul 2021 15:45:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[博通(AVGO.O)收复失地，现涨1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk5080514.d.html</link>
-            <guid>2236793</guid>
-            <pubDate>Mon, 12 Jul 2021 15:41:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩根士丹利：科技股估值令人想起互联网泡沫时期】摩根士丹利在研报中写道，大型科技和互联网股的估值处于“极端”水平，市场修正10％至15％的可能性正在上升。低利率和经济增长的坚实背景推动科技行业的股价/销售比“达到2000年互联网泡沫高峰时的水平”。摩根士丹利财富管理的首席投资官Lisa Shalett表示，“问题是科技行业的盈利能力和利润状况脆弱”。大摩补充说，投入成本上升、美元走软、竞争加剧、税率上升、监管加强和客户阻力给该行业带来了“前所未有的挑战”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk5080467.d.html</link>
-            <guid>2236791</guid>
-            <pubDate>Mon, 12 Jul 2021 15:41:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  以色列安全策略管理公司Tufin Software(TUFN.N)直线拉涨，现涨超28%；此前一度涨约38%，为2019年4月以来最大涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6476009.d.html</link>
-            <guid>2236790</guid>
-            <pubDate>Mon, 12 Jul 2021 15:40:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本民调：支持取消奥运会和空场举办者各占四成】日本《读卖新闻》9日至11日实施的全国舆论调查结果显示，对于绝大多数场馆已确定空场举办的东京奥运会，40%的受访者认为“应该空场举办”。明显高于6月实施的上次调查得出的26%。这显示出对日本政府和东京都等相关方面作出的在多数场馆空场举办的决定，越来越多日本民众持肯定态度。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk5080316.d.html</link>
-            <guid>2236788</guid>
-            <pubDate>Mon, 12 Jul 2021 15:39:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  快而精医药(QGEN.N)复牌后跌近4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk5080138.d.html</link>
-            <guid>2236787</guid>
-            <pubDate>Mon, 12 Jul 2021 15:36:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【OPEC+谈判僵局仍无打破迹象，8月增加供应的窗口正在关闭】① 一周前，OPEC及其盟友因为发生激烈争执而停止了产量谈判。现在，8月份增加石油产量的窗口正在关闭，却没有任何可能达成协议的迹象；② OPEC+的代表称，尽管其他联盟成员希望达成妥协，但是几乎没有迹象表明沙特和阿联酋在解决有关如何计算减产幅度的争端上取得了进展；③ 与此同时，因消息未公开而不愿具名的代表透露，上述两国都已经开始锁定下个月的客户供应量，这就造成即使谈判突然取得突破，两国也几乎没有做出调整的空间；④ 在8月份销量锁定，而且大多数海湾国家下周将迎来一个伊斯兰假期、政府部门和企业在下周大部分时间或全周时间都将关闭的情况下，即使俄罗斯、美国或其他方面设法促成妥协，OPEC+或许也无法迅速增加供应。而且，这个假期的时点也意味着，要一直等到7月末、甚至8月初的时候，下一次会议才有可能举行；⑤ 谈判持续陷入僵局让石油市场陷入了困境，不确定何时或是否会获得更多供应。虽然过去一周伦敦油价已下跌约3％，跌至每桶75美元以下，但仍有迹象表明市场供不应求。自从上周谈判破裂以来，有关各方一直在努力让OPEC及其盟国回到谈判桌前并恢复将月产量增加40万桶的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk5080096.d.html</link>
-            <guid>2236786</guid>
-            <pubDate>Mon, 12 Jul 2021 15:35:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
