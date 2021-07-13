@@ -4,11 +4,112 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 13 Jul 2021 19:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jul 2021 20:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[标普500指数的11个板块中，房地产板块收跌逾1.3%，可选消费和金融也跌超1.0%，收盘上涨的板块仅有科技板块，涨幅超过0.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5305351.d.html</link>
+            <guid>2238237</guid>
+            <pubDate>Tue, 13 Jul 2021 20:12:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛给予东方财富买进的初始评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6701243.d.html</link>
+            <guid>2238236</guid>
+            <pubDate>Tue, 13 Jul 2021 20:12:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[达美航空(DAL.N)：新增飞机将于2022年第一季度完成交付。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5304935.d.html</link>
+            <guid>2238234</guid>
+            <pubDate>Tue, 13 Jul 2021 20:07:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[达美航空(DAL.N)：已分别与波音(BA.N)和空客签订协议，将增加29架二手波音737-900ER并租赁7架二手空客A350 -900。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6700730.d.html</link>
+            <guid>2238232</guid>
+            <pubDate>Tue, 13 Jul 2021 20:06:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[达美航空(DAL.N)：随着旅游需求复苏，公司将增加空客和波音(BA.N)的飞机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5304653.d.html</link>
+            <guid>2238228</guid>
+            <pubDate>Tue, 13 Jul 2021 20:02:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特殊目的收购公司（SPAC）Stable Road Acquisition Corp.与太空货运公司Momentus的合并面临被美国证券交易委员会（SEC）罚款。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6700500.d.html</link>
+            <guid>2238227</guid>
+            <pubDate>Tue, 13 Jul 2021 20:02:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西经济部长：预计2021年经济增速为5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5304607.d.html</link>
+            <guid>2238226</guid>
+            <pubDate>Tue, 13 Jul 2021 20:02:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：萨尔瓦多政府最近的行动可能会阻碍有关国际货币基金组织项目的谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5304573.d.html</link>
+            <guid>2238225</guid>
+            <pubDate>Tue, 13 Jul 2021 20:01:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：腾讯试图以超过3亿欧元的价格收购游戏开发商Crytek。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5304555.d.html</link>
+            <guid>2238223</guid>
+            <pubDate>Tue, 13 Jul 2021 20:01:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【道指初步收跌约百点，生物科技和银行板块、以及小盘股指数跌超1%】道指成分股中，波音收跌逾4%，银行股摩根大通和高盛在财报发布后跌超1%，但微软涨超1%，苹果也涨超0.6%。电动汽车类股普跌，特斯拉和蔚来汽车跌超2%。中概股虎牙涨6%，腾讯音乐、斗鱼、好未来涨超5%，京东涨超4%，腾讯ADR涨超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5304548.d.html</link>
+            <guid>2238222</guid>
+            <pubDate>Tue, 13 Jul 2021 20:00:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国邮政署监察人员表示，正在审核电动汽车过渡计划。]]></title>
+            <guid>2238220</guid>
+            <pubDate>Tue, 13 Jul 2021 19:59:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中信里昂：将周大福(01929.HK)评级从买进下调至跑赢大盘，目标价19.6港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6700323.d.html</link>
+            <guid>2238218</guid>
+            <pubDate>Tue, 13 Jul 2021 19:58:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：腾讯控股(00700.HK)试图以超过3亿欧元收购电子游戏开发商Crytek。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6700319.d.html</link>
+            <guid>2238217</guid>
+            <pubDate>Tue, 13 Jul 2021 19:58:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Workhorse(WKHS.O)尾盘拉升，跌幅一度收窄至0.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6700316.d.html</link>
+            <guid>2238216</guid>
+            <pubDate>Tue, 13 Jul 2021 19:58:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家安全顾问沙利文：美国将在本周晚些时候宣布针对勒索软件攻击的新行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6699672.d.html</link>
+            <guid>2238215</guid>
+            <pubDate>Tue, 13 Jul 2021 19:44:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[滴滴尾盘涨幅扩大至10%，报12.3美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5303427.d.html</link>
+            <guid>2238214</guid>
+            <pubDate>Tue, 13 Jul 2021 19:37:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华特迪士尼(DIS.N)：高级执行副总裁、总法律顾问兼秘书Alan N. Braverman已于7月12日告知公司他将辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5302931.d.html</link>
+            <guid>2238213</guid>
+            <pubDate>Tue, 13 Jul 2021 19:27:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美股新能源车板块持续走低，Nikola跌4.3%，Workhorse跌4%，特斯拉跌2.4%，蔚来汽车跌2.2%，小鹏汽车跌1.4%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5302124.d.html</link>
@@ -235,94 +336,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6684627.d.html</link>
             <guid>2238137</guid>
             <pubDate>Tue, 13 Jul 2021 16:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国民主党参议员Tester：两党基础设施法案文本将于周五公布。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6684173.d.html</link>
-            <guid>2238136</guid>
-            <pubDate>Tue, 13 Jul 2021 16:31:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[B站涨幅重新扩大至超过4.8%，逼近日高112.28美元。此前B站宕机，网传有火情发生。上海消防深夜发布消息表示：B站总部大楼未出现火情，未接到相关报警。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6684123.d.html</link>
-            <guid>2238135</guid>
-            <pubDate>Tue, 13 Jul 2021 16:31:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联合航空(UAL.O)：正对一家瑞典电动飞机初创公司Heart Aerospace进行投资，并可能向其购买100架小型飞机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5288210.d.html</link>
-            <guid>2238134</guid>
-            <pubDate>Tue, 13 Jul 2021 16:27:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国的消费贷款增长平稳，与居民消费增长的趋势基本一致】中国人民银行金融市场司司长邹澜称，6月末，人民币个人消费贷款余额同比增长13%。其中，短期消费贷款增长11.1%，中长期消费贷款增长13.4%。随着经济社会发展和人民生活水平的提高，居民消费还有较大的提升空间。人民银行将积极引导商业银行审慎、规范开展消费金融业务，加强消费贷款用途管理，发挥好消费金融在支持居民消费升级和促进双循环中的积极作用。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6683514.d.html</link>
-            <guid>2238132</guid>
-            <pubDate>Tue, 13 Jul 2021 16:24:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  花旗集团(C.N)财资及贸易金融部（TTS）拉美地区宣布成功推出花旗数字账户。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5287793.d.html</link>
-            <guid>2238129</guid>
-            <pubDate>Tue, 13 Jul 2021 16:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[可口可乐(KO.N)：将推出更新版无糖可口可乐，该版本使用全新包装和"新配方"。]]></title>
-            <guid>2238128</guid>
-            <pubDate>Tue, 13 Jul 2021 16:19:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：Square(SQ.N)计划推出内置点击支付功能的新支付终端。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5287187.d.html</link>
-            <guid>2238127</guid>
-            <pubDate>Tue, 13 Jul 2021 16:15:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱尔兰方面表示，本周有21.2万人领取失业救济金，比上周减少了9200人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5287140.d.html</link>
-            <guid>2238126</guid>
-            <pubDate>Tue, 13 Jul 2021 16:15:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海消防称b站大楼未见火情】7月13日晚，上海消防发布消息称，网传b站崩了有火情发生，经了解，位于上海市政立路485号国正中心内的哔哩哔哩弹幕网B站（总部）未出现火情，未接到相关报警。具体情况以站方公布为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6682329.d.html</link>
-            <guid>2238125</guid>
-            <pubDate>Tue, 13 Jul 2021 16:10:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Facebook(FB.O)：推出安全检查功能，以保障Instagram用户的账户安全。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6681465.d.html</link>
-            <guid>2238123</guid>
-            <pubDate>Tue, 13 Jul 2021 16:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上半年股票私募成绩单新鲜出炉】第三方机构统计数据显示，上半年国内所有满6个月的股票私募基金，平均盈利8.02%。其中，百亿级股票私募机构平均收益率为4.49%，但收益率最高的机构上半年大赚55.78%。此外，分规模区间来看，今年上半年收益率最高的股票私募机构规模组别，则为20亿至50亿元。百亿级私募中，但斌的东方港湾和王亚伟的千合资本，上半年均出现亏损。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6680766.d.html</link>
-            <guid>2238118</guid>
-            <pubDate>Tue, 13 Jul 2021 15:53:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：HBO/HBO MAX领跑艾美奖提名，共获得130项提名；奈飞(NFLX.O)获129项提名。]]></title>
-            <guid>2238117</guid>
-            <pubDate>Tue, 13 Jul 2021 15:51:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【杰富瑞集团：美国通胀数据很难被认为是暂时的】杰富瑞集团首席经济学家Aneta Markowska表示，美国6月的通胀数据显示了压力的广度、强度和持续性。汽车价格等可能会逆转，但CPI的其他关键组成部分，如业主等价租金，正显示出明显的价格压力。Markowska表示，“人们很容易把最新的数据当作是又一次的特例而不予理会，因为几个小类别提供了很大的贡献，但即使排除了所有这些因素，核心通胀率环比仍上升0.3%，年率仍上升3.2%。鉴于严重的库存短缺和没有需求减弱的迹象，很难想象这些压力会在短期内减轻。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5284881.d.html</link>
-            <guid>2238115</guid>
-            <pubDate>Tue, 13 Jul 2021 15:45:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【股市收盘】德国DAX30指数7月13日（周二）收盘上涨2.19点，涨幅0.01%，报15792.70点；英国富时100指数7月13日（周二）收盘上涨0.38点，涨幅0.01%，报7125.80点；法国CAC40指数7月13日（周二）收盘下跌0.78点，跌幅0.01%，报6558.47点；欧洲斯托克50指数7月13日（周二）收盘下跌1.16点，跌幅0.03%，报4092.22点；西班牙IBEX35指数7月13日（周二）收盘下跌122.70点，跌幅1.39%，报8694.00点；意大利富时MIB指数7月13日（周二）收盘下跌120.70点，跌幅0.48%，报25162.50点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6680217.d.html</link>
-            <guid>2238114</guid>
-            <pubDate>Tue, 13 Jul 2021 15:42:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  康菲石油(COP.N)：季度股息为每股0.43美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6679880.d.html</link>
-            <guid>2238112</guid>
-            <pubDate>Tue, 13 Jul 2021 15:38:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
