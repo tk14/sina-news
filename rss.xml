@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 13 Jul 2021 18:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jul 2021 19:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美股新能源车板块持续走低，Nikola跌4.3%，Workhorse跌4%，特斯拉跌2.4%，蔚来汽车跌2.2%，小鹏汽车跌1.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5302124.d.html</link>
+            <guid>2238211</guid>
+            <pubDate>Tue, 13 Jul 2021 19:13:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务院：正在与伊朗就在押人员问题进行间接但积极的讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5301679.d.html</link>
+            <guid>2238210</guid>
+            <pubDate>Tue, 13 Jul 2021 19:05:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党参议员Cramer：共和党正在就反对提高债务上限投票进行讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5301442.d.html</link>
+            <guid>2238207</guid>
+            <pubDate>Tue, 13 Jul 2021 19:02:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  推特(TWTR.N)发言人：周二与英国首相约翰逊进行了“建设性的对话”，讨论了如何应对网络虐待的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6697051.d.html</link>
+            <guid>2238205</guid>
+            <pubDate>Tue, 13 Jul 2021 18:59:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  ICE布伦特9月原油期货实盘价格周二收涨1.33美元，涨幅1.77%，报76.49美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6695951.d.html</link>
+            <guid>2238201</guid>
+            <pubDate>Tue, 13 Jul 2021 18:44:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  ARK基金创始人Cathie Wood：美国债券市场存在“泡沫”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5299401.d.html</link>
+            <guid>2238197</guid>
+            <pubDate>Tue, 13 Jul 2021 18:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  雷神科技(RTX.N)跌幅扩大至0.66%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5299367.d.html</link>
+            <guid>2238194</guid>
+            <pubDate>Tue, 13 Jul 2021 18:30:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：雷神科技(RTX.N)就多元化培训问题受到共和党参议员的质询。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6695068.d.html</link>
+            <guid>2238193</guid>
+            <pubDate>Tue, 13 Jul 2021 18:30:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[英国二季度伦敦新屋销售同比增长6%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5299170.d.html</link>
@@ -275,47 +323,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6679880.d.html</link>
             <guid>2238112</guid>
             <pubDate>Tue, 13 Jul 2021 15:38:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[B站已恢复正常，此前出现疑似服务器宕机事故。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5284187.d.html</link>
-            <guid>2238110</guid>
-            <pubDate>Tue, 13 Jul 2021 15:35:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫官员：某些服务部门的提价是否反映了哄抬价格，还有待观察，这当然是值得调查的问题；白宫经济学家密切关注房价、房租。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5284038.d.html</link>
-            <guid>2238108</guid>
-            <pubDate>Tue, 13 Jul 2021 15:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫官员：预计推高物价的供应链问题将在“不远的将来”得到缓解，但无法确切说明具体时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6679548.d.html</link>
-            <guid>2238105</guid>
-            <pubDate>Tue, 13 Jul 2021 15:32:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【大恒科技：获股东任奇峰及其一致人任沛瑞举牌 持股比例达5%】大恒科技公告，公司接到股东任奇峰及其一致行动人任沛瑞的通知，7月9日，任沛瑞增持公司股份56.99万股，截止到7月9日收盘，任奇峰、任沛瑞合计持有公司股份2190万股股票，占公司股本总额的比例为5.0147%。此次权益变动不会导致公司控股股东、实控人的变化。]]></title>
-            <guid>2238103</guid>
-            <pubDate>Tue, 13 Jul 2021 15:29:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[电子艺界(EA.O)涨超3%，此前获BMO Capital上调目标价。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5283468.d.html</link>
-            <guid>2238101</guid>
-            <pubDate>Tue, 13 Jul 2021 15:24:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大恒科技：获股东任奇峰及其一致人任沛瑞举牌 持股比例达5%】大恒科技(600288)7月13日晚间公告，公司接到股东任奇峰及其一致行动人任沛瑞的通知，7月9日，任沛瑞增持公司股份56.99万股，截止到7月9日收盘，任奇峰、任沛瑞合计持有公司股份2190万股股票，占公司股本总额的比例为5.0147%。此次权益变动不会导致公司控股股东、实控人的变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5283280.d.html</link>
-            <guid>2238097</guid>
-            <pubDate>Tue, 13 Jul 2021 15:22:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[碧桂园在港交所公告称，公司发行额外2亿美元2026年到期优先票据，利率2.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6678711.d.html</link>
-            <guid>2238094</guid>
-            <pubDate>Tue, 13 Jul 2021 15:20:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
