@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 14 Jul 2021 16:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jul 2021 17:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Westwood Holdings(WHG.N)仍处于停牌状态，停牌前涨近20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5495843.d.html</link>
+            <guid>2239575</guid>
+            <pubDate>Wed, 14 Jul 2021 17:20:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Westwood Holdings(WHG.N)证实Americana Partners提出以25美元/股的价格收购公司的要约。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca6892458.d.html</link>
+            <guid>2239574</guid>
+            <pubDate>Wed, 14 Jul 2021 17:20:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[鲍威尔：二手汽车价格上涨应当是暂时性的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5495814.d.html</link>
+            <guid>2239573</guid>
+            <pubDate>Wed, 14 Jul 2021 17:20:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  燕麦奶公司Oatly(OTLY.O)小幅反弹，跌幅收窄至2.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5494749.d.html</link>
+            <guid>2239555</guid>
+            <pubDate>Wed, 14 Jul 2021 17:05:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：07月15日01时00分在中国台湾附近发生4.0级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5494593.d.html</link>
+            <guid>2239548</guid>
+            <pubDate>Wed, 14 Jul 2021 17:04:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【百亿私募业绩分化：首尾差异巨大，量化巨头表现出色】截至6月29日，该机构监测到的71家百亿级证券私募中，共计有66家私募在2021年上半年实现了正收益，占比为92.96％。收益率排名前三的百亿级私募，上半年的收益率分别为24.08％、22.59％和22.24％；倒数前三的百亿级私募，上半年的收益率分别为-3.65％、-3.13％和-2.99％。指数增强策略产品表现相当亮眼，主流百亿量化巨头的指数增强产品均跑赢指数；量化对冲策略则表现相对不佳。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca6891080.d.html</link>
+            <guid>2239545</guid>
+            <pubDate>Wed, 14 Jul 2021 17:03:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：目前3.5万亿美元的预算和解法案框架反映了拜登的优先事项。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5493852.d.html</link>
+            <guid>2239536</guid>
+            <pubDate>Wed, 14 Jul 2021 16:54:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：德尔塔毒株对所有年龄段的美国人都构成威胁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5493507.d.html</link>
+            <guid>2239533</guid>
+            <pubDate>Wed, 14 Jul 2021 16:49:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国共和党参议员柯林斯：两党在基础设施法案方面还需要做更多的工作。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5492485.d.html</link>
@@ -91,141 +139,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6885933.d.html</link>
             <guid>2239480</guid>
             <pubDate>Wed, 14 Jul 2021 15:56:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯政府：欧盟碳计划将影响到俄罗斯76亿美元出口。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5488993.d.html</link>
-            <guid>2239476</guid>
-            <pubDate>Wed, 14 Jul 2021 15:50:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微软宣布为商业客户提供Windows 365 Cloud PC服务】微软正式发布面向企业用户的Windows 365 Cloud PC，这是一项新的云服务，将可让企业客户从云端在任何设备上体验Windows 10或Windows 11。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5488958.d.html</link>
-            <guid>2239475</guid>
-            <pubDate>Wed, 14 Jul 2021 15:49:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股钢铁股走低。克里夫天然资源公司(CLF.N)跌3.7%，美国钢铁(X.N)跌2.9%。]]></title>
-            <guid>2239474</guid>
-            <pubDate>Wed, 14 Jul 2021 15:49:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【民间太空旅游单人票价约162万元 已有600人缴纳定金】11日，英国维珍集团创办人理查德·布兰森首次搭乘旗下太空船“团结号”前往地球大气层边缘，在总计大约一个小时的航程之后，安全返回发射场，率先体验公司将于明年推出的太空旅游。布兰森这次升空，被认为是民间太空旅行时代开启。据悉，目前单人太空行程的价格为25万美元，约合162万元人民币。据悉已有包括影视名人、互联网巨头等600名旅客已经缴纳定金，预付额超过8000万美元。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6885401.d.html</link>
-            <guid>2239473</guid>
-            <pubDate>Wed, 14 Jul 2021 15:46:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  富国银行CEO Scharf：预计2020年ROTCE(有形普通股股本回报率)将达到10%。]]></title>
-            <guid>2239471</guid>
-            <pubDate>Wed, 14 Jul 2021 15:45:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【四川阿坝州汶川县附近发生4.7级左右地震】中国地震台网自动测定：07月14日23时36分在四川阿坝州汶川县附近（北纬30.97度，东经103.50度）发生4.7级左右地震，最终结果以正式速报为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884954.d.html</link>
-            <guid>2239466</guid>
-            <pubDate>Wed, 14 Jul 2021 15:40:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  富国银行CEO Scharf：富国银行的“大多数指标”取得重大进步。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884901.d.html</link>
-            <guid>2239464</guid>
-            <pubDate>Wed, 14 Jul 2021 15:40:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：美国墨西哥湾原油库存降至2020年2月以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5488220.d.html</link>
-            <guid>2239462</guid>
-            <pubDate>Wed, 14 Jul 2021 15:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  富国银行CEO Scharf：25%的刺激资金仍在用户账户中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884790.d.html</link>
-            <guid>2239461</guid>
-            <pubDate>Wed, 14 Jul 2021 15:38:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7月9日当周库欣原油库存跌至2020年3月以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884701.d.html</link>
-            <guid>2239458</guid>
-            <pubDate>Wed, 14 Jul 2021 15:37:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至7月9日当周原油出口量为2021年4月30日当周以来最高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884440.d.html</link>
-            <guid>2239449</guid>
-            <pubDate>Wed, 14 Jul 2021 15:32:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至7月9日当周EIA原油库存降幅录得2021年4月30日当周以来最大，为连续第8周录得下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884434.d.html</link>
-            <guid>2239448</guid>
-            <pubDate>Wed, 14 Jul 2021 15:32:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA原油库存数据公布后，美、布两油波动不大。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5487757.d.html</link>
-            <guid>2239440</guid>
-            <pubDate>Wed, 14 Jul 2021 15:31:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【BBC一年内收到46万起投诉】近日，英国广播公司发布年度报告，报告显示，2020年至2021年，该媒体共收到462255起投诉，比前一年增加93878起，创下有纪录以来新高。（中国日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884261.d.html</link>
-            <guid>2239438</guid>
-            <pubDate>Wed, 14 Jul 2021 15:29:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  达美航空(DAL.N)转跌，现跌2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6884071.d.html</link>
-            <guid>2239435</guid>
-            <pubDate>Wed, 14 Jul 2021 15:26:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【巴西正在遭遇百年以来最严重的干旱 全球咖啡价格飙升】近日，由于全球最大的咖啡豆生产国巴西正在遭遇百年以来最严重的干旱，导致其咖啡豆产量骤减，全球咖啡的价格正在不断地攀升。据美国农业部数据，巴西今年的咖啡总产量预计将出现自2003年以来的最大同比降幅，其阿拉比卡咖啡豆（巴西生产的主要品种）的产量预计将比2020年减少近1500万袋。据报道，现在美国咖啡店的咖啡平均价格是4.5美元，而五年前的价格是3.85美元，涨幅近17%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5486924.d.html</link>
-            <guid>2239431</guid>
-            <pubDate>Wed, 14 Jul 2021 15:20:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Beyond Meat(BYND.O)跌超5%，报129美元，为连续第三日下跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6883304.d.html</link>
-            <guid>2239428</guid>
-            <pubDate>Wed, 14 Jul 2021 15:16:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中概股造车新势力持续走低。理想汽车跌超5%，蔚来汽车跌2.5%，小鹏汽车跌1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5486489.d.html</link>
-            <guid>2239425</guid>
-            <pubDate>Wed, 14 Jul 2021 15:13:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家电投与中国石化签署战略合作协议】7月13日，国家电投与中国石化签署战略合作协议。根据协议，双方本着“优势互补、合作共赢、共同发展”的原则，贯彻“四个革命、一个合作”能源安全新战略，落实绿色发展理念，推进能源建设，围绕中国“3060”目标，发挥各自优势，广泛开展合作，打造清洁能源合作典范。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5486172.d.html</link>
-            <guid>2239421</guid>
-            <pubDate>Wed, 14 Jul 2021 15:10:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息： 拜登将于周五参加亚太经合组织领导人线上会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5485928.d.html</link>
-            <guid>2239418</guid>
-            <pubDate>Wed, 14 Jul 2021 15:07:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：Facebook(FB.O)与Shopify(SHOP.N)的商家合作推出支付选项Facebook Pay。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqcfnca6882265.d.html</link>
-            <guid>2239417</guid>
-            <pubDate>Wed, 14 Jul 2021 15:04:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：Ali Holding将以每股24美元的价格收购Welbilt(WBT.N)。]]></title>
-            <guid>2239415</guid>
-            <pubDate>Wed, 14 Jul 2021 15:04:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德银汇编的彭博社对美国今明两年通胀共识预期演变的图表显示，2022年CPI预期跟随2021年的预期同样走高，这表明通胀不可能都是暂时的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-14/detail-ikqciyzk5485527.d.html</link>
-            <guid>2239414</guid>
-            <pubDate>Wed, 14 Jul 2021 15:03:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
