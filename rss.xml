@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 14 Jul 2021 18:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jul 2021 19:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  WhatsApp：用户现在可以同时在5台设备上使用APP。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5503388.d.html</link>
+            <guid>2239660</guid>
+            <pubDate>Wed, 14 Jul 2021 19:05:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  可口可乐(KO.N)：将季度股息定为每股普通股0.42美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5503217.d.html</link>
+            <guid>2239657</guid>
+            <pubDate>Wed, 14 Jul 2021 19:02:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【千亿级网安行业迎政策风口】昨日，12381涉诈预警劝阻短信系统启动。近段时间，网络安全领域的重磅政策文件与举措接连发布，A股市场闻风而动，网络安全概念指数5月以来累计涨幅超30%。机构表示，千亿级别市场的网络安全行业正迎来政策风口，全能型龙头将延续强势发展态势，专精/审查型的中小厂商也有望因受益赛道崛起而实现弯道超车。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca6897548.d.html</link>
+            <guid>2239645</guid>
+            <pubDate>Wed, 14 Jul 2021 18:35:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【医药外包板块回暖 五股周内三连阳】CXO（医药外包）板块14日表现强势，成都先导涨7.58%，博济医药、昭衍新药、药明康德等跟涨。本周，该板块明显回暖，九成概念股周内股价上涨，美迪西、昭衍新药、康龙化成、成都先导、药石科技五只个股连续三个交易日走高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5501048.d.html</link>
+            <guid>2239644</guid>
+            <pubDate>Wed, 14 Jul 2021 18:34:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海原油期货主力合约夜盘收跌1.90%，报440.4元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5500863.d.html</link>
+            <guid>2239642</guid>
+            <pubDate>Wed, 14 Jul 2021 18:30:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据道琼斯：NortonLifeLock(NLOK.O)正在谈判以超过80亿美元的价格收购计算机安全公司Avast。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5500837.d.html</link>
+            <guid>2239640</guid>
+            <pubDate>Wed, 14 Jul 2021 18:30:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NortonLifeLock(NLOK.O)短线跳水，跌超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca6897313.d.html</link>
+            <guid>2239639</guid>
+            <pubDate>Wed, 14 Jul 2021 18:30:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stellantis(STLA.N)：由于组装工作较为复杂，公司位于俄亥俄州的Toledo工厂将于7月19日当周恢复生产。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5500686.d.html</link>
@@ -90,24 +132,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5495814.d.html</link>
             <guid>2239573</guid>
             <pubDate>Wed, 14 Jul 2021 17:20:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  燕麦奶公司Oatly(OTLY.O)小幅反弹，跌幅收窄至2.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5494749.d.html</link>
-            <guid>2239555</guid>
-            <pubDate>Wed, 14 Jul 2021 17:05:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：07月15日01时00分在中国台湾附近发生4.0级左右地震，最终结果以正式速报为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5494593.d.html</link>
-            <guid>2239548</guid>
-            <pubDate>Wed, 14 Jul 2021 17:04:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【百亿私募业绩分化：首尾差异巨大，量化巨头表现出色】截至6月29日，该机构监测到的71家百亿级证券私募中，共计有66家私募在2021年上半年实现了正收益，占比为92.96％。收益率排名前三的百亿级私募，上半年的收益率分别为24.08％、22.59％和22.24％；倒数前三的百亿级私募，上半年的收益率分别为-3.65％、-3.13％和-2.99％。指数增强策略产品表现相当亮眼，主流百亿量化巨头的指数增强产品均跑赢指数；量化对冲策略则表现相对不佳。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca6891080.d.html</link>
-            <guid>2239545</guid>
-            <pubDate>Wed, 14 Jul 2021 17:03:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
