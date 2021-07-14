@@ -4,11 +4,88 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 14 Jul 2021 21:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jul 2021 22:22:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【多路资金加仓券商H股】7月份以来，包括中信证券、中原证券、华泰证券、海通证券、招商证券在内的5家上市券商H股相继获得大股东增持。与此同时，私募机构也在持续买买买。港交所数据显示，自今年1月以来，管理规模超过300亿元的宁泉资产至少已相继大笔买入了中信建投、国泰君安、东方证券、中原证券4家券商的H股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca6909836.d.html</link>
+            <guid>2239730</guid>
+            <pubDate>Wed, 14 Jul 2021 22:21:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：尽管芯片短缺，戴姆勒公司预估2021年第二季度业绩高于预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5513107.d.html</link>
+            <guid>2239729</guid>
+            <pubDate>Wed, 14 Jul 2021 22:19:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【股票ETF资金流向大分化 新能源、芯片产品越涨越卖】随着新能源、芯片、光伏涨幅的扩大，相关股票ETF遭遇资金净赎回。作为机构资金风向标的股票ETF，是越涨，资金越卖——热门ETF净流出资金超过300亿元；而表现乏力的医药、消费板块受到资金青睐，同期净流入超过80亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca6909581.d.html</link>
+            <guid>2239728</guid>
+            <pubDate>Wed, 14 Jul 2021 22:17:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国际集团(AIG.N)盘后涨逾7%，黑石集团(BX.N)盘后涨逾4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca6909361.d.html</link>
+            <guid>2239727</guid>
+            <pubDate>Wed, 14 Jul 2021 22:14:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息： 美国国际集团(AIG.N)与黑石集团达成以22亿美元收购AIG寿命和退休业务的交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca6909195.d.html</link>
+            <guid>2239725</guid>
+            <pubDate>Wed, 14 Jul 2021 22:12:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  奈飞(NFLX.O)盘后涨1.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca6908916.d.html</link>
+            <guid>2239724</guid>
+            <pubDate>Wed, 14 Jul 2021 22:08:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  完美医疗(01830.HK)：公司于香港联合交易所有限公司主板买卖之普通股之每手买卖单位由4,000股股份更改为1,000股股份，于2021年7月15日上午九时正起生效。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca6908881.d.html</link>
+            <guid>2239723</guid>
+            <pubDate>Wed, 14 Jul 2021 22:07:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：奈飞(NFLX.O)聘请Facebook(FB.O)和电子艺界(EA.O)的资深人士领导游戏工作。]]></title>
+            <guid>2239722</guid>
+            <pubDate>Wed, 14 Jul 2021 22:07:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：奈飞(NFLX.O)计划在电影和电视之外推出电子游戏，计划明年将游戏添加到流媒体平台。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5512191.d.html</link>
+            <guid>2239721</guid>
+            <pubDate>Wed, 14 Jul 2021 22:06:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【稳实体防风险并重，银保监会定调下半年监管重点】①上半年我国银行业境内总资产同比增长9.2%，保险业总资产同比增长12.7%，银行业不良贷款率1.86%较年初下降0.08个百分点，房地产贷款增速降至10.3%……今年上半年，我国银行保险机构交出亮眼成绩单，金融风险趋于收敛，银行保险业保持平稳运行；②在13日举行的国新办发布会上，银保监会划定下半年监管重点，释放出进一步强化金融风险防控、加大实体支持力度的政策信号。下半年，银行保险机构将加码对重点领域、薄弱环节的金融支持，除了传统的小微企业及制造业外，在碳达峰、碳中和目标下，对于绿色低碳产业的支持力度将进一步加大。同时，银行保险机构风险防范也将进一步强化，下一步，不良贷款处置、中小机构改革、流动性管理等将是监管紧盯的重点领域。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca6908556.d.html</link>
+            <guid>2239717</guid>
+            <pubDate>Wed, 14 Jul 2021 22:02:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国消费品安全协会起诉亚马逊，强制要起其召回危险产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5510829.d.html</link>
+            <guid>2239711</guid>
+            <pubDate>Wed, 14 Jul 2021 21:39:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【专项债“小洪峰”将至，资金持续发力基建】截至7月12日，各地已披露计划发行新增专项债13478亿元。专家认为，今年三季度将迎来专项债发行“小洪峰”。上半年新增专项债资金主要投向市政和产业园区基础设施建设；交通基础设施；棚改、老旧小区改造等保障性安居工程以及医疗卫生、教育等社会事业，资金规模分别达到3109.07亿、1888.49亿、1788.03亿和1638.97亿元。随着下半年稳增长压力增加，专项债资金投向将更加倾向于基建。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5510821.d.html</link>
+            <guid>2239710</guid>
+            <pubDate>Wed, 14 Jul 2021 21:39:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间04:59报6.4592元，较周二纽约尾盘涨205点，盘中整体交投于6.4846-6.4508元区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5510584.d.html</link>
+            <guid>2239707</guid>
+            <pubDate>Wed, 14 Jul 2021 21:35:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【业务绑定行业巨头，锂电池产业链企业掀IPO热潮】截至2021年7月14日，目前共有27家锂电池产业链企业申请A股IPO，选择上市板块以科创板和创业板为主，而2019年至2021年1月在A股上市的锂电池产业链企业仅有10家。锂电池产业链企业欲借上市扩产，凸显了当下新能源汽车行业的高景气度。然而火热的行情背后，锂电池产业链下游市场已被宁德时代、比亚迪等巨头占据，导致上游企业依附于下游巨头生存已成行业特性。（上证报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca6906429.d.html</link>
@@ -202,29 +279,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca6897037.d.html</link>
             <guid>2239631</guid>
             <pubDate>Wed, 14 Jul 2021 18:24:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[史密森尼学会（Smithsonian Institution）：亚马逊(AMZN.O)CEO贝佐斯向学会捐款2亿美元。]]></title>
-            <guid>2239626</guid>
-            <pubDate>Wed, 14 Jul 2021 18:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国民主党将通过税收改革和医疗储蓄来资助3.5万亿美元预算和解法案的预算。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5499797.d.html</link>
-            <guid>2239623</guid>
-            <pubDate>Wed, 14 Jul 2021 18:11:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股NFT概念股齐跌，大公文化(TKAT.O)跌13.6%，Integrated Media Technology(IMTE.O)跌13.2%，淘屏(TAOP.O)跌3.6%，东方文化(OCG.O)跌3.3%，Dolphin Entertainment(DLPN.O)跌近3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5499008.d.html</link>
-            <guid>2239609</guid>
-            <pubDate>Wed, 14 Jul 2021 18:00:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【芝加哥发生枪击案致5伤，全美枪击事件持续增加】①美国第三大城市芝加哥14日发生一起枪击案，造成5人受伤。美国媒体报道称，近期，美国多个主要城市枪击事件持续增加。在过去72小时内，全美发生了300余起大小规模的枪击案，这期间纽约、芝加哥、底特律、印第安纳波利斯等市的警察局都有通报造成4人及以上受伤或死亡的大规模枪击案；②据美国非营利机构“枪支暴力档案”公布的数据，截至7月14日，美国今年已经发生了351起大规模枪击案，与去年同期相比呈两位数的百分比增幅。全美因枪支暴力死亡和使用枪支自杀的人数今年已超2.3万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5498920.d.html</link>
-            <guid>2239606</guid>
-            <pubDate>Wed, 14 Jul 2021 17:58:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
