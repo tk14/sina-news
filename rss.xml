@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 14 Jul 2021 20:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jul 2021 21:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【业务绑定行业巨头，锂电池产业链企业掀IPO热潮】截至2021年7月14日，目前共有27家锂电池产业链企业申请A股IPO，选择上市板块以科创板和创业板为主，而2019年至2021年1月在A股上市的锂电池产业链企业仅有10家。锂电池产业链企业欲借上市扩产，凸显了当下新能源汽车行业的高景气度。然而火热的行情背后，锂电池产业链下游市场已被宁德时代、比亚迪等巨头占据，导致上游企业依附于下游巨头生存已成行业特性。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca6906429.d.html</link>
+            <guid>2239704</guid>
+            <pubDate>Wed, 14 Jul 2021 21:17:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦航空管理局（FAA）：特斯拉CEO埃隆·马斯克经营的SpaceX还没有完成对得州发射场的发射塔的环境评估；可以命令SpaceX拆除发射塔，这取决于正在对环境进行审查的结果。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5509682.d.html</link>
+            <guid>2239702</guid>
+            <pubDate>Wed, 14 Jul 2021 21:10:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国民主党参议员Durbin和美国共和党参议员Grassley将于7月27日就勒索软件攻击举行听证会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca6905451.d.html</link>
+            <guid>2239699</guid>
+            <pubDate>Wed, 14 Jul 2021 20:55:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ARK基金创始人Cathie Wood：特斯拉CEO埃隆·马斯克是一个“特别的、有远见的领导者”。]]></title>
+            <guid>2239695</guid>
+            <pubDate>Wed, 14 Jul 2021 20:32:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【医药外包板块回暖，五股周内三连阳】本周，CXO（医药外包）板块明显回暖，九成概念股周内股价上涨，美迪西、昭衍新药、康龙化成、成都先导、药石科技五只个股连续三个交易日走高。国盛证券认为，国内新药研发趋势以及CXO板块景气度并未变化。征求意见稿不会影响药企整体收入，影响可能仅仅在于国内一级市场的投融资额，而基于国内整体对于创新药的鼓励态度，征求意见稿出台后一级市场的投融资额变动情况还有待观察，不能过早下结论。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5507635.d.html</link>
+            <guid>2239693</guid>
+            <pubDate>Wed, 14 Jul 2021 20:29:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[标普500指数的11个板块收盘涨跌各异，可选消费板块涨超0.9%，房地产板块和公用事业板块涨超0.8%，科技板块涨超0.7%，但能源板块跌超2.9%，金融板块也跌约0.5%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca6903682.d.html</link>
@@ -196,12 +225,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5498920.d.html</link>
             <guid>2239606</guid>
             <pubDate>Wed, 14 Jul 2021 17:58:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱尔兰方面表示，企业税改革的成本可能超过20亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca6895232.d.html</link>
-            <guid>2239602</guid>
-            <pubDate>Wed, 14 Jul 2021 17:55:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
