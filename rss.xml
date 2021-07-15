@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 15 Jul 2021 18:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jul 2021 19:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：美国民主党将对未达到气候目标的公用事业企业进行处罚。该计划是3.5万亿美元税收和支出法案的一部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7112661.d.html</link>
+            <guid>2240859</guid>
+            <pubDate>Thu, 15 Jul 2021 19:13:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国金融行为监管局（FCA）承诺投入1520万美元用于一项数字营销活动，以提醒年轻投资者警惕包括加密货币在内的高风险投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7111180.d.html</link>
+            <guid>2240854</guid>
+            <pubDate>Thu, 15 Jul 2021 18:53:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[基金分析公司理柏（Lipper）：预计市政债基金本周流入22亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5712565.d.html</link>
