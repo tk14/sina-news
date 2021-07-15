@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 15 Jul 2021 21:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jul 2021 22:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[巴林方面表示，在与海湾国家进行磋商并听取国际民航组织的声明后，将与卡塔尔就其空域进行必要的调整。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7120448.d.html</link>
+            <guid>2240904</guid>
+            <pubDate>Thu, 15 Jul 2021 22:12:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年内公司债发行规模达1.77万亿元 专家预计三季度将迎发行高峰】截至7月15日，今年以来，公司债发行2090只，发行规模达1.77万亿元，同比增长3.67%。中信证券研究所副所长明明表示，在扩大直接融资市场背景下，债券市场融资保持平稳增长，一定程度反映了发行人直接融资诉求强烈。从发行人结构上来看，以地方政府融资平台为主，反映了信用债市场供需双方目的相对一致。展望下半年，预计三季度仍将是公司债发行高峰期，全年保持平稳增长。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7119819.d.html</link>
+            <guid>2240903</guid>
+            <pubDate>Thu, 15 Jul 2021 22:05:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股股指期货低开，道指期货跌0.03%，纳指期货跌0.01%，标普500指数期货跌0.03%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7119661.d.html</link>
+            <guid>2240902</guid>
+            <pubDate>Thu, 15 Jul 2021 22:02:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：基础设施法案仍在推进，我们将会完成这项法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5722144.d.html</link>
+            <guid>2240899</guid>
+            <pubDate>Thu, 15 Jul 2021 21:47:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：有信心基础设施法案能够达成协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5722140.d.html</link>
+            <guid>2240898</guid>
+            <pubDate>Thu, 15 Jul 2021 21:47:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：我们对北溪2号的观点众所周知，制裁没有任何意义。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7118868.d.html</link>
+            <guid>2240897</guid>
+            <pubDate>Thu, 15 Jul 2021 21:46:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：正在启动美国和德国之间未来的双边对话。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7118205.d.html</link>
+            <guid>2240895</guid>
+            <pubDate>Thu, 15 Jul 2021 21:28:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登向德国总理默克尔表达了他对北溪2号的关切。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7118196.d.html</link>
+            <guid>2240894</guid>
+            <pubDate>Thu, 15 Jul 2021 21:27:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[莫德纳盘后涨超5%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5721159.d.html</link>
@@ -193,24 +241,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7099565.d.html</link>
             <guid>2240805</guid>
             <pubDate>Thu, 15 Jul 2021 16:29:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“新债王”冈拉克：美国股票的估值非常高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7099139.d.html</link>
-            <guid>2240804</guid>
-            <pubDate>Thu, 15 Jul 2021 16:25:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小米集团董事长雷军：Canalys刚刚发布了第二季度全球智能手机市占率排名，小米手机销量超越了苹果，首次晋升全球第二。数据显示，小米全球智能手机市占率达到 17%，同比增长83%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5702023.d.html</link>
-            <guid>2240803</guid>
-            <pubDate>Thu, 15 Jul 2021 16:20:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股三大指数全部转跌，纳指跌0.8%，标普500指数跌0.39%，道指跌0.04%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5700944.d.html</link>
-            <guid>2240799</guid>
-            <pubDate>Thu, 15 Jul 2021 16:07:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
