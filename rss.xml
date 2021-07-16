@@ -4,11 +4,95 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 16 Jul 2021 19:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jul 2021 20:22:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国金融稳定监督委员会（FSOC）还讨论了关于气候变化金融风险的命令。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5928105.d.html</link>
+            <guid>2242400</guid>
+            <pubDate>Fri, 16 Jul 2021 20:12:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国金融稳定监督委员会（FSOC）听取了关于房价和抵押贷款延期的陈述。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5928037.d.html</link>
+            <guid>2242399</guid>
+            <pubDate>Fri, 16 Jul 2021 20:11:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  莫德纳收涨10%，创3月份以来最大单日涨幅，创收盘历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7324573.d.html</link>
+            <guid>2242398</guid>
+            <pubDate>Fri, 16 Jul 2021 20:09:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：确认俄罗斯评级为“BBB-/A-3”，前景展望稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7324537.d.html</link>
+            <guid>2242397</guid>
+            <pubDate>Fri, 16 Jul 2021 20:09:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[本周标普500指数累跌0.97%，道指累跌0.53%，纳指累跌1.87%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5927902.d.html</link>
+            <guid>2242396</guid>
+            <pubDate>Fri, 16 Jul 2021 20:09:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白宫：对通胀问题“绝非袖手旁观”】 白宫经济顾问委员会委员Jared Bernstein表示 ，白宫正在解决与港口、住房和微芯片相关的供给侧问题，供应紧张推高了价格。政府官员会见住宅建筑行业代表，试图解决导致房价创纪录上涨的住房供应短缺问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7324522.d.html</link>
+            <guid>2242395</guid>
+            <pubDate>Fri, 16 Jul 2021 20:09:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国5月外资净买入美国公债(亿美元)公布 -934，前值 496。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7324123.d.html</link>
+            <guid>2242393</guid>
+            <pubDate>Fri, 16 Jul 2021 20:01:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国5月国际资本净流入(亿美元)公布 1053，前值 1012。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7324107.d.html</link>
+            <guid>2242392</guid>
+            <pubDate>Fri, 16 Jul 2021 20:01:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国5月长期资本净流入(亿美元)公布 -302，前值 1007。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5927497.d.html</link>
+            <guid>2242391</guid>
+            <pubDate>Fri, 16 Jul 2021 20:01:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月13日当周，美元投机性净空头押注降至40.6亿美元，创2020年3月以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5927046.d.html</link>
+            <guid>2242389</guid>
+            <pubDate>Fri, 16 Jul 2021 19:53:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月13日当周，投机者将CBOT美国10年期国债期货合约25593手净空头持仓转为55987手净多头持仓。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5926086.d.html</link>
+            <guid>2242387</guid>
+            <pubDate>Fri, 16 Jul 2021 19:36:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月13日当周，COMEX铜期货投机性净多头头寸减少2090手至30416手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5925866.d.html</link>
+            <guid>2242385</guid>
+            <pubDate>Fri, 16 Jul 2021 19:32:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月13日当周，COMEX白银期货投机性净多头头寸减少879手至34678手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5925863.d.html</link>
+            <guid>2242384</guid>
+            <pubDate>Fri, 16 Jul 2021 19:32:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国将继续把法国列入旅行隔离名单。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5925006.d.html</link>
+            <guid>2242381</guid>
+            <pubDate>Fri, 16 Jul 2021 19:17:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国与墨西哥和加拿大围绕汽车贸易跨境规则出现冲突，汽车制造商们告知美国总统拜登，这恐怕会危害到前总统特朗普撮合的美国墨西哥加拿大贸易协议（USMCA）。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7321605.d.html</link>
@@ -185,54 +269,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7300111.d.html</link>
             <guid>2242303</guid>
             <pubDate>Fri, 16 Jul 2021 14:46:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：FELICIA飓风继续迅速增强，目前已升级为3级飓风。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5902502.d.html</link>
-            <guid>2242299</guid>
-            <pubDate>Fri, 16 Jul 2021 14:36:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7月密歇根大学一年期通胀预期飙升至4.8%，为2008年6月以来最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7298345.d.html</link>
-            <guid>2242296</guid>
-            <pubDate>Fri, 16 Jul 2021 14:29:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：安哥拉9月将出口33船原油，低于8月的37船。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5901450.d.html</link>
-            <guid>2242293</guid>
-            <pubDate>Fri, 16 Jul 2021 14:25:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京东可信区块链推进计划银行业组成立】7月14日，可信区块链推进计划银行业组成立暨首次工作会在京召开，该组由中国银行业协会、中国信通院发起，联合国内多家银行业机构共同筹建，旨在围绕区块链在银行业的深入应用，通过开展区块链技术应用的研究和标准化，为银行业机构就区块链相关业务开展搭建沟通与合作的平台，为相关业务开展提供指引和参考，并降低相关风险，发挥沟通协调共建作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5901167.d.html</link>
-            <guid>2242292</guid>
-            <pubDate>Fri, 16 Jul 2021 14:23:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【岳阳林纸：收到湖南证监局《行政监管措施决定书》】岳阳林纸公告，公司于今日收到湖南证监局《行政监管措施决定书》，涉及控股股东违规占用资金等事项。对岳阳林纸和控股股东泰格林纸采取出具警示函措施决定，对叶蒙、李战、钟秋生、易兰锴采取监管谈话措施决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5900961.d.html</link>
-            <guid>2242290</guid>
-            <pubDate>Fri, 16 Jul 2021 14:21:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7月密歇根大学消费者信心指数初值降至80.8，现况指数初值降至84.5，预期指数初值降至78.4。消费者购买情绪进一步崩溃，购房情绪为1982年以来最糟糕。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7297375.d.html</link>
-            <guid>2242289</guid>
-            <pubDate>Fri, 16 Jul 2021 14:19:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国铝业（AA）跌超5.0%，处于连续第四个交易日下跌之中，刷新6月22日以来盘中低点至32.78美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7297278.d.html</link>
-            <guid>2242288</guid>
-            <pubDate>Fri, 16 Jul 2021 14:18:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【神州信息主导制定的两项团体标准正式发布】近日，由神州信息主导制定的T/CESA 1075-2021《分布式平台联机事务处理通用技术要求》、T/CESA 1076-2021《信息化服务开放平台通用技术要求》两项团体标准通过中国电子工业标准化技术协会审批，正式对外发布。该两项标准的发布标志着神州信息在分布式平台和信息化服务开放平台领域的技术先进性得到了多方认可，进一步完善了企业数字化转型方面的标准化体系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5899810.d.html</link>
-            <guid>2242281</guid>
-            <pubDate>Fri, 16 Jul 2021 14:09:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
