@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 16 Jul 2021 16:37:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jul 2021 17:28:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：白宫正在主持供应链特别工作组。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5916875.d.html</link>
+            <guid>2242360</guid>
+            <pubDate>Fri, 16 Jul 2021 17:22:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[贝克休斯油服：美国钻井公司连续第三周增加石油和天然气钻井平台。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5915266.d.html</link>
+            <guid>2242355</guid>
+            <pubDate>Fri, 16 Jul 2021 17:04:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至7月16日当周总钻井总数(口)公布 484，前值 479，预期 485。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7311441.d.html</link>
+            <guid>2242352</guid>
+            <pubDate>Fri, 16 Jul 2021 17:00:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会预算办公室（CBO）将于7月21日发布美国债务上限报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5913658.d.html</link>
+            <guid>2242350</guid>
+            <pubDate>Fri, 16 Jul 2021 16:44:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：新西兰克马德克群岛地区发生5.3级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7309953.d.html</link>
+            <guid>2242349</guid>
+            <pubDate>Fri, 16 Jul 2021 16:42:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  据美国证券交易委员会文件：空白支票公司AQUARIUS II ACQUISITION CORP申请美国IPO，拟筹资至多5000万美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7309039.d.html</link>
@@ -186,48 +216,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5896359.d.html</link>
             <guid>2242262</guid>
             <pubDate>Fri, 16 Jul 2021 13:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据韩联社：亚太经合组织领导人同意通过促进自由和公平的贸易和投资环境来加速经济复苏。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5895544.d.html</link>
-            <guid>2242257</guid>
-            <pubDate>Fri, 16 Jul 2021 13:34:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  半导体公司Aehr Test  Systems(AEHR.O)涨17.7%，第四财季净销售额翻倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5895400.d.html</link>
-            <guid>2242256</guid>
-            <pubDate>Fri, 16 Jul 2021 13:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  和黄医药(HCM.O)涨4.9%，公司向欧洲药品管理局提交索凡替尼的上市许可申请并获确认。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7291880.d.html</link>
-            <guid>2242255</guid>
-            <pubDate>Fri, 16 Jul 2021 13:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  荔枝(LIZI.O)涨12.5%，此前宣布与星河智联汽车科技有限公司达成合作伙伴关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7291824.d.html</link>
-            <guid>2242254</guid>
-            <pubDate>Fri, 16 Jul 2021 13:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  FuboTV (FUBO.O)涨5.6%，此前表示已与 美国房地产开发和运营公司Cordish达成协议，在宾夕法尼亚州推出 Fubo Sportsbook。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7291805.d.html</link>
-            <guid>2242253</guid>
-            <pubDate>Fri, 16 Jul 2021 13:31:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【紫光国微：法院裁定受理间接控股股东重整】紫光国微公告，北京一中院裁定受理相关债权人对间接控股股东紫光集团的重整申请，指定紫光集团有限公司清算组担任紫光集团管理人。截至公告日，紫光集团下属全资子公司西藏紫光通信投资有限公司持有32.39%公司股份。紫光集团进入重整程序，将可能对公司股权结构等产生影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5894486.d.html</link>
-            <guid>2242243</guid>
-            <pubDate>Fri, 16 Jul 2021 13:25:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际金融协会：2021年全球可持续债券发行量有望超万亿美元】国际金融协会（IIF）最新发布报告显示，2021年，全球可持续债券发行量有望超过1万亿美元，较去年发行总量增加30%。报告表示，绿色债券市场的交易也更趋活跃。今年以来，绿色债券二级市场日平均交易量达27亿美元，较去年的日均16亿美元明显提升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5893970.d.html</link>
-            <guid>2242225</guid>
-            <pubDate>Fri, 16 Jul 2021 13:20:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
