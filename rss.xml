@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 16 Jul 2021 17:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jul 2021 18:29:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[洲际交易所（ICE）：7月13日当周，投机者所持布伦特原油净多头头寸减少4072手合约，至415410手合约。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7316091.d.html</link>
+            <guid>2242368</guid>
+            <pubDate>Fri, 16 Jul 2021 17:55:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX 8月黄金期货收跌0.8%，报1815.00美元/盎司，本周累涨约0.2%，连续第四周上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7315319.d.html</link>
+            <guid>2242366</guid>
+            <pubDate>Fri, 16 Jul 2021 17:44:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：07月17日01时29分在新疆阿克苏地区沙雅县发生3.6级地震，震源深度22千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7315299.d.html</link>
+            <guid>2242365</guid>
+            <pubDate>Fri, 16 Jul 2021 17:44:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股白银股持续下挫，迈力达电子跌6.2%，Endeavour Silver跌6.6%，First Majestic跌5.6%，泛美白银跌3.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5917918.d.html</link>
+            <guid>2242363</guid>
+            <pubDate>Fri, 16 Jul 2021 17:32:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：拜登将于周一就经济发表讲话。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5917439.d.html</link>
+            <guid>2242362</guid>
+            <pubDate>Fri, 16 Jul 2021 17:28:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[   【美国银行：美国和加拿大石油产量增加将遏制库欣库存下降】美国银行分析师Francisco Blanch在全球能源周报中表示，WTI原油期限价差最近走强，表明俄克拉荷马州库欣中心的供应量未来几周可能会降至3000万桶以下，但到今年晚些时候，加拿大和美国产量预计会有增加，应会抑制供应缺口。经过第二季度的停产检修，加拿大产量将回升，到第四季度恢复超过40万桶/日。同期美国供应量将增加超过30万桶/日。由于利润率降低、炼油厂周转下降以及PADD 2-4炼油产能关闭，美国炼油厂的平均开工率不太可能比当前水平高多少。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7313909.d.html</link>
+            <guid>2242361</guid>
+            <pubDate>Fri, 16 Jul 2021 17:28:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[白宫新闻秘书珍·普萨基：白宫正在主持供应链特别工作组。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk5916875.d.html</link>
@@ -198,24 +234,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5896841.d.html</link>
             <guid>2242267</guid>
             <pubDate>Fri, 16 Jul 2021 13:44:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[声明显示，亚太经合组织领导人承诺加强数字基础设施和技术。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5896811.d.html</link>
-            <guid>2242266</guid>
-            <pubDate>Fri, 16 Jul 2021 13:44:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[声明显示，亚太经合组织领导人表示，他们将为安全恢复跨境旅行铺平道路。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5896532.d.html</link>
-            <guid>2242264</guid>
-            <pubDate>Fri, 16 Jul 2021 13:42:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[声明显示，亚太经合组织领导人表示，只要有必要，他们将继续支持各经济体。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5896359.d.html</link>
-            <guid>2242262</guid>
-            <pubDate>Fri, 16 Jul 2021 13:41:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
