@@ -4,13 +4,31 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 17 Jul 2021 19:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jul 2021 20:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【不要过分乐观！瑞穗呼吁对芯片行业保持谨慎态度】尽管全球芯片严重供需失衡的态势不减，但瑞穗证券(Mizuho Securities)分析师近日敦促投资者在评估芯片行业时，仍要尽量采取保守态度。该机构将美国微芯科技和荷兰恩智浦半导体公司得股票评级从“买入”下调至“中性”。]]></title>
+            <title><![CDATA[高盛：预计明年钻井支出也将增长20%，并继续限制再投资率。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7484656.d.html</link>
+            <guid>2242764</guid>
+            <pubDate>Sat, 17 Jul 2021 20:10:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛：预计明年美国陆地钻井平台数量将增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7484652.d.html</link>
+            <guid>2242763</guid>
+            <pubDate>Sat, 17 Jul 2021 20:10:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国洪灾遇难人数升至141人，重灾区尚有超3000人失踪】日前，德国西部莱茵兰-普法尔茨州和北莱茵-威斯特法伦州因持续暴雨引发洪涝灾害。根据德国媒体的不完全统计，目前在洪灾中丧生的人数已上升至141人，其中包括4名消防救援人员。部分地区还有多人下落不明，受灾严重的舒尔德地区尚有超过3000人失踪。当局预计死亡人数还将继续上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6086487.d.html</link>
+            <guid>2242760</guid>
+            <pubDate>Sat, 17 Jul 2021 19:18:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【不要过分乐观！瑞穗呼吁对芯片行业保持谨慎态度】尽管全球芯片严重供需失衡的态势不减，但瑞穗证券(Mizuho Securities)分析师近日敦促投资者在评估芯片行业时，仍要尽量采取保守态度。该机构将美国微芯科技和荷兰恩智浦半导体公司的股票评级从“买入”下调至“中性”。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7481440.d.html</link>
             <guid>2242759</guid>
             <pubDate>Sat, 17 Jul 2021 18:55:21 GMT</pubDate>
@@ -335,18 +353,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7429938.d.html</link>
             <guid>2242578</guid>
             <pubDate>Sat, 17 Jul 2021 09:00:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【专家认为德国洪灾或与气候变化有关】日前，德国西部莱茵兰-普法尔茨州（莱法州）和北莱茵-威斯特法伦州（北威州）因持续暴雨引发洪涝灾害。截至当地时间17日，此次洪灾已造成135人死亡，另有多人失踪。多名专家表示，德国遭遇的此次气象灾害可能与气候变化有关。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7424466.d.html</link>
-            <guid>2242565</guid>
-            <pubDate>Sat, 17 Jul 2021 08:16:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内首家外商独资货币经纪公司上田八木开业】7月17日下午，2021中国货币经纪论坛暨上田八木货币经纪（中国）有限公司开业典礼在北京举办。上田八木货币经纪（中国）有限公司由日本上田八木短资株式会社全资设立，为中国第六家货币经纪公司，同时也是首家外商独资货币经纪公司。公司可经营境内外外汇市场、货币市场、债券市场、衍生产品交易的经纪业务。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7423410.d.html</link>
-            <guid>2242563</guid>
-            <pubDate>Sat, 17 Jul 2021 08:08:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
