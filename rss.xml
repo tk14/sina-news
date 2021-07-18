@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 18 Jul 2021 20:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 21:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[塔利班：阿富汗对话与会双方未能在停火或释放战俘问题上达成一致。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6245284.d.html</link>
+            <guid>2244181</guid>
+            <pubDate>Sun, 18 Jul 2021 20:50:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：飓风Felicia最终将以更快的速度减弱。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6244582.d.html</link>
+            <guid>2244178</guid>
+            <pubDate>Sun, 18 Jul 2021 20:34:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带风暴Guillermo有所加强、加快，范围也有所扩大。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7640729.d.html</link>
+            <guid>2244177</guid>
+            <pubDate>Sun, 18 Jul 2021 20:34:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据阿拉伯半岛电视台：塔利班政治办事处发言人表示，我们没有提议在与阿富汗政府于多哈谈判期间休战。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6244096.d.html</link>
@@ -272,24 +290,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7597377.d.html</link>
             <guid>2244080</guid>
             <pubDate>Sun, 18 Jul 2021 11:15:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克草案声明：沙特、俄罗斯、阿联酋、伊拉克和科威特的基准石油产量将提高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7597128.d.html</link>
-            <guid>2244079</guid>
-            <pubDate>Sun, 18 Jul 2021 11:12:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧佩克+同意从2022年5月开始，将沙特和俄罗斯的基准石油产量从之前的1100万桶/日调整为1150万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6200087.d.html</link>
-            <guid>2244077</guid>
-            <pubDate>Sun, 18 Jul 2021 11:08:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【远洋集团40亿元入股红星地产】远洋集团发布公告，远洋集团、远洋资本与红星控股正式签署协议，以人民币40亿元获取红星地产70%股权。三方将有效持有重庆红星美凯龙企业发展有限公司35%、35%、30%的股权，共同推进红星地产的后续开发与经营。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6198901.d.html</link>
-            <guid>2244073</guid>
-            <pubDate>Sun, 18 Jul 2021 10:57:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
