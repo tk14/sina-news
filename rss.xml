@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 18 Jul 2021 19:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 20:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据阿拉伯半岛电视台：塔利班政治办事处发言人表示，我们没有提议在与阿富汗政府于多哈谈判期间休战。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6244096.d.html</link>
+            <guid>2244176</guid>
+            <pubDate>Sun, 18 Jul 2021 20:20:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[遭受洪灾的德国西部地区出现石油泄漏。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7640176.d.html</link>
+            <guid>2244175</guid>
+            <pubDate>Sun, 18 Jul 2021 20:18:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据阿拉伯半岛电视台：伊拉克总理表示，沙特和伊朗之间的会谈将会继续。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6243507.d.html</link>
+            <guid>2244174</guid>
+            <pubDate>Sun, 18 Jul 2021 20:06:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华尔街日报前瞻美国初请失业金人数】美国7月第一周初请失业金人数降至新低，是就业市场正在复苏的又一迹象。近几个月来，新申请失业救济金人数和救济支出呈下降趋势，这反映出经济的增强，以及美国近一半的州决定终止延长救济。预计截至7月17日的一周内，首次申领失业救济金人数将再次下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7637976.d.html</link>
+            <guid>2244172</guid>
+            <pubDate>Sun, 18 Jul 2021 19:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据当地媒体18日报道，在阿富汗驻巴基斯坦大使女儿遭绑架事件之后，阿富汗召回其驻巴大使及高级外交人员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7637022.d.html</link>
+            <guid>2244170</guid>
+            <pubDate>Sun, 18 Jul 2021 19:19:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【上半年10家信托公司信托业务收入逆势增长 过半公司同比增速超20%】在“两压一降”的监管环境下，信托业产品存量规模下滑明显，已跌破20万亿元大关。数据显示，今年一季度末信托产品存量规模降至19.74万亿元。信托产品规模不断压降的形势下，不少公司今年上半年的信托业务收入却不降反升。统计发现，12家已披露上半年业绩的信托公司中，10家信托业务收入实现同比增长。相较于去年同期，五矿信托该项收入上涨近五成，中粮信托、中航信托等5家增速均超20%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6238445.d.html</link>
@@ -260,36 +290,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6198901.d.html</link>
             <guid>2244073</guid>
             <pubDate>Sun, 18 Jul 2021 10:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克代表：阿联酋支持新的欧佩克+协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7595218.d.html</link>
-            <guid>2244071</guid>
-            <pubDate>Sun, 18 Jul 2021 10:53:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[两名消息人士：欧佩克+同意从8月起进一步放宽减产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6197801.d.html</link>
-            <guid>2244068</guid>
-            <pubDate>Sun, 18 Jul 2021 10:45:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：伊拉克和科威特的原油减产基线将分别增加约15万万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7594413.d.html</link>
-            <guid>2244067</guid>
-            <pubDate>Sun, 18 Jul 2021 10:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：原油减产的新基准将在协议到期（2022年4月）后生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7594405.d.html</link>
-            <guid>2244066</guid>
-            <pubDate>Sun, 18 Jul 2021 10:44:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：科威特和伊拉克可能获得新的原油减产基线。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6197173.d.html</link>
-            <guid>2244065</guid>
-            <pubDate>Sun, 18 Jul 2021 10:40:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
