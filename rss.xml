@@ -4,11 +4,89 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 18 Jul 2021 05:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 06:29:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据韩联社：韩国将私人聚会人数上限收紧至4人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7565059.d.html</link>
+            <guid>2243981</guid>
+            <pubDate>Sun, 18 Jul 2021 06:26:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国洪灾已致157人丧生】根据德国媒体报道，此次德国洪灾已造成至少157人死亡、670人受伤。其中，受灾最严重的阿尔维勒地区以后110人遇难，北莱茵-威斯特法伦州至少45人丧生。此外，萨克森州和巴伐利亚州17日夜间也遭遇洪水侵袭，致使2人死亡。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6168593.d.html</link>
+            <guid>2243980</guid>
+            <pubDate>Sun, 18 Jul 2021 06:26:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国6月份煤及褐煤进口2,839万吨，同比增长13.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7561200.d.html</link>
+            <guid>2243974</guid>
+            <pubDate>Sun, 18 Jul 2021 05:50:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：中国6月稀土及其制品出口9071吨，同比增49.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7560829.d.html</link>
+            <guid>2243973</guid>
+            <pubDate>Sun, 18 Jul 2021 05:47:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：中国6月液化天然气进口672万吨，同比增加16.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6164362.d.html</link>
+            <guid>2243972</guid>
+            <pubDate>Sun, 18 Jul 2021 05:46:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：中国6月气态天然气进口349万吨，同比增加37.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7560520.d.html</link>
+            <guid>2243971</guid>
+            <pubDate>Sun, 18 Jul 2021 05:45:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：中国6月食糖进口42万吨，同比增加1.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7560511.d.html</link>
+            <guid>2243970</guid>
+            <pubDate>Sun, 18 Jul 2021 05:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：中国6月小麦进口75万吨，同比下降17%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6164099.d.html</link>
+            <guid>2243968</guid>
+            <pubDate>Sun, 18 Jul 2021 05:43:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：中国6月玉米进口357万吨，同比增加305%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7560345.d.html</link>
+            <guid>2243967</guid>
+            <pubDate>Sun, 18 Jul 2021 05:43:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：中国6月氧化铝出口1吨，同比下降84.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7560185.d.html</link>
+            <guid>2243966</guid>
+            <pubDate>Sun, 18 Jul 2021 05:41:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：中国6月柴油出口236吨，同比增加127.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7560161.d.html</link>
+            <guid>2243965</guid>
+            <pubDate>Sun, 18 Jul 2021 05:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：中国6月汽油出口145吨，同比增加90.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7560056.d.html</link>
+            <guid>2243964</guid>
+            <pubDate>Sun, 18 Jul 2021 05:40:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新型海上浮式生产储卸油船出江入海 储油能力达200万桶】7月18日，一艘“巨无霸”海上浮式生产储卸油船缓缓离开江苏海门码头，开启拖带出江入海征程。这艘海上浮式生产储卸油船俗称“海上移动炼油厂”，可通过软管和输油平台系统，将海底油井与钻井平台连接，实现原油输入、加工、储存和输出。这艘船储油能力达200万桶，空船重量达93000吨，最大排水量46万吨，总价值约27亿人民币，系业内已交付使用的同类项目中最大吨位、最大储油量的新型海上浮式生产储卸油装置。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6162105.d.html</link>
+            <guid>2243963</guid>
+            <pubDate>Sun, 18 Jul 2021 05:24:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[能源情报集团记者Amena Bakr：：欧佩克+将在维也纳时间13:00（北京时间19:00）召开新闻发布会。]]></title>
             <guid>2243962</guid>
@@ -306,66 +384,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6089340.d.html</link>
             <guid>2242765</guid>
             <pubDate>Sat, 17 Jul 2021 20:31:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛：预计明年钻井支出也将增长20%，并继续限制再投资率。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7484656.d.html</link>
-            <guid>2242764</guid>
-            <pubDate>Sat, 17 Jul 2021 20:10:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛：预计明年美国陆地钻井平台数量将增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7484652.d.html</link>
-            <guid>2242763</guid>
-            <pubDate>Sat, 17 Jul 2021 20:10:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国洪灾遇难人数升至141人，重灾区尚有超3000人失踪】日前，德国西部莱茵兰-普法尔茨州和北莱茵-威斯特法伦州因持续暴雨引发洪涝灾害。根据德国媒体的不完全统计，目前在洪灾中丧生的人数已上升至141人，其中包括4名消防救援人员。部分地区还有多人下落不明，受灾严重的舒尔德地区尚有超过3000人失踪。当局预计死亡人数还将继续上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6086487.d.html</link>
-            <guid>2242760</guid>
-            <pubDate>Sat, 17 Jul 2021 19:18:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【不要过分乐观！瑞穗呼吁对芯片行业保持谨慎态度】尽管全球芯片严重供需失衡的态势不减，但瑞穗证券(Mizuho Securities)分析师近日敦促投资者在评估芯片行业时，仍要尽量采取保守态度。该机构将美国微芯科技和荷兰恩智浦半导体公司的股票评级从“买入”下调至“中性”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7481440.d.html</link>
-            <guid>2242759</guid>
-            <pubDate>Sat, 17 Jul 2021 18:55:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国巴登-符腾堡州伯布林根地区一架轻型飞机坠毁导致3人死亡。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7478400.d.html</link>
-            <guid>2242757</guid>
-            <pubDate>Sat, 17 Jul 2021 18:07:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间7月17日凌晨2时左右，美国俄勒冈州波特兰市市中心发生一起枪击事件，造成8人受伤，其中1人伤势严重，可能危及生命。当地警方表示，目前尚无嫌疑人线索。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6082024.d.html</link>
-            <guid>2242756</guid>
-            <pubDate>Sat, 17 Jul 2021 18:04:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗副外长：英国和美国需要停止将释放囚犯和伊核协议联系起来。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6080068.d.html</link>
-            <guid>2242755</guid>
-            <pubDate>Sat, 17 Jul 2021 17:40:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗副外长：如果美国和英国履行它们在伊核协议中的职责，双方的十名囚犯可能于明天获释。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7475956.d.html</link>
-            <guid>2242754</guid>
-            <pubDate>Sat, 17 Jul 2021 17:37:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗副外长：目前伊朗正处于过渡时期，必须等待我们的新政府上台后再进行伊核谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7475657.d.html</link>
-            <guid>2242753</guid>
-            <pubDate>Sat, 17 Jul 2021 17:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：07月18日00时49分在四川宜宾市珙县附近发生3.2级左右地震，最终结果以正式速报为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7471653.d.html</link>
-            <guid>2242750</guid>
-            <pubDate>Sat, 17 Jul 2021 16:51:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
