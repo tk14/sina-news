@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 18 Jul 2021 17:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 18:28:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【河南省气象台继续发布暴雨和雷电黄色预警】河南省气象台7月18日23时20分继续发布暴雨黄色预警：预计未来6小时内，济源、焦作、三门峡、洛阳、郑州、许昌、南阳、信阳八地市和安阳、新乡、周口三地区西部部分地区降水量将达50毫米以上，局部达100毫米以上。请注意防范。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7633406.d.html</link>
+            <guid>2244166</guid>
+            <pubDate>Sun, 18 Jul 2021 18:21:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国总理候选人Laschet：洪水后的重建将花费数月甚至数年。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7631935.d.html</link>
+            <guid>2244164</guid>
+            <pubDate>Sun, 18 Jul 2021 18:02:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国总理候选人Laschet：洪水造成的破坏“超出想象”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6235774.d.html</link>
+            <guid>2244163</guid>
+            <pubDate>Sun, 18 Jul 2021 18:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  利比里亚海事部门当地时间18日证实，该国西部海域17日下午发生一起沉船事故，目前已救出11人，仍有多人失踪。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7631740.d.html</link>
+            <guid>2244162</guid>
+            <pubDate>Sun, 18 Jul 2021 18:00:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据半岛电视台：阿富汗政府、塔利班发表联合声明，双方承诺继续进行高级别谈判，直到达成解决方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6235575.d.html</link>
+            <guid>2244161</guid>
+            <pubDate>Sun, 18 Jul 2021 18:00:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国参议员放弃两党基建法案中的税收执行条款】美国共和党参议员Portman周日表示，美国议员已经放弃了1.2万亿美元基建法案中的一项加强税收执行条款，这意味着搁置了一项重要的增税措施。Portman称，这项旨在增加美国国税局收入的条款可能会被加入民主党推动的另一项预算"调和"法案中。拜登曾表示，他希望在美国国税局的技术和执法方面投资800亿美元，以便在未来10年增加7000亿美元的税收。据民主党参议员估计，基建法案中的这一条款占该目标中的约1000亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6229972.d.html</link>
@@ -254,30 +284,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7593733.d.html</link>
             <guid>2244063</guid>
             <pubDate>Sun, 18 Jul 2021 10:38:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【葛卫东减持四年“长情股”科大讯飞，但业内认为他仍没有明显的撤退意愿】葛卫东已经潜伏科大讯飞接近四年，今年已经连续两个季度小幅减持。从其过往的持仓情况来看，葛卫东对于看好的科技股敢于重仓，且持股周期都比较长，业内人士分析称，他布局科大讯飞多年，至今尚未有明显的撤退意愿，一定程度上说明了他对科大讯飞的乐观预期。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7592502.d.html</link>
-            <guid>2244060</guid>
-            <pubDate>Sun, 18 Jul 2021 10:26:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克代表：欧佩克+会议已开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6193722.d.html</link>
-            <guid>2244056</guid>
-            <pubDate>Sun, 18 Jul 2021 10:09:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  迈普医学：将创业板IPO股票发行价设在每股15.14元人民币，将发行1651.5766万股新股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6193358.d.html</link>
-            <guid>2244054</guid>
-            <pubDate>Sun, 18 Jul 2021 10:07:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世界首套时速600公里高速磁浮交通系统7月20日将在青岛亮相】记者从中车青岛四方机车车辆股份有限公司获悉，世界首套时速600公里高速磁浮交通系统将于7月20日在青岛与世人见面。这是当前速度最快的地面交通工具，是世界轨道交通领域的尖端科技成果。（半岛新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7588941.d.html</link>
-            <guid>2244050</guid>
-            <pubDate>Sun, 18 Jul 2021 09:58:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
