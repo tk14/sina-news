@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 18 Jul 2021 09:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 10:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[欧佩克代表：欧佩克+会议已开始。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6193722.d.html</link>
+            <guid>2244056</guid>
+            <pubDate>Sun, 18 Jul 2021 10:09:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  迈普医学：将创业板IPO股票发行价设在每股15.14元人民币，将发行1651.5766万股新股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6193358.d.html</link>
+            <guid>2244054</guid>
+            <pubDate>Sun, 18 Jul 2021 10:07:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世界首套时速600公里高速磁浮交通系统7月20日将在青岛亮相】记者从中车青岛四方机车车辆股份有限公司获悉，世界首套时速600公里高速磁浮交通系统将于7月20日在青岛与世人见面。这是当前速度最快的地面交通工具，是世界轨道交通领域的尖端科技成果。（半岛新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7588941.d.html</link>
+            <guid>2244050</guid>
+            <pubDate>Sun, 18 Jul 2021 09:58:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海南：严禁以“不限购”“不限贷”等文字误导购房者】7月16日，海南省住房和城乡建设厅、省委网信办、省市场监督管理局联合通报海南近期房地产领域网络虚假宣传广告专项治理情况，强调要继续重点打击网络上以“不限购”“不限贷”等文字曲解限购政策、误导购房人的虚假房地产宣传广告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7588863.d.html</link>
+            <guid>2244049</guid>
+            <pubDate>Sun, 18 Jul 2021 09:57:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋航空把暂停来往印度的航班的决定延长至7月25日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7588401.d.html</link>
+            <guid>2244047</guid>
+            <pubDate>Sun, 18 Jul 2021 09:51:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【华数传媒业绩快报：上半年净利润同比增长17.9%】华数传媒发布2021年半年度业绩快报，实现营业总收入36.01亿元，同比增长12.57%；归属于上市公司股东的净利润4.3亿元，同比增长17.9%；基本每股收益0.24元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6189754.d.html</link>
+            <guid>2244043</guid>
+            <pubDate>Sun, 18 Jul 2021 09:32:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美团上线“美团打车”微信小程序】据Tech星球，美团于近日上线了“美团打车”微信小程序。该小程序在6月底进行了名字更改，由“美团打车营销号”改为为“美团打车”。美团打车小程序与美团打车App相差无异，提供智能勾选服务，以及23种车型。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7586098.d.html</link>
+            <guid>2244042</guid>
+            <pubDate>Sun, 18 Jul 2021 09:29:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【杭萧钢构：对合特光电的投资尚处于起步阶段 公司目前没有开展BIPV业务】杭萧钢构发布董事会决议的补充公告，公司对合特光电的投资尚处于起步阶段，尚未涉及具体项目，公司目前没有开展BIPV业务。尚无法预计此次投资对公司经营业绩的影响。公司设立BIPV子公司仅为初步意向，尚未确定时间点及具体投资规模，后续事宜尚待进一步推进，未来投资情况存在不确定性。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7583540.d.html</link>
@@ -343,66 +385,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6154602.d.html</link>
             <guid>2243953</guid>
             <pubDate>Sun, 18 Jul 2021 04:27:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国俄勒冈州山火肆虐 过火面积超纽约市区面积】美国山火追踪网站17日数据显示，俄勒冈州南部最大一处山火的过火面积已经超过1138平方公里，超过纽约市区面积，目前仅有22%的火情得到控制。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7549263.d.html</link>
-            <guid>2243952</guid>
-            <pubDate>Sun, 18 Jul 2021 04:17:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海医疗器械产业规模2023年达500亿元，创新产品审批提速】根据7月16日上海市经济和信息化委员会与市药品监督管理局最新印发的一份《创新服务机制 推动本市医疗器械产业高质量发展实施方案》，上海医疗器械产业规模实现较快增长，力争年均可比增长10%，到2023年医疗器械制造业产值达500亿元。与此同时，创新医疗器械的审评审批也正在提速。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6150368.d.html</link>
-            <guid>2243950</guid>
-            <pubDate>Sun, 18 Jul 2021 04:04:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【LG化学将与日本东丽建立湿法隔膜合资厂】据业内人士透露，LG化学计划与日本东丽在欧洲成立合资厂，生产锂电池湿法隔膜，详细内容尚未敲定。东丽是全球最大的湿法隔膜厂商之一。此前LG化学曾宣布，将在电池材料领域投入6万亿韩元。 (韩国IT News)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7546285.d.html</link>
-            <guid>2243949</guid>
-            <pubDate>Sun, 18 Jul 2021 04:02:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上半年海南省集中签约重点项目190个，协议投资金额超过900亿元】据统计，今年上半年，海南共举行3次重点项目集中签约活动，共签约项目190个，协议投资金额超过900亿元。统计数字显示，今年1月至5月，海南省新设立外商投资企业750家，同比增长393.42%；实际使用外资7.98亿美元，同比增长527.54%；共有81个国家和地区在海南省新设外资企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6148435.d.html</link>
-            <guid>2243948</guid>
-            <pubDate>Sun, 18 Jul 2021 03:52:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四部门发文明确：中小学不得在校内设置小卖部、超市】近日，教育部联合国家卫生健康委等四部门印发《营养与健康学校建设指南》，对适应儿童青少年生长发育需要，推动学校营养与健康工作，规范学校营养与健康相关管理行为作出要求。《指南》第二十五条规定：“不得在校内设置小卖部、超市等食品经营场所，不得售卖高盐、高糖及高脂的食品和酒精饮料。不得对含糖饮料、调味面制品等零食进行广告宣传。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6147328.d.html</link>
-            <guid>2243946</guid>
-            <pubDate>Sun, 18 Jul 2021 03:47:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国日用电量刷新历史纪录 11个省级电网负荷创新高】今年入夏以来，全国用电量持续攀升。在7月14日，全国日用电量刷新了历史纪录，达到271.87亿千瓦时，比去年夏季的最高值增长超过了10%。在本轮用电高峰中，华东、华中区域电网及广东、江苏、浙江等11个省级电网负荷创历史新高。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7543290.d.html</link>
-            <guid>2243945</guid>
-            <pubDate>Sun, 18 Jul 2021 03:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江阴港上半年累计完成货物吞吐量15496.6万吨 同比增长35.88%】据江阴发布，今年1-6月，江阴港累计完成货物吞吐量15496.6万吨，同比增长35.88%；外贸吞吐量3321.32万吨，同比增长19.56%；集装箱吞吐量完成301830标箱，同比增长33.03%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6140412.d.html</link>
-            <guid>2243734</guid>
-            <pubDate>Sun, 18 Jul 2021 03:10:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安徽签约142个新材料产业项目，投资总额909.27亿元】7月16日至18日，由安徽省政府和国际玻璃协会共同主办的国际新材料产业大会在蚌埠举办。中国建材集团有限公司、国家制造业转型升级基金公司、国改双百发展基金管理公司、诚通混改私募基金管理有限公司、安徽海螺水泥股份有限公司、安徽省三重一创产业发展基金有限公司等10余家企业签署中建材（安徽）新材料产业投资基金（有限合伙）合作协议。中建材私募基金管理（北京）有限公司与安徽陶铝新材料研究院有限公司、蚌埠中光电科技有限公司、芜湖启迪半导体有限公司、安徽弘徽科技有限公司、赛创电气（铜陵）有限公司共同签署项目投资意向书。主会场和分会场共签约项目142个，投资总额909.27亿元。其中主会场签约项目70个，总投资614.85亿元；分会场签约项目72个，总投资294.42亿元。（安徽日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7531607.d.html</link>
-            <guid>2243543</guid>
-            <pubDate>Sun, 18 Jul 2021 02:47:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全球多地遭遇极端天气：欧洲洪灾致百余人死亡 北美山火蔓延】全球多地遭遇极端天气，欧洲西部暴雨已导致超过170人死亡；而在北美，高温热浪的袭击下，山火持续蔓延。分析指出，气候变化增加了极端天气事件的频率，许多单一事件已经因全球变暖而变得更糟。德国和比利时近日遭遇了灾难性的洪水侵袭，已造成超过170人死亡，救援人员仍在努力应对洪水造成的破坏。德国总理默克尔预定18日前往遭重创的莱茵兰-普法尔茨州视察灾情。北美正持续遭遇热浪袭击，据美国家消防中心数据，12个州正在与71场山火作斗争，大火总面积约4021平方公里，超过1.4万名消防员和应急人员参与灭火，俄勒冈、蒙大拿等州14日宣布进入紧急状态。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6134879.d.html</link>
-            <guid>2243518</guid>
-            <pubDate>Sun, 18 Jul 2021 02:44:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国60岁及以上群体网络普及率为38.6% 其中10万老人每天上网超10小时】随着智能终端适老化改造的深入进行，互联网的门槛在老人面前变低了。更多的老人享受到互联网便利的同时，新问题随之产生。数据显示，我国60岁及以上群体的网络普及率为38.6%，其中，有超过10万老人日均在线超过10个小时。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6133409.d.html</link>
-            <guid>2243463</guid>
-            <pubDate>Sun, 18 Jul 2021 02:36:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
