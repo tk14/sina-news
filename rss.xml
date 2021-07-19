@@ -4,11 +4,130 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 19 Jul 2021 15:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 16:36:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国国家过敏症和传染病研究所所长福奇：德尔塔变种毒株越来越占据主导地位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6429720.d.html</link>
+            <guid>2245250</guid>
+            <pubDate>Mon, 19 Jul 2021 16:33:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特斯拉推出Megapack订购页面】据媒体报道，特斯拉(TSLA.O)正式为Megapack电池组推出新的订购和定价页面。Megapack用于公用事业规模的能源存储，这是首次公开定价，此前仅向企业销售。在加州，Megapack起售价为1,235,890美元，不包含每年的维护费用和税费。目前Megapack不在美国以外地区销售。加州、内华达州和得州的Megapack将在2022年开始发货，其他州需要等到2023年或者更晚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7825968.d.html</link>
+            <guid>2245249</guid>
+            <pubDate>Mon, 19 Jul 2021 16:31:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国政府首席科学顾问瓦兰斯：最理想的情况是在9月前能看到感染人数下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6429485.d.html</link>
+            <guid>2245247</guid>
+            <pubDate>Mon, 19 Jul 2021 16:31:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国首相约翰逊：不能保证解封计划不可逆转。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6429249.d.html</link>
+            <guid>2245244</guid>
+            <pubDate>Mon, 19 Jul 2021 16:29:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：高盛(GS.N)主要考虑的是大型私募股权交易，每笔交易价值将超过1000亿日元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7825453.d.html</link>
+            <guid>2245239</guid>
+            <pubDate>Mon, 19 Jul 2021 16:26:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：高盛(GS.N)正计划在日本全面回归私募股权投资领域。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7824648.d.html</link>
+            <guid>2245236</guid>
+            <pubDate>Mon, 19 Jul 2021 16:16:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：高盛尤其关注日本房地产，计划将年度房地产投资增加一倍至约2500亿日元(约合22.9亿美元)。]]></title>
+            <guid>2245234</guid>
+            <pubDate>Mon, 19 Jul 2021 16:15:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WhatsApp：将在周一推出可加入的群组语音通话功能，用户在群组语音通话开始后也能加入。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6428088.d.html</link>
+            <guid>2245233</guid>
+            <pubDate>Mon, 19 Jul 2021 16:15:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄总理米舒斯京在普京总统主持召开的战略发展和国家项目委员会会议上发言时宣布：展开国产系列电动汽车研发推出工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6427939.d.html</link>
+            <guid>2245230</guid>
+            <pubDate>Mon, 19 Jul 2021 16:13:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：高盛(GS.N)将扩大对日本办公楼和数据中心等另类资产的投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6427911.d.html</link>
+            <guid>2245229</guid>
+            <pubDate>Mon, 19 Jul 2021 16:13:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国首相约翰逊：将放宽一些关键工作人员的隔离规定，必须保护关键的服务部门。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6427737.d.html</link>
+            <guid>2245228</guid>
+            <pubDate>Mon, 19 Jul 2021 16:10:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【王毅会见阿盟秘书长盖特】当地时间7月18日，国务委员兼外长王毅在阿拉曼会见阿盟秘书长盖特。王毅表示，中方支持阿拉伯国家走团结自强道路，中阿双方达成“努力携手打造面向新时代的中阿命运共同体”的共识，一致同意召开首届中阿峰会，为中阿战略伙伴关系发展注入强大动力。盖特表示，阿盟赞赏中方在地区问题上秉持的正义立场，支持中方就地区形势和热点问题提出的各项倡议，愿同中方密切沟通，确保首届阿中峰会成功召开。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7822636.d.html</link>
+            <guid>2245218</guid>
+            <pubDate>Mon, 19 Jul 2021 15:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际原子能机构总干事格罗西：伊朗是自愿保存核数据的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6426177.d.html</link>
+            <guid>2245216</guid>
+            <pubDate>Mon, 19 Jul 2021 15:51:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际原子能机构总干事格罗西：伊朗仍然拒绝延长监督协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6426169.d.html</link>
+            <guid>2245215</guid>
+            <pubDate>Mon, 19 Jul 2021 15:50:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：自从6个月前上任以来，新增岗位从每月新增6万个变成到每三天新增6万。这是有史以来任何一届政府中就业增长速度最快的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7822572.d.html</link>
+            <guid>2245213</guid>
+            <pubDate>Mon, 19 Jul 2021 15:50:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【明日飞往太空，贝索斯表示现在一点不紧张】7月20日，贝索斯旗下太空探索公司“蓝色起源”将进行首次“载客”飞行，提供太空游服务。届时贝索斯将连同其他三位乘客一起飞往太空。对此，贝索斯今日在接受媒体采访时表示：“人们不停地问我，是否紧张。我真的不紧张。我很兴奋，也很好奇。我想知道我们将要学到一些什么东西。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7822472.d.html</link>
+            <guid>2245211</guid>
+            <pubDate>Mon, 19 Jul 2021 15:49:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据特斯拉(TSLA.O)在线设计工作室称，市场对长续航全轮驱动型Model 3的需求持续飙升，新订单的交付日期被推迟到11月。 目前，Model 3配置的预期交付时间为10-16周。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7822137.d.html</link>
+            <guid>2245204</guid>
+            <pubDate>Mon, 19 Jul 2021 15:42:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  小鹏汽车发布公告，于2021年7月19日因部分行使超额配股权而发行1208.33万股，每股发行价为165港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7822095.d.html</link>
+            <guid>2245201</guid>
+            <pubDate>Mon, 19 Jul 2021 15:42:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【快递公司6月经营月报出炉：圆通营收增速超顺丰，行业陷入价格战】从发布了6月经营简报的四家快递公司来看，顺丰、韵达、圆通、和申通营收分别为151.24亿元、33.09亿元、31.22亿元和19.23亿元。但从营收同比增速来看，圆通位列最高，达22.99%。除了规模稳定增长，行业价格战仍在继续。以顺丰为例，2月、3月、4月、5月和6月的单票收入均低于16元，而去年同期单票收入则超过18元。（一财）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6425276.d.html</link>
+            <guid>2245194</guid>
+            <pubDate>Mon, 19 Jul 2021 15:36:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【吴亦凡商业版图仅剩1家公司】 吴亦凡（WU YI FAN）共关联4家企业，其中存续状态仅1家，为厦门亿和云起文化传媒合伙企业（有限合伙），持股比例为99.99%，法定代表人为吴林。其余3家显示已注销，注销时间集中在2020年6月至9月，此前吴亦凡持股比例均为99.0%及以上。（新京报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7821346.d.html</link>
+            <guid>2245186</guid>
+            <pubDate>Mon, 19 Jul 2021 15:32:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：欧盟对俄罗斯国有企业的采购行为在世贸组织发起争端解决程序。欧盟方面认为俄罗斯歧视外国供应商。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7820240.d.html</link>
@@ -85,168 +204,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7816718.d.html</link>
             <guid>2245151</guid>
             <pubDate>Mon, 19 Jul 2021 14:37:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据港交所文件：天有教育集团有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6420026.d.html</link>
-            <guid>2245142</guid>
-            <pubDate>Mon, 19 Jul 2021 14:32:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股石油板块大跌，巴西石油公司、英国石油、埃克森美孚跌逾4%，荷兰皇家壳牌石油、雪佛龙跌超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6419975.d.html</link>
-            <guid>2245138</guid>
-            <pubDate>Mon, 19 Jul 2021 14:31:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国汽油期货延续跌势，日内跌5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7816081.d.html</link>
-            <guid>2245136</guid>
-            <pubDate>Mon, 19 Jul 2021 14:30:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【隆基股份再次刷新P型TOPCon电池效率世界纪录】隆基股份消息，经世界公认权威测试机构德国哈梅林太阳能研究所（ISFH）测试，隆基电池研发中心单晶P型TOPCon电池研发实现高达25.19%转换效率，将基于CZ硅片商业化尺寸P型TOPCon电池的转换效率提升至全新高度，是目前商业化尺寸P型电池世界最高效率。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7815248.d.html</link>
-            <guid>2245131</guid>
-            <pubDate>Mon, 19 Jul 2021 14:22:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯政府提议在未来三年内，从预算和国家财富基金中额外支出736亿卢布用于新项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7814942.d.html</link>
-            <guid>2245129</guid>
-            <pubDate>Mon, 19 Jul 2021 14:20:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alan’s Factory Outlet数据显示，1978年到2020年间，美国的汽车销量超过3.48亿辆，平均每年售出810万辆汽车。在20世纪的大部分时间里，美国汽车销售都是由美国汽车制造商主导，但自1980年代后期以来，日本汽车制造商开始在可负担性、可靠性和整体销售方面占据主导地位，丰田汽车凭借广受欢迎的丰田凯美瑞夺得桂冠。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7814797.d.html</link>
-            <guid>2245126</guid>
-            <pubDate>Mon, 19 Jul 2021 14:19:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国“脱欧”谈判首席代表弗罗斯特：如果不可能进行双边都同意的谈判，我们将不得不考虑我们的选择。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6418570.d.html</link>
-            <guid>2245124</guid>
-            <pubDate>Mon, 19 Jul 2021 14:18:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国30年期国债收益率当日下跌11个基点，有望创下自2020年3月以来的最大单日跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6418444.d.html</link>
-            <guid>2245123</guid>
-            <pubDate>Mon, 19 Jul 2021 14:17:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国10年期国债收益率继续下跌至2月中旬以来的最低水平，报-0.396%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6418396.d.html</link>
-            <guid>2245122</guid>
-            <pubDate>Mon, 19 Jul 2021 14:17:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国“脱欧”谈判首席代表弗罗斯特：我们还未重新尝试彻底平衡北爱尔兰议定书的可能性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6418389.d.html</link>
-            <guid>2245121</guid>
-            <pubDate>Mon, 19 Jul 2021 14:16:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元USD/JPY进一步下跌，跌至5月下旬以来的最低水平109.06。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7813453.d.html</link>
-            <guid>2245114</guid>
-            <pubDate>Mon, 19 Jul 2021 14:06:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：预计2021年GDP增长将在4%左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6416910.d.html</link>
-            <guid>2245111</guid>
-            <pubDate>Mon, 19 Jul 2021 14:03:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国“脱欧”谈判首席代表弗罗斯特：可以说，欧盟允许我们执行其中一些安排的方式与协议上的不一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7812975.d.html</link>
-            <guid>2245109</guid>
-            <pubDate>Mon, 19 Jul 2021 14:01:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7月NAHB房产市场指数录得80，创去年8月以来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7812940.d.html</link>
-            <guid>2245107</guid>
-            <pubDate>Mon, 19 Jul 2021 14:01:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国“脱欧”谈判首席代表弗罗斯特：事态必须有所改变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7812913.d.html</link>
-            <guid>2245106</guid>
-            <pubDate>Mon, 19 Jul 2021 14:01:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲斯托克基本资源指数下跌4.1%，录得3月4日以来最低纪录。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7812889.d.html</link>
-            <guid>2245105</guid>
-            <pubDate>Mon, 19 Jul 2021 14:01:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国“脱欧”谈判首席代表弗罗斯特：如果议定书破坏了和平协议，那么议定书就没有履行它的职责。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7812608.d.html</link>
-            <guid>2245101</guid>
-            <pubDate>Mon, 19 Jul 2021 13:58:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国“脱欧”谈判首席代表弗罗斯特：（当被问及脱欧协议第16条时）所有的选择都在谈判桌上。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6416367.d.html</link>
-            <guid>2245099</guid>
-            <pubDate>Mon, 19 Jul 2021 13:58:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国“脱欧”谈判首席代表弗罗斯特：（当被问及脱欧协议第16条时）这得对我们周三的言辞拭目以待。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6416294.d.html</link>
-            <guid>2245097</guid>
-            <pubDate>Mon, 19 Jul 2021 13:57:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【嘉泽新能：拟合计14.53亿元转让两家新能源子公司100%股权】嘉泽新能公告，公司将全资子公司宁夏恺阳新能源有限公司、宁夏博阳新能源有限公司的100%股权以人民币3.81亿元、10.72亿元转让给京能清洁能源公司。此次股权转让后，宁夏恺阳公司、宁夏博阳公司将不再纳入公司财务报表合并范围。交易完成后预计将增加公司2021年税前利润合计4.61亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6416075.d.html</link>
-            <guid>2245096</guid>
-            <pubDate>Mon, 19 Jul 2021 13:54:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国“脱欧”谈判首席代表弗罗斯特：（就北爱尔兰议定书问题）如果我们要找到一条稳定的前进路线，则它必须以不同的方式实现。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6416029.d.html</link>
-            <guid>2245095</guid>
-            <pubDate>Mon, 19 Jul 2021 13:54:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国“脱欧”谈判首席代表弗罗斯特：我们将不得不考虑与欧盟开展讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7812244.d.html</link>
-            <guid>2245094</guid>
-            <pubDate>Mon, 19 Jul 2021 13:53:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国“脱欧”谈判首席代表弗罗斯特：如果我们能够且继续达成协议，就更有可能得到一个持久的解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6416000.d.html</link>
-            <guid>2245092</guid>
-            <pubDate>Mon, 19 Jul 2021 13:53:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国“脱欧”谈判首席代表弗罗斯特：（就北爱尔兰议定书问题）我们知道这是不可持续的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6415803.d.html</link>
-            <guid>2245089</guid>
-            <pubDate>Mon, 19 Jul 2021 13:51:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国10年期国债收益率跌至2月12日以来的最低水平，报0.549%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6415748.d.html</link>
-            <guid>2245087</guid>
-            <pubDate>Mon, 19 Jul 2021 13:50:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：对白俄罗斯的新制裁增加了其主权评级压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6415259.d.html</link>
-            <guid>2245086</guid>
-            <pubDate>Mon, 19 Jul 2021 13:47:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小鹏汽车宣布P5新款智能电动汽车的价格范围：16-23万元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6415018.d.html</link>
-            <guid>2245082</guid>
-            <pubDate>Mon, 19 Jul 2021 13:44:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
