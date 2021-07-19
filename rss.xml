@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 19 Jul 2021 19:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 20:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  道指初步收跌逾700点，成分股中，波音跌超5%，美国运通和霍尼韦尔跌超4%。投资者涌向避险资产，美债收益率下跌，拖累银行板块跌约4%。受累于国际油价重挫，美国原油基金收跌逾6%，卡隆石油和马拉松石油也至少跌超5%。英伟达涨超3%，在标普500指数中表现突出。中概股小鹏汽车和未来汽车涨超1%，虎牙跌超6%，滴滴跌超7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6442943.d.html</link>
+            <guid>2245344</guid>
+            <pubDate>Mon, 19 Jul 2021 20:01:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大力招揽研究人才 机构拥抱ESG投资】多家外资机构正在大力招聘ESG投资(ESG即环境、社会和治理，是一种关注企业环境、社会、治理绩效的投资理念和企业评价标准)方面的研究人才，而从公募基金的情况来看，近期ESG投资热度也颇高。多位业内人士一致认为，ESG投资正成为各路资管机构共同发力的方向。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6441393.d.html</link>
+            <guid>2245336</guid>
+            <pubDate>Mon, 19 Jul 2021 19:29:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务院：民主党外交政策专家德里克·乔莱特将于7月20日至23日前往波兰和乌克兰，就包括北溪2号在内的问题进行会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7837877.d.html</link>
+            <guid>2245334</guid>
+            <pubDate>Mon, 19 Jul 2021 19:25:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【A股质押压力明显缓解】曾一度令市场担忧的上市公司质押风险，在今年得到进一步缓解。Wind数据显示，A股市场大股东质押股份数已从2018年底的约6300亿股降至如今（截至7月19日）的5483.97亿股，大股东质押股份占所持股份的比例从2018年末的22.5%降至如今的17.15%。市场质押股数占所有公司股份总量由9.61%降至6.3%。具体到公司，第一大股东质押比例超过80%的公司数已降至311家，不足巅峰时期的一半。（上证报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6440201.d.html</link>
@@ -248,29 +266,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6429249.d.html</link>
             <guid>2245244</guid>
             <pubDate>Mon, 19 Jul 2021 16:29:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：高盛(GS.N)主要考虑的是大型私募股权交易，每笔交易价值将超过1000亿日元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7825453.d.html</link>
-            <guid>2245239</guid>
-            <pubDate>Mon, 19 Jul 2021 16:26:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：高盛(GS.N)正计划在日本全面回归私募股权投资领域。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7824648.d.html</link>
-            <guid>2245236</guid>
-            <pubDate>Mon, 19 Jul 2021 16:16:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：高盛尤其关注日本房地产，计划将年度房地产投资增加一倍至约2500亿日元(约合22.9亿美元)。]]></title>
-            <guid>2245234</guid>
-            <pubDate>Mon, 19 Jul 2021 16:15:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  WhatsApp：将在周一推出可加入的群组语音通话功能，用户在群组语音通话开始后也能加入。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6428088.d.html</link>
-            <guid>2245233</guid>
-            <pubDate>Mon, 19 Jul 2021 16:15:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
