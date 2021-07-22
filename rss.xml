@@ -4,11 +4,136 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 22 Jul 2021 13:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 14:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美元指数DXY短线走高近15点，现报92.77。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk7048763.d.html</link>
+            <guid>2249710</guid>
+            <pubDate>Thu, 22 Jul 2021 14:13:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元兑美元EUR/USD短线跌近25点，现报1.1792。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8445698.d.html</link>
+            <guid>2249709</guid>
+            <pubDate>Thu, 22 Jul 2021 14:12:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股抗疫概念股走强，BioNTech SE(BNTX.O)涨5.3%，诺瓦瓦克斯医药(NVAX.O)涨2.2%，Moderna(MRNA.O)涨1.8%，阿斯利康(AZN.O)、辉瑞(PFE.N)涨超0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk7048356.d.html</link>
+            <guid>2249708</guid>
+            <pubDate>Thu, 22 Jul 2021 14:10:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元区7月消费者信心指数初值公布 -4.4，前值 -3.3，预期 -2.5。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8444288.d.html</link>
+            <guid>2249706</guid>
+            <pubDate>Thu, 22 Jul 2021 14:01:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  部分明星科技股走强，阿里巴巴(BABA.N)涨2.35%，Salesforce(CRM.N)涨1.3%，微软(MSFT.O)涨1.2%，苹果(AAPL.O)、亚马逊(AMZN.O)涨近1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8443656.d.html</link>
+            <guid>2249701</guid>
+            <pubDate>Thu, 22 Jul 2021 13:56:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元兑美元涨0.19%报1.1818，触及一周高点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8443063.d.html</link>
+            <guid>2249700</guid>
+            <pubDate>Thu, 22 Jul 2021 13:50:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  医疗设备公司NeuroMetrix(NURO.O)恢复交易后涨超43%，现报29.7美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8442821.d.html</link>
+            <guid>2249699</guid>
+            <pubDate>Thu, 22 Jul 2021 13:48:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩正：从实际出发加快发展保障性租赁住房，坚定不移全面落实房地产长效机制。（新华社）]]></title>
+            <guid>2249698</guid>
+            <pubDate>Thu, 22 Jul 2021 13:45:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[部分热门中概股走低，滴滴跌7.3%，哔哩哔哩跌5.6%，老虎证券跌5%，高途跌3.9%，雾芯科技跌3.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk7045267.d.html</link>
+            <guid>2249696</guid>
+            <pubDate>Thu, 22 Jul 2021 13:43:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  西南航空(LUV.N)跌超4%，预计2021年7月营业收入将比2019年下降10%-15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8441685.d.html</link>
+            <guid>2249693</guid>
+            <pubDate>Thu, 22 Jul 2021 13:39:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国航空集团(AAL.O)跌3.22%，预计Q3营收较2019年下滑约20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk7044694.d.html</link>
+            <guid>2249692</guid>
+            <pubDate>Thu, 22 Jul 2021 13:39:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国资委：中央企业支援河南省防汛救灾捐款达10.44亿元】国资委和中央企业坚决贯彻落实习近平总书记关于防汛救灾的重要指示精神，落实党中央、国务院决策部署，全力支援河南省做好汛灾抢险救援，进一步加大捐赠力度，截至7月22日19点，89家中央企业累计向河南省捐赠现金达10.44亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk7044674.d.html</link>
+            <guid>2249691</guid>
+            <pubDate>Thu, 22 Jul 2021 13:39:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美、布两油期货短线下挫0.5美元，WTI原油期货报70.36美元/桶，布伦特原油期货报72.29美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8441569.d.html</link>
+            <guid>2249690</guid>
+            <pubDate>Thu, 22 Jul 2021 13:38:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FF全球CEO：从公司的角度，贾跃亭的债权人就是普通股东。债权人信托受托人负责管理和处理贾跃亭的债务问题，相信随着时间的推移，债权人的欠款能够得到偿还。（一财）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8441561.d.html</link>
+            <guid>2249689</guid>
+            <pubDate>Thu, 22 Jul 2021 13:38:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FF全球CEO：上市后将兑现量产承诺，未来两年FF91销量将达4万台。（一财）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8441535.d.html</link>
+            <guid>2249688</guid>
+            <pubDate>Thu, 22 Jul 2021 13:38:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德州仪器(TXN.O)跌4.3%，第三季度营收指引区间中点低于分析师预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8440950.d.html</link>
+            <guid>2249686</guid>
+            <pubDate>Thu, 22 Jul 2021 13:34:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Churchill Capital IV(CCIV.N)涨超3%，公司股东将就电动汽车公司Lucid Motors的合并事项进行投票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk7044020.d.html</link>
+            <guid>2249685</guid>
+            <pubDate>Thu, 22 Jul 2021 13:33:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法拉第未来涨幅缩窄至15%，股价报15.85美元，市值51亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8440916.d.html</link>
+            <guid>2249684</guid>
+            <pubDate>Thu, 22 Jul 2021 13:33:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[滴滴股价刷新历史新低，现跌超7%，上市以来市值蒸发超150亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk7043948.d.html</link>
+            <guid>2249683</guid>
+            <pubDate>Thu, 22 Jul 2021 13:33:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  凯撒铝业(KALU.O)跌4%，第二季度调整每股收益不及预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8440691.d.html</link>
+            <guid>2249678</guid>
+            <pubDate>Thu, 22 Jul 2021 13:31:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[滴滴美股开盘跌超6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8440680.d.html</link>
+            <guid>2249677</guid>
+            <pubDate>Thu, 22 Jul 2021 13:31:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[英镑兑美元GBP/USD抹去本周跌幅，日内涨0.5%，报1.3786。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk7042780.d.html</link>
@@ -122,77 +247,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk7034887.d.html</link>
             <guid>2249447</guid>
             <pubDate>Thu, 22 Jul 2021 12:28:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国太保快速完成河南暴雨首笔人身险赔付】7月22日14时左右，中国太保(02601.HK)旗下中国太保寿险将14.29万元理赔款送至客户家属手中，花30分钟时间快速完成河南暴雨首笔人身险赔付。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk7033168.d.html</link>
-            <guid>2249421</guid>
-            <pubDate>Thu, 22 Jul 2021 12:15:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【戴姆勒准备在2030年实现全电动转型】德国豪华汽车制造商戴姆勒周四表示，将投资400亿欧元(470亿美元)，准备在十年内实现全电动。该公司在一份报告中披露了雄心勃勃的战略，尽管它也添加了“条件允许的情况下”的警告。 此外，报告中还提到，到2025年，所有车型都将拥有电动版。为了能够全面转向电动汽车，戴姆勒计划开设8个电池生产设施，并计划在未来90%以上的汽车上使用一个共同的电池平台。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk7033060.d.html</link>
-            <guid>2249417</guid>
-            <pubDate>Thu, 22 Jul 2021 12:15:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【迪安诊断：拟捐赠现金和医疗设备物资合计约1000万元支持防汛救灾】迪安诊断公告，公司拟向河南省慈善总会等机构捐赠现金和医疗设备物资合计约1000万元(其中现金500万元)，用于灾情严重地区的防汛救灾、卫生防疫及灾后重建工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk7032637.d.html</link>
-            <guid>2249387</guid>
-            <pubDate>Thu, 22 Jul 2021 12:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线上扬逾10点，现报92.84。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk7032125.d.html</link>
-            <guid>2249374</guid>
-            <pubDate>Thu, 22 Jul 2021 12:07:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：07月22日19时56分在新疆和田地区皮山县（北纬37.54度，东经78.85度）发生3.2级地震，震源深度10千米。]]></title>
-            <guid>2249366</guid>
-            <pubDate>Thu, 22 Jul 2021 12:05:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纽柯钢铁(NUE.N)：我们预计2021年Q3的收益将是纽柯史上最高的季度收益，超过2021年Q2创下的纪录。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8428669.d.html</link>
-            <guid>2249361</guid>
-            <pubDate>Thu, 22 Jul 2021 12:03:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纽柯钢铁(NUE.N)：Q2每股盈收5.04美元，市场预期4.73美元，去年同期0.36美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk7031566.d.html</link>
-            <guid>2249360</guid>
-            <pubDate>Thu, 22 Jul 2021 12:03:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑英镑EUR/GBP下跌0.5％，报0.85598，为7月16日以来最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8428130.d.html</link>
-            <guid>2249354</guid>
-            <pubDate>Thu, 22 Jul 2021 12:00:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国30年期国债收益率触及日内高点，现报1.94%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk7030431.d.html</link>
-            <guid>2249323</guid>
-            <pubDate>Thu, 22 Jul 2021 11:55:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[久吾高科：预计上半年盈利850万元-1200万元，同比下降59.53%-42.86%；报告期内收到的政府补助较上年同期相比下降较多，同时，因原材料价格变动以及部分新领域示范项目毛利率偏低等因素造成综合毛利率较上年同期相比有所下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk7030171.d.html</link>
-            <guid>2249315</guid>
-            <pubDate>Thu, 22 Jul 2021 11:53:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10年期国债收益率短线上扬2个基点，现报1.31%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk7030127.d.html</link>
-            <guid>2249313</guid>
-            <pubDate>Thu, 22 Jul 2021 11:53:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑美元EUR/USD短线抬升逾20点，现报1.1812。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk7029650.d.html</link>
-            <guid>2249291</guid>
-            <pubDate>Thu, 22 Jul 2021 11:49:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
