@@ -4,336 +4,449 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 22 Jul 2021 01:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 02:35:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[  【因北京经郑州前往西安部分高铁列车停运 ，北京西至西安北加开高铁列车6列】据 @北京铁路 消息，因北京经由郑州前往西安方向的部分高铁列车继续停运，铁路部门决定，7月22日继续加开北京西经由石太、大西高铁至西安北高铁列车6列。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6896785.d.html</link>
-            <guid>2248355</guid>
-            <pubDate>Thu, 22 Jul 2021 01:11:40 GMT</pubDate>
+            <title><![CDATA[  【工信部：上半年新建19万个 我国5G基站总数达到96.1万】近日，工信部发布了《2021年上半年通信业经济运行情况》。其中，通报了我国通信能力情况。截至6月末，移动电话基站总数达948万个，比上年末净增17万个。其中，4G基站总数为584万个，占比为61.6%；5G基站总数96.1万个，其中1-6月新建19万个。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8317200.d.html</link>
+            <guid>2248473</guid>
+            <pubDate>Thu, 22 Jul 2021 02:35:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  深交所公告，港股通股票名单发生调整并自今日起生效，调入中集车辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8293622.d.html</link>
-            <guid>2248353</guid>
-            <pubDate>Thu, 22 Jul 2021 01:09:07 GMT</pubDate>
+            <title><![CDATA[【浦东将推出功能引领六大行动计划 培育一批全球营运“头部”企业】浦东新区区委书记翁祖亮介绍，为落实落实中央《关于支持浦东新区高水平改革开放、打造社会主义现代化建设引领区的意见》，浦东将推出功能引领六大行动计划。包括全球营运商计划，主要是助推跨国公司在浦东的机构将运作范围从中国区向亚太区和全球拓展，培育一批真正意义上的全球营运“头部”企业。全球机构投资者集聚计划，吸引全球知名机构投资者的资金和项目落地，支持已有机构投资者进一步提升能级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8317163.d.html</link>
+            <guid>2248472</guid>
+            <pubDate>Thu, 22 Jul 2021 02:34:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【新华社：科创板两岁啦 未来科创板乘风破浪的征程值得期待】22日，科创板这块资本市场改革的“试验田”迎来两岁生日。两年前，带着各方的盼望和期待，中国资本市场迎来这一全新板块。两年来，科创板以更加包容的姿态迎来300多家上市企业，更在“试验田”作出诸多改革探索，为全市场注册制摸索经验。点燃中国经济的创新引擎，需要用好市场资源、激发市场活力。未来，继续推动科技创新与资本要素良性互动，科创板乘风破浪的征程值得期待。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6895333.d.html</link>
-            <guid>2248352</guid>
-            <pubDate>Thu, 22 Jul 2021 01:06:47 GMT</pubDate>
+            <title><![CDATA[  韦尔股份早盘持续走低，盘中大跌逾5%，成交超14亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6919370.d.html</link>
+            <guid>2248471</guid>
+            <pubDate>Thu, 22 Jul 2021 02:33:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据日本时事通讯社22日报道，西非国家几内亚政府21日致函通知该国奥委会，以选手的健康为由，决定放弃参加东京奥运会。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6894706.d.html</link>
-            <guid>2248350</guid>
-            <pubDate>Thu, 22 Jul 2021 01:04:15 GMT</pubDate>
+            <title><![CDATA[【浦东将抓好一批重大工程项目 金色中环项目总投资2460亿元】从上海市政府新闻发布会上获悉，为落实中央《关于支持浦东新区高水平改革开放、打造社会主义现代化建设引领区的意见》，接下来，浦东将抓好一批重大工程项目。重点是围绕品质城区、绿色城区、智慧城区等加大投入，不断増强城市软实力，更好践行人民城市重要理念。其中，张江科学城“五个一批”，今年将实现第二轮项目半完工，第三轮项目三分之二开工。金色中环推进沿线重点项目控详规划修编，今年共推进项目164个，总投资2460亿元、年度投资280亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8315687.d.html</link>
+            <guid>2248468</guid>
+            <pubDate>Thu, 22 Jul 2021 02:29:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【威海广泰：公司产品远程供水系统可用于抗洪排涝】威海广泰在互动平台表示，公司产品远程供水系统可用于抗洪排涝，宿营车、餐饮车、发电车、淋浴车、卫生车等多款后勤保障产品可用于应急保障工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6894586.d.html</link>
-            <guid>2248349</guid>
-            <pubDate>Thu, 22 Jul 2021 01:03:42 GMT</pubDate>
+            <title><![CDATA[  浦东将推出功能引领六大行动计划 将集聚全球机构投资者】7月22日上海市政府举行新闻发布会，据介绍，为落实落实中央《关于支持浦东新区高水平改革开放、打造社会主义现代化建设引领区的意见》，浦东将推出功能引领六大行动计划。包括全球营运商计划，助推跨国公司在浦东的机构将运作范围从中国区向亚太区和全球拓展，培育一批真正意义上的全球营运“头部”企业。全球机构投资者集聚计划，抓住金融市场开放、产品创新的机遇，吸引全球知名机构投资者的资金和项目落地，支持已有机构投资者进一步提升能级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8315446.d.html</link>
+            <guid>2248465</guid>
+            <pubDate>Thu, 22 Jul 2021 02:28:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【《自然》封面文章：上海光机所小型化自由电子激光研究取得突破性进展】中国科学院上海光学精密机械研究所强场激光物理国家重点实验室，利用自行研制的具有国际领先综合性能的超强超短激光装置，在基于激光加速器的小型化自由电子激光研究方面取得突破性进展。相关研究成果于今天，作为封面文章发表于《自然》（Nature）杂志。这是国际上首次实现基于激光电子加速器的极紫外波段的自发辐射放大输出，对于小型化、低成本的X射线自由电子激光器的研制具有重大意义。（东方网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6893365.d.html</link>
-            <guid>2248340</guid>
-            <pubDate>Thu, 22 Jul 2021 00:58:35 GMT</pubDate>
+            <title><![CDATA[【叙利亚军方：中部一地区遭以色列导弹袭击】叙利亚军方22日发表声明说，以色列当天凌晨用导弹袭击叙中部霍姆斯地区，袭击未造成人员伤亡。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6917865.d.html</link>
+            <guid>2248464</guid>
+            <pubDate>Thu, 22 Jul 2021 02:28:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【上海复旦：拟按发行价每股6.23元发行1.2亿股A股】上海复旦在港交所公告，于2021年7月20日完成向询价对象进行的初步询价后，公司将按发行价格每股A股人民币6.23元发行1.2亿股A股，发行股份占发行后公司股份总数约14.73%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8290399.d.html</link>
-            <guid>2248338</guid>
-            <pubDate>Thu, 22 Jul 2021 00:54:48 GMT</pubDate>
+            <title><![CDATA[【河南安阳遭遇强降雨 最大降水站点超600毫米】7月19日至22日，河南省安阳全市平均降水304.6毫米，600毫米以上站点6个。目前，通过当地和驻安部队、武警、消防、社会救援的支持，安阳山洪地质灾害防御和蓄滞洪区人员转移工作正有序进行，提前预警安全转移群众73722人。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8315301.d.html</link>
+            <guid>2248463</guid>
+            <pubDate>Thu, 22 Jul 2021 02:27:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  郑州市气象台2021年7月22日08:20发布临近预报： 目前强回波位于新密、荥阳南、郑州东部、登封东南部，回波中心强度40-45dBZ，未来2小时内，强回波东北移，郑州市区、新郑、中牟有阵雨，局地有1小时20毫米的短时强降水、7级左右的短时大风。目前郑州市暴雨橙色、雷电黄色预警中。 请注意防范。（郑州发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6892554.d.html</link>
-            <guid>2248337</guid>
-            <pubDate>Thu, 22 Jul 2021 00:54:14 GMT</pubDate>
+            <title><![CDATA[河南气象：22日07时至22日10时，安阳、鹤壁、新乡、焦作局地出现大暴雨，有34个雨量站降水量超过50毫米，其中大于100毫米的有9个，最大降水量出现在安阳市安阳县谷驼136.1毫米。最大小时雨强出现在焦作市修武县百家岩70.2毫米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6917390.d.html</link>
+            <guid>2248460</guid>
+            <pubDate>Thu, 22 Jul 2021 02:26:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳大利亚昆士兰州将从周五起关闭与新南威尔士州的边界。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6891533.d.html</link>
-            <guid>2248336</guid>
-            <pubDate>Thu, 22 Jul 2021 00:49:31 GMT</pubDate>
+            <title><![CDATA[越南将2021-2026年的平均GDP增速目标设定为6.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8314661.d.html</link>
+            <guid>2248459</guid>
+            <pubDate>Thu, 22 Jul 2021 02:25:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【联易融科技：Valiant Varriors的指称实属“毫无根据” 将恢复交易】联易融科技公告称，Valiant Varriors在7月20日研究报告中提出的指称还包含多项失实陈述、虚假指称和明显事实错误。联易融科技已寻求法律意见，并对Valiant Varriors采取正式法律行动。股份将于周四上午9时恢复交易。联易融科技周二下午在香港暂停交易，股价一度下跌12%，之前有卖空者发布质疑报告。公司于4月份在香港挂牌交易，截至周二停牌前累计下跌36%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6891170.d.html</link>
-            <guid>2248335</guid>
-            <pubDate>Thu, 22 Jul 2021 00:47:43 GMT</pubDate>
+            <title><![CDATA[【湖南城陵矶口岸上半年集装箱吞吐量同比增长50.98%】据岳阳广播电视台消息，今年上半年，城陵矶口岸集装箱吞吐量达30.83万标箱，比2020年增长50.98%，实现时间过半，年度目标任务过半。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8313687.d.html</link>
+            <guid>2248455</guid>
+            <pubDate>Thu, 22 Jul 2021 02:21:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【银保监会：对受汛情影响暂不能营业但有发展前景的企业，不得盲目抽贷、断贷、压贷】中国银保监会办公厅发布关于支持防汛救灾加强金融服务工作的通知。通知指出，对受汛情影响暂不能营业但有发展前景的企业，不得盲目抽贷、断贷、压贷，鼓励通过提高信用贷款比重、减免服务收费等多种方式降低融资成本。支持稳步拓展财产保险、安全生产责任保险、农业保险等保险覆盖面，发挥保险保障经济、服务民生、稳定社会功能。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6890773.d.html</link>
-            <guid>2248333</guid>
-            <pubDate>Thu, 22 Jul 2021 00:45:34 GMT</pubDate>
+            <title><![CDATA[半导体芯片股持续拉升走强，全志科技、银河微电、华灿光电、中颖电子等多股涨超10%，科威尔、康强电子、光力科技、中微公司等均大幅走高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8313455.d.html</link>
+            <guid>2248453</guid>
+            <pubDate>Thu, 22 Jul 2021 02:20:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国总统拜登：餐馆和旅游业受到工人招聘难的制约。随着员工转向其他高收入行业，餐馆和旅游业可能暂时陷入困境。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6890231.d.html</link>
-            <guid>2248331</guid>
-            <pubDate>Thu, 22 Jul 2021 00:42:41 GMT</pubDate>
+            <title><![CDATA[  北向资金净流入超40亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8312364.d.html</link>
+            <guid>2248452</guid>
+            <pubDate>Thu, 22 Jul 2021 02:17:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国总统拜登：有一些证据表明，政府的福利给了人们不工作的动力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6889908.d.html</link>
-            <guid>2248330</guid>
-            <pubDate>Thu, 22 Jul 2021 00:41:00 GMT</pubDate>
+            <title><![CDATA[光刻胶板块大幅拉升，南大光电涨超15%，华特气体、容大感光、上海新阳、晶瑞股份等集体涨超5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6914286.d.html</link>
+            <guid>2248449</guid>
+            <pubDate>Thu, 22 Jul 2021 02:15:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[东吴证券：给予英科再生买进的初始评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6888432.d.html</link>
-            <guid>2248327</guid>
-            <pubDate>Thu, 22 Jul 2021 00:34:52 GMT</pubDate>
+            <title><![CDATA[  恒大系短线拉升，恒大汽车涨超10%，中国恒大涨逾7%，恒大物业涨3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8311217.d.html</link>
+            <guid>2248448</guid>
+            <pubDate>Thu, 22 Jul 2021 02:12:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[上海证交所上日融资余额上涨0.4%至8762.6亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6887590.d.html</link>
-            <guid>2248321</guid>
-            <pubDate>Thu, 22 Jul 2021 00:30:48 GMT</pubDate>
+            <title><![CDATA[【兴源环境：旗下兴源环保上半年应用在新能源电池领域的压滤机订单额4000万元】兴源环境官微消息，近年来，兴源环境旗下兴源环保设备工厂自主设计研发的全自动程控隔膜压滤机，在新能源电池正极材料的生产、锂电池回收行业得到了广泛应用。2021上半年，兴源环保应用在该领域的压滤机实现销售订单额约4000万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8311186.d.html</link>
+            <guid>2248447</guid>
+            <pubDate>Thu, 22 Jul 2021 02:12:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国总统拜登：两党的基础设施协议将在下周一之前达成。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8284445.d.html</link>
-            <guid>2248319</guid>
-            <pubDate>Thu, 22 Jul 2021 00:27:01 GMT</pubDate>
+            <title><![CDATA[  白酒板块走低，广誉远、青海春天双双跌停，古井贡酒、海南椰岛、金种子酒、顺鑫农业等走低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6913384.d.html</link>
+            <guid>2248446</guid>
+            <pubDate>Thu, 22 Jul 2021 02:11:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[国家卫健委：31个省（自治区、直辖市）和新疆生产建设兵团报告新增无症状感染者18例，其中境外输入11例，本土7例（均在江苏）；当日转为确诊病例8例（均为境外输入）；当日解除医学观察7例（均为境外输入）；尚在医学观察的无症状感染者456例（境外输入441例）。]]></title>
-            <guid>2248318</guid>
-            <pubDate>Thu, 22 Jul 2021 00:26:44 GMT</pubDate>
+            <title><![CDATA[【最大持续降水量907毫米 河南新乡防汛应急响应提升至Ⅰ级】7月17日8点至22日6点，新乡市出现较大面积的暴雨灾情，最大持续降水量达907毫米，全市出现700毫米以上降水量的站点有14个，最强降水时段出现在7月20日凌晨5点至22日凌晨5点，持续降水量达812毫米。今天（22日）上午8点，新乡市召开今年第一场防汛应急发布会、会上介绍，新乡市防指于7月21日10时30分将防汛应急响应级别由Ⅱ级提升至Ⅰ级。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6913034.d.html</link>
+            <guid>2248445</guid>
+            <pubDate>Thu, 22 Jul 2021 02:10:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【漳卫河发生2021年第1号洪水 海河水利委员会发布洪水黄色预警】记者从海河水利委员会了解到：7月22日6时00分，海河流域漳卫河系漳河岳城水库入库流量达到2640立方米每秒，为2021年第一次达到编号标准（2000立方米每秒）的洪水，依据《全国主要江河洪水编号规定》，确定此次洪水编号为“漳卫河2021年第1号洪水”。海委水文于7月22日7时31分将洪水蓝色预警提升至洪水黄色预警。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8284322.d.html</link>
-            <guid>2248316</guid>
-            <pubDate>Thu, 22 Jul 2021 00:26:17 GMT</pubDate>
+            <title><![CDATA[【上海：“十四五”时期集装箱年吞吐量达到4700万标准箱以上】上海市人民政府印发《上海市综合交通发展“十四五”规划》。规划中的发展指标提出，“十四五”时期，国际海港和国际空港方面，集装箱年吞吐量达到4700万标准箱以上，航空旅客年吞吐量达到1.3亿人次以上、货邮年吞吐量达到410万吨以上，均保持世界前列。铁路网方面，加快构建“五向十二线”干线铁路通道布局；轨道网方面，重点加快市域（郊）铁路骨架建设，持续完善城市轨道交通网络，轨道交通市区线和市域（郊）铁路运营总里程达960公里。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6912433.d.html</link>
+            <guid>2248443</guid>
+            <pubDate>Thu, 22 Jul 2021 02:08:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国总统拜登：企业应该“竞争”更多工人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6886638.d.html</link>
-            <guid>2248315</guid>
-            <pubDate>Thu, 22 Jul 2021 00:26:06 GMT</pubDate>
+            <title><![CDATA[  汽车之家跌近7%，现报102港元，创上市以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6912342.d.html</link>
+            <guid>2248441</guid>
+            <pubDate>Thu, 22 Jul 2021 02:08:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ARK基金：增持京东物流和COINBASE的股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8284151.d.html</link>
-            <guid>2248314</guid>
-            <pubDate>Thu, 22 Jul 2021 00:25:29 GMT</pubDate>
+            <title><![CDATA[  稀土概念股持续拉升，金力永磁逼近涨停，包钢股份大涨7%，大地熊、正海磁材、中科三环、宜安科技等个股均大幅走高。]]></title>
+            <guid>2248440</guid>
+            <pubDate>Thu, 22 Jul 2021 02:07:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国总统拜登：美国经济正在显著回升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6885747.d.html</link>
-            <guid>2248311</guid>
-            <pubDate>Thu, 22 Jul 2021 00:21:19 GMT</pubDate>
+            <title><![CDATA[上海复旦早盘持续下挫，现跌超15%，报24.45港元，上海复旦今日公布A股发行定价6.23元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6910592.d.html</link>
+            <guid>2248437</guid>
+            <pubDate>Thu, 22 Jul 2021 02:01:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[河南气象：7月22日06时至07时，强降水在新乡、鹤壁、安阳地区，最大小时雨强辉县60.9毫米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6885709.d.html</link>
-            <guid>2248310</guid>
-            <pubDate>Thu, 22 Jul 2021 00:21:07 GMT</pubDate>
+            <title><![CDATA[  【翼龙无人机给巩义米河镇送去手机信号】近日，河南省突遭大规模极端强降雨，部分区域发生洪涝灾害，巩义市米河镇多个村庄通信中断。7月21日，应急管理部紧急调派翼龙无人机空中应急通信平台，跨区域长途飞行，历时4.5个小时抵达巩义市，18时21分进入米河镇通信中断区，利用翼龙无人机空中应急通信平台搭载的移动公网基站，实现了约50平方公里范围长时稳定的连续移动信号覆盖。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8307891.d.html</link>
+            <guid>2248435</guid>
+            <pubDate>Thu, 22 Jul 2021 02:00:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【“烟花”预计周六晚至周日白天登陆闽浙沿海 不完全排除近海北上可能】中央气象台消息：今年第6号台风“烟花”（强台风级）的中心今天（22日）早晨6点钟位于距离浙江省温岭市东南方向约710公里，就是北纬23.5度、东经125.9度，中心附近最大风力有14级（42米/秒），中心最低气压为955百帕。预计，“烟花”将以每小时5-10公里的速度向西偏北方向移动，强度逐渐加强，最强可达超强台风级（16级，52-55米/秒），23日中午前后移入东海东南部海面，然后转向西北方向移动，逐渐向浙江北部到福建北部一带沿海靠近，并将于24日夜间到25日白天在上述地区沿海登陆（台风级或强台风级，12-14级，35-42米/秒）；目前尚不能完全排除在浙江近海海面北上的可能。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8283167.d.html</link>
-            <guid>2248309</guid>
-            <pubDate>Thu, 22 Jul 2021 00:20:31 GMT</pubDate>
+            <title><![CDATA[国家卫生健康委派出工作组赴河南省支援指导洪涝灾害卫生应急工作，支援指导当地全力开展紧急医学救援，组织开展医疗卫生机构灾害风险排查，确保正常诊疗秩序，加强心理抚慰和疏导，做好灾后卫生防疫。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6909858.d.html</link>
+            <guid>2248431</guid>
+            <pubDate>Thu, 22 Jul 2021 01:59:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  河南省气象台2021年07月22日08时15分继续发布雷电黄色预警：预计未来6小时内，黄河以北和平顶山、郑州、南阳、三门峡、周口、开封六地区和商丘、信阳两地区东部部分地区有雷电活动，局部伴有1小时30到50毫米的短时强降水、8级左右短时大风等强对流天气。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6884986.d.html</link>
-            <guid>2248308</guid>
-            <pubDate>Thu, 22 Jul 2021 00:18:06 GMT</pubDate>
+            <title><![CDATA[  教育股走强，科大讯飞拉升涨逾9%，会畅通讯、方直科技、科德教育、正元智慧等跟涨。消息面上，六部委发布教育新基建指导意见，建设连接全国各级各类学校和教育机构间的教育专网。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6909564.d.html</link>
+            <guid>2248429</guid>
+            <pubDate>Thu, 22 Jul 2021 01:59:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据华盛顿邮报：美国疾控中心正在就是否更新口罩佩戴指南进行审查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6884423.d.html</link>
-            <guid>2248305</guid>
-            <pubDate>Thu, 22 Jul 2021 00:14:42 GMT</pubDate>
+            <title><![CDATA[加密货币行情回暖，港股区块链板块普涨，欧科云链、火币科技涨5.5%，柏能集团涨3.5%，美图涨2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8307119.d.html</link>
+            <guid>2248428</guid>
+            <pubDate>Thu, 22 Jul 2021 01:58:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[惠誉：预计韩国下半年的政策利率将从0.5%上调25个基点，2022年将再上调两次25个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6883382.d.html</link>
-            <guid>2248300</guid>
-            <pubDate>Thu, 22 Jul 2021 00:09:41 GMT</pubDate>
+            <title><![CDATA[证券板块持续拉升，中泰证券涨超6%，中金公司、中信建投、西部证券、南京证券跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8306155.d.html</link>
+            <guid>2248425</guid>
+            <pubDate>Thu, 22 Jul 2021 01:55:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  河南气象：过去24小时（21日06时-22日06时），北部、中部出现暴雨大暴雨，局部特大暴雨，全省平均降水量51.8毫米，地市平均降水量最大为鹤壁310.8毫米。最大降水出现在鹤壁市科创中心675.5毫米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8280651.d.html</link>
-            <guid>2248295</guid>
-            <pubDate>Thu, 22 Jul 2021 00:07:07 GMT</pubDate>
+            <title><![CDATA[【有机硅价格再度上调 下游高端应用领域持续拓展】生意社数据显示，21日，主流地区有机硅DMC均价30633元/吨，较14日上调67元/吨，自年初以来累计涨幅约40%。华创证券指出，有机硅属于高性能新材料，正持续向节能环保、智能装备、医疗护理等高端应用领域拓展，开辟新的需求增长点。据测算，2025年我国有机硅在电子电器领域的市场将达到150亿元，年复合增长率为11.6%。（证券时报网）]]></title>
+            <guid>2248424</guid>
+            <pubDate>Thu, 22 Jul 2021 01:54:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【哥斯达黎加沿岸远海海域发生6.9级地震】自然资源部海啸预警中心消息， 2021年7月22日5时15分（北京时间），哥斯达黎加沿岸远海海域（7.58°N,83.15°W）发生6.9级地震，震源深度为15.0千米。自然资源部海啸预警中心已于5时22分发布了第一期海啸信息，现根据监测数据进一步分析，确认此次地震没有监测到海啸。（中新社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8280334.d.html</link>
-            <guid>2248293</guid>
-            <pubDate>Thu, 22 Jul 2021 00:05:29 GMT</pubDate>
+            <title><![CDATA[医美概念持续走弱，奥园美谷跌超6%，步长制药、金发拉比、澳洋健康跟跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8305850.d.html</link>
+            <guid>2248423</guid>
+            <pubDate>Thu, 22 Jul 2021 01:54:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：美国国务卿布林肯将会见卡塔尔副首相。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8280102.d.html</link>
-            <guid>2248292</guid>
-            <pubDate>Thu, 22 Jul 2021 00:04:12 GMT</pubDate>
+            <title><![CDATA[  方正证券：首予农夫山泉买入评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6908177.d.html</link>
+            <guid>2248422</guid>
+            <pubDate>Thu, 22 Jul 2021 01:54:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[河南省气象台2021年07月22日07时50分继续发布暴雨红色预警：安阳、鹤壁、新乡三地区部分地区降水量已达50毫米以上，预计未来3小时内，安阳、鹤壁、新乡、焦作、平顶山五地区降水持续，累积降水量将达100毫米以上。（河南气象）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6882349.d.html</link>
-            <guid>2248291</guid>
-            <pubDate>Thu, 22 Jul 2021 00:03:36 GMT</pubDate>
+            <title><![CDATA[  大基建板块再度异动，中国中冶3天2板，中国一重、中国电建、山东路桥、中国中铁等集体冲高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6908076.d.html</link>
+            <guid>2248421</guid>
+            <pubDate>Thu, 22 Jul 2021 01:53:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【全国碳交易市场开市，专家称电价成本将会增加】 长江学者、厦门大学中国能源政策研究院院长林伯强表示，对于普通人而言，碳市场的开启目前不会、但最终可能会影响居民电价。中国每度电的含碳量达60%甚至70%，碳成本增加，每度电的成本会相应增加。华北电力大学经济与管理学院教授袁家海指出，未来发电企业报价，会有一段博弈的过程。不缺配额的发电企业，不会有什么变化。但需要购买配额的发电企业，会将自己的碳成本折算进报价中。（中国新闻周刊）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6881993.d.html</link>
-            <guid>2248288</guid>
-            <pubDate>Thu, 22 Jul 2021 00:01:33 GMT</pubDate>
+            <title><![CDATA[【慕新海任四川省国资委党委书记、徐进任副书记】 7月21日，四川省国资委召开干部大会。会议宣布，根据中共四川省委决定，慕新海同志任中共四川省国有资产监督管理委员会委员会书记、徐进同志任中共四川省国有资产监督管理委员会委员会副书记。（川观新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8305414.d.html</link>
+            <guid>2248420</guid>
+            <pubDate>Thu, 22 Jul 2021 01:53:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[惠誉：确认韩国评级为“AA-”，展望稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6881900.d.html</link>
-            <guid>2248287</guid>
-            <pubDate>Thu, 22 Jul 2021 00:01:00 GMT</pubDate>
+            <title><![CDATA[光伏建筑板块持续拉升走强，中来股份涨停，启迪设计、华自科技、嘉寓股份跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8305076.d.html</link>
+            <guid>2248418</guid>
+            <pubDate>Thu, 22 Jul 2021 01:52:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【缺芯涨价汹涌 有晶圆厂直接拒绝客户 打钱都不要】有驱动芯片厂商负责人向记者介绍：“现在上游晶圆厂已经很苛刻了，以往可月结，或者赊给1-2个月账期；现在全部得预付款，期限2-5年不等，甚至有的晶圆厂还拒接客户，给打钱都不要。”据透露，公司给晶圆厂的预付款金额都超过上半年的净利润；同时，预付款压力也向中小游传导，不过账期肯定会短于晶圆厂。 （券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8279523.d.html</link>
-            <guid>2248286</guid>
-            <pubDate>Thu, 22 Jul 2021 00:00:36 GMT</pubDate>
+            <title><![CDATA[  军工股早盘走弱，新兴装备跌近7%，航宇科技、晨曦航空、爱乐达、航发科技、新余国科等跟跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6907315.d.html</link>
+            <guid>2248417</guid>
+            <pubDate>Thu, 22 Jul 2021 01:51:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【深圳启动实施“十大消费行动”】针对当前制约消费扩容提质的关键问题，深圳市制定《关于促进消费扩容提质创造消费新需求的行动方案（2021－2023年）》，启动实施“十大消费行动”，以高效率服务、高质量供给创造和引领消费新需求。《行动方案》提出力争通过3年左右的努力，实现消费环境、消费品质显著提升，新型消费、升级消费蓬勃发展，高质量商品和服务供给能力持续增强。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6881489.d.html</link>
-            <guid>2248285</guid>
-            <pubDate>Wed, 21 Jul 2021 23:58:41 GMT</pubDate>
+            <title><![CDATA[【特斯拉：积极与保险公司沟通，全力协助客户完成保险理赔等后续服务】特斯拉客户支持官方微博表示，截至目前，已有数十台受暴雨影响的车辆先后运抵特斯拉服务网点，我们正全力为车主提供服务，排查车辆受损情况及需求。暴雨洪灾中，我们努力为每一位有需要的车友提供帮助，和大家一起共渡难关：特斯拉服务中心没有因为暴雨而中断服务，确保24小时响应客户服务需求；积极与保险公司沟通，全力协助客户完成保险理赔等后续服务；救灾期间河南省内超充全部免费开通。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8304685.d.html</link>
+            <guid>2248416</guid>
+            <pubDate>Thu, 22 Jul 2021 01:50:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本前首相安倍晋三将不出席奥运会开幕式。（NHK）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6881265.d.html</link>
-            <guid>2248284</guid>
-            <pubDate>Wed, 21 Jul 2021 23:57:25 GMT</pubDate>
+            <title><![CDATA[【天迈科技：暴雨对公司生产经营不构成重大影响】天迈科技今日在互动平台上表示，连日暴雨造成市区部分道路中断，公交、地铁停运，公司部分员工上下班受到了一些影响。目前公司财产未遭受重大损失，也未发生人员伤亡，对公司生产经营不构成重大影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6906671.d.html</link>
+            <guid>2248415</guid>
+            <pubDate>Thu, 22 Jul 2021 01:49:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特斯拉：正在就返回现场办公作准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6881192.d.html</link>
-            <guid>2248283</guid>
-            <pubDate>Wed, 21 Jul 2021 23:57:12 GMT</pubDate>
+            <title><![CDATA[  大全能源科创板上市首日现大涨224%，报69.88元，开盘曾涨272%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8303812.d.html</link>
+            <guid>2248412</guid>
+            <pubDate>Thu, 22 Jul 2021 01:48:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【特斯拉与必和必拓达成镍供应协议】全球最大矿业公司必和必拓周四宣布，已与特斯拉达成一项镍供应协议。必和必拓旗下位于西澳大利亚州的西部镍业公司（Nickel West）将为特斯拉提供这种金属。特斯拉CEO马斯克曾多次表达对未来镍供应的担忧。在此之前，特斯拉已与其他矿业公司就其制造电池所需的大宗商品达成了一系列协议，其中包括与嘉能可达成的钴协议，以及支持新喀里多尼亚（New Caledonia）的一家镍合资企业。]]></title>
-            <guid>2248282</guid>
-            <pubDate>Wed, 21 Jul 2021 23:57:01 GMT</pubDate>
+            <title><![CDATA[北向资金净流入达30亿元。]]></title>
+            <guid>2248411</guid>
+            <pubDate>Thu, 22 Jul 2021 01:46:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【美国打击非法限制维修权行为：苹果或受冲击】据报道，美国联邦贸易委员会（FTC）在周三的一项最新政策声明中表示，将会对非法限制用户“维修权”的行为进行打击。业内人士认为，这项新政策将会对苹果等智能手机厂商构成影响，因为这些企业严格限制用户维修自家设备的能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8278255.d.html</link>
-            <guid>2248278</guid>
-            <pubDate>Wed, 21 Jul 2021 23:53:46 GMT</pubDate>
+            <title><![CDATA[  BIPV概念股早盘冲高，中来股份涨超15%，启迪设计、华自科技、嘉寓股份、中利集团等集体拉升。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6905433.d.html</link>
+            <guid>2248410</guid>
+            <pubDate>Thu, 22 Jul 2021 01:45:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【河南安阳发布暴雨红色预警，所有公交车辆停运】据@大河报 消息：河南省安阳市气象台2021年7月22日04时05分升级发布暴雨红色预警信号：安阳曲沟已出现100毫米以上降水量，可能造成一定影响。请防范强降雨可能引发的城市内涝、山洪等灾害。 因安阳市连降暴雨，为确保人民群众生命安全，现紧急公告如下： 一、全市所有公交车辆停运； 二、全市所有企事业单位除必要的抢险救灾人员和值班人员外全部居家办公； 三、所有地下商场、停车场人员全部撤离，确保安全。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8277883.d.html</link>
-            <guid>2248275</guid>
-            <pubDate>Wed, 21 Jul 2021 23:51:21 GMT</pubDate>
+            <title><![CDATA[智能音箱板块拉升，全志科技涨超7%，北京君正、歌尔股份、科大讯飞跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6905383.d.html</link>
+            <guid>2248409</guid>
+            <pubDate>Thu, 22 Jul 2021 01:45:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[杰富瑞：将安联保险评级上调至买进，目标价240欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6880018.d.html</link>
-            <guid>2248273</guid>
-            <pubDate>Wed, 21 Jul 2021 23:50:25 GMT</pubDate>
+            <title><![CDATA[  工程机械板块开盘大涨，山河智能一度触板，三一重工涨超6%，中联重科、建设机械、徐工机械等集体拉升。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8302442.d.html</link>
+            <guid>2248408</guid>
+            <pubDate>Thu, 22 Jul 2021 01:43:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[越南新增2965例本地病例，其中胡志明市新增2433例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8277123.d.html</link>
-            <guid>2248272</guid>
-            <pubDate>Wed, 21 Jul 2021 23:46:48 GMT</pubDate>
+            <title><![CDATA[越南副总理：2021年下半年的经济目标面临困难和挑战。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8302394.d.html</link>
+            <guid>2248407</guid>
+            <pubDate>Thu, 22 Jul 2021 01:43:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  中际旭创：申请向特定对象发行股票获得深交所上市审核中心审核通过。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6879019.d.html</link>
-            <guid>2248270</guid>
-            <pubDate>Wed, 21 Jul 2021 23:44:44 GMT</pubDate>
+            <title><![CDATA[  港股微盟集团涨幅扩大至10%，公司拟回购不超过10%股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8302368.d.html</link>
+            <guid>2248406</guid>
+            <pubDate>Thu, 22 Jul 2021 01:43:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【多氟多：六氟磷酸锂市场需求持续增加 未来三年客户意向远超公司原有预期】7月20日多氟多接受机构调研并表示，近期六氟磷酸锂的供应持续偏紧，目前公司订单饱满，远大于现有产能。对六氟磷酸锂行业未来的供需情况，公司称，六氟磷酸锂作为锂电池电解液中主要的电解质，市场需求持续增加，尤其是未来三年客户意向远超公司原有预期。随着新能源汽车在全国乘用车占比的进一步提升，未来三年间国内市场对六氟磷酸锂的需求仍处于供应偏紧状态，产品优势进一步向龙头集中，到2025年可能会达到一个相对稳定的供需关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6878937.d.html</link>
-            <guid>2248269</guid>
-            <pubDate>Wed, 21 Jul 2021 23:44:14 GMT</pubDate>
+            <title><![CDATA[  有机硅板块持续拉升，东岳硅材（20%）、三孚股份涨停，金银河、润禾材料涨超13%，硅宝科技、回天新材、合盛硅业等集体冲高，生意社数据显示，21日，主流地区有机硅DMC均价30633元/吨，较14日上调67元/吨，自年初以来累计涨幅约40%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8302083.d.html</link>
+            <guid>2248403</guid>
+            <pubDate>Thu, 22 Jul 2021 01:42:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[数字王国将以每股0.065港元向LE NOUVEAU配售24亿股股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8276616.d.html</link>
-            <guid>2248268</guid>
-            <pubDate>Wed, 21 Jul 2021 23:43:30 GMT</pubDate>
+            <title><![CDATA[【国有资本投资公司改革进展良好 上半年试点企业收入同比增34.3%】十八届三中全会以来，国务院国资委分3批共选择19家企业开展了国有资本投资公司改革试点。在21日召开的深化国有资本投资公司改革工作推进会上，国资委副主任翁杰明介绍，2020年，19家试点企业营业收入同比增长6.6%、净利润同比增长14.3%，大幅超过央企平均水平。在此基础上，今年上半年试点企业营业收入和净利润同比增长34.3%和72.2%。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6903985.d.html</link>
+            <guid>2248402</guid>
+            <pubDate>Thu, 22 Jul 2021 01:40:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  力拓加拿大工会Unifor：加拿大基提马特（港口）铝冶炼厂和基马诺电厂的工人们将举行持续72小时的罢工，劳资双方在谈判中对使用承包商僵持不下，工会还寻求调整工人的退休收入和福利水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6878189.d.html</link>
-            <guid>2248266</guid>
-            <pubDate>Wed, 21 Jul 2021 23:39:47 GMT</pubDate>
+            <title><![CDATA[欧洲地中海地震中心：尼加拉瓜海岸附近发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6903240.d.html</link>
+            <guid>2248400</guid>
+            <pubDate>Thu, 22 Jul 2021 01:38:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【英国要求更改涉及北爱的脱欧协议，欧盟予以回绝】英国周三要求欧盟同意更改涉及北爱尔兰的脱欧协议，但欧盟立即予以拒绝。议定书本质上要求对往来英国本土和北爱的货物进行检查，北爱仍然是欧盟关税区的一部分。事实证明，这些检查对企业来说是一种负担，让亲英人士非常厌恶，他们强烈支持北爱继续作为英国的一部分。英国“脱欧”谈判首席代表弗罗斯特周三在议会表示，“英国希望达成一个新的平衡，以消除欧盟对该协议的监督，而且英国已经有权单方面背离协议的部分内容。”然而，欧盟执委会副主席塞夫科维奇明确表示不能重谈该议定书。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6878119.d.html</link>
-            <guid>2248265</guid>
-            <pubDate>Wed, 21 Jul 2021 23:39:22 GMT</pubDate>
+            <title><![CDATA[钢铁板块拉升走强，首钢股份涨停，永兴材料、太钢不锈、包钢股份跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6903048.d.html</link>
+            <guid>2248399</guid>
+            <pubDate>Thu, 22 Jul 2021 01:37:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【北京雷电蓝色预警解除】目前，影响本市的降雨云团已减弱，市气象台2021年7月22日07时00分解除雷电蓝色预警信号。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8275585.d.html</link>
-            <guid>2248264</guid>
-            <pubDate>Wed, 21 Jul 2021 23:37:30 GMT</pubDate>
+            <title><![CDATA[【法拉第未来将在纳斯达克挂牌上市 恒大汽车持有20%股份】美国时间7月22日，法拉第未来（FF）将在纳斯达克挂牌上市，恒大汽车持有FF的20%股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8300593.d.html</link>
+            <guid>2248398</guid>
+            <pubDate>Thu, 22 Jul 2021 01:37:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[广东省卫健委：7月21日0-24时，全省新增境外输入确诊病例7例。新增境外输入无症状感染者4例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6877766.d.html</link>
-            <guid>2248263</guid>
-            <pubDate>Wed, 21 Jul 2021 23:37:19 GMT</pubDate>
+            <title><![CDATA[汽车整车板块开盘拉升，海马汽车涨停，江淮汽车、广汽集团、东风汽车跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8300434.d.html</link>
+            <guid>2248397</guid>
+            <pubDate>Thu, 22 Jul 2021 01:36:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【汽车之家收于近四年最低 摩根士丹利将该股目标价腰斩至50美元】汽车之家收盘大跌7.3%，报52.99美元，盘中一度重挫逾9%，此前摩根士丹利下调该股目标价，预计其2021年第二季疲弱。摩根士丹利分析师Eddy Wang将汽车之家评级从高配降至平配，目标价从106美元下调至50美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8275332.d.html</link>
-            <guid>2248262</guid>
-            <pubDate>Wed, 21 Jul 2021 23:36:11 GMT</pubDate>
+            <title><![CDATA[【深圳出台促消费“40条” 探索建立大湾区国际免税城】深圳市人民政府办公厅近日印发《关于促进消费扩容提质创造消费新需求的行动方案（2021-2023年）》，拟实施“十大消费行动”共40条措施，增强消费对经济发展的基础性作用。《方案》提出，推动免税消费扩围提速。探索建立大湾区国际免税城，推动设立市内免税店，积极争取放宽服务对象、提升免税购物额度等免税政策，支持出境免税店经营国产品实行退（免）税政策，鼓励老字号产品进入免税店，打造服务湾区、辐射全球的国际高端商品和国内精品展销平台。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6902704.d.html</link>
+            <guid>2248396</guid>
+            <pubDate>Thu, 22 Jul 2021 01:36:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【柔性32比特微处理器问世】据英国《自然》杂志21日发表的一项电子学最新进展，英国一个科研团队报告称，他们结合金属氧化物薄膜晶体管和柔性聚酰亚胺，制成了一种柔性32比特微处理器，这一设备的问世推动了低成本、全柔性智能集成系统的发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8274430.d.html</link>
-            <guid>2248261</guid>
-            <pubDate>Wed, 21 Jul 2021 23:30:58 GMT</pubDate>
+            <title><![CDATA[  有机硅概念股开盘走高，东岳硅材拉升涨逾11%，三浮股份、润禾材料、金银河、合盛硅业、硅宝科技等冲高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8300255.d.html</link>
+            <guid>2248395</guid>
+            <pubDate>Thu, 22 Jul 2021 01:35:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【天弘余额宝规模创近五年新低】天弘余额宝货币市场基金发布二季度报告，截至二季度末，产品规模环比下降近两成，且创下近五年来新低。这并非天弘余额宝首次遭遇管理规模下跌，近一年来，该只产品的规模已经历多次下跌。有业内人士分析，货基的管理规模下降或与权益市场不断发展、投资者风险偏好产生变化有关。]]></title>
-            <guid>2248260</guid>
-            <pubDate>Wed, 21 Jul 2021 23:29:39 GMT</pubDate>
+            <title><![CDATA[  港股中国恒大盘初迅速拉升，最高涨超4%，现报7.5港元，成交额超9500万港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6902437.d.html</link>
+            <guid>2248393</guid>
+            <pubDate>Thu, 22 Jul 2021 01:35:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【受河南多地遭遇持续强降雨天气影响，北京西站58趟始发列车停运】@北京西站官方微博 发布停运公告：受河南多地遭遇持续强降雨天气影响，7月22日北京西站58趟始发列车停运。已购买停运列车车票的旅客，可于30日内办理全额退票手续。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6876385.d.html</link>
-            <guid>2248259</guid>
-            <pubDate>Wed, 21 Jul 2021 23:28:40 GMT</pubDate>
+            <title><![CDATA[中药板块开盘走弱，片仔癀跌超4%，健民集团、步长制药、精华制药跟跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6902337.d.html</link>
+            <guid>2248392</guid>
+            <pubDate>Thu, 22 Jul 2021 01:34:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  特斯拉美股盘后跌约0.1%，该公司与必和必拓敲定镍矿供应合同。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6875921.d.html</link>
-            <guid>2248257</guid>
-            <pubDate>Wed, 21 Jul 2021 23:25:36 GMT</pubDate>
+            <title><![CDATA[ 港股小鹏汽车涨超5.4%，现报171港元，创上市以来新高。据港交所权益披露文件显示，阿里巴巴于近期入股小鹏汽车，持股比例近15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8299963.d.html</link>
+            <guid>2248391</guid>
+            <pubDate>Thu, 22 Jul 2021 01:34:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【研究人员找到下一代触屏材料“无铟方案”】氧化铟锡因其光学透明和导电的特征，成为触摸屏材料的“幕后功臣”。但铟稀缺且价格昂贵，未来甚至有“濒危”风险。澳大利亚悉尼大学的研究人员找到了潜在解决方案：通过一种名为HiPIMS的新氧化钨沉积方法，研究人员开发了一种由氧化钨和银组成的纳米复合材料，允许电致变色设备根据用户的需求高效且快速地改变颜色。研究人员表示，这种无铟新技术在制造下一代触摸屏设备（如智能手机或电子纸），或用于环境友好的智能窗户和太阳能电池方面，都拥有巨大潜力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8272788.d.html</link>
-            <guid>2248254</guid>
-            <pubDate>Wed, 21 Jul 2021 23:20:28 GMT</pubDate>
+            <title><![CDATA[  今日上市新股N瑞可达较开盘价涨幅达30%，触发临停。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8299883.d.html</link>
+            <guid>2248390</guid>
+            <pubDate>Thu, 22 Jul 2021 01:34:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【“茅指数”冷“宁组合”热 公募重仓股上演“大腾挪”】二季度，新能源板块成为公募基金大力增持的新宠：宁德时代、隆基股份、华友钴业、亿纬锂能等成为公募基金大手笔增持的对象；在大手笔减持的对象中，则有中国平安、美的集团、恒瑞医药、贵州茅台等。梳理数据后可以发现，被业内称之为“宁组合”的新能源龙头股票成为很多基金产品的标配，而代表传统权重品种的“茅指数”则有被冷落的情况。 (中证报)]]></title>
-            <guid>2248253</guid>
-            <pubDate>Wed, 21 Jul 2021 23:19:30 GMT</pubDate>
+            <title><![CDATA[锂电池板块开盘继续冲高，江特电机继续涨停，久吾高科、融捷股份、西藏珠峰、西藏城投、赣锋锂业等继续冲高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8299666.d.html</link>
+            <guid>2248388</guid>
+            <pubDate>Thu, 22 Jul 2021 01:32:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  有机硅板块开盘拉升，三孚股份涨超8%，东岳硅材、金银河、兴发集团、润禾材料等纷纷跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8299617.d.html</link>
+            <guid>2248387</guid>
+            <pubDate>Thu, 22 Jul 2021 01:32:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  北向资金净流入达10亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6901801.d.html</link>
+            <guid>2248385</guid>
+            <pubDate>Thu, 22 Jul 2021 01:32:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[采掘服务板块开盘拉升，准油股份涨超5%，潜能恒信、通源石油、恒泰艾普跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6901673.d.html</link>
+            <guid>2248383</guid>
+            <pubDate>Thu, 22 Jul 2021 01:31:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[盐湖提锂板块开盘拉升走高，久吾高科涨超9%，国机通用、西藏珠峰、西藏城投跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6901464.d.html</link>
+            <guid>2248381</guid>
+            <pubDate>Thu, 22 Jul 2021 01:30:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【盐津铺子：6、7月出库量已企稳回升 全力冲刺全年业绩目标】盐津铺子高层表示，经历变革阵痛后，公司6月出库量已企稳回升，7月进一步好转。下半年确实压力不小，但依然朝着全年业绩目标冲刺。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8298659.d.html</link>
+            <guid>2248379</guid>
+            <pubDate>Thu, 22 Jul 2021 01:29:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中天科技开盘一字跌停，跌停板上卖单超73万手，公司存在重大合同风险，子公司20亿预付账款，5亿应收账款存损失可能。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6900488.d.html</link>
+            <guid>2248376</guid>
+            <pubDate>Thu, 22 Jul 2021 01:27:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【焦作万方跌超5% 公司遭受洪涝灾害袭击临时紧急停产】焦作万方跌超5%，公告称公司遭受洪涝灾害袭击，生产经营受到影响，临时紧急停产。目前抢险救灾工作仍在进行，公司恢复正常生产时间尚无法预估。此次洪涝灾害将影响公司铝产品产量暂无法估计，直接经济损失目前尚无法核算。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6900438.d.html</link>
+            <guid>2248375</guid>
+            <pubDate>Thu, 22 Jul 2021 01:26:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股上海复旦开跌11.26%。上海复旦宣布公司将按发行价格每股A股人民币6.23元发行1.2亿股A股，发行股份占发行后本公司股份总数约14.73%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6900379.d.html</link>
+            <guid>2248374</guid>
+            <pubDate>Thu, 22 Jul 2021 01:26:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科创50指数开盘报1570.49点，涨0.31%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8297958.d.html</link>
+            <guid>2248373</guid>
+            <pubDate>Thu, 22 Jul 2021 01:26:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三大股指高开，沪指涨0.03％，深成指涨0.3％，创业板涨0.35％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6900219.d.html</link>
+            <guid>2248372</guid>
+            <pubDate>Thu, 22 Jul 2021 01:25:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“药茅”片仔癀跌超3% 控股股东拟减持不超1%公司股份】网红“药茅”片仔癀跌超3%，公司控股股东九龙江集团计划15个交易日后的3个月内，通过集中竞价交易方式减持不超过公司总股本1%的股份，即不超过603.32万股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8297811.d.html</link>
+            <guid>2248371</guid>
+            <pubDate>Thu, 22 Jul 2021 01:25:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【 完美日记母公司逸仙电商捐赠200万 驰援河南抗洪救灾工作】昨日晚间，完美日记官方发布微博称，河南遭遇极端强降雨，灾情牵动着全国人民的心。一方有难，八方支援。其母公司逸仙电商向郑州市红十字会紧急捐赠200万元，驰援当地抗洪救灾工作。]]></title>
+            <guid>2248370</guid>
+            <pubDate>Thu, 22 Jul 2021 01:25:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  港股联易融科技复牌后涨8.3%，公司称Valiant Varriors此前的做空报告完全失实，将采取法律行动。周二该股盘中突然跳水，收跌近10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6899663.d.html</link>
+            <guid>2248369</guid>
+            <pubDate>Thu, 22 Jul 2021 01:23:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股微盟集团经七连跌后今日高开6.5%，公司将回购不超过10%股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6899482.d.html</link>
+            <guid>2248368</guid>
+            <pubDate>Thu, 22 Jul 2021 01:23:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股恒指高开涨0.88％，国企指数涨0.9％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqcfnca8296918.d.html</link>
+            <guid>2248365</guid>
+            <pubDate>Thu, 22 Jul 2021 01:21:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【台风“烟花”渐进，海浪橙色警报和风暴潮黄色警报发布】今年第6号台风“烟花”（强台风级）22日7时中心位于浙江温岭东南方大约700公里的西北太平洋洋面上。实况分析显示，受台风“烟花”的影响，7月22日夜间至早晨，东海东南部海域出现了5-8米的巨浪到狂浪，东海西南部海域出现了4-6米的巨浪到狂浪。国家海洋预报台发布海浪橙色警报和风暴潮黄色警报。（中新社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6898510.d.html</link>
+            <guid>2248362</guid>
+            <pubDate>Thu, 22 Jul 2021 01:19:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广州疾控紧急提醒：近14天从南京来（返）穗人员应主动报备。（羊城派）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6898166.d.html</link>
+            <guid>2248361</guid>
+            <pubDate>Thu, 22 Jul 2021 01:18:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【华为：全力支持当地运营商网络修复与维护】从华为获悉，灾害发生后，华为公司河南代表处紧急启动应急保障预案，第一时间投入187人奔赴灾区一线，同时调动68位研发专家远程投入，进行通信故障恢复、业务迁移、应急方案筹备等工作，全力支持当地运营商进行网络修复与维护工作，力保灾区通信网络畅通。（国是直通车）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-22/detail-ikqciyzk6898063.d.html</link>
+            <guid>2248360</guid>
+            <pubDate>Thu, 22 Jul 2021 01:17:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【 新兴际华集团紧急驰援郑州救灾】7月20日晚，新兴际华集团迅速提供了30多台（套）附近省市使用集团公司生产的远程供排水装备的单位情况；7月21日上午，湖北3611应急装备有限公司将3台（套）远程供排水装备紧急调往郑州，十几名技术人员携带备品备件奔赴灾区，提供现场服务支撑和技术保障；动员了集团公司河南及周边所属湖北、山西、河北等地十几家企业，根据国家和地方政府要求做好应急物资装备的生产和保障。]]></title>
+            <guid>2248359</guid>
+            <pubDate>Thu, 22 Jul 2021 01:16:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
