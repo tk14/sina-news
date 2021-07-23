@@ -4,11 +4,52 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 23 Jul 2021 16:37:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 17:27:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：拜登总统将于周一接待伊拉克总理。]]></title>
+            <guid>2250947</guid>
+            <pubDate>Fri, 23 Jul 2021 17:27:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  贝克休斯油服：美国钻井公司连续第四周增加石油和天然气钻井平台。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7276814.d.html</link>
+            <guid>2250942</guid>
+            <pubDate>Fri, 23 Jul 2021 17:12:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  国际铜夜盘收涨1.52%，沪铜夜盘收涨1.09%，沪铝收涨1.09%，沪锌收涨0.72%，沪铅收跌0.15%，沪镍收涨2.90%，沪锡收涨1.58%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8674310.d.html</link>
+            <guid>2250941</guid>
+            <pubDate>Fri, 23 Jul 2021 17:12:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  LME期铜收涨74美元，报9516美元/吨。 LME期铝收涨20美元，报2502美元/吨。 LME期锌收涨24美元，报2963美元/吨。 LME期铅收跌24美元，报2375美元/吨。 LME期镍收涨450美元，报19372美元/吨。 LME期锡收涨400美元，报34500美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8674293.d.html</link>
+            <guid>2250940</guid>
+            <pubDate>Fri, 23 Jul 2021 17:12:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【券业最新分类结果出炉：近半数为A，广发、兴业、东方跻身AA级券商，恒泰和国都被连降四级】7月23日晚间，证监会公布了2021年证券公司分类评价结果，和去年相比，今年券商评级变化不小。具体来看，今年有50家券商被评为A类，数量占获评券商数的近一半，这50家券商中有15家券商获评AA级；此外，26家券商级别上调，东海证券“打怪升级”最快，连升5级。此外，25家券商级别被下调，最惨的被连降4级，分别为恒泰证券和国都证券。值得注意的是，近期提出破产申请的网信证券再次被评为D类，而这已经是其自2019年以来，连续三年被评为D类券商了。此外，去年11月份开业的首家内资券商甬兴证券今年首次参与评级即获BB级。（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8672728.d.html</link>
+            <guid>2250939</guid>
+            <pubDate>Fri, 23 Jul 2021 16:55:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[G20部长：G20集团未能就淘汰煤炭生产达成一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8672526.d.html</link>
+            <guid>2250938</guid>
+            <pubDate>Fri, 23 Jul 2021 16:52:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英特尔(INTC.O)跌幅扩大至6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8671929.d.html</link>
+            <guid>2250933</guid>
+            <pubDate>Fri, 23 Jul 2021 16:44:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【沪深交易所配套规则落地，新三板已为科创板输送超80家企业】为保障转板上市制度落地实施，7月23日沪深交易所发布多个配套规则，旨在明确转板上市相关申请文件编制、报送及信息披露要求。在转板上市规则落地之前，新三板已为科创板、创业板等板块持续输送企业。根据安信证券分析师诸海滨的统计，科创板中来自新三板的企业共81家，总体占比27%，其中市值最大为君实生物，市值超过500亿。和一般意义上认为新三板公司规模较小不同，来自新三板的科创板公司2020年平均营业收入6.53亿，平均归母净利润9355万元，并不乏大规模体量公司。新三板成为科创板的重要公司来源地，信息技术、新材料、生物医药、高端装备为主力行业，占比分别为28.40%、22.22%、17.28%、14.81%。硬科技公司不少，部分公司具备赛道、研发、行业壁垒、估值等优势。（券商中国）]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8671130.d.html</link>
@@ -289,59 +330,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-23/detail-ikqcfnca8658682.d.html</link>
             <guid>2250835</guid>
             <pubDate>Fri, 23 Jul 2021 14:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本天皇宣布东京奥运会正式开幕。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-23/detail-ikqcfnca8658509.d.html</link>
-            <guid>2250833</guid>
-            <pubDate>Fri, 23 Jul 2021 14:14:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊拉克部长：美国未来需要更广泛的合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-23/detail-ikqciyzk7261061.d.html</link>
-            <guid>2250832</guid>
-            <pubDate>Fri, 23 Jul 2021 14:14:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：欧盟反垄断监管机构将在下周对Facebook(FB.O)收购CRM初创公司Kustomer展开全面调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-23/detail-ikqciyzk7260899.d.html</link>
-            <guid>2250831</guid>
-            <pubDate>Fri, 23 Jul 2021 14:12:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【深交所：修订完善创业板首次公开发行、再融资、重大资产重组申请文件受理、审核关注要点】深交所发布《深圳证券交易所创业板发行上市审核业务指南第1号——创业板发行上市申请文件受理关注要点》等业务指南，对创业板首次公开发行、再融资、重大资产重组申请文件受理、审核关注要点进行了全面修订和完善。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-23/detail-ikqcfnca8658316.d.html</link>
-            <guid>2250829</guid>
-            <pubDate>Fri, 23 Jul 2021 14:12:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[老牌加密货币交易所Kraken：在API和移动应用程序出现问题后，已经实施了修复。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-23/detail-ikqcfnca8657672.d.html</link>
-            <guid>2250827</guid>
-            <pubDate>Fri, 23 Jul 2021 14:07:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国会山成员们建议出台跨党派立法草案，以应对美国年轻人出现的电子烟危机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-23/detail-ikqcfnca8657614.d.html</link>
-            <guid>2250826</guid>
-            <pubDate>Fri, 23 Jul 2021 14:07:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【牧原股份：目前公司大股东股票质押业务正常 不存在平仓风险】牧原股份在互动平台表示，目前公司大股东股票质押业务正常，不存在平仓风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-23/detail-ikqciyzk7260022.d.html</link>
-            <guid>2250825</guid>
-            <pubDate>Fri, 23 Jul 2021 14:07:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[深交所发布关于《深圳证券交易所创业板发行上市审核业务指南第1号——创业板发行上市申请文件受理关注要点》等业务指南的通知。]]></title>
-            <guid>2250824</guid>
-            <pubDate>Fri, 23 Jul 2021 14:06:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10年期国债收益率回到1.28％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-23/detail-ikqciyzk7259625.d.html</link>
-            <guid>2250823</guid>
-            <pubDate>Fri, 23 Jul 2021 14:04:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
