@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 24 Jul 2021 22:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 23:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【广东中山新增本土确诊病例1例】7月24日0-24时，广东全省新增本土确诊病例1例（为7月22日中山报告的本土无症状感染者转确诊）。全省新增境外输入确诊病例5例。（广东卫健委）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8865545.d.html</link>
+            <guid>2251975</guid>
+            <pubDate>Sat, 24 Jul 2021 23:00:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国加州长滩市发生枪击事件致1死1伤】嫌犯在逃当地时间7月24日，美国加州长滩市中心发生枪击事件，共造成1人死亡，1人受伤，嫌犯仍然在逃中。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7464721.d.html</link>
+            <guid>2251973</guid>
+            <pubDate>Sat, 24 Jul 2021 22:27:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中国企业承建的赞比亚下凯富峡水电站举行并网发电仪式】当地时间7月23日，由中国企业承建的下凯富峡水电站在赞比亚齐坎卡塔举行并网发电仪式，赞比亚总统伦古以及中赞双方代表出席了下凯富峡水电站的并网发电仪式，伦古总统为项目的发电运营揭牌，他在致辞中感谢中国政府和企业对缓解赞比亚电力短缺所做的重要贡献，并表示下凯富峡水电站并网发电将极大促进当地社会经济发展，同时助力赞比亚成为南部非洲地区的电力中心。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8859210.d.html</link>
@@ -348,24 +360,6 @@
             <title><![CDATA[【超级真菌致美国百余人感染】美国疾控中心官员近日表示，耳念珠菌正在美国华盛顿和达拉斯蔓延，已有超百人感染、3人死亡。耳念珠菌可通过人际感染，今年1月起开始在美国医院中传播并表现出抗药性，感染病例数仍在上升。因具有超强耐药性和高达60%的血液感染死亡率，耳念珠菌被称为 “超级真菌”。（环球时报）]]></title>
             <guid>2251603</guid>
             <pubDate>Sat, 24 Jul 2021 09:35:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【铁路部门全力做好河南等地电煤保供工作】受暴雨灾害影响，河南主要运输通道受阻，多地电煤供应告急。针对这一严峻形势，铁路部门充分发挥综合交通运输体系骨干作用，集中人力机具全力抢通线路，实时对接电厂存煤情况，制定每天向河南运送60列电煤的运输方案，为人民群众灾后重建、尽快恢复生产生活秩序提供保障。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8798339.d.html</link>
-            <guid>2251601</guid>
-            <pubDate>Sat, 24 Jul 2021 09:29:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北京市委十二届十七次全会：高水平办好北京国际电影节、北京消费季等活动，打造“双枢纽”国际消费桥头堡，实现环球主题公园“开门红”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8797998.d.html</link>
-            <guid>2251600</guid>
-            <pubDate>Sat, 24 Jul 2021 09:26:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【纠纷频发，医美投诉量5年间增长近14倍】 中国消费者协会官网投诉数据显示，2015年到2020年，全国消协组织收到的医美行业投诉从483件增长到7233件，5年间投诉量增长近14倍。虚假宣传、非法行医是涉诉医美机构的两大突出问题。（央视网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7399461.d.html</link>
-            <guid>2251598</guid>
-            <pubDate>Sat, 24 Jul 2021 09:17:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
