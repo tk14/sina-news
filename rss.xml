@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 25 Jul 2021 19:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jul 2021 20:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【著名苏格兰登山者里克·艾伦在乔戈里峰K2雪崩中丧生】7月25日，据社交媒体消息，来自英国的著名苏格兰登山者里克·艾伦Rick Allen在世界第二高峰乔戈里峰K2的东南坡上因雪崩去世。他的登山伙伴从山上获救，没有受重伤。据报道，里克·艾伦此次登顶是为慈善机构筹款，在尝试新线路时遭遇雪崩。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7622738.d.html</link>
+            <guid>2252309</guid>
+            <pubDate>Sun, 25 Jul 2021 20:02:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯驻叙利亚冲突各方调解中心发布消息称，叙利亚防空系统击落以色列F16战机向大马士革省境内发射的两枚火箭弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9019208.d.html</link>
+            <guid>2252308</guid>
+            <pubDate>Sun, 25 Jul 2021 19:46:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【索马里议会选举再次推迟】原定于7月25日开始举行的索马里议会选举再次推迟。索马里联邦政府发言人莫阿利姆在接受媒体采访时证实了上述消息，但他未透露更多细节。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9018663.d.html</link>
+            <guid>2252307</guid>
+            <pubDate>Sun, 25 Jul 2021 19:33:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[经过70多个小时的持续奋战，卫河河南省鹤壁市浚县新镇镇彭村决口于26日2时27分成功封堵。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9018393.d.html</link>
+            <guid>2252306</guid>
+            <pubDate>Sun, 25 Jul 2021 19:26:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：汤加地区发生5.1级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7621415.d.html</link>
+            <guid>2252305</guid>
+            <pubDate>Sun, 25 Jul 2021 19:24:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国西部被山火席卷 加州山火烧毁多所房屋】本周，美国西部继续被山火席卷，尤其在加州愈演愈烈，北加州“迪克西“山火摧毁了多所房屋。“迪克西”山火于当地时间24日天黑后席卷了印第安瀑布附近的社区，目前已经夷平了十几栋房屋和建筑物。消防官员表示，大火已经在加州北部的两个县烧焦了超过181000英亩（73200公顷）的土地，由于山火发生在一个交通不便的偏远地区，阻碍了消防人员救灾，目前仅有20%的山火被控制。”迪克西”山火促使附近多个社区发布了疏散命令，其中包括度假胜地阿尔马诺湖。加州州长加文纽森宣布加州北部四个县进入紧急状态，称山火正在造成“对人员和财产安全构成极度危险的状况”。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9017395.d.html</link>
@@ -347,30 +377,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8979013.d.html</link>
             <guid>2252181</guid>
             <pubDate>Sun, 25 Jul 2021 11:21:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上半年霍尔果斯口岸（新疆最大的陆路与铁路综合性口岸）进口铁矿产品84.43万吨，同比增长124%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7581663.d.html</link>
-            <guid>2252179</guid>
-            <pubDate>Sun, 25 Jul 2021 11:15:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据ABC/Ipsos调查：自5月以来，美国人对国家发展方向的乐观情绪已经暴跌了20个百分点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8977912.d.html</link>
-            <guid>2252178</guid>
-            <pubDate>Sun, 25 Jul 2021 11:10:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：07月25日18时17分在新西兰克马德克群岛发生5.8级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8975647.d.html</link>
-            <guid>2252174</guid>
-            <pubDate>Sun, 25 Jul 2021 10:48:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：新西兰克马德克群岛发生5.3级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8974157.d.html</link>
-            <guid>2252172</guid>
-            <pubDate>Sun, 25 Jul 2021 10:38:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
