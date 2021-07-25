@@ -4,13 +4,49 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 25 Jul 2021 12:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jul 2021 13:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[河南银保监局组织召开金融支持灾后重建和恢复生产生活秩序专题座谈会，要求主动对接，建立金融服务绿色通道。]]></title>
+            <title><![CDATA[【明天上海地铁3、16号线等6条线路停运 9条线路缩线运营】记者从上海交通委获悉，受台风影响，经过研判，7月26日自运营开始起，上海轨交3号线、5号线、16号线、17号线、浦江线、磁浮线共6条线路停运；轨交1号线、2号线、4号线、6号线、7号线、8号线、9号线、10号线、11号线共9条线路缩线运营。 (澎湃)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8991187.d.html</link>
+            <guid>2252217</guid>
+            <pubDate>Sun, 25 Jul 2021 13:24:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【华为捐赠3000万驰援河南】据河南省慈善总会公示，7月25日，华为技术有限公司向河南省慈善总会捐赠3000万元用于支援河南省抗洪救灾。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8991039.d.html</link>
+            <guid>2252216</guid>
+            <pubDate>Sun, 25 Jul 2021 13:22:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家过敏症和传染病研究所所长福奇：地方的口罩指引与疾控中心的指引不形成冲突。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7593715.d.html</link>
+            <guid>2252215</guid>
+            <pubDate>Sun, 25 Jul 2021 13:17:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【谌利军获男子举重67公斤级金牌】在刚刚举行的东京奥运会男子举重67公斤级决赛中，中国选手谌利军夺得冠军，为中国奥运军团夺得第六金。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7592561.d.html</link>
+            <guid>2252212</guid>
+            <pubDate>Sun, 25 Jul 2021 13:05:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海市气象局：今日20时，台风“烟花”位于浙江舟山市境内】今日20时台风“烟花”位于浙江省舟山市境内，维持台风级，中心气压970百帕，近中心最大风力12级（35米/秒），预计“烟花”将以每小时10公里左右的速度向西北方向移动，强度略有减弱。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8988103.d.html</link>
+            <guid>2252208</guid>
+            <pubDate>Sun, 25 Jul 2021 12:52:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【震荡市业绩亮眼 主动权益基金今年均赚8.46%】虽然今年A股市场震荡，结构性行情突出，但主动权益类基金仍斩获了不俗回报。截至7月23日，全市场4103只主动权益类基金（份额合并计算）今年以来平均收益率为8.46%，超出同期沪深300指数10.8个百分点。其中，持股仓位超过8成的普通股票型基金赚钱效应最佳，今年平均收益率接近11%；主要投向股票资产的偏股混合型基金次之，斩获8.98%的平均回报；混合型基金总体的平均回报为8.14%，表现同样不俗。（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7589591.d.html</link>
+            <guid>2252206</guid>
+            <pubDate>Sun, 25 Jul 2021 12:37:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[河南银保监局组织召开金融支持灾后重建和恢复生产生活秩序专题座谈会，要求加强汇报，积极争取各项政策支持，主动对接，建立金融服务绿色通道。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7589284.d.html</link>
             <guid>2252205</guid>
             <pubDate>Sun, 25 Jul 2021 12:34:26 GMT</pubDate>
@@ -343,36 +379,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8951358.d.html</link>
             <guid>2252101</guid>
             <pubDate>Sun, 25 Jul 2021 07:47:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【佳禾食品：捐赠100万元支持河南省抗洪救灾】佳禾食品公告，公司向河南省慈善总会捐赠现金100万元以及1000套迷彩服（价值9.9万元），由河南省慈善总会统一调配，用于河南省抗洪救灾、紧急物资采购以及灾后重建工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7554504.d.html</link>
-            <guid>2252098</guid>
-            <pubDate>Sun, 25 Jul 2021 07:46:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国邦医药中签号码出炉 超7.5万个】国邦医药(605507)7月25日晚披露网上中签结果，中签号码共有75,442个，每个中签号码只能认购1000股国邦医药A股股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8950902.d.html</link>
-            <guid>2252097</guid>
-            <pubDate>Sun, 25 Jul 2021 07:43:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【葛洲坝：近日签订多项重大合同 合计约131.51亿元】葛洲坝公告，近日公司签订了多项重大合同，包括：阿根廷丘布特省埃尔埃斯格丽阿尔风电项目EPC合作协议，协议金额约18.79亿元；特立尼达和多巴哥利萨斯角LPG储运项目EPC合同协议，合同金额约70.63亿元；巴西库亚巴河流域小水电开发项目EPC合同协议，合同金额约24.68亿元；巴布亚新几内亚莫港至瑞木132千伏输变电项目EPC合同协议，合同金额约17.41亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8950885.d.html</link>
-            <guid>2252096</guid>
-            <pubDate>Sun, 25 Jul 2021 07:43:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国互金协会发布《2021中国金融科技企业首席洞察报告》】该报告结合金融科技发展现状与未来趋势，提出以下几个方面的对策建议：一是与时俱进地优化完善金融科技发展顶层规划。二是持续加强金融科技监管规则和工具体系建设。三是坚持强化金融科技创新应用的惠民利企导向。四是着力形成有国际竞争力的金融科技产业集群。五是健全开放、共赢、平衡的金融科技生态体系。六是继续发挥行业协会引导行业规范发展的作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8950215.d.html</link>
-            <guid>2252092</guid>
-            <pubDate>Sun, 25 Jul 2021 07:37:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：新西兰克马德克群岛发生5.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8949159.d.html</link>
-            <guid>2252091</guid>
-            <pubDate>Sun, 25 Jul 2021 07:29:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
