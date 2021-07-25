@@ -4,11 +4,46 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 25 Jul 2021 03:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jul 2021 04:29:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【银联：7月25日起降低ATM跨行取现网络服务费】中国银联为积极响应中国银行业协会、中国支付清算协会联合发布的《关于降低自动取款机（ATM）跨行取现手续费的倡议书》。自即日起，面向成员机构降低ATM跨行取现网络服务费，切实降低成员机构运营成本。]]></title>
+            <guid>2252055</guid>
+            <pubDate>Sun, 25 Jul 2021 04:29:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：7月25日11时38分在加利福尼亚湾发生5.4级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8922704.d.html</link>
+            <guid>2252054</guid>
+            <pubDate>Sun, 25 Jul 2021 04:28:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广铁集团25日继续停运广东、湖南地区百余趟列车】受今年第6号台风“烟花”以及河南水害影响，为确保旅客列车运行安全，广铁集团25日继续停运广东、湖南地区百余趟列车。已购停运列车车票的旅客，可于乘车日期30日内，通过12306官方网站、或持购票时所使用的有效身份证件原件到全国任一火车站窗口办理全额退票手续。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8921138.d.html</link>
+            <guid>2252053</guid>
+            <pubDate>Sun, 25 Jul 2021 04:17:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[推特网友问特斯拉CEO埃隆·马斯克下一次推出“全自动驾驶”（FSD）的时间，以及是否会有更多测试用户名额。马斯克回应称：会在未来两周。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8919718.d.html</link>
+            <guid>2252048</guid>
+            <pubDate>Sun, 25 Jul 2021 04:08:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：美国加州湾海域发生5.1级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7521122.d.html</link>
+            <guid>2252045</guid>
+            <pubDate>Sun, 25 Jul 2021 03:57:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三季度地方债快马加鞭 8月将迎高峰】三季度乃至未来几个月，专项债的发行规模将相应加快。根据目前各地区发布的发债计划，地方发行新增专项债的高峰将在三季度。其中，各省市在8月份计划发行的规模最多，计划新增专项债5696亿元。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8915905.d.html</link>
+            <guid>2252044</guid>
+            <pubDate>Sun, 25 Jul 2021 03:42:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【北京地铁三家便利店正式开业】地铁站内便利店今天开始营业了！从今天起，6号线青年路站、7号线菜市口站、5号线和平里北街站内便利店开始试点营业，为乘客提供多种零售服务。（北京日报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8911400.d.html</link>
@@ -254,48 +289,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7433003.d.html</link>
             <guid>2251936</guid>
             <pubDate>Sat, 24 Jul 2021 14:20:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫：俄罗斯总统普京与哈萨克斯坦总统在通话中讨论双边合作和地区问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7431403.d.html</link>
-            <guid>2251927</guid>
-            <pubDate>Sat, 24 Jul 2021 14:02:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【东航：取消7月25日上海虹桥等八个机场共计1090班进出港航班】东方航空发布出行提示称，受今年第6号台风“烟花”影响，为确保航班安全运行，东航取消7月25日上海虹桥、上海浦东、温州、台州、舟山、宁波、义乌、杭州八个机场共计1090班进出港航班。东航同时表示，受航班取消影响的旅客，可在客票有效期内免费办理变更或退票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7431351.d.html</link>
-            <guid>2251924</guid>
-            <pubDate>Sat, 24 Jul 2021 14:01:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【沃尔沃汽车2021年上半年实现创纪录利润】沃尔沃汽车公司23日发布的财报显示，由于全球市场需求持续上涨，公司2021年上半年营业利润与汽车销量均创历史最好业绩。财报显示，2021年上半年沃尔沃营业收入约1411亿瑞典克朗（1美元约合8.69瑞典克朗），同比增加26.3%；营业利润达132亿瑞典克朗，而去年上半年营业亏损9.89亿瑞典克朗。财报还显示，沃尔沃今年上半年全球汽车销量达38.08万辆，同比增长41%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7430581.d.html</link>
-            <guid>2251907</guid>
-            <pubDate>Sat, 24 Jul 2021 13:53:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据法新社：伊拉克总理宣布逮捕首都巴格达自杀式炸弹的袭击者。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8825962.d.html</link>
-            <guid>2251867</guid>
-            <pubDate>Sat, 24 Jul 2021 13:39:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：07月24日20时51分在克马德克群岛发生5.9级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8824724.d.html</link>
-            <guid>2251831</guid>
-            <pubDate>Sat, 24 Jul 2021 13:25:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【东京奥运会首日 中国队斩获三金一铜】杨倩夺得射击女子10米气步枪金牌，射落东京奥运会首金；侯志慧夺得东京奥运会举重女子49kg级金牌；在击剑女子个人重剑决赛中，孙一文夺得金牌；庞伟夺得射击男子10米气手枪铜牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7427523.d.html</link>
-            <guid>2251824</guid>
-            <pubDate>Sat, 24 Jul 2021 13:23:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：印尼托贝洛西北方向199千米处发生5.3级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7427388.d.html</link>
-            <guid>2251823</guid>
-            <pubDate>Sat, 24 Jul 2021 13:22:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
