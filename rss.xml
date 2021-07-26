@@ -4,11 +4,105 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 26 Jul 2021 15:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 16:37:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  周一（7月26日）欧市尾盘，ICE欧盟碳排放交易许可（期货价格）涨4.27%，报53.01欧元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-27/detail-ikqciyzk7804325.d.html</link>
+            <guid>2255161</guid>
+            <pubDate>Mon, 26 Jul 2021 16:37:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：俄罗斯维柳钦斯克东南偏东9公里处发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-27/detail-ikqciyzk7804016.d.html</link>
+            <guid>2255157</guid>
+            <pubDate>Mon, 26 Jul 2021 16:32:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：伊拉克6月份的石油出口收入达到61.43亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-27/detail-ikqciyzk7802856.d.html</link>
+            <guid>2255154</guid>
+            <pubDate>Mon, 26 Jul 2021 16:19:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天齐锂业董事宣布：提前终止减持】市值1400亿的锂电巨头天齐锂业发布公告称，公司收到董事兼高级管理人员邹军出具的《关于减持股份及提前终止减持计划的告知函》，其减持股份数量已过半，同时其根据自身情况决定提前终止本次减持计划，其减持公司股份20万股，占公司总股本比例0.0135%。作为近期A股市场最火赛道之一的锂电行业，天齐锂业突然提前终止减持，对于整个板块来说，无疑是一粒定心丸，而对于市场情绪来说，也是一次“稳定军心”的信号。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9199785.d.html</link>
+            <guid>2255150</guid>
+            <pubDate>Mon, 26 Jul 2021 16:16:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  达美航空(DAL.N)：自9月份开始，美国与加拿大之间的航班将增加一倍；将把飞往加拿大的航班座位容量提高150%。]]></title>
+            <guid>2255148</guid>
+            <pubDate>Mon, 26 Jul 2021 16:09:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉(TSLA.O)盘中涨幅扩大至3.23%，今日盘后将公布Q2业绩。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-27/detail-ikqciyzk7802024.d.html</link>
+            <guid>2255147</guid>
+            <pubDate>Mon, 26 Jul 2021 16:09:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【视频：开挂的鸿星尔克】https://finance.sina.com.cn/chanjing/gsnews/2021-07-27/doc-ikqciyzk7801105.shtml]]></title>
+            <guid>2255146</guid>
+            <pubDate>Mon, 26 Jul 2021 16:06:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[洛克希德马丁(LMT.N)首席执行官预计F-35的产量将稳定在每年170架。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9198248.d.html</link>
+            <guid>2255143</guid>
+            <pubDate>Mon, 26 Jul 2021 16:00:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥主要股指涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7800562.d.html</link>
+            <guid>2255141</guid>
+            <pubDate>Mon, 26 Jul 2021 15:50:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LVMH二季度时装和皮草商品有机营收较2019年同期增长40%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7800346.d.html</link>
+            <guid>2255139</guid>
+            <pubDate>Mon, 26 Jul 2021 15:47:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【缅甸选举委员会宣布废除2020年缅甸大选结果】当地时间7月26日晚，缅甸选举委员会发布公告，宣布废除2020年缅甸大选结果。缅甸选举委员会公布了2020年大选的315个乡镇的选民名单检查情况，并表示，选民名单显示每个乡镇和投票站都出现了大量选民登记错误的情况。缅甸军方表示将在两年内重新举行大选，并将在下次大选之后将权力交给民选政府。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7799767.d.html</link>
+            <guid>2255131</guid>
+            <pubDate>Mon, 26 Jul 2021 15:38:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿尔及利亚国家石油公司Sonatrach将8月份的撒哈拉混合原油官方售价调至较布伦特原油现价升水0.25美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9196544.d.html</link>
+            <guid>2255130</guid>
+            <pubDate>Mon, 26 Jul 2021 15:36:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲药品管理局（EMA）：在确认完整的申请流程后，审查时间从210天减少到150天或更少。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7799541.d.html</link>
+            <guid>2255129</guid>
+            <pubDate>Mon, 26 Jul 2021 15:35:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：英国酒店业员工短缺影响了经济复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9196113.d.html</link>
+            <guid>2255126</guid>
+            <pubDate>Mon, 26 Jul 2021 15:30:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：洛克希德马丁(LMT.N)与五角大楼合作修改f-35战机的生产目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9195993.d.html</link>
+            <guid>2255125</guid>
+            <pubDate>Mon, 26 Jul 2021 15:28:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【饿了么回应《维护外卖送餐员权益指导意见》：坚决拥护并将认真遵守】饿了么回应关于落实网络餐饮平台责任切实维护外卖送餐员权益的指导意见》称，饿了么坚决拥护并将认真遵守意见要求，围绕骑士安全、骑士健康、骑士收益、骑士保障等方面进行方案制定，在有关部门的指导下积极行动落实。目前，骑手职业伤害保障等相关工作已在紧密筹备中。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7799048.d.html</link>
+            <guid>2255124</guid>
+            <pubDate>Mon, 26 Jul 2021 15:28:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国6月份新屋价格中位数出现下降，同时供应量开始回升，环比增长7%至2020年3月以来的最高水平。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9195871.d.html</link>
@@ -204,89 +298,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7791451.d.html</link>
             <guid>2255059</guid>
             <pubDate>Mon, 26 Jul 2021 14:00:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国6月新屋销售总数年化67.6万户，前值76.9万户，预期80万户。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9188464.d.html</link>
-            <guid>2255058</guid>
-            <pubDate>Mon, 26 Jul 2021 14:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：在达成收购云软件提供商Five9的交易后，美国银行认为Zoom(ZM.O)是“最佳选择”。]]></title>
-            <guid>2255054</guid>
-            <pubDate>Mon, 26 Jul 2021 13:53:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  LUCID GROUP(LCID.O)开盘价报25.24美元，现涨超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9187406.d.html</link>
-            <guid>2255052</guid>
-            <pubDate>Mon, 26 Jul 2021 13:49:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新版汽车“三包”政策明年起实施：新增动力电池故障相关政策】7月26日，国家市场监督管理总局发布消息称，《家用汽车产品修理更换退货责任规定》已经2021年3月18日国家市场监督管理总局第4次局务会议通过，现予公布，自2022年1月1日起施行。新版“三包”政策最大的变化在于，在“三包责任”相关条款中增加了关于动力电池、驱动电机等新能源汽车故障“包修、包换、包退”的相关规定。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9187018.d.html</link>
-            <guid>2255049</guid>
-            <pubDate>Mon, 26 Jul 2021 13:45:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[iShares MSCI中国指数ETF下跌4.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7789502.d.html</link>
-            <guid>2255045</guid>
-            <pubDate>Mon, 26 Jul 2021 13:40:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纳斯达克中国金龙指数下跌4%，创13个月新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9186043.d.html</link>
-            <guid>2255039</guid>
-            <pubDate>Mon, 26 Jul 2021 13:33:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  华润万象生活(01209.HK)发布正面盈利预告：预计上半年净利润将同比增加约130%–140%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9184959.d.html</link>
-            <guid>2255034</guid>
-            <pubDate>Mon, 26 Jul 2021 13:23:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：YA II PN, Ltd.将购买价值高达4亿美元的Lordstown Motors(RIDE.O)A类股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9184582.d.html</link>
-            <guid>2255031</guid>
-            <pubDate>Mon, 26 Jul 2021 13:20:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Lordstown Motors(RIDE.O)盘前跳涨11%，与YA II PN, Ltd.签订了股权收购协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9184506.d.html</link>
-            <guid>2255030</guid>
-            <pubDate>Mon, 26 Jul 2021 13:20:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[交通运输部：7月26日，交通运输部部长李小鹏主持召开部应急工作领导小组会议。李小鹏指出，目前各项工作正在紧张开展，极端天气防御工作、保通保畅保运工作、抢险救灾和应急运输保障工作较为有力有效。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9184262.d.html</link>
-            <guid>2255029</guid>
-            <pubDate>Mon, 26 Jul 2021 13:17:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据华盛顿邮报：美国民主党扩大了对特朗普任期内干预疾控中心的调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7786981.d.html</link>
-            <guid>2255028</guid>
-            <pubDate>Mon, 26 Jul 2021 13:14:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【海尔智家：资管计划累计买入公司H股股票375.7万股】海尔智家公告，截至今日，资管计划已通过港股通在二级市场累计买入公司H股股票375.7万股，成交均价为港币28.268元/股，成交金额约为1.062亿港元(不含手续费及税费等)，买入股票数量占公司总股本的0.04%，占公司H股总股本的0.13%。截至公告披露日，H股核心员工持股计划(2021年)已完成标的股票的购买，上述购买的股票将按照规定予以锁定，锁定期为自公告披露之日起12个月，即自2021年7月27日至2022年7月26日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9184002.d.html</link>
-            <guid>2255027</guid>
-            <pubDate>Mon, 26 Jul 2021 13:14:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：犬科基因组学和生物技术公司Embark Vet报告了由软银愿景基金2领投的7500万美元B轮融资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7786239.d.html</link>
-            <guid>2255025</guid>
-            <pubDate>Mon, 26 Jul 2021 13:07:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【印尼苏拉威西岛海域发生6.6级地震 或引发局地海啸】今日20时9分（北京时间），印尼苏拉威西岛(西里伯斯岛)海域（0.81 S,122.06 E）发生6.6级地震，震源深度为30.0千米。中国自然资源部海啸预警中心根据初步地震参数判断，地震可能会在震源周围引发局地海啸，但不会对中国沿岸造成影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7786223.d.html</link>
-            <guid>2255024</guid>
-            <pubDate>Mon, 26 Jul 2021 13:07:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
