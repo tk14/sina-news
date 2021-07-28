@@ -4,11 +4,100 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 28 Jul 2021 20:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jul 2021 21:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中消协：上半年消费投诉同比下降7.04%，食品和互联网服务投诉量居前】2021年上半年全国消协组织受理的消费者投诉投诉521976件，同比下降7.04%，解决412561件，投诉解决率79.04%，为消费者挽回经济损失75089万元。食品和经营性互联网服务分别居具体商品和服务投诉量首位。中消协建议，尽快出台新兴消费领域国家标准，加强市场准入安全性审查，为消费者维权提供保障。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8217973.d.html</link>
+            <guid>2259144</guid>
+            <pubDate>Wed, 28 Jul 2021 21:15:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特CEO：看到了半导体芯片供应改善的迹象，但情况仍然不稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8217909.d.html</link>
+            <guid>2259143</guid>
+            <pubDate>Wed, 28 Jul 2021 21:14:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook首席执行官：下一个发布的产品将是公司的第一款智能眼镜。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9615387.d.html</link>
+            <guid>2259142</guid>
+            <pubDate>Wed, 28 Jul 2021 21:13:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[优步（UBER）盘后下跌4.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8217408.d.html</link>
+            <guid>2259141</guid>
+            <pubDate>Wed, 28 Jul 2021 20:59:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高通：对手机收入不断增长有更高信心。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8217344.d.html</link>
+            <guid>2259140</guid>
+            <pubDate>Wed, 28 Jul 2021 20:57:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国交通部长BUTTIGIEG：相信我们有足够的票数以通过两党基建法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9614531.d.html</link>
+            <guid>2259139</guid>
+            <pubDate>Wed, 28 Jul 2021 20:51:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南非斥资近10亿兰特参与莫桑比克维和】据南非媒体当地时间7月28日报道，南非议会宣布该国总统拉马福萨已通知议会，为履行南非对南部非洲发展共同体的义务，南非共派遣1495名军人参与莫桑比克维和行动，该行动将花费9.84亿兰特（约4.34亿人民币）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9614404.d.html</link>
+            <guid>2259138</guid>
+            <pubDate>Wed, 28 Jul 2021 20:48:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗最高领袖：美国等西方国家在伊核谈判中不可信】伊朗最高领袖哈梅内伊28日表示，美国等西方国家在伊核谈判中不可信。只要有机会，它们就会伤害其他国家。哈梅内伊当天在与伊朗总统鲁哈尼等政府成员举行的会议上表示，在最近的伊核谈判中，美国坚持其顽固立场，没有向前迈出一步。他说，美方承诺取消对伊朗的制裁，实际上却没有也不会兑现承诺，美国还要求在业已存在的协议中添加新的内容。哈梅内伊表示，美国等西方国家违背在之前协议中的承诺，也不保证它们将来会遵守诺言。伊朗政府不应在国内事务上依赖西方，否则将会失败。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8216590.d.html</link>
+            <guid>2259136</guid>
+            <pubDate>Wed, 28 Jul 2021 20:39:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  百胜中国(YUMC.N)财报公布后，盘后跌4.51%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8216388.d.html</link>
+            <guid>2259135</guid>
+            <pubDate>Wed, 28 Jul 2021 20:32:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[百胜中国：第二季度必胜客简餐同店销售+11%，市场预估+12.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9613873.d.html</link>
+            <guid>2259134</guid>
+            <pubDate>Wed, 28 Jul 2021 20:32:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[百胜中国：第二季度肯德基同店销售+4%，市场预估+10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8216369.d.html</link>
+            <guid>2259133</guid>
+            <pubDate>Wed, 28 Jul 2021 20:31:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[百胜中国：第二季度调整后每股收益42美分，市场预估44美分。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9613834.d.html</link>
+            <guid>2259132</guid>
+            <pubDate>Wed, 28 Jul 2021 20:31:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[百胜中国：第二季度营收24.5亿美元，市场预估24.5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9613821.d.html</link>
+            <guid>2259131</guid>
+            <pubDate>Wed, 28 Jul 2021 20:31:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：美国总统拜登提名Thea Kendler为美国商务部出口管理部副部长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9613808.d.html</link>
+            <guid>2259130</guid>
+            <pubDate>Wed, 28 Jul 2021 20:30:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[截至发稿，WSB上讨论度最高的股票TOP 10分别是Tilray(TLRY.O)、AMD(AMD.O)、苹果(AAPL.O)、微软(MSFT.O)、Facebook(FB.O)、阿里巴巴(BABA.N)、纳斯达克100指数ETF(QQQ)、ContextLogic (WISH.O)、Clover Health(CLOV.O)、游戏驿站(GME.N)。]]></title>
+            <guid>2259129</guid>
+            <pubDate>Wed, 28 Jul 2021 20:28:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  Paypal财报公布后，盘后跌近7%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8215909.d.html</link>
@@ -245,23 +334,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9611051.d.html</link>
             <guid>2259050</guid>
             <pubDate>Wed, 28 Jul 2021 19:12:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：法案包括总计400亿美元的桥梁维修、更换和重建新资金。]]></title>
-            <guid>2259041</guid>
-            <pubDate>Wed, 28 Jul 2021 19:10:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股基建股拉升，Summit Materials(SUM.N)涨4.6%，美国钢铁(X.N)涨近3%，卡特彼勒(CAT.N)涨1.14%，麦格理基础设施(MIC.N)涨0.23%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9610815.d.html</link>
-            <guid>2259033</guid>
-            <pubDate>Wed, 28 Jul 2021 19:08:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：法案包括总计400亿美元的桥梁维修、更换和重建新资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9610663.d.html</link>
-            <guid>2259032</guid>
-            <pubDate>Wed, 28 Jul 2021 19:05:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
