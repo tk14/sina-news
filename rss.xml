@@ -4,11 +4,82 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 28 Jul 2021 17:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jul 2021 18:29:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美元指数DXY较日高回落逾15点，现报92.59。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8210378.d.html</link>
+            <guid>2258953</guid>
+            <pubDate>Wed, 28 Jul 2021 18:15:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【秘鲁新任总统佩德罗·卡斯蒂略宣誓就职】当地时间28日，秘鲁当选总统佩德罗·卡斯蒂略在国会宣誓就职，开始其5年任期。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9607645.d.html</link>
+            <guid>2258947</guid>
+            <pubDate>Wed, 28 Jul 2021 18:11:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：议员们似乎已经就基础设施达成了两党协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8209991.d.html</link>
+            <guid>2258945</guid>
+            <pubDate>Wed, 28 Jul 2021 18:09:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国10年期国债收益率一度最高达1.278%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9607083.d.html</link>
+            <guid>2258934</guid>
+            <pubDate>Wed, 28 Jul 2021 18:03:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数跌至日低，现跌0.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8209432.d.html</link>
+            <guid>2258932</guid>
+            <pubDate>Wed, 28 Jul 2021 18:02:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元指数DXY短线走高20点，报92.70。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9606981.d.html</link>
+            <guid>2258930</guid>
+            <pubDate>Wed, 28 Jul 2021 18:02:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股三大股指短线下挫。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8209349.d.html</link>
+            <guid>2258924</guid>
+            <pubDate>Wed, 28 Jul 2021 18:01:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛给予东鹏控股中性的初始评级；目标价17.40元人民币。]]></title>
+            <guid>2258915</guid>
+            <pubDate>Wed, 28 Jul 2021 17:50:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据美国民主党消息人士：在共和党提高工资的条款被否决后，基础设施融资授权从两党基础设施法案中移除。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8208279.d.html</link>
+            <guid>2258913</guid>
+            <pubDate>Wed, 28 Jul 2021 17:48:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据美国民主党消息人士：基础设施融资授权从两党基础设施法案取消后，共和党反对提高工资的条款。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9605364.d.html</link>
+            <guid>2258911</guid>
+            <pubDate>Wed, 28 Jul 2021 17:40:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  大众：以每股0.5欧元的价格收购EUROPCAR，企业价值达到2.9亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9605073.d.html</link>
+            <guid>2258910</guid>
+            <pubDate>Wed, 28 Jul 2021 17:36:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商务部长雷蒙多：美国总统拜登将决定对外国芯片制造商的津贴。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9604436.d.html</link>
+            <guid>2258908</guid>
+            <pubDate>Wed, 28 Jul 2021 17:28:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[法国租车EuropCar与大众达成每股0.50欧元的收购报价。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9604055.d.html</link>
@@ -162,147 +233,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-28/detail-ikqciyzk8197860.d.html</link>
             <guid>2258859</guid>
             <pubDate>Wed, 28 Jul 2021 15:45:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党参议员卡西迪：两党基础设施法案中，470亿美元用于修复环境，1100亿美元用于道路建设。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-28/detail-ikqciyzk8197692.d.html</link>
-            <guid>2258855</guid>
-            <pubDate>Wed, 28 Jul 2021 15:42:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党参议员柯林斯：两党基础设施法案的细节仍在最后敲定之中。]]></title>
-            <guid>2258853</guid>
-            <pubDate>Wed, 28 Jul 2021 15:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据南京发布：南京市将开展第三轮全员核酸检测工作，检测范围为全市范围内全部居民（含暂住人员）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-28/detail-ikqciyzk8197595.d.html</link>
-            <guid>2258852</guid>
-            <pubDate>Wed, 28 Jul 2021 15:41:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党参议员柯林斯：两党基础设施法案的细节仍在最后敲定之中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-28/detail-ikqcfnca9594990.d.html</link>
-            <guid>2258851</guid>
-            <pubDate>Wed, 28 Jul 2021 15:39:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音(BA.N)：预计今年晚些时候每个月将交付50架Max喷气式飞机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-28/detail-ikqciyzk8197444.d.html</link>
-            <guid>2258850</guid>
-            <pubDate>Wed, 28 Jul 2021 15:39:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音(BA.N)：波音公司与美国联邦航空管理局就检查全球787飞机的计划进行合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-28/detail-ikqcfnca9594845.d.html</link>
-            <guid>2258848</guid>
-            <pubDate>Wed, 28 Jul 2021 15:37:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河南银保监局：河南省银行业已准备防汛救灾专项资金1185.8亿元】截至7月27日，河南省银行业已准备防汛救灾专项资金1185.8亿元，其中已发放265.05亿元。重点支持防汛应急物资生产、运输等相关企业的新增融资需求，确保灾情严重地区道路交通、水电燃气、市政设施、水库加固等基础设施的融资需求，确保灾后农田清淤、改种补种等农业生产的融资需求，以及小微企业、个体工商户、农户等恢复生产的资金需求。河南银保监局提出，各家银行要提供专属资源、专属政策、专属产品、专属通道、专属服务，全力做好防汛救灾和灾后重建，切实维护人民群众利益。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-28/detail-ikqciyzk8197124.d.html</link>
-            <guid>2258845</guid>
-            <pubDate>Wed, 28 Jul 2021 15:34:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：希尔罗控股(HRC.N)据悉将拒绝百特国际每股144美元的出价，理由是出价太低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-28/detail-ikqciyzk8197018.d.html</link>
-            <guid>2258842</guid>
-            <pubDate>Wed, 28 Jul 2021 15:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  希尔罗控股(HRC.N)直线拉升，涨超6%后触发停牌；百特国际(BAX.N)涨超1%；消息面上，百特国际(BAX.N)对希尔罗控股(HRC.N)提出了收购要约。]]></title>
-            <guid>2258841</guid>
-            <pubDate>Wed, 28 Jul 2021 15:31:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  波音(BA.N)CEO：波音对787客机的检查“基本完成”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-28/detail-ikqciyzk8196762.d.html</link>
-            <guid>2258839</guid>
-            <pubDate>Wed, 28 Jul 2021 15:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  教育软件提供商PowerSchool Holdings(PWSC.N)上市首日开盘价报18.5美元，其IPO定价为18美元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-28/detail-ikqciyzk8196719.d.html</link>
-            <guid>2258838</guid>
-            <pubDate>Wed, 28 Jul 2021 15:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  移动学习平台Duolingo(DUOL.O)上市首日开盘料为137美元，其IPO定价为102美元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-28/detail-ikqcfnca9594192.d.html</link>
-            <guid>2258837</guid>
-            <pubDate>Wed, 28 Jul 2021 15:26:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国新泽西州州长Murphy：“强烈建议”在室内佩戴口罩。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-28/detail-ikqcfnca9594101.d.html</link>
-            <guid>2258836</guid>
-            <pubDate>Wed, 28 Jul 2021 15:25:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党参议员MURKOWSKI计划投票就基础设施法案展开辩论。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-28/detail-ikqciyzk8196240.d.html</link>
-            <guid>2258831</guid>
-            <pubDate>Wed, 28 Jul 2021 15:21:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音(BA.N)CEO：在达到之前的生产速度之前，商用飞机业务就能达到之前的利润率。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-28/detail-ikqciyzk8196234.d.html</link>
-            <guid>2258830</guid>
-            <pubDate>Wed, 28 Jul 2021 15:21:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【100亿元“长江经济带发展”绿色金融债面向全球成功发行】国家开发银行面向全球投资人成功发行100亿元“长江经济带发展”专题“债券通”绿色金融债券，这是国家开发银行发挥开发性金融功能和作用，积极服务长江经济带发展，助力长江经济带建设走生态优先、绿色发展之路的又一重要举措。目前，国家开发银行已累计发行人民币绿色债券900亿元。此次发行获得了境内外各类投资人的踊跃认购，除了中国银行、农业银行等境内投资人外，境外主权财富基金、多边国际金融机构等投资人均积极认购，境外订单量超50亿元。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-28/detail-ikqcfnca9593590.d.html</link>
-            <guid>2258825</guid>
-            <pubDate>Wed, 28 Jul 2021 15:18:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国不动产投资信托公司EQR：纽约市的雇主强制员工回办公室办公改善了写字楼的租赁情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-28/detail-ikqcfnca9593557.d.html</link>
-            <guid>2258824</guid>
-            <pubDate>Wed, 28 Jul 2021 15:17:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[集成商一站式解决方案提供商Snap One(SNPO.O)上市首日破发，开盘价报16美元，IPO价为18美元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-28/detail-ikqciyzk8195844.d.html</link>
-            <guid>2258823</guid>
-            <pubDate>Wed, 28 Jul 2021 15:16:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【邢台所有景区暂时关闭】据气象部门预报，邢台市近期将再次迎来降雨过程。为进一步做好景区防汛工作，确保游客生命安全，我市所有景区暂时关闭，恢复时间另行通知，给广大游客造成的不便敬请谅解，望相互告知。 （河北新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-28/detail-ikqciyzk8195834.d.html</link>
-            <guid>2258822</guid>
-            <pubDate>Wed, 28 Jul 2021 15:16:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国联邦贸易委员会(FTC)主席：企业合并浪潮使机构资源紧张，担心合并将导致公司“滥用职权”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-28/detail-ikqciyzk8195668.d.html</link>
-            <guid>2258821</guid>
-            <pubDate>Wed, 28 Jul 2021 15:13:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  波音(BA.N)CFO：仍有望在2022年实现现金流为正。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-28/detail-ikqciyzk8195496.d.html</link>
-            <guid>2258819</guid>
-            <pubDate>Wed, 28 Jul 2021 15:10:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[热门中概股涨幅进一步扩大，360数科(QFIN.O)、雾芯科技(RLX.N)涨超16%，哔哩哔哩(BILI.O)涨超15%，拼多多(PDD.O)、富途控股(FUTU.O)涨约14%，理想汽车(LI.O)涨超13%，贝壳(BEKE.N)、网易(NTES.O)涨12.4%，小鹏汽车(XPEV.N)涨8.8%。]]></title>
-            <guid>2258818</guid>
-            <pubDate>Wed, 28 Jul 2021 15:09:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[软件解决方案提供商麦迪实软件(MLNX.O)上市首日开盘价报26.5美元，IPO价为26美元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-28/detail-ikqcfnca9592517.d.html</link>
-            <guid>2258811</guid>
-            <pubDate>Wed, 28 Jul 2021 15:05:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【嘉化能源：为巴斯夫嘉兴提供厂房、配套设施及原料供应】嘉化能源(600273)7月28日晚间公告，公司及全资子公司嘉福新材料与巴斯夫（嘉兴）签订《有关三期工厂的合作协议》，为巴斯夫（嘉兴）建设电子级硫酸厂提供厂房和配套设施及原料供应，建成后嘉福新材料将租赁厂房及土地给巴斯夫（嘉兴），并提供三氧化硫作为其生产原料。全资子公司嘉福新材料拟用于建设厂房和配套设施的投资不超过6000万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-28/detail-ikqciyzk8194841.d.html</link>
-            <guid>2258810</guid>
-            <pubDate>Wed, 28 Jul 2021 15:05:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
