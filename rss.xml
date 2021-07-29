@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 29 Jul 2021 16:37:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 17:36:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：约翰逊在诉讼中称，漫威最新电影《黑寡妇》同时在影院和迪士尼+上映是违反合同的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8405115.d.html</link>
+            <guid>2261407</guid>
+            <pubDate>Thu, 29 Jul 2021 17:25:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：斯嘉丽·约翰逊就《黑寡妇》的上映事宜起诉华特迪士尼(DIS.N)。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9802746.d.html</link>
+            <guid>2261406</guid>
+            <pubDate>Thu, 29 Jul 2021 17:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  国际最大幅宽亚米级光学遥感卫星“内蒙古一号”卫星投入使用。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8404004.d.html</link>
+            <guid>2261399</guid>
+            <pubDate>Thu, 29 Jul 2021 17:12:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Workhorse(WKHS.O)直线拉涨，涨幅达9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8402668.d.html</link>
+            <guid>2261389</guid>
+            <pubDate>Thu, 29 Jul 2021 17:00:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：检察官提议给Nikola(NKLA.O)创始人Trevor Milton 1亿美元保释金；保释将由犹他州的两处房产担保。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8402184.d.html</link>
+            <guid>2261386</guid>
+            <pubDate>Thu, 29 Jul 2021 16:54:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据华盛顿邮报：美国首都华盛顿从周六起再次要求在室内需佩戴口罩。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8400205.d.html</link>
@@ -170,132 +200,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8390985.d.html</link>
             <guid>2261310</guid>
             <pubDate>Thu, 29 Jul 2021 14:39:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  瑞银：将Spotify(SPOT.N)目标价从235美元升至240美元，评级从卖出升至中性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9788840.d.html</link>
-            <guid>2261308</guid>
-            <pubDate>Thu, 29 Jul 2021 14:38:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  瑞银：将芝加哥商品交易所(CME.O)目标价从239美元升至248美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8390754.d.html</link>
-            <guid>2261307</guid>
-            <pubDate>Thu, 29 Jul 2021 14:37:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  瑞银：将3M(MMM.N)目标价从181美元升至183美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8390738.d.html</link>
-            <guid>2261306</guid>
-            <pubDate>Thu, 29 Jul 2021 14:37:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  华尔街资管公司科文：将Workhorse(WKHS.O)目标价从13美元降至8.5美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9788667.d.html</link>
-            <guid>2261305</guid>
-            <pubDate>Thu, 29 Jul 2021 14:36:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财务研究与分析中心：将百胜餐饮(YUM.N)目标价上调10美元至140美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8390645.d.html</link>
-            <guid>2261304</guid>
-            <pubDate>Thu, 29 Jul 2021 14:35:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  瑞银：将Facebook(FB.O)目标价从380美元升至416美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8390637.d.html</link>
-            <guid>2261303</guid>
-            <pubDate>Thu, 29 Jul 2021 14:35:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：在高等法院判决后便不能延长驱逐令。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9788488.d.html</link>
-            <guid>2261302</guid>
-            <pubDate>Thu, 29 Jul 2021 14:34:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：国会有必要延长租客驱逐令。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8390462.d.html</link>
-            <guid>2261301</guid>
-            <pubDate>Thu, 29 Jul 2021 14:33:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA天然气库存公布后，天然气期货价格短线小幅走高后下挫，报4.02美元/百万英热，涨幅1.31%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8390281.d.html</link>
-            <guid>2261299</guid>
-            <pubDate>Thu, 29 Jul 2021 14:31:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA天然气报告：截至7月23日当周，美国天然气库存总量为27140亿立方英尺，较此前一周增加360亿立方英尺，较去年同期减少5230亿立方英尺，同比降幅16.2%，同时较5年均值低1680亿立方英尺，降幅5.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9788227.d.html</link>
-            <guid>2261298</guid>
-            <pubDate>Thu, 29 Jul 2021 14:31:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至7月23日当周EIA天然气库存360亿立方英尺，前值490亿立方英尺，预期430亿立方英尺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8390230.d.html</link>
-            <guid>2261297</guid>
-            <pubDate>Thu, 29 Jul 2021 14:30:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国6月二手房签约销售指数环比下降1.9%，同比降幅达到3.29%。NAR首席经济学家称，销售放缓主要是由于房价大幅上涨。买家仍有兴趣并想拥有一套房产，但创纪录的高房价正导致一些买家退出。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9788063.d.html</link>
-            <guid>2261296</guid>
-            <pubDate>Thu, 29 Jul 2021 14:30:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美银美林全球研究：将Facebook(FB.O)目标价从400美元升至425美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8389497.d.html</link>
-            <guid>2261291</guid>
-            <pubDate>Thu, 29 Jul 2021 14:22:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数房地产板块创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8388822.d.html</link>
-            <guid>2261288</guid>
-            <pubDate>Thu, 29 Jul 2021 14:15:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  标普500医疗健康指数创新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8388503.d.html</link>
-            <guid>2261285</guid>
-            <pubDate>Thu, 29 Jul 2021 14:11:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西经济部长：打算很快推出新的就业计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9786391.d.html</link>
-            <guid>2261284</guid>
-            <pubDate>Thu, 29 Jul 2021 14:11:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西经济部长：商业和服务业创造了大部分就业机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9786330.d.html</link>
-            <guid>2261283</guid>
-            <pubDate>Thu, 29 Jul 2021 14:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西经济部长：就业增长的数据显示巴西正走在正确的道路上。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8388065.d.html</link>
-            <guid>2261281</guid>
-            <pubDate>Thu, 29 Jul 2021 14:08:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国在线券商Robinhood CEO：希望APP的业务能过拓展到交易以外的领域。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8387730.d.html</link>
-            <guid>2261280</guid>
-            <pubDate>Thu, 29 Jul 2021 14:06:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国6月成屋签约销售指数月率-1.9%，前值8.00%，预期0.3%，修正8.3%（前值）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9785056.d.html</link>
-            <guid>2261275</guid>
-            <pubDate>Thu, 29 Jul 2021 14:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  万事达(MA.N)认为对加密货币的购买出现了“适当的减速”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8386820.d.html</link>
-            <guid>2261274</guid>
-            <pubDate>Thu, 29 Jul 2021 13:58:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
