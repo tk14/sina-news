@@ -4,11 +4,69 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 29 Jul 2021 22:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 23:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：07月30日06时55分在台湾花莲县海域（北纬23.85度，东经121.61度）发生4.3级地震，震源深度6千米。]]></title>
+            <guid>2261523</guid>
+            <pubDate>Thu, 29 Jul 2021 23:12:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今日重点关注的财经数据与事件】2021年7月30日 周五① 07:30 日本6月失业率② 13:30 法国第二季度GDP年率初值③ 14:45 法国7月CPI月率④ 15:00 瑞士7月KOF经济领先指标⑤ 16:00 德国第二季度未季调GDP年率初值⑥ 17:00 欧元区7月CPI年率初值及月率⑦ 17:00 欧元区第二季度GDP年率初值⑧ 17:00 欧元区6月失业率⑨ 20:30 加拿大5月GDP月率⑩ 20:30 美国6月个人支出月率⑪ 20:30 美国6月核心PCE物价指数月率及年率⑫ 21:45 美国7月芝加哥PMI⑬ 22:00 美国7月密歇根大学消费者信心指数终值⑭ 次日01:00 美国至7月30日当周石油钻井总数。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9824650.d.html</link>
+            <guid>2261521</guid>
+            <pubDate>Thu, 29 Jul 2021 23:05:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【资本市场对外开放加快 红利惠及实体经济】近年来，我国资本市场对外开放步伐进一步加快。兴证资管首席经济学家王德伦表示，在当前背景下，资本市场保持对外开放具有三大重要意义：一是吸引更多外资入场，为A股提供“活水”。二是推动资本市场长期稳定健康发展，奠定“A股长牛”基石。三是资本市场“开放红利”将惠及实体经济，促进我国经济高质量发展。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8426637.d.html</link>
+            <guid>2261518</guid>
+            <pubDate>Thu, 29 Jul 2021 23:04:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克创立的NEURALIN公司：C轮融资2.05亿美元；本轮融资由VY资本牵头，谷歌风险投资和DFJ成长投资基金跟投。]]></title>
+            <guid>2261517</guid>
+            <pubDate>Thu, 29 Jul 2021 23:02:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国6月工业产出年率前值：15.60%，预期：9.3%，公布：11.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8426095.d.html</link>
+            <guid>2261516</guid>
+            <pubDate>Thu, 29 Jul 2021 23:01:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据法庭文件：受Model S电池电压暂时降低影响的1743名特斯拉车主将分别获得625美元的赔偿金。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8424610.d.html</link>
+            <guid>2261512</guid>
+            <pubDate>Thu, 29 Jul 2021 22:52:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  7月29日0-24时，广东全省新增境外输入确诊病例9例，均为广州报告，2例来自马来西亚，2例来自缅甸，2例来自坦桑尼亚，其余3例分别来自英国、土耳其和肯尼亚。新增境外输入无症状感染者6例，广州报告3例，分别来菲律宾、刚果（金）和莫桑比克；佛山报告3例，分别来自肯尼亚、刚果（金）和津巴布韦。（广东发布）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9821883.d.html</link>
+            <guid>2261511</guid>
+            <pubDate>Thu, 29 Jul 2021 22:48:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华为三星苹果扎堆发新品 产业链上市公司频获调研】7月29日晚，华为正式推出主打影像的最新旗舰P50系列手机。三星的折叠屏新品Galaxy Z Fold 3和Z Flip 3将在8月11日发布。此外，苹果将于9月发布新款iPhone。与之相应，近期，一批手机产业链公司获机构投资者调研。歌尔股份、TCL科技、京东方A、赛微电子、领益智造、国民技术、生益科技7家公司获100家以上机构调研。（上海证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8423693.d.html</link>
+            <guid>2261510</guid>
+            <pubDate>Thu, 29 Jul 2021 22:46:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据株洲日报，从7月30日起，所有在株人员非必要不离开株洲，确需离开的须持24小时内核酸检测阴性证明。全市所有旅游景点、景区、游乐场所、室内密闭娱乐场所、电影院、宗教场所等人员聚集性场所暂停开放。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9821249.d.html</link>
+            <guid>2261509</guid>
+            <pubDate>Thu, 29 Jul 2021 22:45:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据法庭文件：特斯拉同意就约1700辆Model S的最大电池电压的临时限制达成150万美元的和解协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8422432.d.html</link>
+            <guid>2261505</guid>
+            <pubDate>Thu, 29 Jul 2021 22:34:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【科技股引领A股强劲反弹，创业板指收盘点位首超沪指】周四沪深两市迎来大反弹，半导体、新能源、军工等科技题材大幅上涨。科创50指数涨幅超过4%，创业板指涨幅超过5%，收盘点位首次超过沪指。华鑫证券首席策略分析师严凯文表示，本周初A股市场大幅下挫是突发性事件，引发了市场风险偏好快速下滑，目前风险偏好已经得以纠正，无需过于担忧，景气度赛道依然是支持行情热度的核心动力。（上证报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8420469.d.html</link>
@@ -132,48 +190,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9807819.d.html</link>
             <guid>2261432</guid>
             <pubDate>Thu, 29 Jul 2021 18:34:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Robinhood在同等IPO规模中表现最差】Robinhood上市首日最多下跌12%，可能成为自2019年5月Uber上市以来，在同样规模甚至更大的IPO中首日跌幅最大的公司。Robinhood必须收于34.9美元或更高，否则它将取代2007年另一家经纪商MF Global，成为上市公司首日表现最差的公司。MF Globa IPO首日下跌8.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9806070.d.html</link>
-            <guid>2261425</guid>
-            <pubDate>Thu, 29 Jul 2021 18:05:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国航空航天局（NASA）：俄罗斯“科学”号实验舱模块与国际空间站对接后，该模块的推进器在美东时间中午12:45意外启动，使空间站偏离了45度。已经采取行动让国际空间站的姿态恢复正常，空间站机组人员没有危险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9805298.d.html</link>
-            <guid>2261419</guid>
-            <pubDate>Thu, 29 Jul 2021 17:54:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄罗斯卫星网：国际空间站上的“科学”模块的引擎被断开连接。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8406630.d.html</link>
-            <guid>2261416</guid>
-            <pubDate>Thu, 29 Jul 2021 17:44:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据NASA TV：俄罗斯的“科学”号模块不应该启动推进器。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8406488.d.html</link>
-            <guid>2261415</guid>
-            <pubDate>Thu, 29 Jul 2021 17:42:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际空间站宇航员与地面通话时称，为抵消“科学”号实验舱发动机运行造成的扰动，不得不启动“星辰”号服务舱的发动机。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8406040.d.html</link>
-            <guid>2261413</guid>
-            <pubDate>Thu, 29 Jul 2021 17:36:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：约翰逊在诉讼中称，漫威最新电影《黑寡妇》同时在影院和迪士尼+上映是违反合同的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8405115.d.html</link>
-            <guid>2261407</guid>
-            <pubDate>Thu, 29 Jul 2021 17:25:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：斯嘉丽·约翰逊就《黑寡妇》的上映事宜起诉华特迪士尼(DIS.N)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9802746.d.html</link>
-            <guid>2261406</guid>
-            <pubDate>Thu, 29 Jul 2021 17:23:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
