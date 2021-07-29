@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 29 Jul 2021 17:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 18:38:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[消息人士：美国民主党人寻求将暂缓租客驱逐令延长至12月。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9807819.d.html</link>
+            <guid>2261432</guid>
+            <pubDate>Thu, 29 Jul 2021 18:34:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Robinhood在同等IPO规模中表现最差】Robinhood上市首日最多下跌12%，可能成为自2019年5月Uber上市以来，在同样规模甚至更大的IPO中首日跌幅最大的公司。Robinhood必须收于34.9美元或更高，否则它将取代2007年另一家经纪商MF Global，成为上市公司首日表现最差的公司。MF Globa IPO首日下跌8.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9806070.d.html</link>
+            <guid>2261425</guid>
+            <pubDate>Thu, 29 Jul 2021 18:05:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国航空航天局（NASA）：俄罗斯“科学”号实验舱模块与国际空间站对接后，该模块的推进器在美东时间中午12:45意外启动，使空间站偏离了45度。已经采取行动让国际空间站的姿态恢复正常，空间站机组人员没有危险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9805298.d.html</link>
+            <guid>2261419</guid>
+            <pubDate>Thu, 29 Jul 2021 17:54:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯卫星网：国际空间站上的“科学”模块的引擎被断开连接。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8406630.d.html</link>
+            <guid>2261416</guid>
+            <pubDate>Thu, 29 Jul 2021 17:44:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据NASA TV：俄罗斯的“科学”号模块不应该启动推进器。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8406488.d.html</link>
+            <guid>2261415</guid>
+            <pubDate>Thu, 29 Jul 2021 17:42:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际空间站宇航员与地面通话时称，为抵消“科学”号实验舱发动机运行造成的扰动，不得不启动“星辰”号服务舱的发动机。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8406040.d.html</link>
+            <guid>2261413</guid>
+            <pubDate>Thu, 29 Jul 2021 17:36:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  市场消息：约翰逊在诉讼中称，漫威最新电影《黑寡妇》同时在影院和迪士尼+上映是违反合同的。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8405115.d.html</link>
@@ -92,114 +128,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8392540.d.html</link>
             <guid>2261331</guid>
             <pubDate>Thu, 29 Jul 2021 14:57:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国在线券商Robinhood上市首日开盘价预计为39.25美元，IPO定价为38美元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9790080.d.html</link>
-            <guid>2261328</guid>
-            <pubDate>Thu, 29 Jul 2021 14:51:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：总统拜登会强烈支持疾控中心进一步延长租客驱逐令的决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9789762.d.html</link>
-            <guid>2261326</guid>
-            <pubDate>Thu, 29 Jul 2021 14:48:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[官方消息：欧盟延长对美国进口生物柴油的关税期限。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9789577.d.html</link>
-            <guid>2261325</guid>
-            <pubDate>Thu, 29 Jul 2021 14:45:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根士丹利：将美国银行(BAC.N)目标价从38美元升至42美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8391648.d.html</link>
-            <guid>2261324</guid>
-            <pubDate>Thu, 29 Jul 2021 14:45:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根士丹利：将Spotify(SPOT.N)目标价从350美元降至325美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9789560.d.html</link>
-            <guid>2261323</guid>
-            <pubDate>Thu, 29 Jul 2021 14:45:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根士丹利：将花旗集团(C.N)目标价从89美元升至91美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9789546.d.html</link>
-            <guid>2261322</guid>
-            <pubDate>Thu, 29 Jul 2021 14:45:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根士丹利：将Shopify(SHOP.N)目标价从1400美元升至1500美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8391615.d.html</link>
-            <guid>2261321</guid>
-            <pubDate>Thu, 29 Jul 2021 14:45:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根士丹利：将高通(QCOM.O)目标价从173美元升至180美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8391524.d.html</link>
-            <guid>2261320</guid>
-            <pubDate>Thu, 29 Jul 2021 14:44:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥指数升至2017年以来的首个创纪录的高位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8391519.d.html</link>
-            <guid>2261319</guid>
-            <pubDate>Thu, 29 Jul 2021 14:44:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根士丹利：将Paypal(PYPL.O)目标价从337美元升至340美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8391458.d.html</link>
-            <guid>2261318</guid>
-            <pubDate>Thu, 29 Jul 2021 14:43:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  伯恩斯坦：将Facebook(FB.O)目标价从400美元升至425美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9789333.d.html</link>
-            <guid>2261317</guid>
-            <pubDate>Thu, 29 Jul 2021 14:42:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根士丹利：将DraftKings(DKNG.O)目标价从58美元升至60美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9789315.d.html</link>
-            <guid>2261316</guid>
-            <pubDate>Thu, 29 Jul 2021 14:42:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根士丹利：将Facebook(FB.O)目标价从375美元升至400美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8391394.d.html</link>
-            <guid>2261315</guid>
-            <pubDate>Thu, 29 Jul 2021 14:42:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  伯恩斯坦：将Spotify(SPOT.N)目标价从208美元降至205美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8391314.d.html</link>
-            <guid>2261314</guid>
-            <pubDate>Thu, 29 Jul 2021 14:41:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根士丹利：将辉瑞(PFE.N)目标价从42美元升至45美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9789193.d.html</link>
-            <guid>2261313</guid>
-            <pubDate>Thu, 29 Jul 2021 14:41:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根士丹利：将高盛(GS.N)目标价从332美元升至384美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8391243.d.html</link>
-            <guid>2261312</guid>
-            <pubDate>Thu, 29 Jul 2021 14:41:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  伯恩斯坦：将高通(QCOM.O)目标价从185美元升至190美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9789161.d.html</link>
-            <guid>2261311</guid>
-            <pubDate>Thu, 29 Jul 2021 14:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根士丹利：将摩根大通(JPM.N)目标价从150美元升至166美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8390985.d.html</link>
-            <guid>2261310</guid>
-            <pubDate>Thu, 29 Jul 2021 14:39:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
