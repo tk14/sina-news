@@ -4,16 +4,75 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 30 Jul 2021 19:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 20:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[特斯拉CEO埃隆·马斯克：我喜欢并在使用苹果的产品；苹果的应用商店明显收费过高。]]></title>
+            <guid>2262822</guid>
+            <pubDate>Fri, 30 Jul 2021 20:21:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据Insider：富国银行向高净值客户提供加密货币敞口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0021754.d.html</link>
+            <guid>2262812</guid>
+            <pubDate>Fri, 30 Jul 2021 19:56:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据路透数据：投机者对美元的净多头押注升至去年3月来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8624271.d.html</link>
+            <guid>2262811</guid>
+            <pubDate>Fri, 30 Jul 2021 19:43:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月27日当周，美国10年期国债期货投机性净多头头寸增加75565手至164491手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8623905.d.html</link>
+            <guid>2262810</guid>
+            <pubDate>Fri, 30 Jul 2021 19:33:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月27日当周，WTI原油期货投机性净多头头寸增加3478手至323745手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8623900.d.html</link>
+            <guid>2262809</guid>
+            <pubDate>Fri, 30 Jul 2021 19:33:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月27日当周，COMEX铜期货投机性净多头头寸增加16937手至46137手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8623861.d.html</link>
+            <guid>2262808</guid>
+            <pubDate>Fri, 30 Jul 2021 19:32:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月27日当周，COMEX白银期货投机性净多头头寸削减5059手至21189手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0020898.d.html</link>
+            <guid>2262807</guid>
+            <pubDate>Fri, 30 Jul 2021 19:32:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月27日当周，COMEX黄金期货投机性净多头头寸削减3004手至105811手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8623851.d.html</link>
+            <guid>2262806</guid>
+            <pubDate>Fri, 30 Jul 2021 19:32:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大巴里市发生液化石油气爆炸事故 目击者听到“巨大爆炸声”】当地时间7月30日14时许，加拿大安大略省多伦多以北100多公里的巴里市（Barrie）发生化工产品爆炸事故。发生爆炸的地点是一个液化石油气储存设施。据目击者说，发生爆炸事故时，听到一系列“巨大的爆炸声”。爆炸地点的上空随即冒出黑烟和火光。截至发稿时，消防人员仍在现场灭火。目前，还没有人员伤亡的消息。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0020620.d.html</link>
+            <guid>2262804</guid>
+            <pubDate>Fri, 30 Jul 2021 19:24:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[美国否认亚马逊创始人贝索斯试图推翻SpaceX与美国的登月车交易。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0020235.d.html</link>
             <guid>2262803</guid>
             <pubDate>Fri, 30 Jul 2021 19:14:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国航空航天局（NASA）：NASA的目标是维持在近地轨道上的存在，以及从国际空间站过渡到其他平台。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8622319.d.html</link>
+            <guid>2262796</guid>
+            <pubDate>Fri, 30 Jul 2021 18:53:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国航空航天局（NASA）：NASA和国际伙伴将资助国际空间站任务至少到2024年，将与各自的利益相关方就未来计划进行合作 。]]></title>
@@ -175,48 +234,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0007525.d.html</link>
             <guid>2262723</guid>
             <pubDate>Fri, 30 Jul 2021 16:01:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟银行的cet1比率在欧洲银行业管理局（EBA）压力测试中从15%降至10.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0007521.d.html</link>
-            <guid>2262722</guid>
-            <pubDate>Fri, 30 Jul 2021 16:01:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议员Cassidy：尚未就基础设施草案达成一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8610355.d.html</link>
-            <guid>2262720</guid>
-            <pubDate>Fri, 30 Jul 2021 15:59:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国议员称两党的基础设施法案文本尚未最终确定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8610203.d.html</link>
-            <guid>2262719</guid>
-            <pubDate>Fri, 30 Jul 2021 15:56:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：一些温和的民主党人反对延长租客驱逐禁令。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8609814.d.html</link>
-            <guid>2262717</guid>
-            <pubDate>Fri, 30 Jul 2021 15:50:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国两党基建法案小组：有关基础设施法案的立法文本已经接近定稿，希望今天晚些时候（北京时间今晨）公布。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0006603.d.html</link>
-            <guid>2262716</guid>
-            <pubDate>Fri, 30 Jul 2021 15:47:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【民航局对三航班发出熔断指令】7月29日、30日，民航局再发熔断指令，对缅甸国家航空公司UB803航班（仰光至成都）、巴基斯坦国际航空公司PK854航班（伊斯兰堡至西安）、中国国际航空公司CA180航班（马尼拉至北京）实施熔断措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0006515.d.html</link>
-            <guid>2262715</guid>
-            <pubDate>Fri, 30 Jul 2021 15:45:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  水果巨头Dole Plc.美国IPO首日开盘报15.00美元，此前给出的IPO发行价为每股16.00美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8607456.d.html</link>
-            <guid>2262703</guid>
-            <pubDate>Fri, 30 Jul 2021 15:19:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
