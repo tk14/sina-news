@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 30 Jul 2021 18:29:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 19:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国否认亚马逊创始人贝索斯试图推翻SpaceX与美国的登月车交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0020235.d.html</link>
+            <guid>2262803</guid>
+            <pubDate>Fri, 30 Jul 2021 19:14:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国航空航天局（NASA）：NASA和国际伙伴将资助国际空间站任务至少到2024年，将与各自的利益相关方就未来计划进行合作 。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0019217.d.html</link>
+            <guid>2262795</guid>
+            <pubDate>Fri, 30 Jul 2021 18:51:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据英国泰晤士报：一艘油轮在阿曼海岸遭遇袭击，造成2人死亡，其中包括一名英国船员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0019017.d.html</link>
+            <guid>2262793</guid>
+            <pubDate>Fri, 30 Jul 2021 18:47:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫新闻发言人Jean-Pierre：政府和国会正在就延长租客驱逐禁令一起努力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8621861.d.html</link>
+            <guid>2262792</guid>
+            <pubDate>Fri, 30 Jul 2021 18:43:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄能源部要求政府禁止汽油出口 按计划禁令可能持续至少三个月】据俄罗斯媒体报道，7月30日俄罗斯能源部向该国政府提议，加快启动禁止汽油出口的程序。俄联邦能源部负责人舒尔吉诺夫此前表示，由于俄国内汽油价格屡创新高，因此该部门正在研究禁止汽油出口的可能性，按计划禁令可能持续至少三个月。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8621767.d.html</link>
+            <guid>2262790</guid>
+            <pubDate>Fri, 30 Jul 2021 18:40:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[欧洲地中海地震中心：印尼塔劳群岛Kepulauan地区发生5.1级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0017005.d.html</link>
@@ -187,18 +217,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8607456.d.html</link>
             <guid>2262703</guid>
             <pubDate>Fri, 30 Jul 2021 15:19:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据国际文传电讯社：俄罗斯副总理诺瓦克表示与土耳其正在就长期输气协议进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8605518.d.html</link>
-            <guid>2262686</guid>
-            <pubDate>Fri, 30 Jul 2021 14:57:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：5月美国原油产量增加8万桶/日，至1123.1万桶/日（4月修正后为1115.1万桶/日）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8605246.d.html</link>
-            <guid>2262683</guid>
-            <pubDate>Fri, 30 Jul 2021 14:54:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
