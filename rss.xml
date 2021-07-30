@@ -4,11 +4,95 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 30 Jul 2021 15:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 16:36:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国农业部延长了其资助的房产的驱逐禁令，将部分房产的驱逐禁令延长至9月30日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0009698.d.html</link>
+            <guid>2262738</guid>
+            <pubDate>Fri, 30 Jul 2021 16:26:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党参议员THUNE：民主党人在提出文本的问题上陷入混乱。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0009579.d.html</link>
+            <guid>2262737</guid>
+            <pubDate>Fri, 30 Jul 2021 16:25:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党参议员THUNE：立法者可能需要看到最终的基础设施法案才能进行投票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8612607.d.html</link>
+            <guid>2262736</guid>
+            <pubDate>Fri, 30 Jul 2021 16:25:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【南京江宁禄口街道全面启动第五轮全员核酸检测】7月31日起，禄口街道全面启动第五轮全员核酸检测工作。本轮检测上门采集。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8611545.d.html</link>
+            <guid>2262730</guid>
+            <pubDate>Fri, 30 Jul 2021 16:12:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党参议员THUNE：基础设施法案程序性投票因文本问题被推迟。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8611532.d.html</link>
+            <guid>2262729</guid>
+            <pubDate>Fri, 30 Jul 2021 16:12:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据Politico：美国民主党人将缩短租客驱逐禁令延长限期至10月。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0008434.d.html</link>
+            <guid>2262727</guid>
+            <pubDate>Fri, 30 Jul 2021 16:12:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议员PETERS：基础设施法案的程序性投票被推迟。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8611229.d.html</link>
+            <guid>2262726</guid>
+            <pubDate>Fri, 30 Jul 2021 16:09:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟银行监管机构表示，在压力测试中最艰难的情况下，银行的资本充足率总体略高于10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0007525.d.html</link>
+            <guid>2262723</guid>
+            <pubDate>Fri, 30 Jul 2021 16:01:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟银行的cet1比率在欧洲银行业管理局（EBA）压力测试中从15%降至10.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0007521.d.html</link>
+            <guid>2262722</guid>
+            <pubDate>Fri, 30 Jul 2021 16:01:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议员Cassidy：尚未就基础设施草案达成一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8610355.d.html</link>
+            <guid>2262720</guid>
+            <pubDate>Fri, 30 Jul 2021 15:59:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国议员称两党的基础设施法案文本尚未最终确定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8610203.d.html</link>
+            <guid>2262719</guid>
+            <pubDate>Fri, 30 Jul 2021 15:56:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：一些温和的民主党人反对延长租客驱逐禁令。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8609814.d.html</link>
+            <guid>2262717</guid>
+            <pubDate>Fri, 30 Jul 2021 15:50:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国两党基建法案小组：有关基础设施法案的立法文本已经接近定稿，希望今天晚些时候（北京时间今晨）公布。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0006603.d.html</link>
+            <guid>2262716</guid>
+            <pubDate>Fri, 30 Jul 2021 15:47:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【民航局对三航班发出熔断指令】7月29日、30日，民航局再发熔断指令，对缅甸国家航空公司UB803航班（仰光至成都）、巴基斯坦国际航空公司PK854航班（伊斯兰堡至西安）、中国国际航空公司CA180航班（马尼拉至北京）实施熔断措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0006515.d.html</link>
+            <guid>2262715</guid>
+            <pubDate>Fri, 30 Jul 2021 15:45:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  水果巨头Dole Plc.美国IPO首日开盘报15.00美元，此前给出的IPO发行价为每股16.00美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8607456.d.html</link>
@@ -182,59 +266,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9997073.d.html</link>
             <guid>2262626</guid>
             <pubDate>Fri, 30 Jul 2021 14:09:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据淮安发布：自2021年7月30日起，将淮安市洪泽区高良涧街道洪泽园三村宏盛家园十栋、高良涧街道崔朱社区泽地华城12栋、高良涧街道王庄村13组胡桑田庄台风险等级调整为中风险，全市其他区域仍为低风险地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8599094.d.html</link>
-            <guid>2262619</guid>
-            <pubDate>Fri, 30 Jul 2021 14:01:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7月密歇根大学消费者信心指数终值录得81.2，创2月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9995763.d.html</link>
-            <guid>2262618</guid>
-            <pubDate>Fri, 30 Jul 2021 14:00:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7月密歇根大学消费者信心指数终值81.2，前值80.8，预期80.8。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9995676.d.html</link>
-            <guid>2262616</guid>
-            <pubDate>Fri, 30 Jul 2021 14:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【三峡能源与英利能源战略合作 涉及光伏产业等领域】据三峡能源消息，三峡能源董事长王武斌与英利能源（中国）有限公司董事长尹绪龙日前在京举行座谈，双方就深化新能源领域合作进行交流并签订战略合作协议。据悉，英利能源将进一步加强与三峡能源在清洁能源、“光伏+”等领域内的沟通交流，形成优势互补、资源共享的战略合作关系，助力实现“碳达峰、碳中和”目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8597909.d.html</link>
-            <guid>2262608</guid>
-            <pubDate>Fri, 30 Jul 2021 13:52:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  埃克森美孚石油(XOM.N)：预计未来几个月，化工行业的利润率将非常高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8597810.d.html</link>
-            <guid>2262606</guid>
-            <pubDate>Fri, 30 Jul 2021 13:52:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  部分中概股转涨走高，好未来(TAL.N)涨6.47%，小鹏汽车(XPEV.N)涨4.66%，新东方(EDU.N)涨4.5%，滴滴(DIDI.N)、理想汽车(LI.O)涨超3%，陆金所(LU.N)涨超2%，蔚来汽车(NIO.N)涨1.83%。]]></title>
-            <guid>2262602</guid>
-            <pubDate>Fri, 30 Jul 2021 13:47:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7月芝加哥PMI73.4，前值66.1，预期64.6。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9993795.d.html</link>
-            <guid>2262600</guid>
-            <pubDate>Fri, 30 Jul 2021 13:45:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  埃克森美孚石油(XOM.N)跌超1%，Q2同比扭亏为盈，营收同比增长108%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9993592.d.html</link>
-            <guid>2262598</guid>
-            <pubDate>Fri, 30 Jul 2021 13:43:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[截至7月20日，意大利德尔塔毒株确诊病例占总比例的94.8%，而6月22日为22.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9993090.d.html</link>
-            <guid>2262595</guid>
-            <pubDate>Fri, 30 Jul 2021 13:40:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
