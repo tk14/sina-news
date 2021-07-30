@@ -4,7 +4,7 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 30 Jul 2021 20:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 21:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -204,36 +204,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8612607.d.html</link>
             <guid>2262736</guid>
             <pubDate>Fri, 30 Jul 2021 16:25:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【南京江宁禄口街道全面启动第五轮全员核酸检测】7月31日起，禄口街道全面启动第五轮全员核酸检测工作。本轮检测上门采集。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8611545.d.html</link>
-            <guid>2262730</guid>
-            <pubDate>Fri, 30 Jul 2021 16:12:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党参议员THUNE：基础设施法案程序性投票因文本问题被推迟。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8611532.d.html</link>
-            <guid>2262729</guid>
-            <pubDate>Fri, 30 Jul 2021 16:12:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据Politico：美国民主党人将缩短租客驱逐禁令延长限期至10月。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0008434.d.html</link>
-            <guid>2262727</guid>
-            <pubDate>Fri, 30 Jul 2021 16:12:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议员PETERS：基础设施法案的程序性投票被推迟。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8611229.d.html</link>
-            <guid>2262726</guid>
-            <pubDate>Fri, 30 Jul 2021 16:09:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟银行监管机构表示，在压力测试中最艰难的情况下，银行的资本充足率总体略高于10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0007525.d.html</link>
-            <guid>2262723</guid>
-            <pubDate>Fri, 30 Jul 2021 16:01:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
