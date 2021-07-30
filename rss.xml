@@ -4,11 +4,28 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 30 Jul 2021 21:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 22:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[英国政府7月30日发表声明称，在英国皇家空军建立了太空司令部，其目的是保护英国在太空的利益。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0027317.d.html</link>
+            <guid>2262839</guid>
+            <pubDate>Fri, 30 Jul 2021 21:50:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登敦促各州、地方政府避免驱逐房客；敦促各州向房东、房客分发资金。]]></title>
+            <guid>2262836</guid>
+            <pubDate>Fri, 30 Jul 2021 21:31:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【南非国家电力公司将从火力发电向绿色能源转型】据南非媒体当地时间7月30日报道，南非国家电力公司首席执行官安德烈·德·鲁伊特 （Andre de Ruyter）表示该公司已制定从火力发电向绿色能源的转型计划，该计划将通过多方贷款方式在未来数年内逐步实行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0025857.d.html</link>
+            <guid>2262834</guid>
+            <pubDate>Fri, 30 Jul 2021 21:26:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[特斯拉CEO埃隆·马斯克：我喜欢并在使用苹果的产品；苹果的应用商店明显收费过高。]]></title>
             <guid>2262822</guid>
@@ -174,36 +191,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0011755.d.html</link>
             <guid>2262744</guid>
             <pubDate>Fri, 30 Jul 2021 16:50:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特首席财务官：预计随着汽车供应的增加，汽车价格会下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0011262.d.html</link>
-            <guid>2262743</guid>
-            <pubDate>Fri, 30 Jul 2021 16:44:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国证交会（SEC）主席：对中企通过VIE方式上市提出担忧】美国证交会（SEC）主席加里·詹斯勒（Gary Gensler）发布公开声明，对中企通过VIE方式上市提出担忧。他表示，中国政府最近针对中国公司在海外筹集资金提出了新的指导和限制，包括对通过离岸实体筹集资金的公司进行网络安全审查。稍早前路透社报道称，SEC已停止处理中国公司在美国IPO注册”。（国际金融报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0010595.d.html</link>
-            <guid>2262741</guid>
-            <pubDate>Fri, 30 Jul 2021 16:36:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国农业部延长了其资助的房产的驱逐禁令，将部分房产的驱逐禁令延长至9月30日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0009698.d.html</link>
-            <guid>2262738</guid>
-            <pubDate>Fri, 30 Jul 2021 16:26:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党参议员THUNE：民主党人在提出文本的问题上陷入混乱。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0009579.d.html</link>
-            <guid>2262737</guid>
-            <pubDate>Fri, 30 Jul 2021 16:25:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党参议员THUNE：立法者可能需要看到最终的基础设施法案才能进行投票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8612607.d.html</link>
-            <guid>2262736</guid>
-            <pubDate>Fri, 30 Jul 2021 16:25:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
