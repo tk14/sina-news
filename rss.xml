@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 31 Jul 2021 09:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 10:24:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[江苏扬州5地升级为中风险地区。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0136695.d.html</link>
+            <guid>2263470</guid>
+            <pubDate>Sat, 31 Jul 2021 09:30:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【国家统计局：2021年上半年全国规模以上文化及相关产业企业营业收入增长30.4%】国家统计局数据显示，据对全国6.3万家规模以上文化及相关产业企业调查，上半年，上述企业实现营业收入54380亿元，按可比口径计算，比上年同期增长30.4%；比2019年上半年增长22.4%，两年平均增长10.6%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0135776.d.html</link>
@@ -212,30 +218,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8667307.d.html</link>
             <guid>2263046</guid>
             <pubDate>Sat, 31 Jul 2021 01:59:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【合煦智远总经理赵新宇辞职，中原证券曾公告有意做控股股东】合煦智远基金昨晚发布关于董事长代为履行公司总经理职务的公告，7月30日，公司第二大股东、总经理赵新宇因个人原因辞职，董事长郑旭代任公司总经理一职。作为一家个人系公募基金，合煦智远原名“青松基金”，郑旭、赵新宇持股比例分别为32.9%、29.1%。今年6月9日，中原证券发布公告，有意向以增资等方式成为合煦智远基金的控股股东，拟持有合煦智远50%以上的股权。赵新宇曾任华夏基金基金营销部总经理助理、北京分公司总经理、零售业务总监、战略发展委员会主席和上海高毅资产副总经理。郑旭曾任银河证券固定收益证券总部高级分析师、QFII 业务部销售交易员，银华基金市场部总监助理、国际合作与产品开发部总监、公司总经理助理。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0064521.d.html</link>
-            <guid>2263043</guid>
-            <pubDate>Sat, 31 Jul 2021 01:58:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【广西7月30日新增密接者4人】7月30日0至24时，广西无新增本土确诊病例、疑似病例和无症状感染者。30日新增密切接触者4例，解除医学隔离观察密切接触者9例。现有境外输入确诊病例2例，现有境外输入无症状感染者5例，现有密切接触者67人。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0062790.d.html</link>
-            <guid>2263030</guid>
-            <pubDate>Sat, 31 Jul 2021 01:49:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【7月31日起 12306网站售票改签服务时间延长至20小时】从中国国家铁路集团有限公司获悉，为了更好地方便旅客购票，经过充分试验测试，在确保12306网站（含手机客户端，下同）安全平稳运行前提下，国铁集团决定，自7月31日起，铁路12306网站售票改签服务时间由每日5:00至23:30，调整为每日5:00至次日凌晨1:00，提供每日20小时售票改签服务。同时，继续提供每日24小时退票服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8663385.d.html</link>
-            <guid>2263011</guid>
-            <pubDate>Sat, 31 Jul 2021 01:39:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全线停运10天后 郑州地铁1号线今日开始空载运行】今日上午9点，一趟地铁列车从紫荆山站站台内呼啸而过。在全线停运10天后，郑州地铁1号线开始空载运行。 (河南日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8662180.d.html</link>
-            <guid>2262998</guid>
-            <pubDate>Sat, 31 Jul 2021 01:32:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
