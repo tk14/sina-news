@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 31 Jul 2021 16:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 17:26:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国地质勘探局：墨西哥圣卡洛斯西南65公里处发生5.5级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0180651.d.html</link>
+            <guid>2263969</guid>
+            <pubDate>Sat, 31 Jul 2021 17:10:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Downdetector网站报道，用户反馈苹果App Store服务可能出现问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8783094.d.html</link>
+            <guid>2263968</guid>
+            <pubDate>Sat, 31 Jul 2021 17:06:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【缅甸军方宣布将停火期限延长至8月31日】当地时间7月31日，缅甸国防军司令部发布通告，表示将继续努力与各民族地方武装开展和谈，并将在除了执行国防、管理等任务以外，将停火期限延长至8月31日。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0179390.d.html</link>
+            <guid>2263967</guid>
+            <pubDate>Sat, 31 Jul 2021 16:54:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其一旅游胜地发生森林火灾 居民及游客被紧急疏散】据当地多家媒体报道，当地时间7月31日中午，土耳其旅游胜地博德鲁姆发生森林火灾，高温和强风的作用下，火势迅速蔓延，逼近居民区，警方已疏散当地民众以及酒店游客。大批消防队员展开灭火行动，目前火势尚未得到有效控制。具体起火原因正在调查中。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8780538.d.html</link>
+            <guid>2263965</guid>
+            <pubDate>Sat, 31 Jul 2021 16:38:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[广西东兴通报越南入境涉疫车辆最新情况：司机核酸检测为阴性。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8776857.d.html</link>
@@ -228,18 +252,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8724548.d.html</link>
             <guid>2263361</guid>
             <pubDate>Sat, 31 Jul 2021 07:34:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡收紧对澳大利亚等国的边境措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0119105.d.html</link>
-            <guid>2263329</guid>
-            <pubDate>Sat, 31 Jul 2021 07:09:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  深圳市疾控中心提醒：自中高风险地区来（返）深人员须第一时间向社区报告，并配合落实健康管理措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8720153.d.html</link>
-            <guid>2263315</guid>
-            <pubDate>Sat, 31 Jul 2021 06:59:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
