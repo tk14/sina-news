@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 31 Jul 2021 14:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 15:26:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  江苏淮安通报新增1名阳性人员，曾与此前感染者去张家界旅行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8773354.d.html</link>
+            <guid>2263955</guid>
+            <pubDate>Sat, 31 Jul 2021 15:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[江苏省淮安市：将盱眙县江苏淮河化工有限公司生活区宿舍楼2幢风险等级调整为中风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8773342.d.html</link>
+            <guid>2263954</guid>
+            <pubDate>Sat, 31 Jul 2021 15:12:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【3-0完胜意大利 中国女排获东京奥运会首胜】31日，东京奥运会女排小组赛第四轮，中国女排3-0完胜意大利女排，取得东京奥运会首胜。具体比分为，25-21/25-20/26-24。但由于此前的比赛中，土耳其女排以3:0战胜同组的阿根廷队，上届奥运冠军中国女排已确定无缘晋级八强。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0170766.d.html</link>
+            <guid>2263953</guid>
+            <pubDate>Sat, 31 Jul 2021 15:11:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【郑州：二七区于31日开展全员核酸检测】郑州市二七区副区长高岩表示，二七区位区政府为保证人民生命安全和身体健康，将采取相应措施，并于31日开展全员核酸检测。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0165619.d.html</link>
@@ -216,18 +234,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8716182.d.html</link>
             <guid>2263279</guid>
             <pubDate>Sat, 31 Jul 2021 06:25:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国国际贸易大臣特拉斯：英国正接近敲定与新西兰的贸易协议。（天空新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0110359.d.html</link>
-            <guid>2263263</guid>
-            <pubDate>Sat, 31 Jul 2021 06:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蜂巢能源B轮百亿融资交割】7月30日，蜂巢能源B轮融资交割仪式在江苏常州举行。这是蜂巢能源第三轮市场化股权融资，融资总额102.8亿元人民币。本轮融资由中银投领投，联合投资机构包括国家科技成果转化引导基金子基金、碧桂园创投、深创投、建信投资、IDG、三一重工、小米集团、海松资本、华兴资本等，国投招商、九智资本等原股东进行了大额增持。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0109246.d.html</link>
-            <guid>2263256</guid>
-            <pubDate>Sat, 31 Jul 2021 05:52:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
