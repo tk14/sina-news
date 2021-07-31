@@ -6,6 +6,13 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 2263973,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0184386.d.html",
+            "title": "约旦暂时关闭与叙利亚交界的Jaber过境点。",
+            "date_modified": "2021-07-31T18:05:38.000Z"
+        },
+        {
             "id": 2263969,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0180651.d.html",
