@@ -4,11 +4,28 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 31 Jul 2021 22:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 23:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【国家减灾委派出工作组赴河南指导救灾工作】针对河南省严重洪涝灾情，国家减灾委派出工作组赴河南指导救灾工作。7月31日，国家减灾委工作组第一次全体会议在河南郑州市召开，制定了工作组工作方案。据介绍，工作组共组成抢险救援和防汛排涝指导组、资金保障和使用指导组、建筑安全排查指导组、卫生防疫指导组、灾后恢复重建小组、农业生产恢复指导组、金融和保险理赔指导组、救灾捐赠和抚恤指导组、救灾和物资保障组、综合协调组等10个工作小组，开展后续工作。]]></title>
+            <guid>2263991</guid>
+            <pubDate>Sat, 31 Jul 2021 23:14:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河南紧急抽调2300名医护人员 连夜支援郑州核酸检测】记者从河南省卫生健康委获悉，目前，河南省卫生健康委紧急从河南15家医院内共抽调2300名医务人员，组成核酸检测团队，支援郑州市核酸检测任务。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8804540.d.html</link>
+            <guid>2263990</guid>
+            <pubDate>Sat, 31 Jul 2021 23:13:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家减灾委派出工作组赴河南指导救灾工作】针对河南省严重洪涝灾情，国家减灾委派出工作组赴河南指导救灾工作。31日，国家减灾委工作组第一次全体会议在河南郑州市召开，制定了工作组工作方案。据介绍，工作组共组成抢险救援和防汛排涝指导组、资金保障和使用指导组、建筑安全排查指导组、卫生防疫指导组、灾后恢复重建小组、农业生产恢复指导组、金融和保险理赔指导组、救灾捐赠和抚恤指导组、救灾和物资保障组、综合协调组等10个工作小组，开展后续工作。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0196906.d.html</link>
+            <guid>2263986</guid>
+            <pubDate>Sat, 31 Jul 2021 22:27:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国国务卿布林肯与以色列外长拉皮德讨论了阿曼附近的船只袭击事件。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0192595.d.html</link>
@@ -246,24 +263,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0130797.d.html</link>
             <guid>2263432</guid>
             <pubDate>Sat, 31 Jul 2021 08:43:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  重庆武隆区：南京一无症状感染者曾在武隆停留，涉疫人员核酸检测结果均为阴性。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8731234.d.html</link>
-            <guid>2263417</guid>
-            <pubDate>Sat, 31 Jul 2021 08:28:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：瓦努阿图奥利港西南偏西77公里处发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0128383.d.html</link>
-            <guid>2263411</guid>
-            <pubDate>Sat, 31 Jul 2021 08:24:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小米手环X曝光？小米公关部：图是真的，产品不是真的】 针对网传小米手环X曝光图，小米公关部总经理王化通过其个人微博发文回应称，图是真的，产品不是真的，“这是小米内部新员工培训过程中的沙盘模拟”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8729740.d.html</link>
-            <guid>2263404</guid>
-            <pubDate>Sat, 31 Jul 2021 08:17:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
