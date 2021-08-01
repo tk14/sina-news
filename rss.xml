@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 01 Aug 2021 15:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 16:35:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【泰国普吉沙盒计划满月 逾1.4万名国际游客入岛】泰国国家旅游局8月1日表示，普吉沙盒计划从7月1日启动至7月31日已满1个月，共有14055名国际游客通过该计划进入普吉岛，为当地创造不低于8亿泰铢(约合1.6亿元人民币)的旅游收入。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0332091.d.html</link>
+            <guid>2264269</guid>
+            <pubDate>Sun, 01 Aug 2021 15:38:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国外交大臣拉布表示，对阿曼附近油轮的袭击造成一名英国人死亡，此次袭击是伊朗蓄意且有针对性的，显然违反了国际法；英国正在与国际伙伴合作，共同应对这一令人无法接受的袭击，伊朗必须停止此类袭击，必须根据国际法允许船只自由航行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0331655.d.html</link>
+            <guid>2264266</guid>
+            <pubDate>Sun, 01 Aug 2021 15:30:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【吴亦凡本人及其工作室微博疑似因违规被屏蔽】今日晚间，吴亦凡本人及其工作室微博疑似因违规被屏蔽。上述两个账号均显示“因被投诉违反法律法规和《微博社区公约》的相关规定，现已无法查看”。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8934636.d.html</link>
@@ -317,42 +329,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8893709.d.html</link>
             <guid>2264162</guid>
             <pubDate>Sun, 01 Aug 2021 08:38:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【惠程科技：公司控股股东和实际控制人变更】惠程科技公告，结合公司最新股权结构、股东大会表决结果及董事会成员选任情况，认定公司控股股东由中驰惠程变更为绿发城建，实际控制人由汪超涌及李亦非变更为重庆市璧山区财政局。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8893601.d.html</link>
-            <guid>2264161</guid>
-            <pubDate>Sun, 01 Aug 2021 08:37:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全国铁路暑运过半 发送旅客突破3亿人次】中国国家铁路集团有限公司透露，截至7月31日，铁路暑运时间过半。7月1日暑运开始以来，铁路部门扎实做好暑期运输工作，优化运输组织，提升服务品质，确保了安全平稳有序。7月份，全国铁路累计发送旅客3.06亿人次，同比增加9915万人次、增长48%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0289590.d.html</link>
-            <guid>2264160</guid>
-            <pubDate>Sun, 01 Aug 2021 08:30:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【盛通股份：子公司与迈格森教育培训学校签署合作协议】盛通股份公告，公司二级子公司乐博乐博，与迈格森签署了《转课合作协议》。双方就迈格森旗下学员转课等事宜展开合作。乐博乐博同意接受迈格森为其在读学员进行转课，迈格森可根据自身的实际需求，以乐博乐博提供的优惠价格向乐博乐博购买课程包，迈格森应在乐博乐博提供课程服务之前按合同约定的价格支付课程款项。迈格森国际教育集团是新东方教育科技集团与麦格劳希尔集团合力打造的青少年高端教育品牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8892540.d.html</link>
-            <guid>2264159</guid>
-            <pubDate>Sun, 01 Aug 2021 08:30:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【山河药辅：公司新型药用辅料系列生产基地一期项目开工建设】山河药辅公告，7月31日举行了公司新型药用辅料系列生产基地一期项目的开工仪式。山河药辅新型药用辅料系列生产基地一期项目计划总投资33500万元，项目总占地面积约65554.17平方米，年产9000吨新型药用辅料。该项目力争在2023年上半年实现投产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8892156.d.html</link>
-            <guid>2264158</guid>
-            <pubDate>Sun, 01 Aug 2021 08:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【华东医药：全资子公司获得药物临床试验批准通知书】华东医药公告，2021年7月29日，公司全资子公司杭州中美华东制药有限公司(以下简称“中美华东”)收到国家药品监督管理局(NMPA)核准签发的《药物临床试验批准通知书》(通知书编号：2021LP01159 )，由中美华东和美国ImmunoGen, Inc. (以下简称“ImmunoGen”)申报的生物制品1类新药IMGN853 (Mirvetuximab Soravtansine)另一中国关键性单臂临床试验申请获得批准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8890947.d.html</link>
-            <guid>2264153</guid>
-            <pubDate>Sun, 01 Aug 2021 08:18:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【7月全国期市量额齐增 总成交额近50万亿元】中国期货业协会最新统计资料显示，以单边计算，2021年7月全国期货市场成交量为617.43百万手，成交额为49.77万亿元，同比分别增长8.77%和9.56%，环比分别增长4.43%和5.90%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0287755.d.html</link>
-            <guid>2264152</guid>
-            <pubDate>Sun, 01 Aug 2021 08:17:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
