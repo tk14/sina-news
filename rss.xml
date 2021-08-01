@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 01 Aug 2021 02:35:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 03:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[智利Escondida铜矿工人投票罢工。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0242341.d.html</link>
+            <guid>2264065</guid>
+            <pubDate>Sun, 01 Aug 2021 03:19:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南京：病例主要集中在禄口机场及周边地区，江宁、溧水两区病例占总量90.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0240947.d.html</link>
+            <guid>2264064</guid>
+            <pubDate>Sun, 01 Aug 2021 03:11:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广东省文旅厅日前发布紧急通知：不得组团到中高风险地区旅游，暂停销售中高风险地区"机票+酒店"等旅游产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0240922.d.html</link>
+            <guid>2264063</guid>
+            <pubDate>Sun, 01 Aug 2021 03:11:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南京卫健委回应三轮核酸检测采样人数变化：部分大学生因为假期等原因离开南京】三轮全市大规模核酸检测采样总人数有所变化，其中第二轮、第三轮要少于第一轮，主要原因是因为部分符合条件的大学生因为假期等原因离开了南京，此外第二轮采样数明显比第一轮低，还有江宁禄口等街道相较全市提前开展了第二轮检测，相关采样数计入了全市第一轮采样期间的数字。（新华日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0238308.d.html</link>
+            <guid>2264060</guid>
+            <pubDate>Sun, 01 Aug 2021 02:58:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[来宁出差的外市人员黄码如何转?南京回应：提供核酸报告远程转码。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0237284.d.html</link>
+            <guid>2264058</guid>
+            <pubDate>Sun, 01 Aug 2021 02:52:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带风暴希尔达（Hilda）升级为飓风。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0234815.d.html</link>
+            <guid>2264055</guid>
+            <pubDate>Sun, 01 Aug 2021 02:39:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【10.9亿股方正证券股票二拍流拍 价值89亿相较首拍已打九四折】淘宝网司法拍卖网络平台显示，方正证券第二大股东政泉控股持有的约10.90亿股公司股票第二次司法拍卖于8月1日10：00结束，本场已经流拍，无人出价。本场拍卖总计567人设置提醒，14790次围观。本场拍卖的股票占方正证券总股本约13.24%，二拍起拍价88.71亿元，相当于首次拍卖价的94%，今年6月20日首次拍卖价为94.37亿元。起拍价下降或与方正证券股价近期下挫有关，公司自6月8日至7月30日38个交易日下跌9.76%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8833994.d.html</link>
@@ -233,48 +269,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8780538.d.html</link>
             <guid>2263965</guid>
             <pubDate>Sat, 31 Jul 2021 16:38:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广西东兴通报越南入境涉疫车辆最新情况：司机核酸检测为阴性。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8776857.d.html</link>
-            <guid>2263962</guid>
-            <pubDate>Sat, 31 Jul 2021 15:59:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：美国加州海湾发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0173834.d.html</link>
-            <guid>2263961</guid>
-            <pubDate>Sat, 31 Jul 2021 15:49:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【郑州气象台发布大风橙色预警 部分地区将出现8到10级大风】郑州市气象台2021年7月31日22时20分发布大风橙色预警信号：预计6小时内，郑州市区、中牟、荥阳、新郑、新密、登封、巩义将出现8到10级大风，局地阵风11到13级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8775685.d.html</link>
-            <guid>2263960</guid>
-            <pubDate>Sat, 31 Jul 2021 15:41:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[江苏扬州：将适时启动新一轮大规模核酸检测，新一轮检测将力争一天完成采样一天出结果。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0172949.d.html</link>
-            <guid>2263959</guid>
-            <pubDate>Sat, 31 Jul 2021 15:39:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  江苏淮安通报新增1名阳性人员，曾与此前感染者去张家界旅行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8773354.d.html</link>
-            <guid>2263955</guid>
-            <pubDate>Sat, 31 Jul 2021 15:12:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[江苏省淮安市：将盱眙县江苏淮河化工有限公司生活区宿舍楼2幢风险等级调整为中风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8773342.d.html</link>
-            <guid>2263954</guid>
-            <pubDate>Sat, 31 Jul 2021 15:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【3-0完胜意大利 中国女排获东京奥运会首胜】31日，东京奥运会女排小组赛第四轮，中国女排3-0完胜意大利女排，取得东京奥运会首胜。具体比分为，25-21/25-20/26-24。但由于此前的比赛中，土耳其女排以3:0战胜同组的阿根廷队，上届奥运冠军中国女排已确定无缘晋级八强。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0170766.d.html</link>
-            <guid>2263953</guid>
-            <pubDate>Sat, 31 Jul 2021 15:11:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
