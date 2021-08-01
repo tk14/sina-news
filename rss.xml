@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 01 Aug 2021 16:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 17:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【英国COP26发言人：英国2050年实现净零排放目标“时间太遥远”】据英国天空新闻当地时间8月1日报道，英国政府第26届联合国气候变化大会发言人阿莱格拉·斯特拉顿承认，英国到2050年实现碳净零排放的目标“时间太遥远”。据报道，英国政府此前希望利用此次气候峰会鼓励其他国家投入更多资金应对气候变化，共同承诺到2050年将碳排放量减少到净零标准，并将气温上升控制在1.5摄氏度以内。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0339485.d.html</link>
+            <guid>2264282</guid>
+            <pubDate>Sun, 01 Aug 2021 17:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国参议员力争到周日晚敲定基建法案文本】美国多位参议员表示，价值5500亿美元的两党基建法案文本将会在周日晚之前准备就绪，本周晚些时候料可拿下最终表决。议员们周六举行了会面，以确定法案的措辞，预计将于周日下午复会，直至协议达成为止。有关基建计划的工作已错过了多个截止日期，其中包括早前设定的周五下午的目标。西弗吉尼亚州民主党参议员Joe Manchin表示，法案文本“到今晚”将会准备就绪，议员们到周四可以完成此项工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0337423.d.html</link>
+            <guid>2264279</guid>
+            <pubDate>Sun, 01 Aug 2021 16:51:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【泰国普吉沙盒计划满月 逾1.4万名国际游客入岛】泰国国家旅游局8月1日表示，普吉沙盒计划从7月1日启动至7月31日已满1个月，共有14055名国际游客通过该计划进入普吉岛，为当地创造不低于8亿泰铢(约合1.6亿元人民币)的旅游收入。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0332091.d.html</link>
@@ -317,18 +329,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8896798.d.html</link>
             <guid>2264168</guid>
             <pubDate>Sun, 01 Aug 2021 09:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[江苏：南京、淮安、扬州、泰州、南通、苏州等地区55个高速公路收费站出口或入口暂时关闭。（交汇点新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8896483.d.html</link>
-            <guid>2264166</guid>
-            <pubDate>Sun, 01 Aug 2021 08:58:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【平治信息：上半年净利预增46%~51%】平治信息发布业绩预告，预计2021年半年度归母净利1.65亿元~1.70亿元，同比增长46.10%~50.52%。 报告期内，公司智慧家庭业务高速发展，公司全资子公司深圳市兆能讯通科技有限公司订单不断落地，导致公司整体利润水平较去年同期进一步提升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8893709.d.html</link>
-            <guid>2264162</guid>
-            <pubDate>Sun, 01 Aug 2021 08:38:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
