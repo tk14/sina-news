@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 01 Aug 2021 05:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 06:29:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【水利部：太湖水位仍缓慢上涨，周边河网区有42个站点水位超警】 水利部今日（8月1日）会商表明，目前，太湖周边河网地区正在退水，但由于总体水位仍然偏高，退水进度较慢，太湖水位仍在缓慢上涨。今早8时，太湖平均水位缓慢上涨到4.19米，超过警戒水位0.39米；太湖周边河网区仍有42个站点水位超过警戒水位，其中2个站超过保证水位。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0273425.d.html</link>
+            <guid>2264120</guid>
+            <pubDate>Sun, 01 Aug 2021 06:26:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Zoom以8500万美元针对一起有关隐私的诉讼达成和解。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8871876.d.html</link>
+            <guid>2264112</guid>
+            <pubDate>Sun, 01 Aug 2021 05:56:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【零跑汽车：7月交付新车4404台 同比增长666%】据零跑汽车公布消息，零跑汽车7月订单达6540台，环比增长59%；7月交付新车达4404台，同比增长666%，环比增长12%。2021累计订单达28055台。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8869980.d.html</link>
+            <guid>2264109</guid>
+            <pubDate>Sun, 01 Aug 2021 05:43:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[缅甸国家管理委员会：紧急状态将于2023年8月结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0264365.d.html</link>
+            <guid>2264107</guid>
+            <pubDate>Sun, 01 Aug 2021 05:27:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北京：各公园将严格按照75%限流，不接待中、高风险地区的旅行团体。（北京日报）]]></title>
+            <guid>2264106</guid>
+            <pubDate>Sun, 01 Aug 2021 05:24:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【桥水基金达里奥：中国决策者一直支持资本市场快速稳定发展】桥水基金（Bridgewater）总裁达里奥日前对资本市场热点问题做了解读。达里奥称，中国决策者行动方向从未改变，即一直支持资本市场的快速稳定发展、创业精神以及对外国投资者的开放。达里奥鼓励投资人关注趋势，不要过度关注波动。中国决策者不会因资本市场和资本敏感性阻碍他们做对中国人民最有益的事情。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0262603.d.html</link>
@@ -260,48 +289,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8818004.d.html</link>
             <guid>2264019</guid>
             <pubDate>Sun, 01 Aug 2021 00:49:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据法新社报道，澳大利亚昆士兰州宣布，鉴于德尔塔变异毒株开始在该州蔓延，首府布里斯班等地区将从7月31日16时开始实施为期3天的封锁。在实施封锁限制措施期间，当地居民只有在外出采购生活用品等必要情况下才能出门。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0214668.d.html</link>
-            <guid>2264017</guid>
-            <pubDate>Sun, 01 Aug 2021 00:46:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京西站北京站31趟始发列车停运】受多地遭遇持续强降雨天气影响，8月1日北京西站25趟始发列车停运，北京站6趟始发列车停运。已购买停运列车车票的旅客，可于30日内办理全额退票手续。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0214216.d.html</link>
-            <guid>2264015</guid>
-            <pubDate>Sun, 01 Aug 2021 00:43:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[近一周机构调研个股数量有70多只，海康威视成为调研机构数量最多的股票。数据显示，合计有489家机构调研了该公司，包括103家基金公司、52家证券公司、69家私募、32家保险公司等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0214011.d.html</link>
-            <guid>2264014</guid>
-            <pubDate>Sun, 01 Aug 2021 00:41:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京：加强进出京旅游管理 市民近期尽量减少出京】北京卫健委建议，加强进出京旅游管理，公园、景区、商场、超市、影剧院、酒店、交通场站等公共场所，严格落实限流、测温、验码、佩戴口罩等防疫措施。请市民朋友近期尽量减少出京，不去中高风险地区、旅游热点地区旅行或出差。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8815625.d.html</link>
-            <guid>2264011</guid>
-            <pubDate>Sun, 01 Aug 2021 00:33:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【自购潮又来了：基金公司出手，年内已超27亿】 今年前7月基金公司自购规模超27亿元，同比上升逾两成。其中权益类基金仍是基金公司自购主力军，占比近7成。从业绩看，获基金公司自购的多数基金年内斩获正收益，27只产品涨超10%。业内人士表示，今年基金公司自购的基金大多都是在其成立时申购，不少基金公司将“自购”作为营销卖点。另外，自购也能彰显行业对市场的信心，给投资者传递基金公司和基金经理知行合一的积极信息。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8815439.d.html</link>
-            <guid>2264007</guid>
-            <pubDate>Sun, 01 Aug 2021 00:31:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[湖南湘潭新增1例无症状感染者，曾在常德乘船游穿紫河。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0210057.d.html</link>
-            <guid>2264005</guid>
-            <pubDate>Sun, 01 Aug 2021 00:15:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[湖南湘潭：将雨湖区云塘街道杨家湾公安小区的风险等级调整为中风险地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8812506.d.html</link>
-            <guid>2264004</guid>
-            <pubDate>Sun, 01 Aug 2021 00:12:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
