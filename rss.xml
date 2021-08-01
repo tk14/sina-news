@@ -4,11 +4,93 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 01 Aug 2021 09:23:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 10:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[伊拉克石油部：7月原油出口均值为290万桶/日，均价72美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8906934.d.html</link>
+            <guid>2264200</guid>
+            <pubDate>Sun, 01 Aug 2021 10:24:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广东发布紧急号召：减少跨省流动和聚集性活动，非必要不出省，非必需不出境。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0303157.d.html</link>
+            <guid>2264199</guid>
+            <pubDate>Sun, 01 Aug 2021 10:19:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北京严格进出京：“谁申请、谁负责”“谁审批、谁负责”，返京后立刻进行核酸检测，结果阴性后方可返岗工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8904731.d.html</link>
+            <guid>2264195</guid>
+            <pubDate>Sun, 01 Aug 2021 10:06:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广州白云机场：8月2日零时起，所有进入白云机场航站楼的人员（包括搭乘航班出港的旅客和送行、接机的人员），必须在航站楼入口处刷身份证查验“健康码”，并接受体温检测。]]></title>
+            <guid>2264194</guid>
+            <pubDate>Sun, 01 Aug 2021 10:05:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[深圳市交通运输局：中高风险地区所在城市来深旅客须落地核酸检测。全市公交、地铁等市内公共交通继续执行进站乘车旅客100%测温、100%查验健康码及行程码、100%佩戴口罩“三个100%”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8904608.d.html</link>
+            <guid>2264193</guid>
+            <pubDate>Sun, 01 Aug 2021 10:05:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【7月29日确诊病例到过海淀区这些地方】7月29日北京公布的确诊病例到过海淀区的这些地方，涉及海淀东升镇、学院路街道、清华园街道。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0301361.d.html</link>
+            <guid>2264192</guid>
+            <pubDate>Sun, 01 Aug 2021 10:04:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【澳门7月博彩毛收入84.44亿澳门元 连升6个月】澳门特区政府博彩监察协调局1日公布，澳门7月博彩毛收入为84.44亿元(澳门元，下同)，按年上升528.1%，按月则上升29.2%，连升6个月。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0300996.d.html</link>
+            <guid>2264191</guid>
+            <pubDate>Sun, 01 Aug 2021 10:01:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据每日邮报：英国政府计划取消部分针对航班转乘的限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0300495.d.html</link>
+            <guid>2264190</guid>
+            <pubDate>Sun, 01 Aug 2021 09:56:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[深圳市教育局：全市师生员工原则上留深过暑假。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8903459.d.html</link>
+            <guid>2264189</guid>
+            <pubDate>Sun, 01 Aug 2021 09:54:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北京房山已核酸采样6000例，已出结果均为阴性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0299675.d.html</link>
+            <guid>2264188</guid>
+            <pubDate>Sun, 01 Aug 2021 09:49:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北京：初步判定新增确诊病例和无症状感染者的密接者有16人。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8901946.d.html</link>
+            <guid>2264184</guid>
+            <pubDate>Sun, 01 Aug 2021 09:41:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北京：近期到过南京、张家界、郑州等中高风险地区返京人员务必主动报告。（北京头条）]]></title>
+            <guid>2264183</guid>
+            <pubDate>Sun, 01 Aug 2021 09:40:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北京：对病例所在小区、楼宇等区域严格封控管理。（北京头条）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0297777.d.html</link>
+            <guid>2264179</guid>
+            <pubDate>Sun, 01 Aug 2021 09:33:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【重庆重点地区全员核酸检测第一轮已出212303人 均为阴性】截至8月1日12时，重庆江津、大渡口等地密切接触者、次密切接触者及管控区域内第一轮全员核酸检测已采样235372人，已出结果212303人，均为阴性，其余样本正在检测中；环境采样3463份，结果均为阴性。下一步还将扩大检测范围。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8900386.d.html</link>
+            <guid>2264178</guid>
+            <pubDate>Sun, 01 Aug 2021 09:28:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【哪吒汽车7月交付量首次突破6000台 创历史新高】哪吒汽车7月交付量首次突破6000台，达到6011台。同比增长392%，创历史新高。2021年1-7月交付量累计达27,115台，六个月的交付量持续创新纪录。哪吒汽车称，7月交付个人用户交付占比90%。]]></title>
             <guid>2264177</guid>
@@ -208,71 +290,6 @@
             <title><![CDATA[澳门7月份幸运博彩毛收入同比增长528.1%，预估为540.5%；1-7月份幸运博彩毛收入同比增长 63.9%。]]></title>
             <guid>2264094</guid>
             <pubDate>Sun, 01 Aug 2021 04:54:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：十二群岛-土耳其边境地区发生5.6级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0256520.d.html</link>
-            <guid>2264092</guid>
-            <pubDate>Sun, 01 Aug 2021 04:40:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[扬州通报12例新增病例详情，均为南京确诊及关联病例的密接。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0254602.d.html</link>
-            <guid>2264089</guid>
-            <pubDate>Sun, 01 Aug 2021 04:29:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒：三枚火箭弹袭击阿富汗机场，其中两枚击中跑道】法新社刚刚消息，一名官员透露，至少有3枚火箭弹袭击了阿富汗南部的坎大哈机场，其中两枚击中了跑道。报道称，机场负责人马苏德·普什图说，目前机场所有航班都已经取消。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8856689.d.html</link>
-            <guid>2264086</guid>
-            <pubDate>Sun, 01 Aug 2021 04:22:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[即日起，海口市立即暂停一切线下教育教学活动及培训等校内外师生聚集活动。（海口教育发布）]]></title>
-            <guid>2264085</guid>
-            <pubDate>Sun, 01 Aug 2021 04:17:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[扬州：民生物资已陆续到货，确诊病例定点收治救治医院已确定。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0251308.d.html</link>
-            <guid>2264083</guid>
-            <pubDate>Sun, 01 Aug 2021 04:10:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中广核：辽宁红沿河核电站5号机组具备商运条件】中国广核集团获悉，7月31日21时32分，辽宁红沿河核电站5号机组完成168小时试运行试验，正式具备商运条件。作为我国东北第一个核电站以及最大的电力能源投资项目，红沿河核电站分为一、二期建设。一期工程四台机组于2016年建成投产，目前正在平稳发电。二期工程建设两台机组，于2015年开工建设，目前，5号机组具备商运条件，6号机组正在进行热态功能试验。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8853158.d.html</link>
-            <guid>2264082</guid>
-            <pubDate>Sun, 01 Aug 2021 04:04:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中广核2020年企业社会责任报告：减排相当于种植逾60万公顷森林】2020年，中国广核集团清洁能源上网电量2631.12亿千瓦时，等效减排二氧化碳超过2亿吨，相当于种植了超过60万公顷的森林，为实现国家“碳达峰、碳中和”目标和应对全球气候变化、守护生物多样性持续贡献力量。7月31日，中广核发布了2020年企业社会责任报告，系统展示过去一年积极履行社会责任的成果。这是继2012年以来，中广核面向社会公开发布的第10份年度社会责任报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8853063.d.html</link>
-            <guid>2264081</guid>
-            <pubDate>Sun, 01 Aug 2021 04:03:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳拟推行大学区招生，建立义务教育学校教师交流制度】深圳社会建设领域的“基本法”——《深圳经济特区社会建设条例（草案征求意见稿）》昨天在市人大常委会网站公开征求意见。针对各界关注的教育公平问题，明确提出推行大学区招生和办学管理模式，建立义务教育学校教师交流制度，以合理均衡配置教育资源，优化教育结构。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0248754.d.html</link>
-            <guid>2264080</guid>
-            <pubDate>Sun, 01 Aug 2021 03:57:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[8月1日起，北京与重庆轨道交通乘车二维码实现互联互通。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8851271.d.html</link>
-            <guid>2264077</guid>
-            <pubDate>Sun, 01 Aug 2021 03:53:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【济南上半年GDP达5199亿元 同比增长10.5%】济南市统计局网站公布《2021年上半年经济社会发展情况》：根据市级生产总值统一核算结果，2021年上半年济南市生产总值为5198.75亿元，同比增长10.5%，两年平均增长5.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0247110.d.html</link>
-            <guid>2264076</guid>
-            <pubDate>Sun, 01 Aug 2021 03:47:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北京昌平已完成重点区域第二次核酸检测，结果全部为阴性。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0246118.d.html</link>
-            <guid>2264073</guid>
-            <pubDate>Sun, 01 Aug 2021 03:40:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
