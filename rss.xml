@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 01 Aug 2021 10:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 11:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[张泽宇:【网易云音乐通过港交所聆讯：2021年Q1营收15亿】港交所官网显示，网易云音乐已通过上市聆讯并上载聆讯后资料集，上市联席保荐人为美林、中金及瑞信。资料集最新披露数据显示，Q1总营收15亿元，同比增长74.6%；毛亏损率则由2020年Q1的26.8%大幅收窄为3.6%；Q1月活用户达到1.83亿；在线音乐付费用户数2429万，同比增长91.5%；在线音乐付费率13.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0309240.d.html</link>
+            <guid>2264208</guid>
+            <pubDate>Sun, 01 Aug 2021 11:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：冰岛格林达维克西南192公里处发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0307468.d.html</link>
+            <guid>2264206</guid>
+            <pubDate>Sun, 01 Aug 2021 10:59:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【农业农村部：建立长江水生生物完整性指数评价体系】昨日，农业农村部召开长江流域重点水域禁捕工作视频调度会议，总结工作进展情况，研究部署下一步工作。会议强调，要加强对长江水生生物资源的整体联动协同保护，建立长江水生生物完整性指数评价体系，实施好长江生物多样性保护工程，划定并公布长江水生生物重要栖息地，严格涉渔工程环境影响评价，有效落实生态补偿措施，规范增殖放流活动，不断提升保护水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8909884.d.html</link>
+            <guid>2264205</guid>
+            <pubDate>Sun, 01 Aug 2021 10:50:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[河南巩义市决定于2021年8月1日14:30起在全市范围内开展全员核酸检测。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0306145.d.html</link>
+            <guid>2264204</guid>
+            <pubDate>Sun, 01 Aug 2021 10:46:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【苏炳添半决赛破亚洲纪录】在1日进行的东京奥运会男子百米半决赛上，中国飞人苏炳添以9秒83创下亚洲纪录，刷新个人最好成绩，成功晋级决赛！]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8909261.d.html</link>
+            <guid>2264203</guid>
+            <pubDate>Sun, 01 Aug 2021 10:46:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[伊拉克石油部：7月原油出口均值为290万桶/日，均价72美元/桶。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8906934.d.html</link>
@@ -273,23 +303,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0262025.d.html</link>
             <guid>2264101</guid>
             <pubDate>Sun, 01 Aug 2021 05:11:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【证监会：只要上市公司经营状况是好的，自然会得到投资者的青睐】证监会发言人表示，企业不管在哪里上市，都应当符合上市地、运营地相关法律法规和监管要求。今年以来，中国经济持续稳定恢复、稳中向好，一大批优秀企业蓬勃发展，资本市场的优质投资标的不断增多。只要上市公司经营状况是好的，质量是高的，生态是不断改善的，自然会得到投资者的青睐。我们对中国资本市场的前景判断是可预期的，是可持续健康发展的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0261493.d.html</link>
-            <guid>2264100</guid>
-            <pubDate>Sun, 01 Aug 2021 05:08:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国钢铁工业协会：6、7月份钢价窄幅波动 有望稳定】中国钢铁工业协会分析上半年钢铁行业运行情况表示，上半年，在国民经济持续稳定恢复的有利环境下，钢铁行业运行态势良好，总体呈现出产销两旺、效益提升的局面。从钢铁企业盈利空间分析，钢材市场价格经历了5月份的大起大落后，6、7月份窄幅波动。下一步如果供需相对平衡，钢价有望稳定在这一区间。但是，铁矿石价格仍继续升高、其它原燃料价格也普遍上涨，钢铁企业成本上升，盈利空间将受到挤压。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0259707.d.html</link>
-            <guid>2264095</guid>
-            <pubDate>Sun, 01 Aug 2021 04:58:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳门7月份幸运博彩毛收入同比增长528.1%，预估为540.5%；1-7月份幸运博彩毛收入同比增长 63.9%。]]></title>
-            <guid>2264094</guid>
-            <pubDate>Sun, 01 Aug 2021 04:54:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
