@@ -4,7 +4,7 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 01 Aug 2021 20:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 21:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -283,30 +283,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0301361.d.html</link>
             <guid>2264192</guid>
             <pubDate>Sun, 01 Aug 2021 10:04:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【澳门7月博彩毛收入84.44亿澳门元 连升6个月】澳门特区政府博彩监察协调局1日公布，澳门7月博彩毛收入为84.44亿元(澳门元，下同)，按年上升528.1%，按月则上升29.2%，连升6个月。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0300996.d.html</link>
-            <guid>2264191</guid>
-            <pubDate>Sun, 01 Aug 2021 10:01:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据每日邮报：英国政府计划取消部分针对航班转乘的限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0300495.d.html</link>
-            <guid>2264190</guid>
-            <pubDate>Sun, 01 Aug 2021 09:56:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[深圳市教育局：全市师生员工原则上留深过暑假。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8903459.d.html</link>
-            <guid>2264189</guid>
-            <pubDate>Sun, 01 Aug 2021 09:54:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北京房山已核酸采样6000例，已出结果均为阴性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0299675.d.html</link>
-            <guid>2264188</guid>
-            <pubDate>Sun, 01 Aug 2021 09:49:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
