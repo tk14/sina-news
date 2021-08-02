@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 02 Aug 2021 15:26:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 16:36:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：技术公司Smiths Group将以企业价值23亿美元出售全球顶级医疗设备和技术供应商Smiths Medical。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9148555.d.html</link>
+            <guid>2265445</guid>
+            <pubDate>Mon, 02 Aug 2021 16:10:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：谷歌将在今年放弃高通，转而制造自己的智能手机处理器，名为谷歌张量(Tensor)，用于今年秋季推出的新Pixel 6和Pixel 6 Pro手机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9148167.d.html</link>
+            <guid>2265443</guid>
+            <pubDate>Mon, 02 Aug 2021 16:06:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯方面表示，美国已要求24名美国签证即将到期的外交官在9月3日之前离开美国。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9147999.d.html</link>
+            <guid>2265441</guid>
+            <pubDate>Mon, 02 Aug 2021 16:05:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据伊朗媒体PRESS TV：伊朗誓言对任何反对它的举动作出“压倒性”回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0544930.d.html</link>
+            <guid>2265437</guid>
+            <pubDate>Mon, 02 Aug 2021 15:58:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  港交所文件显示，中国景大教育集团控股有限公司向港交所提交上市申请书。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqciyzk9146845.d.html</link>
+            <guid>2265433</guid>
+            <pubDate>Mon, 02 Aug 2021 15:49:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在岸人民币兑美元北京时间23:30收报6.4620，与上一交易日夜盘收盘持平。成交量339.78亿美元，较上周五减少77,78亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqciyzk9146320.d.html</link>
+            <guid>2265431</guid>
+            <pubDate>Mon, 02 Aug 2021 15:42:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600指数初步收涨0.58%，报464.41点。 德国DAX 30指数初步收涨0.21%，报15576.24点。 法国股指初步收涨1.00%，英国股指初步收涨0.70%，意大利股指初步收涨0.03%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0543267.d.html</link>
+            <guid>2265427</guid>
+            <pubDate>Mon, 02 Aug 2021 15:33:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【郑州已核酸采样近千万人】昨日郑州市启动全员核酸检测，截至2日18时，郑州市实际应检1062.90万人，采样980.95万人，占应检人数92.29%，完成检测141.08万人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqciyzk9145362.d.html</link>
+            <guid>2265425</guid>
+            <pubDate>Mon, 02 Aug 2021 15:28:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【据测算我国数字经济规模达5.4万亿美元】“2021全球数字经济大会”8月2日在北京开幕。会上，中国信息通信研究院发布的《全球数字经济白皮书》显示，2020年，全球47个国家数字经济规模总量达到32.6万亿美元，同比名义增长3.0%，占GDP比重为43.7%。中国数字经济规模为5.4万亿美元，位居世界第二；同比增长9.6%，位居世界第一。（新华网）]]></title>
             <guid>2265420</guid>
@@ -232,119 +280,6 @@
             <title><![CDATA[  美股邮轮板块盘初异动拉升，嘉年华邮轮(CCL.N)涨4%，挪威邮轮(NCLH.N)涨3.4%，皇家加勒比邮轮(RCL.N)涨3%。各邮轮公司于上周陆续恢复航线运行。]]></title>
             <guid>2265350</guid>
             <pubDate>Mon, 02 Aug 2021 13:51:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国纽约州州长科莫：如果没有法律无法强制实施口罩令。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0532680.d.html</link>
-            <guid>2265347</guid>
-            <pubDate>Mon, 02 Aug 2021 13:48:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【罚款145万！因欺骗投保人等违规行为被银保监会处罚 众安在线回应：全面完成了整改工作】8月2日，银保监会公布行政处罚决定书，众安在线因存在欺骗投保人等行为，累计被罚款145万元。众安在线回应称，公司坚持合规稳健经营理念，在发展过程中始终积极拥抱监管。上述监管检查中发现的公司2018年前后业务中的相关问题，公司上下高度重视，全面完成了整改工作。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0532663.d.html</link>
-            <guid>2265346</guid>
-            <pubDate>Mon, 02 Aug 2021 13:48:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国纽约州州长科莫：最可怕的是德尔塔毒株变异成耐药型毒株。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqciyzk9134769.d.html</link>
-            <guid>2265344</guid>
-            <pubDate>Mon, 02 Aug 2021 13:44:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  法拉利(RACE.N)盘初跌1.2%，第二季度营收不及预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0532219.d.html</link>
-            <guid>2265343</guid>
-            <pubDate>Mon, 02 Aug 2021 13:43:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[记者从深圳银保监局“金融服务经济社会高质量发展”新闻通气会上获悉，“跨境理财通”落地实施的各项准备工作正在紧锣密鼓推进中。（21财经）]]></title>
-            <guid>2265342</guid>
-            <pubDate>Mon, 02 Aug 2021 13:41:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Square(SQ.N)盘初走高，现涨近8%，报266.3美元，公司第二季度净利润好于市场预期，并宣布将收购澳洲支付业务企业Afterpay。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0531907.d.html</link>
-            <guid>2265341</guid>
-            <pubDate>Mon, 02 Aug 2021 13:40:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  紫金矿业：公司关注到媒体发布关于公司进军新能源矿产的报道。截至目前，公司没有锂矿资源和相关业务。公司有关锂等新能源矿种的布局是基于公司战略上的初步规划，没有具体的时间进度表和具体项目安排。截至目前，公司没有筹划任何具体项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0531234.d.html</link>
-            <guid>2265340</guid>
-            <pubDate>Mon, 02 Aug 2021 13:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  陌陌科技(MOMO.O)涨1%，今日公司正式更名为“Hello集团”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0531220.d.html</link>
-            <guid>2265339</guid>
-            <pubDate>Mon, 02 Aug 2021 13:34:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  安森美半导体(ON.O)涨超11%，第二季度财报各项指标均超出预期，并实现扭亏为盈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0531187.d.html</link>
-            <guid>2265338</guid>
-            <pubDate>Mon, 02 Aug 2021 13:34:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉高开超2%，现报703美元，股价重回700美元关口，市值接近7000亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqciyzk9133332.d.html</link>
-            <guid>2265336</guid>
-            <pubDate>Mon, 02 Aug 2021 13:31:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据Tradeweb：收益率为负的欧元投资级公司债券规模增至1.87万亿欧元，占市场份额的50.7%，为2016年以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0529583.d.html</link>
-            <guid>2265332</guid>
-            <pubDate>Mon, 02 Aug 2021 13:22:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据Tradeweb：收益率为负的欧元政府债券规模增至6.54万亿欧元，占市场份额的70.8%，为1月份以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0529469.d.html</link>
-            <guid>2265331</guid>
-            <pubDate>Mon, 02 Aug 2021 13:20:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【IMF：全球经常账户盈余和赤字合计占全球GDP的比例上升至3.2%】国际货币基金组织称，全球经常账户盈余和赤字合计占全球GDP的比例从2019年的2.8%上升至2020年的3.2%。 （新华财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0528538.d.html</link>
-            <guid>2265329</guid>
-            <pubDate>Mon, 02 Aug 2021 13:13:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国企业对智能温控设备、载负控制开关提起337调查申请】2021年7月29日，美国Causam公司向美国国际贸易委员会（ITC）提起337调查申请，指控对美出口、在美进口或在美销售的特定智能温控设备、载负开关及其组件（Certain Smart Thermostats, Load Control Switches and Components Thereof）侵犯该公司专利权，请求ITC发布有限排除令和禁止令。9家来自美国、加拿大、中国的企业为被申请人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqciyzk9131031.d.html</link>
-            <guid>2265328</guid>
-            <pubDate>Mon, 02 Aug 2021 13:13:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织：工作人员认为2020年人民币被低估了0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0527401.d.html</link>
-            <guid>2265326</guid>
-            <pubDate>Mon, 02 Aug 2021 13:05:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织：工作人员估计2020年欧元区整体而言欧元被低估了约1.8%；对德国来说，欧元被低估了约9.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0527147.d.html</link>
-            <guid>2265325</guid>
-            <pubDate>Mon, 02 Aug 2021 13:03:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织：全球经常账户失衡预计将在2021年进一步加剧，到2025年将缩小至占全球GDP的2.5%左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0526914.d.html</link>
-            <guid>2265323</guid>
-            <pubDate>Mon, 02 Aug 2021 13:02:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织：全球经常账户盈余和赤字合计占全球GDP的比例从2019年的2.8%上升至2020年的3.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqciyzk9129412.d.html</link>
-            <guid>2265322</guid>
-            <pubDate>Mon, 02 Aug 2021 13:01:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【张汝京创办的青岛芯恩8寸厂正式投片成功 12寸厂也即将投片】芯恩公司于今日在青岛举办誓师大会，正式宣布8寸厂投片成功，投片产品为功率芯片，良率达90%以上，光罩厂也于同期完成了产品交付。知情人士透漏，芯恩在6月底接受了客户的首次投片，于7月3号清晨3点完成第一批产品的生产，良率达90%以上。而第二批更为复杂的产品也随后完成，良率亦达90%以上。并且，光罩厂也连夜奋战，在7月30号顺利完成了产品的交付。该消息人士还表示，芯恩青岛的12寸厂也将于8月15号开始投片。据悉，芯恩青岛项目由张汝京博士领衔。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0526254.d.html</link>
-            <guid>2265315</guid>
-            <pubDate>Mon, 02 Aug 2021 12:58:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
