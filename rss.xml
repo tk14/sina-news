@@ -4,11 +4,212 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 03 Aug 2021 05:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 06:29:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[伊朗最高领袖哈梅内伊证实莱希为伊朗总统。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9273412.d.html</link>
+            <guid>2266034</guid>
+            <pubDate>Tue, 03 Aug 2021 06:29:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高通(QCOM.O)：在骁龙相关的产品方面，公司将会继续和谷歌(GOOG.O、GOOGL.O)进行合作。]]></title>
+            <guid>2266033</guid>
+            <pubDate>Tue, 03 Aug 2021 06:27:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[家电股午后拉升走高，美的集团涨逾7%，石头科技涨近5%，深康佳A、海尔智家、格力电器等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9272821.d.html</link>
+            <guid>2266031</guid>
+            <pubDate>Tue, 03 Aug 2021 06:25:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国石油(BP.N)：预计墨西哥湾漏油事故的税前赔付额在15亿美元左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9271309.d.html</link>
+            <guid>2266026</guid>
+            <pubDate>Tue, 03 Aug 2021 06:16:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北方稀土午后触及跌停，成交额104亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9270751.d.html</link>
+            <guid>2266024</guid>
+            <pubDate>Tue, 03 Aug 2021 06:12:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【IDC：2020年政务云市场总规模达到49.87亿元人民币，同比增长25%】IDC发布报告称，相较2019年，2020年政务云上用户对资源量的需求变得更大，对支撑的业务范围有所扩大，政务云已经成为数字政府、数字城市建设的关键基础设施。该市场总规模已达到49.87亿元人民币，同比增速有所放缓，达到25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9270414.d.html</link>
+            <guid>2266022</guid>
+            <pubDate>Tue, 03 Aug 2021 06:10:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中远海控港股涨5.62%，现报13.54港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0667571.d.html</link>
+            <guid>2266021</guid>
+            <pubDate>Tue, 03 Aug 2021 06:10:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【谷歌宣布今年新款旗舰手机将搭载自研芯片】美国时间8月2日，谷歌宣布将自主研发系统级芯片，并将其命名为Tensor。Tensor将用于秋季发布的新款旗舰机Pixel 6和Pixel 6 Pro手机上，也是谷歌自主研发的第一款系统级芯片。（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9270260.d.html</link>
+            <guid>2266020</guid>
+            <pubDate>Tue, 03 Aug 2021 06:10:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国石油：将开始规模14亿美元的回购计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9269759.d.html</link>
+            <guid>2266018</guid>
+            <pubDate>Tue, 03 Aug 2021 06:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国石油：在明朗的宏观经济前景支持下，石油需求预计将在2021年复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0666874.d.html</link>
+            <guid>2266017</guid>
+            <pubDate>Tue, 03 Aug 2021 06:07:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国石油：到2021年底，全球天然气需求预计将恢复至2019年水平上方；由于亚洲进口增加，液化天然气需求也将增加。]]></title>
+            <guid>2266016</guid>
+            <pubDate>Tue, 03 Aug 2021 06:07:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国石油公司：对2030年布伦特原油的价格预期有所提高，以反映可能出现的供应限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9269261.d.html</link>
+            <guid>2266015</guid>
+            <pubDate>Tue, 03 Aug 2021 06:05:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国石油公司：到2021年底，全球天然气需求预计将恢复至2019年水平上方；由于亚洲进口增加，液化天然气需求也将增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9268988.d.html</link>
+            <guid>2266012</guid>
+            <pubDate>Tue, 03 Aug 2021 06:04:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国石油公司：在明朗的宏观经济前景支持下，石油需求预计将在2021年复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0666136.d.html</link>
+            <guid>2266011</guid>
+            <pubDate>Tue, 03 Aug 2021 06:04:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国石油公司：石油市场有望继续其再平衡过程。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0665992.d.html</link>
+            <guid>2266009</guid>
+            <pubDate>Tue, 03 Aug 2021 06:03:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京汽车关联公司注册资本增至约4亿 增幅约150%】数据显示，近日，北京国家新能源汽车技术创新中心有限公司发生工商变更，新增股东中电科投资控股有限公司、北汽福田汽车股份有限公司、河钢集团有限公司等，同时公司注册资本由1.6亿人民币增至约4亿人民币，增幅约150%。股东信息显示，该公司现由北京汽车集团有限公司、宁德时代新能源科技股份有限公司、北京亦庄国际投资发展有限公司等多家公司共同持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0665027.d.html</link>
+            <guid>2266004</guid>
+            <pubDate>Tue, 03 Aug 2021 05:58:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【陈光明再度出山，专户“新作”发行在即】 睿远基金将于8月16日发售第三只专户产品，由总经理陈光明亲自挂帅，认购门槛500万元起，5年持有期运作。在投资经理团队的配置上，除了陈光明，还有童卓、黄真和唐倩。（财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0664350.d.html</link>
+            <guid>2266003</guid>
+            <pubDate>Tue, 03 Aug 2021 05:54:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沪深两市成交额突破1.1万亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9266841.d.html</link>
+            <guid>2266002</guid>
+            <pubDate>Tue, 03 Aug 2021 05:52:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  乳业股午后拉升走强，西部牧业涨超8%，新乳业、熊猫乳品、嘉必优、贝因美等跟随冲高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0663244.d.html</link>
+            <guid>2266000</guid>
+            <pubDate>Tue, 03 Aug 2021 05:48:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[汽车整车板块午后持续走低，江淮汽车逼近跌停，长城汽车跌近7%，小康股份、东风汽车、长安汽车等跌逾4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9265235.d.html</link>
+            <guid>2265998</guid>
+            <pubDate>Tue, 03 Aug 2021 05:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[游戏股大幅跳水，顺网科技跳水跌近10%，恺英网络、迅游科技、世纪华通、凯撒文化、欧比特、游族网络等跌超5%。腾讯推出游戏未保“双减双打”新措施，倡议全行业讨论对12岁以下小学生禁游。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9265196.d.html</link>
+            <guid>2265997</guid>
+            <pubDate>Tue, 03 Aug 2021 05:43:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【腾讯推出游戏未保“双减双打”新措施：未满12周岁未成年人禁止在游戏内消费】为进一步加大保护力度，腾讯将从《王者荣耀》试点，逐步面向全线游戏推出“双减、双打、三提倡”的七条新举措。将执行比政策要求更严厉的未成年用户在线时长限制，非节假日从1.5小时降低至1小时，节假日从3小时减到2小时。未满12周岁未成年人（“小学生”）禁止在游戏内消费。针对未成年人冒充成年人游戏的情况，将原来的“零点巡查”升级为“全天巡查”，可疑账户全部重新认证。积极配合政策，打击用户通过加速器登陆及部分第三方平台买卖成年人帐号的行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9264471.d.html</link>
+            <guid>2265995</guid>
+            <pubDate>Tue, 03 Aug 2021 05:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[腾讯：倡议全行业进一步强化游戏防沉迷系统，控制未成年人游戏总时长；倡议深化对游戏适龄评定和实施机制的研究；倡议全行业讨论全面禁止未满12周岁小学生进入游戏的可行性。]]></title>
+            <guid>2265993</guid>
+            <pubDate>Tue, 03 Aug 2021 05:38:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[腾讯：为进一步加大保护力度，腾讯将从《王者荣耀》试点，逐步面向全线游戏推出“双减、双打、三提倡”的七条新举措。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9264155.d.html</link>
+            <guid>2265992</guid>
+            <pubDate>Tue, 03 Aug 2021 05:38:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  腾讯推出游戏未保“双减双打”新措施。（鹅厂黑板报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0661301.d.html</link>
+            <guid>2265991</guid>
+            <pubDate>Tue, 03 Aug 2021 05:37:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[宝马：全球半导体短缺、原材料价格上涨可能会影响下半年的业绩。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9263611.d.html</link>
+            <guid>2265988</guid>
+            <pubDate>Tue, 03 Aug 2021 05:35:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特高压概念股走高，保变电气午后触板，中国西电早盘涨停，平高电气、许继电气、麦克奥迪等涨幅居前。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0660487.d.html</link>
+            <guid>2265985</guid>
+            <pubDate>Tue, 03 Aug 2021 05:33:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  宝马汽车：第二季度息税前利润50.1亿欧元，市场预估40.2亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0660454.d.html</link>
+            <guid>2265984</guid>
+            <pubDate>Tue, 03 Aug 2021 05:33:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  宝马汽车：第二季度销售额285.8亿欧元，市场预估267.8亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9263154.d.html</link>
+            <guid>2265982</guid>
+            <pubDate>Tue, 03 Aug 2021 05:32:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[河南驻马店遂平县：将灈阳街道金山社区滨河小区A1区的风险等级调整为中风险地区，全县其他区域仍为低风险地区。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0660270.d.html</link>
+            <guid>2265981</guid>
+            <pubDate>Tue, 03 Aug 2021 05:31:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沪深两市成交额连续第10个交易日突破1万亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0659365.d.html</link>
+            <guid>2265978</guid>
+            <pubDate>Tue, 03 Aug 2021 05:26:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  抗病毒概念股午后持续拉升，赛升药业、万孚生物、金迪克、康希诺、谱尼测试、智飞生物、利德曼等10余股涨停或涨幅超10%，达安基因、康泰生物、复星医药、科华生物等涨超6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0659136.d.html</link>
+            <guid>2265976</guid>
+            <pubDate>Tue, 03 Aug 2021 05:25:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【特斯拉渠道模式变革，拟减少一线城市商超体验店数量】特斯拉有意减少一线城市商超体验店数量，转而在传统汽车商圈建设更多传统4S店形态的网点，以提高展销和售后服务能力。“特斯拉现在找的场地都集中在传统汽车商圈附近，找了很多传统汽车经销商的投资人进行谈判，想要租他们的场地，建设‘前店后厂’的网点。前面的展厅可以进行体验和销售，后面的场地用来维修保养。”一位知情人士表示。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0658858.d.html</link>
+            <guid>2265974</guid>
+            <pubDate>Tue, 03 Aug 2021 05:24:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MCU芯片板块持续重挫，兆易创新跌停，国民技术跌超14%，富满电子、北京君正、士兰微跟跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9261300.d.html</link>
+            <guid>2265973</guid>
+            <pubDate>Tue, 03 Aug 2021 05:22:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[航运概念午后拉升，珠海港涨停，中谷物流、华东重机、招商南油跟涨。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9260369.d.html</link>
@@ -91,184 +292,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0649702.d.html</link>
             <guid>2265935</guid>
             <pubDate>Tue, 03 Aug 2021 04:33:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金科文化：公司产品已按照相关要求接入防沉迷系统 规范运作】金科文化在互动平台表示，公司产品主要为积极健康、寓教于乐的休闲类亲子互动应用，用户平均在线时长不超过1小时，不会导致用户沉迷。公司用户70%以上分布在海外全球各个国家与地区，同时公司本着社会责任优先的原则，已按照相关要求接入防沉迷系统，规范运作。公司亲子主题乐园业务处于起步阶段，近期仍在着力推进快速拓店工作，争取早日完成“百店计划”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0648436.d.html</link>
-            <guid>2265926</guid>
-            <pubDate>Tue, 03 Aug 2021 04:27:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[渣打集团：2021年的全年收入按固定汇率基准计算，将与2020年相若。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0647611.d.html</link>
-            <guid>2265925</guid>
-            <pubDate>Tue, 03 Aug 2021 04:23:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[渣打集团：预期信贷减值将于今年其余时间继续维持在低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0647261.d.html</link>
-            <guid>2265924</guid>
-            <pubDate>Tue, 03 Aug 2021 04:22:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[渣打集团：打算在普通股权一级资本比率13–14%的目标范围内灵活营运。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9249966.d.html</link>
-            <guid>2265923</guid>
-            <pubDate>Tue, 03 Aug 2021 04:21:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[渣打集团：即将回购共值2.5亿美元的股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0646398.d.html</link>
-            <guid>2265920</guid>
-            <pubDate>Tue, 03 Aug 2021 04:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[渣打集团：恢复2021年中期普通股股息9,400万美元或每股3美分。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9249006.d.html</link>
-            <guid>2265919</guid>
-            <pubDate>Tue, 03 Aug 2021 04:17:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[渣打集团第二季度经调整经营收入36.9亿美元，市场预估36.2亿美元；第二季度除税前利润11.5亿美元，市场预估8.16亿美元。]]></title>
-            <guid>2265918</guid>
-            <pubDate>Tue, 03 Aug 2021 04:17:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【理想汽车首日招股暂录1969万港元孖展 券商：市场观望气氛浓厚】理想汽车首日招股，暂录得1969万港元孖展。截至中午12时，仍然有超过26亿港元孖展额度可供认购。信诚证券联席董事张智威表示，理想汽车已在美国上市，定价时会以当地上市价格作参考，上市后首日的升幅没有太大憧憬空间。而对上一轮新股旺季中，很多投资者损手，再加上大市气氛一般，因此投资者大多持观望态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0645184.d.html</link>
-            <guid>2265917</guid>
-            <pubDate>Tue, 03 Aug 2021 04:11:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【梦龙回应是否植脂替代乳脂：确实有用椰子油】近日，有网友质疑梦龙存在“双标”行为，中外用料不同，国内版用植脂替代乳脂，进而缩减成本，成为热搜话题。8月3日，记者致电梦龙官网电话，接听人员回应，“微博的事情不清楚，冰淇淋的脆层是纯巧克力，至于其他部分是否为植脂，要反馈给工厂那边等回复，但确实有用椰子油。”（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9247028.d.html</link>
-            <guid>2265915</guid>
-            <pubDate>Tue, 03 Aug 2021 04:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：08月03日11时42分在尼科巴群岛（北纬8.85度，东经94.00度）发生5.9级地震，震源深度10千米。]]></title>
-            <guid>2265913</guid>
-            <pubDate>Tue, 03 Aug 2021 04:07:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【扬州19家农产品供应头部企业向市民公开承诺：不乱加价】扬州市发改委党组副书记、副主任姜开圣回应这两天物价上涨问题时表示，扬州市相关部门鼓励保供企业承担社会责任，已经有凌云蔬菜批发市场、大润发超市等19家农产品供应头部企业，扬州主要一些大的企业签订了保供稳价的公开承诺书，向市民做出公开承诺，不乱加价，保障供应。对于一些乱涨价行为，我们将从严从重从快打击，目前蔬菜等主要农产品供需量逐步恢复平衡，能够满足市场供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9246766.d.html</link>
-            <guid>2265912</guid>
-            <pubDate>Tue, 03 Aug 2021 04:07:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【济南机场航班今日上午大面积取消 进出港累计取消超220架次】一位机场工作人员向记者透露，昨天晚上8点有疑似病例从这（遥墙机场）通过，对于昨天在候机楼当班的工作人员，机场正组织在做核酸检测。航班在今日中午12点就能正常放行。 (每经)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0642241.d.html</link>
-            <guid>2265905</guid>
-            <pubDate>Tue, 03 Aug 2021 04:00:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【传半导体硅晶圆厂合晶Q3报价将全面调涨逾一成】受惠5G与车用等市场需求依然强劲，台胜科8英寸与12英寸硅晶圆接单满载至今年底，合晶第三季度6英寸与8英寸硅晶圆接单也满载。合晶三季度硅晶圆产品报价将全面调涨逾一成，台胜科12英寸硅晶圆报价也将调涨，涨幅与业界相当。 (集微网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0642157.d.html</link>
-            <guid>2265904</guid>
-            <pubDate>Tue, 03 Aug 2021 03:59:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中信海直：获得2021年民航发展专项资金补贴2773万元，将计入公司2021年度损益。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9242879.d.html</link>
-            <guid>2265898</guid>
-            <pubDate>Tue, 03 Aug 2021 03:50:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  透景生命：预计上半年净利7000万元至8200万元，同比扭亏，公司营销改革逐见成效，实现营业收入与上年同期相比增长150%-160%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9242837.d.html</link>
-            <guid>2265897</guid>
-            <pubDate>Tue, 03 Aug 2021 03:49:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【盒马： 已拥有32件授权专利 在审专利超过150个】官方公布的数据，目前盒马共拥有32件授权专利，涵盖数据信息处理、物流运输、自助收银等系统和领域。近3年内，盒马在审专利数量超过150件，科研人员已经超过600人，硕士、博士占比达46%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9242103.d.html</link>
-            <guid>2265896</guid>
-            <pubDate>Tue, 03 Aug 2021 03:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[深圳创业板上市的金力永磁提交2亿美元香港IPO申请。（IFR）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9239127.d.html</link>
-            <guid>2265890</guid>
-            <pubDate>Tue, 03 Aug 2021 03:36:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【SIA：6月份全球半导体销售额同比增长29%至445亿美元 创单月历史新高】根据美国半导体行业协会(SIA）的数据，2021年6月全球半导体销售额同比增长29.2%，从去年同期的345亿美元增至445亿美元，5月全球半导体销售额为436亿美元。从地区来看，欧洲(43.2%）、亚太地区/所有其他地区（34.0%）、中国（28.3%）、美洲（22.9%）和日本（21.2%）的销售额同比增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0634578.d.html</link>
-            <guid>2265887</guid>
-            <pubDate>Tue, 03 Aug 2021 03:30:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京东货运航空公司申请筹建获初审同意：基地机场设在南通】8月3日，据中国民用航空局网站消息，民航局发布关于拟批准江苏京东货运航空有限公司筹建的公示称，江苏京东货运航空有限公司申请筹建已经民航华东地区管理局初审同意。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0634231.d.html</link>
-            <guid>2265886</guid>
-            <pubDate>Tue, 03 Aug 2021 03:28:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【济南机场今早突然关闭】飞常准的实时数据显示，8月3日济南机场原计划执行375个航班，到截至3日上午近10点，仅放行了11个进港航班，出港航班为零。放行率降为0.02%。有消息称这与昨晚某个从哈尔滨飞往济南的落地航班出现阳性病例有关。截至记者发稿前，济南机场官方仍未有公开说明。（21世纪经济报道）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9235268.d.html</link>
-            <guid>2265881</guid>
-            <pubDate>Tue, 03 Aug 2021 03:21:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【媒体：花旗与保诚等金融业者计划加速关闭亚洲燃煤电厂】路透援引五名了解情况的消息人士表示，包括英国保险商保诚集团、花旗银行、汇丰控股和贝莱德实物资产(BlackRock Real Assets)等金融企业正在制定计划，加速关闭亚洲燃煤电厂，这是碳排放的最大来源。消息人士表示，由亚洲开发银行(ADB)参与的这项新建议提出了一个具有潜在可行性的模式，与亚洲各国政府和多边银行展开的初步谈判进展良好。这些金融企业计划创立公私合作关系，买下燃煤电厂所有股权，然后在15年内逐步将其关闭。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0631593.d.html</link>
-            <guid>2265879</guid>
-            <pubDate>Tue, 03 Aug 2021 03:18:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【安森美Q2扭亏为盈 汽车、工业级芯片营收创历史新高】8月2日，电源管理IC供应商安森美半导体公布了2021年第二季度财报。财报显示，安森美半导体第二季度营收创历史新高，为16.70亿美元，同比增长37.6%；净利润为1.84亿美元，去年同期净亏损140万美元。分产品来看，第二季度车用芯片营收年增69%（季增8%）至史上最高的5.56亿美元，营收占比报33%；工业用芯片营收年增24%（季增18%）至4.34亿美元，创历史新高，营收占比报26%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9233970.d.html</link>
-            <guid>2265877</guid>
-            <pubDate>Tue, 03 Aug 2021 03:17:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【小米公司获xiaomi商标转让】 天眼查App显示，8月2日，小米科技有限责任公司与国家知识产权局其他一审行政判决书公开。诉争商标为“xiaomi”“XIAOMI”。 判决书显示，“xiaomi”“XIAOMI”商标现已转让至原告小米公司名下，诉争商标注册的权利障碍已发生变化，法院据此撤销被诉决定。最终判决结果为：撤销相关商标驳回复审决定书，重新做出决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0630791.d.html</link>
-            <guid>2265876</guid>
-            <pubDate>Tue, 03 Aug 2021 03:15:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股中资券商股走高。国联证券涨4.5%，东方证券涨4.2%，广发证券涨2.8%，中金、光大证券涨超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0630025.d.html</link>
-            <guid>2265874</guid>
-            <pubDate>Tue, 03 Aug 2021 03:12:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为智能座舱团队到东箭科技参观交流】东箭科技今日官微消息，8月2日，华为智能汽车解决方案BU智能座舱部团队莅临东箭科技参观交流。会上，东箭科技向华为智能座舱团队详细介绍了新产品新技术；紧接着，由东箭科技研发人员对产品开发流程及案例进行了细致讲解。双方还针对华为智能座舱生态的合作展开了探讨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9232722.d.html</link>
-            <guid>2265873</guid>
-            <pubDate>Tue, 03 Aug 2021 03:12:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【网易、腾讯、B站游戏业务占比均超30%】经济参考报将网络游戏比作新型“毒品”，称“精神鸦片”竟长成数千亿产业，该则消息导致港A两地手游股重挫，市场尤其关注的腾讯控股、网易、哔哩哔哩领跌恒生科技指数，跌幅均达10%。查询公开数据发现，2020年网易游戏业务营收占总营收的74%，腾讯游戏业务营收占总营收的32%，2020年Q4未成年人仅占腾讯中国网络游戏总流水的 6.0%，哔哩哔哩游戏业务营收占总营收的40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0629262.d.html</link>
-            <guid>2265871</guid>
-            <pubDate>Tue, 03 Aug 2021 03:10:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【车用市况强劲 群联eMMC控制芯片只能满足客户五成订单】NAND Flash控制IC厂群联董事长潘健成日前透露，目前客户对车用eMMC控制芯片需求非常强劲，群联相关产品供不应求，只能满足不到五成的客户订单，群联很努力和晶圆厂沟通，取得更充沛的晶圆代工产能。业内人士预估eMMC报价还会继续上扬5%左右。注：群联布局车用储存方案超过五年，目前在车用eMMC控制芯片市占率为全球第一。 (台湾经济日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0628666.d.html</link>
-            <guid>2265869</guid>
-            <pubDate>Tue, 03 Aug 2021 03:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏关闭75个高速公路收费站出口或入口】江苏省交通运输厅官方微博3日消息，目前，江苏全省高速公路运行总体平稳。南京、淮安、扬州、泰州、南通、苏州、徐州、镇江、连云港等地区75个高速公路收费站出口或入口暂时关闭。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0627765.d.html</link>
-            <guid>2265866</guid>
-            <pubDate>Tue, 03 Aug 2021 03:05:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长江干流6座梯级电站出力创新高】据中国长江三峡集团有限公司消息，7月28日，三峡集团所属长江干流6座梯级水电站(乌东德电站、白鹤滩电站、溪洛渡电站、向家坝电站、三峡电站、葛洲坝电站)已投产98台机组全开运行，最大总出力达5258万千瓦，创梯级电站总出力历史新纪录。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0627239.d.html</link>
-            <guid>2265865</guid>
-            <pubDate>Tue, 03 Aug 2021 03:03:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【饶刚或将管理睿远第三只公募产品】记者获悉，前东方红资产管理副总经理、基金经理饶刚加盟睿远基金后，内部正在筹备发行第三只公募基金产品，该产品方向为固收类，饶刚或为拟任基金经理。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0627054.d.html</link>
-            <guid>2265864</guid>
-            <pubDate>Tue, 03 Aug 2021 03:02:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
