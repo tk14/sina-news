@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 05 Aug 2021 15:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 16:36:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[太空公司Maxar Technologies（MAXR）股价一度下挫逾20.6%，刷新2020年12月2日以来盘中低点至26.98美元，该公司推迟下一代影像卫星WorldView Legion的发射日期至2022年5-6月，原计划2021年四季度发射。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1183686.d.html</link>
+            <guid>2269509</guid>
+            <pubDate>Thu, 05 Aug 2021 16:36:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  亚马逊在二季度末持有货运无人机Natilus的股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1183393.d.html</link>
+            <guid>2269508</guid>
+            <pubDate>Thu, 05 Aug 2021 16:32:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国语言学习应用“多邻国”(Duolingo)已从中国的移动应用商店下架，其他类似应用也已下架。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9786473.d.html</link>
+            <guid>2269506</guid>
+            <pubDate>Thu, 05 Aug 2021 16:26:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase：可以通过关联借记卡与Apple Pay和Google Pay进行加密货币交易，每笔交易可即时兑现达10万美元的现金。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1181766.d.html</link>
+            <guid>2269504</guid>
+            <pubDate>Thu, 05 Aug 2021 16:14:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【百度Apollo 全新一代自动驾驶小巴阿波龙Ⅱ在广州黄埔正式亮相】8月5日，百度Apollo 全新一代自动驾驶小巴阿波龙Ⅱ在广州黄埔正式亮相。作为智能时代移动空间定义者，阿波龙Ⅱ可灵活满足多元需求，面向公共出行、移动警务、健康管理等场景提供定制化的智能移动服务。同时，阿波龙Ⅱ将以公共出行为起点连通更广泛的交通场景，将在广州黄埔的园区、机场、商圈、居民社区等场景落地，为市民带来全时态的智能化出行体验。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqciyzk9783336.d.html</link>
+            <guid>2269492</guid>
+            <pubDate>Thu, 05 Aug 2021 15:43:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[委内瑞拉当局将推出本国数字货币，它的数字将比纸币少六个零。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqcfncc1178891.d.html</link>
+            <guid>2269481</guid>
+            <pubDate>Thu, 05 Aug 2021 15:33:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【楼齐良被提名为中国中车集团总经理人选，孙永才不再兼任】8月5日，中国中车集团召开中层副职以上干部大会，国务院国资委企干二局负责同志代表国资委党委宣布了国资委党委关于中国中车集团领导班子调整的决定：楼齐良同志任中国中车集团董事，提名为中国中车集团总经理人选；孙永才同志不再兼任中国中车集团总经理职务。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqciyzk9782316.d.html</link>
+            <guid>2269476</guid>
+            <pubDate>Thu, 05 Aug 2021 15:30:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[联合国安理会周五将讨论海湾油轮袭击事件。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqciyzk9782059.d.html</link>
@@ -139,95 +181,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqciyzk9774344.d.html</link>
             <guid>2269413</guid>
             <pubDate>Thu, 05 Aug 2021 14:07:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股航空股短线走高，美国航空集团(AAL.O)涨3%，戈尔航空(GOL.N)涨2.8%，美国联合航空(UAL.O)涨2.1%。]]></title>
-            <guid>2269403</guid>
-            <pubDate>Thu, 05 Aug 2021 13:58:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  维视图像(MVIS.O)盘初涨近15%，现报13.86美元，公司二季度业绩造好，销售额同比增加19.25%至70万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqciyzk9772385.d.html</link>
-            <guid>2269388</guid>
-            <pubDate>Thu, 05 Aug 2021 13:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至8月1日当周彭博消费者信心指数公布 53.3，前值 53.2。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqcfncc1167795.d.html</link>
-            <guid>2269369</guid>
-            <pubDate>Thu, 05 Aug 2021 13:45:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上交所：8月16日起将*ST圣亚调出上证东北振兴龙头企业指数样本】鉴于*ST圣亚被实施风险警示，根据指数规则，上海证券交易所与中证指数有限公司决定自2021年8月16日起，将*ST圣亚调出上证东北振兴龙头企业指数样本。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqciyzk9771610.d.html</link>
-            <guid>2269362</guid>
-            <pubDate>Thu, 05 Aug 2021 13:43:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Moderna(MRNA.O)盘初异动拉升，现涨超5%，早盘一度跌3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqciyzk9771376.d.html</link>
-            <guid>2269352</guid>
-            <pubDate>Thu, 05 Aug 2021 13:41:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  汤森路透(TRI.N)盘初涨超5%，第二季度营收大幅超出市场预期及去年同期，并上调全年财务指引。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqcfncc1167394.d.html</link>
-            <guid>2269351</guid>
-            <pubDate>Thu, 05 Aug 2021 13:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中概股美联教育(METX.O)盘初异动，现涨超30%，公司宣布将于2021年秋季推出成人海外高等学历教育服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqcfncc1167378.d.html</link>
-            <guid>2269350</guid>
-            <pubDate>Thu, 05 Aug 2021 13:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[热门中概股盘初大部分走低，贝壳跌幅达10%，满帮跌5.7%，网易、哔哩哔哩跌5%，虎牙、理想汽车均跌超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqciyzk9771293.d.html</link>
-            <guid>2269349</guid>
-            <pubDate>Thu, 05 Aug 2021 13:40:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  西部数据(WDC.O)涨2.5%，第四财季净利润同比大增逾3倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqciyzk9770637.d.html</link>
-            <guid>2269338</guid>
-            <pubDate>Thu, 05 Aug 2021 13:35:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴西石油公司(PBR.N)涨超9%，第二季度业绩超出市场预期，并宣布将派发季度股息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqcfncc1166345.d.html</link>
-            <guid>2269328</guid>
-            <pubDate>Thu, 05 Aug 2021 13:32:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Fastly(FSLY.N)跌超22%，第二季度净亏损同比扩大逾3倍，且差于市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqcfncc1166182.d.html</link>
-            <guid>2269322</guid>
-            <pubDate>Thu, 05 Aug 2021 13:31:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Veoneer(VNE.O)大涨22%，高通(QCOM.O)向该公司提出每股38美元的收购要约。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqcfncc1166150.d.html</link>
-            <guid>2269321</guid>
-            <pubDate>Thu, 05 Aug 2021 13:31:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[卡塔尔航空公司表示，监管机构已将13架空客A350飞机停飞。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqciyzk9768840.d.html</link>
-            <guid>2269300</guid>
-            <pubDate>Thu, 05 Aug 2021 13:24:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄罗斯卫星网：俄罗斯总参谋部表示，在阿富汗紧张局势升级之际，俄罗斯增加了对中亚国家的武器供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqcfncc1164018.d.html</link>
-            <guid>2269280</guid>
-            <pubDate>Thu, 05 Aug 2021 13:16:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西藏旅游：上半年营收同比增长271% 净利大幅减亏】8月5日，西藏旅游(600749)发布了2021年半年报，今年1~6月期间，该上市公司实现营业收入8519.68万元，同比增长270.82%；实现净利润-149.46万元，同比大幅减亏，2020年同期为-3252.83万元。今年6月，西藏旅游公告，拟收购北海新绎游船有限公司100%股权，双方商确标的最终交易价格为13.7亿元，待交易完成后，新绎游船将成为西藏旅游全资子公司，目前收购进程稳步推进。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqcfncc1163510.d.html</link>
-            <guid>2269264</guid>
-            <pubDate>Thu, 05 Aug 2021 13:12:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
