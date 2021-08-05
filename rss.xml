@@ -4,11 +4,71 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 05 Aug 2021 19:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 20:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  维珍银河（SPCE）二季度营收57万美元，分析师预期63万美元。 公司正在恢复太空旅行“机票”的销售，起步价为每座45万美元。 预计9月份将举行下一轮前往太空的火箭发射。 维珍银河美股盘后涨4.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9802113.d.html</link>
+            <guid>2269601</guid>
+            <pubDate>Thu, 05 Aug 2021 20:21:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beyond Meat盘后跌超4%]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9801531.d.html</link>
+            <guid>2269593</guid>
+            <pubDate>Thu, 05 Aug 2021 20:09:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺瓦瓦克斯医药盘后跌10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1197726.d.html</link>
+            <guid>2269592</guid>
+            <pubDate>Thu, 05 Aug 2021 20:08:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股经纪商Robinhood收盘跌28%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9801236.d.html</link>
+            <guid>2269586</guid>
+            <pubDate>Thu, 05 Aug 2021 20:01:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会预算办公室（CBO）：预算估计不包括从各州未使用的联邦补充失业基金中返还的530亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1197270.d.html</link>
+            <guid>2269582</guid>
+            <pubDate>Thu, 05 Aug 2021 19:58:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会预算办公室（CBO）：基础设施法案将在10年内使美国的可自由支配支出增加4150亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9800841.d.html</link>
+            <guid>2269581</guid>
+            <pubDate>Thu, 05 Aug 2021 19:53:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会预算办公室（CBO）：两党基础设施法案将使美国收入在10年内增加500亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9800805.d.html</link>
+            <guid>2269580</guid>
+            <pubDate>Thu, 05 Aug 2021 19:52:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会预算办公室（CBO）：两党基础设施法案将使美国预算赤字在10年内增加2560亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9800800.d.html</link>
+            <guid>2269579</guid>
+            <pubDate>Thu, 05 Aug 2021 19:52:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会预算办公室（CBO）公布基础设施法案草案的预算估计。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9800694.d.html</link>
+            <guid>2269577</guid>
+            <pubDate>Thu, 05 Aug 2021 19:50:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【莱希宣誓就任伊朗总统】伊朗当选总统易卜拉欣·莱希5日在议会宣誓就职，承诺新一届政府将通过解决经济问题改善民生。莱希表示，伊朗的核计划是和平的，伊朗禁止制造核武器。施压和制裁不会阻止伊朗人民追求包括发展权在内的合法权利。必须解除对伊朗的所有制裁，伊朗支持任何有助于解除制裁的外交机制。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9799582.d.html</link>
+            <guid>2269569</guid>
+            <pubDate>Thu, 05 Aug 2021 19:25:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[南非总统拉马福萨宣布调整内阁。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1195237.d.html</link>
@@ -145,41 +205,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1181766.d.html</link>
             <guid>2269504</guid>
             <pubDate>Thu, 05 Aug 2021 16:14:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【百度Apollo 全新一代自动驾驶小巴阿波龙Ⅱ在广州黄埔正式亮相】8月5日，百度Apollo 全新一代自动驾驶小巴阿波龙Ⅱ在广州黄埔正式亮相。作为智能时代移动空间定义者，阿波龙Ⅱ可灵活满足多元需求，面向公共出行、移动警务、健康管理等场景提供定制化的智能移动服务。同时，阿波龙Ⅱ将以公共出行为起点连通更广泛的交通场景，将在广州黄埔的园区、机场、商圈、居民社区等场景落地，为市民带来全时态的智能化出行体验。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqciyzk9783336.d.html</link>
-            <guid>2269492</guid>
-            <pubDate>Thu, 05 Aug 2021 15:43:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[委内瑞拉当局将推出本国数字货币，它的数字将比纸币少六个零。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqcfncc1178891.d.html</link>
-            <guid>2269481</guid>
-            <pubDate>Thu, 05 Aug 2021 15:33:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【楼齐良被提名为中国中车集团总经理人选，孙永才不再兼任】8月5日，中国中车集团召开中层副职以上干部大会，国务院国资委企干二局负责同志代表国资委党委宣布了国资委党委关于中国中车集团领导班子调整的决定：楼齐良同志任中国中车集团董事，提名为中国中车集团总经理人选；孙永才同志不再兼任中国中车集团总经理职务。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqciyzk9782316.d.html</link>
-            <guid>2269476</guid>
-            <pubDate>Thu, 05 Aug 2021 15:30:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国安理会周五将讨论海湾油轮袭击事件。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqciyzk9782059.d.html</link>
-            <guid>2269473</guid>
-            <pubDate>Thu, 05 Aug 2021 15:26:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  8月6日6时起，进入海南省海口美兰机场航站楼须持48小时内核酸证明。（央视）]]></title>
-            <guid>2269471</guid>
-            <pubDate>Thu, 05 Aug 2021 15:21:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内重点地区来穗航班旅客落地新增“48小时内核酸检测阴性证明”查验】根据广州市最新防疫要求，8月6日上午6：00起，国内重点地区来穗航班旅客抵达白云机场后，将在查验“健康码”绿码和体温检测的基础上，增加查验“48小时内核酸检测阴性证明”。未持有核酸证明的旅客需现场接受核酸检测采样。（白云机场）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-05/detail-ikqcfncc1177766.d.html</link>
-            <guid>2269470</guid>
-            <pubDate>Thu, 05 Aug 2021 15:20:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
