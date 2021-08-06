@@ -6,6 +6,27 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 2270584,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1396147.d.html",
+            "title": "  【二十国集团高等教育与研究部长会议闭幕】当地时间6日，二十国集团高等教育与研究部长会议在意大利的里雅斯特闭幕。会议通过联合声明，呼吁充分发挥科研、高等教育和数字化的作用，努力实现具有韧性、可持续性和包容性的经济复苏。本次会议是二十国集团首次以科研为主题举行的部长级会议。与会各方重点讨论了三个方面的内容：如何持续加强科研能力建设；如何在遵守原则的前提下充分发挥数字技术的潜力；如何推动使用共享数字平台，支持科研和高等教育领域的合作。",
+            "date_modified": "2021-08-06T17:25:43.000Z"
+        },
+        {
+            "id": 2270583,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1396071.d.html",
+            "title": "  思科（CSCO）震荡于平盘水平附近，暂报55.75美元。据The Information报道，思科系统正在开发订阅服务“Cloud Stack”，以帮助众多公司将其（电脑）计算任务从亚马逊云平台AWS迁移到众多私人数据中心。思科这一服务还可以用于管理私人数据中心的硬件和软件。",
+            "date_modified": "2021-08-06T17:24:40.000Z"
+        },
+        {
+            "id": 2270577,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzk9996750.d.html",
+            "title": "  美国至8月6日当周石油钻井总数387口，符合预期。",
+            "date_modified": "2021-08-06T17:02:15.000Z"
+        },
+        {
             "id": 2270567,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzk9993356.d.html",
@@ -251,62 +272,6 @@
             "url": "https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1378369.d.html",
             "title": "联合国阿富汗问题特使：过去几周，阿富汗战争进入了一个新的、更致命、更具破坏性的阶段。",
             "date_modified": "2021-08-06T14:11:11.000Z"
-        },
-        {
-            "id": 2270465,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9980053.d.html",
-            "title": "  动视暴雪(ATVI.O)员工们接受采访时表示，公司高管有邀约员工的不当行为，目前已有超过50名现任或前员工向记者反映此事。公司发言人表示将会进行彻底调查。",
-            "date_modified": "2021-08-06T14:04:22.000Z"
-        },
-        {
-            "id": 2270462,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9979895.d.html",
-            "title": "美国劳工部长Walsh：经济正在前进。",
-            "date_modified": "2021-08-06T14:03:03.000Z"
-        },
-        {
-            "id": 2270461,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1377165.d.html",
-            "title": "  维珍银河(SPCE.N)直线拉升，现涨幅扩大至10%，公司恢复太空旅行座位销售，并计划于9月进行新一轮发射。",
-            "date_modified": "2021-08-06T14:02:40.000Z"
-        },
-        {
-            "id": 2270460,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1376847.d.html",
-            "title": "美国6月批发销售月率 2%，前值 0.80%，预期 0.8%。",
-            "date_modified": "2021-08-06T14:00:31.000Z"
-        },
-        {
-            "id": 2270459,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1376694.d.html",
-            "title": "据哈萨卡斯坦能源部：因计划中的维护，哈萨克斯坦的Tengiz油田8月份的石油产量将比7月份减少49%。",
-            "date_modified": "2021-08-06T13:59:35.000Z"
-        },
-        {
-            "id": 2270458,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1376635.d.html",
-            "title": "美国白宫本周会见了房东和租户的支持者。",
-            "date_modified": "2021-08-06T13:58:56.000Z"
-        },
-        {
-            "id": 2270455,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1376181.d.html",
-            "title": "  中国队获得男子4×100米接力第4名。",
-            "date_modified": "2021-08-06T13:54:16.000Z"
-        },
-        {
-            "id": 2270454,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1376125.d.html",
-            "title": "  DraftKings(DKNG.O)涨3%，公司第二季度用户数同比增近3倍。",
-            "date_modified": "2021-08-06T13:53:37.000Z"
         }
     ]
 }
