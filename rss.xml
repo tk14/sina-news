@@ -4,11 +4,16 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 06 Aug 2021 18:29:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 19:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[湖北荆门：高新区-掇刀区所有小区（居民点）实施封闭管理。（澎湃）]]></title>
+            <guid>2270608</guid>
+            <pubDate>Fri, 06 Aug 2021 19:17:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据CNBC：谷歌正在计划建立一个新的硅谷园区与硬件中心。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0000773.d.html</link>
@@ -147,30 +152,6 @@
             <title><![CDATA[印度总理莫迪：需要在本地建立无缝、高质量的供应链。]]></title>
             <guid>2270491</guid>
             <pubDate>Fri, 06 Aug 2021 14:30:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度总理莫迪：需要在本地建立无缝、高质量的供应链。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1380519.d.html</link>
-            <guid>2270490</guid>
-            <pubDate>Fri, 06 Aug 2021 14:30:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳第二批集中供地22宗土地全部中止挂牌出让】深圳交易集团有限公司（深圳公共资源交易中心）今晚发布《深圳市土地使用权出让补充公告》称，于2021年7月9日发布的《深圳市土地使用权出让公告》（深土交告〔2021〕号），以挂牌方式公开出让的22宗土地使用权，现根据委托人通知，为稳妥推进我市第二批次居住用地集中挂牌交易组织工作，经研究决定，现中止上述宗地的挂牌出让工作，具体出让时间另行公告。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9983000.d.html</link>
-            <guid>2270488</guid>
-            <pubDate>Fri, 06 Aug 2021 14:29:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国阿富汗问题特使敦促安理会向双方发出强烈信号，停止战斗，进行谈判是至关重要的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9982624.d.html</link>
-            <guid>2270486</guid>
-            <pubDate>Fri, 06 Aug 2021 14:25:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度总理莫迪：印度各邦正努力削减贸易监管负担。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1379664.d.html</link>
-            <guid>2270484</guid>
-            <pubDate>Fri, 06 Aug 2021 14:22:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
