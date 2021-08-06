@@ -4,13 +4,61 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 06 Aug 2021 19:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 20:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[美股经纪商Robinhood收涨7.9%，本周累涨57%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1405890.d.html</link>
+            <guid>2270621</guid>
+            <pubDate>Fri, 06 Aug 2021 20:02:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至8月3日当周，COMEX铜期货投机性净多头头寸削减6697手至39440手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0008302.d.html</link>
+            <guid>2270620</guid>
+            <pubDate>Fri, 06 Aug 2021 20:00:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：08月07日03时22分在南桑威奇群岛地区（南纬59.60度，西经26.00度）发生5.8级地震，震源深度30千米。]]></title>
+            <guid>2270618</guid>
+            <pubDate>Fri, 06 Aug 2021 19:55:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登将对学生贷款的支付暂停延长至1月份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0007508.d.html</link>
+            <guid>2270615</guid>
+            <pubDate>Fri, 06 Aug 2021 19:46:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[交易平台币安（Binance）美国CEO Brian Brooks在推特上表示他已经辞任CEO。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1405077.d.html</link>
+            <guid>2270614</guid>
+            <pubDate>Fri, 06 Aug 2021 19:46:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：投资者最近一周对美元的净多头押注减少。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0007211.d.html</link>
+            <guid>2270613</guid>
+            <pubDate>Fri, 06 Aug 2021 19:38:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：南桑威奇群岛发生5.9级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1404542.d.html</link>
+            <guid>2270611</guid>
+            <pubDate>Fri, 06 Aug 2021 19:34:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国证券交易委员会批准纳斯达克提高公司董事会多元化的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1403855.d.html</link>
+            <guid>2270609</guid>
+            <pubDate>Fri, 06 Aug 2021 19:20:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[湖北荆门：高新区-掇刀区所有小区（居民点）实施封闭管理。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1403680.d.html</link>
             <guid>2270608</guid>
             <pubDate>Fri, 06 Aug 2021 19:17:04 GMT</pubDate>
         </item>
@@ -95,63 +143,6 @@
             <title><![CDATA[【SOHO中国：黑石收购事宜已获市场监管总局立案审查】8月6日，SOHO中国有限公司及黑石集团旗下公司Two Cities Master Holdings II Limited（要约方）联合发布公告称，于2021年8月3日，要约方收到中国国家市场监管总局于2021年8月2日签发的通知，对要约方根据《中国反垄断法》提交的申报正式立案审查。尽管该申报已获正式立案，要约方及SOHO中国仍可能被要求提供进一步信息及材料供监管机构审查。]]></title>
             <guid>2270515</guid>
             <pubDate>Fri, 06 Aug 2021 15:05:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[航运追踪公司Freightos数据显示，本周中国至美国东海岸的集装箱运价为20804美元，相较一年前飙升逾500%，相比之下，约一周前的价格则略低于11000美元；从中国到美国西海岸的成本略低于20000美元。海运咨询公司Drewry董事总经理称，当前的情况是“30年未见”，预计这种极端费率情况将持续到2022年的农历新年。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9985165.d.html</link>
-            <guid>2270503</guid>
-            <pubDate>Fri, 06 Aug 2021 14:51:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据港交所文件：内地医疗健康管理平台思派健康向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1382501.d.html</link>
-            <guid>2270502</guid>
-            <pubDate>Fri, 06 Aug 2021 14:50:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【李小鹏在西藏调研时强调：加快建设交通强国 为雪域高原长治久安和高质量发展作出更大贡献】日前，交通运输部部长李小鹏到西藏自治区拉萨市、林芝市、日喀则市，就川藏铁路及配套公路建设情况、出入西藏综合运输通道情况及巩固拓展脱贫攻坚成果全面推进乡村振兴工作等开展调研座谈，并出席交通运输援藏工作座谈会。李小鹏强调，要立足新发展阶段，完整准确全面贯彻新发展理念，服务和融入新发展格局，聚焦交通运输发展不平衡不充分问题，再接再厉，奋力谱写西藏交通运输发展新篇章，加快建设交通强国，为雪域高原长治久安和高质量发展作出更大贡献。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1382249.d.html</link>
-            <guid>2270500</guid>
-            <pubDate>Fri, 06 Aug 2021 14:48:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【SOHO中国：黑石收购事宜已获市场监管总局立案审查】今日，SOHO中国有限公司（简称“SOHO中国”）及黑石集团旗下公司Two Cities Master Holdings II Limited（要约方）联合发布公告。公告称，于2021年8月3日，要约方收到中国国家市场监管总局于2021年8月2日签发的通知，对要约方根据《中国反垄断法》提交的申报正式立案审查。尽管该申报已获正式立案，要约方及SOHO中国仍可能被要求提供进一步信息及材料供监管机构审查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9984408.d.html</link>
-            <guid>2270498</guid>
-            <pubDate>Fri, 06 Aug 2021 14:42:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股新能源车板块短线走低，小鹏汽车(XPEV.N)跌4.2%，小牛电动(NIU.O)、理想汽车(LI.O)跌3.3%，蔚来汽车(NIO.N)跌3.1%，特斯拉(TSLA.O)跌1%。]]></title>
-            <guid>2270496</guid>
-            <pubDate>Fri, 06 Aug 2021 14:38:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国30年期国债收益率短暂转为正值，报0.002%，当日上涨4个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9983777.d.html</link>
-            <guid>2270495</guid>
-            <pubDate>Fri, 06 Aug 2021 14:37:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[气候领导委员会暂停了埃克森美孚的成员资格。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1381033.d.html</link>
-            <guid>2270494</guid>
-            <pubDate>Fri, 06 Aug 2021 14:35:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据华盛顿邮报，在动视暴雪(ATVI.O)高管爆出性骚扰丑闻后，可口可乐(KO.N)和State Farm正在考虑重新评估与动视暴雪旗下《守望先锋》电竞联赛的赞助协议。]]></title>
-            <guid>2270493</guid>
-            <pubDate>Fri, 06 Aug 2021 14:35:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【台媒：台积电评估在德国设厂，德累斯顿或为首选】据台媒报道，台积电(TSM.N)评估到德国设厂，外界预料欧洲最大半导体聚落德累斯顿会是首选，当地同业公会“萨克森硅谷”不愿评论台积电设厂一事，不过强调车用芯片、6G等领域是当地业者的强项。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1381001.d.html</link>
-            <guid>2270492</guid>
-            <pubDate>Fri, 06 Aug 2021 14:35:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度总理莫迪：需要在本地建立无缝、高质量的供应链。]]></title>
-            <guid>2270491</guid>
-            <pubDate>Fri, 06 Aug 2021 14:30:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
