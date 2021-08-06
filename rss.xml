@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 06 Aug 2021 15:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 16:36:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【小米平板官方微博账号恢复更新 为近三年来首次】8月6日晚间，小米平板官方微博账号恢复更新，这是其近三年来的首次更新。小米平板官方称由于微博长时间未登陆更新内容，根据微博规则，账号被微博官方暂时保护性冻结，“小米平板”账号现已恢复正常。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzk9993356.d.html</link>
+            <guid>2270567</guid>
+            <pubDate>Fri, 06 Aug 2021 16:27:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果：新推出的功能永远无法访问消息数据，且不会破坏消息端到端加密。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1390671.d.html</link>
+            <guid>2270566</guid>
+            <pubDate>Fri, 06 Aug 2021 16:25:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[约旦河西岸纳布卢斯市附近地区，37名巴勒斯坦人在与以色列军人的冲突中受伤，其中1人伤重不治。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9990599.d.html</link>
+            <guid>2270552</guid>
+            <pubDate>Fri, 06 Aug 2021 15:58:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[滴滴持续走低并转跌，此前一度涨超4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9990314.d.html</link>
+            <guid>2270551</guid>
+            <pubDate>Fri, 06 Aug 2021 15:53:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟预计将讨论重新对美国实施旅行限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9988381.d.html</link>
+            <guid>2270531</guid>
+            <pubDate>Fri, 06 Aug 2021 15:27:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【珠海：自7月25日以来澳门入境人员须主动向社区报备】8月6日珠海市口岸局发布消息，根据8月4日广东省疾控中心发布的关于澳门入境人员健康管理要求，从即日起，自7月25日以来澳门入境内地的人员，须主动向社区报备，接受相应健康管理措施。澳门红黄码区之内的人员开展14天集中隔离（自入境日起算），并在第1、3、7和14天开展核酸检测；红黄码区之外的人员实行“三天两检”和14天居家健康监测（自入境日起算）。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9987695.d.html</link>
@@ -237,72 +267,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1376125.d.html</link>
             <guid>2270454</guid>
             <pubDate>Fri, 06 Aug 2021 13:53:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：瓦努阿图发生5.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1376079.d.html</link>
-            <guid>2270452</guid>
-            <pubDate>Fri, 06 Aug 2021 13:53:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Zynga(ZNGA.O)跌超16%，Q3及全年业绩指引低于市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9978314.d.html</link>
-            <guid>2270449</guid>
-            <pubDate>Fri, 06 Aug 2021 13:49:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑美元EUR/USD日内下行0.50%，现报1.1773。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1375332.d.html</link>
-            <guid>2270444</guid>
-            <pubDate>Fri, 06 Aug 2021 13:46:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  普拉格能源(PLUG.O)涨近8%，据13F文件显示，该股在第二季度获法巴资管大幅增持，并成为第五大持仓股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9977374.d.html</link>
-            <guid>2270441</guid>
-            <pubDate>Fri, 06 Aug 2021 13:41:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  曼格纳国际(MGA.N)盘初跌3%，公司表示因芯片短缺下调全年财务预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1374555.d.html</link>
-            <guid>2270440</guid>
-            <pubDate>Fri, 06 Aug 2021 13:40:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其总统与阿塞拜疆总统就纳卡地区冲突等问题通电话】据俄罗斯卫星网报道，当地时间6日，土耳其总统埃尔多安与阿塞拜疆总统阿利耶夫进行了电话交谈，双方就纳卡地区冲突和土耳其森林火灾等问题进行了探讨。据介绍，阿利耶夫在电话中向埃尔多安介绍了近日来亚美尼亚军队在边境地区的对抗活动，并表示阿塞拜疆方面将予以坚决回击。阿利耶夫还表示，向土耳其派出了大批消防人员，帮助土耳其扑灭境内肆虐的森林火灾。埃尔多安对此表示了感谢。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1374218.d.html</link>
-            <guid>2270439</guid>
-            <pubDate>Fri, 06 Aug 2021 13:37:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  维珍银河(SPCE.N)涨4.6%，第二季度营收远超预期，将重启航天销售计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9976836.d.html</link>
-            <guid>2270438</guid>
-            <pubDate>Fri, 06 Aug 2021 13:37:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Illumina(ILMN.O)绩后倒跌4.4%，第二季度净利润及营收均好于市场预期，但巴克莱维持该股跑输大市评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9976818.d.html</link>
-            <guid>2270437</guid>
-            <pubDate>Fri, 06 Aug 2021 13:37:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  百济神州(BGNE.O)跌3.3%，中期收入同比大增542.2%，但第二季度重回亏损。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1373827.d.html</link>
-            <guid>2270436</guid>
-            <pubDate>Fri, 06 Aug 2021 13:34:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国际集团(AIG.N)涨近5%，第二季度同比扭亏为盈，并宣布将回购至少价值20亿美元股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9976360.d.html</link>
-            <guid>2270433</guid>
-            <pubDate>Fri, 06 Aug 2021 13:32:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股经纪商Robinhood开盘涨幅扩大至17%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1373621.d.html</link>
-            <guid>2270431</guid>
-            <pubDate>Fri, 06 Aug 2021 13:32:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
