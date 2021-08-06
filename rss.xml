@@ -4,7 +4,7 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 06 Aug 2021 21:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 22:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -138,12 +138,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9990314.d.html</link>
             <guid>2270551</guid>
             <pubDate>Fri, 06 Aug 2021 15:53:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟预计将讨论重新对美国实施旅行限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9988381.d.html</link>
-            <guid>2270531</guid>
-            <pubDate>Fri, 06 Aug 2021 15:27:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
