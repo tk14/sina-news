@@ -4,11 +4,22 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 07 Aug 2021 12:35:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 13:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[摩根大通全球市场策略师Mike Bell：鉴于债券收益率将走高，预计价值股，尤其是金融股将跑赢大盘。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0142810.d.html</link>
+            <guid>2272173</guid>
+            <pubDate>Sat, 07 Aug 2021 13:12:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  8月7日，伊朗外交部发言人哈提卜扎德强烈谴责七国集团（G7）外长和欧盟针对伊朗毫无根据的言论。哈提卜扎德说，伊朗一贯致力于维护波斯湾和霍尔木兹海峡的航道安全，并将其视为国家安全的一部分。]]></title>
+            <guid>2272146</guid>
+            <pubDate>Sat, 07 Aug 2021 12:59:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[8月7日，伊朗外交部发言人哈提卜扎德强烈谴责七国集团（G7）外长和欧盟针对伊朗毫无根据的言论。哈提卜扎德说，伊朗一贯致力于维护波斯湾和霍尔木兹海峡的航道安全，并将其视为国家安全的一部分。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1536906.d.html</link>
@@ -279,24 +290,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0085002.d.html</link>
             <guid>2271617</guid>
             <pubDate>Sat, 07 Aug 2021 05:11:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  截至8月7日，印度冠状病毒相关死亡人数上升至427371人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1481444.d.html</link>
-            <guid>2271612</guid>
-            <pubDate>Sat, 07 Aug 2021 05:03:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【黎巴嫩和以色列发生交火 联合国呼吁保持克制】据联合国新闻，联合国驻黎巴嫩临时部队8月6日发表声明，呼吁黎以双方停火并保持平静，以便联黎部队能够开始对交火事件展开调查。声明表示，当天上午晚些时候，联黎部队发现一些火箭弹从黎巴嫩南部联黎部队行动区外射向以色列占领的戈兰。随后，以色列立即对舒巴村（Kafer Chouba）周围地区进行了炮击。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0081916.d.html</link>
-            <guid>2271601</guid>
-            <pubDate>Sat, 07 Aug 2021 04:52:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【承德通报3名密接者详情：轨迹涉北京西站】河北承德双桥区通报3名密接者详情：为一家三口，活动轨迹涉北京西站、长沙南站。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1478833.d.html</link>
-            <guid>2271600</guid>
-            <pubDate>Sat, 07 Aug 2021 04:48:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
