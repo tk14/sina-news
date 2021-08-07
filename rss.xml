@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 07 Aug 2021 07:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 08:24:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[北京：各机场、火车站将严格查验进京人员北京健康宝，对非绿码人员将劝阻登机登车。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1508245.d.html</link>
+            <guid>2271792</guid>
+            <pubDate>Sat, 07 Aug 2021 08:20:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北京：对目前尚在中高风险地区待进返京人员，弹窗提示暂缓进返京。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0109059.d.html</link>
+            <guid>2271781</guid>
+            <pubDate>Sat, 07 Aug 2021 08:11:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【三部门：平台不得制定损害外卖骑手等劳动者安全健康考核指标】近日，应急管理部、公安部、人力资源和社会保障部相关司局联合召开重点平台经济企业安全生产和劳动权益保障宣贯会议。会议要求各平台经济企业牢固树立安全生产“红线”意识和底线思维，加强安全生产警示教育和配送运输工具合规性检查，引导安全文明配送。要重视劳动者身心健康，优化平台算法，不得制定损害劳动者安全健康的考核指标，有效防范化解新就业形态安全风险，维护外卖骑手等劳动者生命安全和劳动权益，不断提升人民群众幸福感、安全感。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1505131.d.html</link>
+            <guid>2271768</guid>
+            <pubDate>Sat, 07 Aug 2021 07:58:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波音737 MAX飞抵上海浦东 接受中国民航局复飞验证】8月7日，一架波音官方的737 MAX 7飞抵上海浦东国际机场。据悉这架737 MAX来华是为通过中国民航局审定试飞，为已在中国停飞近2年半的该机型复飞做努力。 （北京商报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0106851.d.html</link>
+            <guid>2271767</guid>
+            <pubDate>Sat, 07 Aug 2021 07:55:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【武汉市已累计完成核酸检测采样1123.25万人次】截至8月6日24时，武汉市已累计完成核酸检测采样1123.25万人次，完成检测1084.61万人次，目前正在查漏补检抽检复核中。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0103317.d.html</link>
+            <guid>2271747</guid>
+            <pubDate>Sat, 07 Aug 2021 07:27:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[广州市发布来（返）穗人员健康管理最新措施：高风险地区来（返）穗人员开展14天集中隔离，中风险地区来（返）穗人员开展14天居家隔离；建议所有外省来（返）穗人员进行一次核酸检测。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1500196.d.html</link>
@@ -261,35 +291,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1437359.d.html</link>
             <guid>2270800</guid>
             <pubDate>Sat, 07 Aug 2021 01:12:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏新增本土确诊病例53例，南京1例扬州52例】8月6日0-24时，江苏新增本土确诊病例53例（南京市报告1例，扬州市报告52例），11例为轻型，41例为普通型，1例为重型。新增境外输入确诊病例1例。以上病例均在定点医院隔离治疗。新增出院病例5例（均为本土确诊病例）。解除医学观察的境外输入无症状感染者1例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0038575.d.html</link>
-            <guid>2270793</guid>
-            <pubDate>Sat, 07 Aug 2021 01:07:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家卫健委：8月6日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增无症状感染者32例，其中境外输入12例，本土20例（湖北15例，河南4例，湖南1例）；当日转为确诊病例6例（境外输入3例）；当日解除医学观察12例（均为境外输入）；尚在医学观察的无症状感染者571例（境外输入388例）。]]></title>
-            <guid>2270777</guid>
-            <pubDate>Sat, 07 Aug 2021 00:58:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【8月7日起郑州进行第三轮核酸检测】预计从8月7日下午开始，郑州全市将进行第三轮核酸检测。不进行第三轮检测或漏检，健康码将自动变为黄码。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0032479.d.html</link>
-            <guid>2270726</guid>
-            <pubDate>Sat, 07 Aug 2021 00:34:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  澳大利亚昆士兰州在过去24小时内新增13例本地病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0029447.d.html</link>
-            <guid>2270703</guid>
-            <pubDate>Sat, 07 Aug 2021 00:14:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【山东新增本土疑似病例1例 烟台报告】2021年8月6日0时至24时，山东省报告新增本土疑似病例1例（烟台报告本土疑似病例1例）。无新增确诊病例。无新增死亡病例。无新增出院病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0029025.d.html</link>
-            <guid>2270699</guid>
-            <pubDate>Sat, 07 Aug 2021 00:12:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
