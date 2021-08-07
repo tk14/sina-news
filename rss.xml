@@ -4,11 +4,39 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 07 Aug 2021 05:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 06:28:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【河南发布大风黄色预警：预计开封、商丘等地将出现8级以上雷暴大风】据中国天气网消息，河南省气象台2021年8月7日13时50分发布大风黄色预警：预计未来12小时，开封、商丘、许昌三地区和新乡、郑州两地区东部及周口地区北部部分地区将出现8级以上雷暴大风，局地阵风10级左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0093461.d.html</link>
+            <guid>2271652</guid>
+            <pubDate>Sat, 07 Aug 2021 06:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【衢州市区购房非户籍家庭限购1套，增值税免征年限增至5年】浙江省衢州市房地产市场持续健康发展协调小组办公室发布了《关于进一步促进市区房地产市场平稳健康发展的通知》，暂停向在市区范围内拥有1套及以上住房的非该市户籍家庭出售新建商品住房和二手住房；对非该市户籍无房家庭，需在该市范围内连续缴纳城镇社保或个人所得税满12个月，可在市区范围内购买1套新建商品住房或二手住房。在衢州市区范围内购买144平方米及以上的新建商品住房，自《商品房买卖合同》网签备案之日起5年内不得转让。在衢州市区范围内，个人住房转让增值税免征年限由2年调整为5年。(同花顺)]]></title>
+            <guid>2271648</guid>
+            <pubDate>Sat, 07 Aug 2021 06:06:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【山东已培育35家省级特色产业集群】 近日从山东省工信厅获悉，截至目前，山东省已培育两批共35家省级特色产业集群，集聚企业3.86万家，形成支撑全省经济发展的强大动力。（新华社）]]></title>
+            <guid>2271644</guid>
+            <pubDate>Sat, 07 Aug 2021 06:03:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【湖南省副省长陈飞一行到三一集团调研】三一集团消息，8月5日，湖南省人民政府副省长陈飞一行来到三一集团进行调研，先后考察了三一智联重卡和工程机械扩产项目及三一道依茨发动机生产线，了解工程机械产业有关情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1486556.d.html</link>
+            <guid>2271632</guid>
+            <pubDate>Sat, 07 Aug 2021 05:37:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  政府数据显示，印度8月7日新增确诊病例38628人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1484374.d.html</link>
+            <guid>2271631</guid>
+            <pubDate>Sat, 07 Aug 2021 05:21:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【深圳中止第二批集中地块供应】 2021年是“双集中”供地开启的元年。继5月深圳进行了今年首批集中供地土拍后，深圳交易集团有限公司在7月9日发布本年度第二批次住宅用地集中出让公告，公开挂牌出让22宗住宅用地，总土地面积约83.38公顷。不过，深圳公共资源交易中心在8月6日发布的公告显示，为稳妥推进深圳第二批次居住用地集中挂牌交易组织工作，经研究决定，现中止上述宗地的挂牌出让工作，具体出让时间另行公告。截至8月6日24时，已交纳的竞买（投标）保证金，深圳土地矿业权交易平台将原路退回。（证券时报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0085002.d.html</link>
@@ -239,30 +267,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1420186.d.html</link>
             <guid>2270670</guid>
             <pubDate>Fri, 06 Aug 2021 23:25:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【打造智慧数据“全国一张网”，油气管道“工业互联网+安全生产”试点建设启动】 由工信部、应急管理部、国资委联合组织开展的“工业互联网+安全生产”油气管道行业试点建设8月6日在北京正式启动。通过融合应用新一代数字化、智能化技术，实现安全生产全过程、全要素的链接和监管，打造覆盖全国的油气管道安全智能物联数据网络。国家管网集团安全环保与运维本部总经理王振声表示，试点项目以保障国家能源安全为主题，通过构建快速感知、实时监测、超前预警、联动处置和系统评估等五种新型安全能力，实现安全生产全过程、全要素的链接和监管。 油气管道“工业互联网+安全生产”试点预计2023年底实现在我国油气主干管网全覆盖，将管道基础设施“全国一张网”升级成为智慧数据“全国一张网”。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0021503.d.html</link>
-            <guid>2270668</guid>
-            <pubDate>Fri, 06 Aug 2021 23:19:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cathie Wood旗下ARK买入Signify Health，Roku流媒体、Genius Sports、以及机器人自动化公司Uipath的股票，卖出Square、Trade Desk Inc.、Cellectis、以及Pluristem。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1418147.d.html</link>
-            <guid>2270665</guid>
-            <pubDate>Fri, 06 Aug 2021 23:11:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【273份半年报亮相 多公司拟大额分红】数据显示，至8月6日晚19时，A股共有273家上市公司披露2021年半年报，有223家公司上半年归属于上市公司股东的净利润实现同比增长，占比达81.68%。另有1693家上市公司对外披露上半年业绩预告，有1187家公司业绩预喜，占比达70.11%。从行业角度看，涪陵榨菜、东鹏饮料等多家食品饮料行业个股发布中期利润分配预案。不少上市公司由于上半年盈利能力提升，拟进行大手笔中期分红，分红总金额占当期利润比重较高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1415637.d.html</link>
-            <guid>2270663</guid>
-            <pubDate>Fri, 06 Aug 2021 22:51:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【A股第一次“公司普查”传递三大信号】A股“公司普查”的意义在于“摸清家底”，从而有针对性地开展法规制定、法理研究乃至执法检查等工作。事实上，本次“公司普查”至少向市场传递出三大信号：其一，提高上市公司质量，上市公司必须承担起主体责任。其二，提高上市公司质量，需要投资者进一步提升监督效能。其三，提高上市公司质量，需要监管部门加强基础制度建设，治标与治本相结合，优化市场发展生态。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1414873.d.html</link>
-            <guid>2270661</guid>
-            <pubDate>Fri, 06 Aug 2021 22:45:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
