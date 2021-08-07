@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 07 Aug 2021 17:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 18:28:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【四川南充明德乡突发暴雨 有人员被困】8月8日凌晨，四川省南充市营山县明德乡突发暴雨，记者初步了解到有人员被困，具体情况正在进一步了解当中。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0165332.d.html</link>
+            <guid>2272680</guid>
+            <pubDate>Sat, 07 Aug 2021 18:23:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[日本《朝日新闻》7日报道，经济产业省正在考虑修改有关规定，以便允许日本向国外出口大型放射性核废物。日本现有法律禁止核废物出口。这家媒体报道，日方设想的出口对象国包括正在推动核电站报废的美国和瑞典等国。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1552169.d.html</link>
