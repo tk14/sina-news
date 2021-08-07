@@ -4,11 +4,16 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 07 Aug 2021 21:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 22:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【一非法移民船在前往西班牙加那利群岛途中沉没】一艘载有非法移民的船只日前在前往西班牙加那利群岛的途中沉没，造成1人死亡、42人失踪。据西班牙媒体报道，今年前7个月，超过7500名非法移民搭乘约200艘船只进入加那利群岛，非法移民人数同比上升136%。（新华社）]]></title>
+            <guid>2272687</guid>
+            <pubDate>Sat, 07 Aug 2021 21:42:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【四川南充明德乡突发暴雨 有人员被困】8月8日凌晨，四川省南充市营山县明德乡突发暴雨，记者初步了解到有人员被困，具体情况正在进一步了解当中。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0165332.d.html</link>
@@ -252,12 +257,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1511718.d.html</link>
             <guid>2271808</guid>
             <pubDate>Sat, 07 Aug 2021 08:45:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大兴机场：已取消南京、扬州等15个城市飞往北京航班。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1509292.d.html</link>
-            <guid>2271795</guid>
-            <pubDate>Sat, 07 Aug 2021 08:27:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
