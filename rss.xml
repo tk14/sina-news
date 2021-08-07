@@ -4,11 +4,57 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 07 Aug 2021 06:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 07:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[广州市发布来（返）穗人员健康管理最新措施：高风险地区来（返）穗人员开展14天集中隔离，中风险地区来（返）穗人员开展14天居家隔离；建议所有外省来（返）穗人员进行一次核酸检测。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1500196.d.html</link>
+            <guid>2271739</guid>
+            <pubDate>Sat, 07 Aug 2021 07:18:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北京：健康宝“绿码”、持登机登车前48小时内核酸检测阴性证明，即可返京。（人民日报）]]></title>
+            <guid>2271735</guid>
+            <pubDate>Sat, 07 Aug 2021 07:16:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【木林森：空气氧吧产品经过两小时检测对冠状病毒杀灭率大于99.99%】 木林森在互动平台表示，根据第三方合法检测机构——广东省微生物分析检测中心出具的编号为2021FM02580R01a的分析检测报告显示，木林森（广东）健康科技有限公司的空气氧吧经过两小时的检测，对冠状病毒（HCoV-OC43）的杀灭率大于99.99%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1499583.d.html</link>
+            <guid>2271731</guid>
+            <pubDate>Sat, 07 Aug 2021 07:14:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[东莞：从即日起至8月16日，暂时关停全市酒吧、KTV、棋牌室等场所；严格控制旅游景区、美术馆等活动人数。]]></title>
+            <guid>2271716</guid>
+            <pubDate>Sat, 07 Aug 2021 06:56:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日媒：全球银行营业网点持续减少】《日本经济新闻》报道，金融服务迅速向数字化转型，银行业务模式不断发生转变。无需门店的新兴金融科技的崛起也在产生影响。国际货币基金组织以商业银行为对象收集的数据显示，在约100个国家里，近10年银行营业网点数量减少14%。在欧美国家和韩国，银行网点削减趋势逐步加快。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1496779.d.html</link>
+            <guid>2271708</guid>
+            <pubDate>Sat, 07 Aug 2021 06:51:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【华为：山西焦煤马兰矿实现5G上行突破 最大总吞吐率达2.2Gbps】据华为官网8月7日消息，近日，山西移动联合华为在山西焦煤马兰矿井下实测上行最大总吞吐率达2.2Gbps，这是全国首个开通LampSite EE上行超宽带能力的矿井，标志着5G智能煤矿迈入新的上行千兆时代。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0096634.d.html</link>
+            <guid>2271678</guid>
+            <pubDate>Sat, 07 Aug 2021 06:31:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  卡钦斯基：波兰将于9月推出新的纪律制度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1494021.d.html</link>
+            <guid>2271677</guid>
+            <pubDate>Sat, 07 Aug 2021 06:29:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  卡钦斯基：波兰将取消对法官的惩戒计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0096268.d.html</link>
+            <guid>2271676</guid>
+            <pubDate>Sat, 07 Aug 2021 06:29:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【河南发布大风黄色预警：预计开封、商丘等地将出现8级以上雷暴大风】据中国天气网消息，河南省气象台2021年8月7日13时50分发布大风黄色预警：预计未来12小时，开封、商丘、许昌三地区和新乡、郑州两地区东部及周口地区北部部分地区将出现8级以上雷暴大风，局地阵风10级左右。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0093461.d.html</link>
@@ -244,29 +290,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0029025.d.html</link>
             <guid>2270699</guid>
             <pubDate>Sat, 07 Aug 2021 00:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北京：凡有病例发生地（市）全域来（返）京人员自觉接受健康管理。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1425149.d.html</link>
-            <guid>2270685</guid>
-            <pubDate>Sat, 07 Aug 2021 00:03:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国汽车流通协会：芯片问题缓解市场需求将逐渐释放】中国汽车流通协会日前发布最新一期“汽车消费指数”。数据显示，7月我国汽车消费指数为59.6，较上月有所上升，但与今年前几个月相比出现下降。中国汽车流通协会表示，随着芯片问题得到缓解，厂家产能逐渐恢复，各品牌主流车型的供给开始恢复，之前压抑的市场需求将会逐渐得到释放，预计8月汽车销量有所增长，销量较7月上升。]]></title>
-            <guid>2270677</guid>
-            <pubDate>Fri, 06 Aug 2021 23:53:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【去年中国数字经济规模近5.4万亿美元，居全球第二位】2021全球数字经济大会日前在北京开幕。会上发布数据显示，2020年中国数字经济规模近5.4万亿美元，居全球第二位；同比增长9.6%，增速为全球第一。近年来，数字经济在中国呈迅猛发展态势，并成为中国经济高质量发展新引擎、深化供给侧结构性改革的主要抓手和增强经济发展韧性的主要动力。（人民日报海外版）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1421380.d.html</link>
-            <guid>2270672</guid>
-            <pubDate>Fri, 06 Aug 2021 23:35:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今天《人民日报》头版的主要内容有：1、坚决去，主动调，加快转，河北在绿色转型中迈向高质量发展（“十四五”，我们这样开局起步）；2、加大扶持力度，创新发展模式，贵州夯实乡村振兴产业基础；3、西藏林周县——产业兴旺 致富路宽（重走天路看变迁）；4、女子标枪项目首获奥运金牌，乒乓球男团四连冠，中国体育代表团已获三十六枚金牌（奥运速递）；5、国内首座跨海高铁桥主桥合龙；6、科学溯源不容政治黑手——全球抗疫必须肃清“政治病毒”③。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1420186.d.html</link>
-            <guid>2270670</guid>
-            <pubDate>Fri, 06 Aug 2021 23:25:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
