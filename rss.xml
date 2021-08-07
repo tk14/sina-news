@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 07 Aug 2021 02:01:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 02:34:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【国调基金二期即将落地 总规模不低于1000亿元 】中国国有企业结构调整基金（下称国调基金）二期即将运营，该基金规模将超过1000亿元，由中国诚通控股集团有限公司和多家央企、地方国资机构共同发起，拟设立多支平行基金。该基金拟设立多支平行基金，首支落地无锡，注册资金737.5亿元，主要布局长三角地区先进制造等产业。据了解，国调基金二期后续计划筹备京津冀地区基金。 (财新)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1448824.d.html</link>
+            <guid>2270904</guid>
+            <pubDate>Sat, 07 Aug 2021 02:11:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北京：婚登机构、殡葬机构采取预约限流错峰措施。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1447680.d.html</link>
+            <guid>2270896</guid>
+            <pubDate>Sat, 07 Aug 2021 02:06:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[富达基金获批设立，成为国内第二家获批的外资独资公募，标志着中国资本市场对外开放仍在稳步推进。据悉，路博迈、范达、联博、施罗德等多家外资机构也正在排队申请公募基金牌照。（券商中国）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0047196.d.html</link>
@@ -155,41 +167,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0008302.d.html</link>
             <guid>2270620</guid>
             <pubDate>Fri, 06 Aug 2021 20:00:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：08月07日03时22分在南桑威奇群岛地区（南纬59.60度，西经26.00度）发生5.8级地震，震源深度30千米。]]></title>
-            <guid>2270618</guid>
-            <pubDate>Fri, 06 Aug 2021 19:55:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国总统拜登将对学生贷款的支付暂停延长至1月份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0007508.d.html</link>
-            <guid>2270615</guid>
-            <pubDate>Fri, 06 Aug 2021 19:46:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[交易平台币安（Binance）美国CEO Brian Brooks在推特上表示他已经辞任CEO。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1405077.d.html</link>
-            <guid>2270614</guid>
-            <pubDate>Fri, 06 Aug 2021 19:46:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：投资者最近一周对美元的净多头押注减少。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0007211.d.html</link>
-            <guid>2270613</guid>
-            <pubDate>Fri, 06 Aug 2021 19:38:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：南桑威奇群岛发生5.9级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1404542.d.html</link>
-            <guid>2270611</guid>
-            <pubDate>Fri, 06 Aug 2021 19:34:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国证券交易委员会批准纳斯达克提高公司董事会多元化的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1403855.d.html</link>
-            <guid>2270609</guid>
-            <pubDate>Fri, 06 Aug 2021 19:20:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
