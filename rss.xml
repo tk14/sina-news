@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 07 Aug 2021 13:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 14:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【社保、QFII、险资二季度加仓标的曝光，新进牛股大涨228%】 截至8月6日晚，已有287家A股公司披露半年报，社保基金、QFII、保险公司等机构的持股情况逐渐浮出水面。百亚股份、锦浪科技、新亚强、诺德股份、永兴材料、艾德生物、信维通信等多家公司被两家机构联合增持。机构看重的标的，赚钱效应突出。其中，截至8月7日，锦浪科技二季度以来累计上涨227.59%%，诺德股份的同期涨幅为156.46%，永兴材料上涨100.76%。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0146488.d.html</link>
+            <guid>2272180</guid>
+            <pubDate>Sat, 07 Aug 2021 13:54:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新世界中国行政总裁：投资内地已超过5000亿元 将深耕核心城市】新世界发展执行董事、新世界中国董事黄少媚表示，迄今为止，我们在内地的投资额已经超过了5000亿元。过去我们的战线拉得比较长，当时在全国不同城市都有投资或项目，在北京也做了崇文门的旧城改造。但一方面，过去房地产那种急速发展的模式是不可持续的；另一方面，港资房企的优势是追求质的发展，而不是拼数量和规模。所以，新世界中国已经走出一条自己的路来：要深耕一二线核心城市，做城市地标。(国是直通车)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0146296.d.html</link>
+            <guid>2272179</guid>
+            <pubDate>Sat, 07 Aug 2021 13:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【荣芯16.66亿元拍得德淮半导体，比亚迪半导体未出价】 据京东破产拍卖平台信息，荣芯半导体8月7日成功以 16.66 亿元人民币拍得半导体制造企业德淮半导体有限公司整体资产。据悉，参与竞拍的买方中，除荣芯外，还包括近期 IPO 申请已获受理，计划登陆创业板的比亚迪半导体。比亚迪半导体证实，“公司报名，但未实际参与竞拍。”此次被拍卖的德淮，原计划建成一座12英寸年产24万片晶圆的CMOS（一种图像传感器，广泛应用于手机、安防和汽车行业）半导体制造工厂，但至今并未正式量产。被拍卖资产包括办公楼、变电站、动力中心等18项建筑、17.13万平方米工业用地、62套设备及多台车辆，不包括芯片成品和芯片原材料。所有资产评估价为23.8亿元，起拍价为16.66亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1544036.d.html</link>
+            <guid>2272178</guid>
+            <pubDate>Sat, 07 Aug 2021 13:44:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[重庆疾控：北京市部分地区来渝返渝人员，需及时开展健康排查。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1542918.d.html</link>
+            <guid>2272177</guid>
+            <pubDate>Sat, 07 Aug 2021 13:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【微信视频号升级青少年模式】北京市海淀区人民检察院接群众举报对微信青少年模式调查并发出公告后，微信今日发布消息称已第一时间向检察机关及监管部门作了专项汇报，并切实了解到视频号“青少年模式”在时间管理、权限管理等功能上需要优化。微信宣布8月7日公司已成立“视频号青少年模式优化小组”，将全力落实相关法律法规。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1542886.d.html</link>
+            <guid>2272176</guid>
+            <pubDate>Sat, 07 Aug 2021 13:31:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[摩根大通全球市场策略师Mike Bell：鉴于债券收益率将走高，预计价值股，尤其是金融股将跑赢大盘。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0142810.d.html</link>
@@ -267,29 +297,6 @@
             <title><![CDATA[【衢州市区购房非户籍家庭限购1套，增值税免征年限增至5年】浙江省衢州市房地产市场持续健康发展协调小组办公室发布了《关于进一步促进市区房地产市场平稳健康发展的通知》，暂停向在市区范围内拥有1套及以上住房的非该市户籍家庭出售新建商品住房和二手住房；对非该市户籍无房家庭，需在该市范围内连续缴纳城镇社保或个人所得税满12个月，可在市区范围内购买1套新建商品住房或二手住房。在衢州市区范围内购买144平方米及以上的新建商品住房，自《商品房买卖合同》网签备案之日起5年内不得转让。在衢州市区范围内，个人住房转让增值税免征年限由2年调整为5年。(同花顺)]]></title>
             <guid>2271648</guid>
             <pubDate>Sat, 07 Aug 2021 06:06:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山东已培育35家省级特色产业集群】 近日从山东省工信厅获悉，截至目前，山东省已培育两批共35家省级特色产业集群，集聚企业3.86万家，形成支撑全省经济发展的强大动力。（新华社）]]></title>
-            <guid>2271644</guid>
-            <pubDate>Sat, 07 Aug 2021 06:03:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【湖南省副省长陈飞一行到三一集团调研】三一集团消息，8月5日，湖南省人民政府副省长陈飞一行来到三一集团进行调研，先后考察了三一智联重卡和工程机械扩产项目及三一道依茨发动机生产线，了解工程机械产业有关情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1486556.d.html</link>
-            <guid>2271632</guid>
-            <pubDate>Sat, 07 Aug 2021 05:37:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  政府数据显示，印度8月7日新增确诊病例38628人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1484374.d.html</link>
-            <guid>2271631</guid>
-            <pubDate>Sat, 07 Aug 2021 05:21:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳中止第二批集中地块供应】 2021年是“双集中”供地开启的元年。继5月深圳进行了今年首批集中供地土拍后，深圳交易集团有限公司在7月9日发布本年度第二批次住宅用地集中出让公告，公开挂牌出让22宗住宅用地，总土地面积约83.38公顷。不过，深圳公共资源交易中心在8月6日发布的公告显示，为稳妥推进深圳第二批次居住用地集中挂牌交易组织工作，经研究决定，现中止上述宗地的挂牌出让工作，具体出让时间另行公告。截至8月6日24时，已交纳的竞买（投标）保证金，深圳土地矿业权交易平台将原路退回。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0085002.d.html</link>
-            <guid>2271617</guid>
-            <pubDate>Sat, 07 Aug 2021 05:11:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
