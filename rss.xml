@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 07 Aug 2021 03:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 04:29:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国男篮夺得东京奥运会冠军】刚刚结束的东京奥运会男子篮球决赛中，美国男篮以87：82击败法国男篮成功卫冕的同时，取得该项目的四连冠。此役，球星杜兰特砍下29分，成为球队夺冠的最大功臣。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1475712.d.html</link>
+            <guid>2271581</guid>
+            <pubDate>Sat, 07 Aug 2021 04:29:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深圳金融业两年平均增速7.8%，居国内主要金融城市首位】 今年以来深圳金融业保持稳中向好、稳中加固的态势，助力经济高质量发展。初步统计，1-6月金融业实现增加值2247.85亿元，同比增长6.6%，两年平均增速7.8%，居国内主要金融城市首位。据了解，金融业增加值占全市GDP的15.8%。在今年3月最新一期“全球金融中心指数”（GFCI29）中，深圳位列全球第八名。（深圳发布）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0077084.d.html</link>
+            <guid>2271575</guid>
+            <pubDate>Sat, 07 Aug 2021 04:24:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【山东已培育35家省级特色产业集群】记者近日从山东省工信厅获悉，截至目前，山东省已培育两批共35家省级特色产业集群，集聚企业3.86万家，形成支撑全省经济发展的强大动力。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1472553.d.html</link>
+            <guid>2271476</guid>
+            <pubDate>Sat, 07 Aug 2021 04:10:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【衢州市区购房非户籍家庭限购1套 增值税免征年限增至5年】8月7日，浙江省衢州市房地产市场持续健康发展协调小组办公室发布了《关于进一步促进市区房地产市场平稳健康发展的通知》，暂停向在市区范围内拥有1套及以上住房的非该市户籍家庭出售新建商品住房和二手住房；在衢州市区范围内购买144平方米及以上的新建商品住房，自《商品房买卖合同》网签备案之日起5年内不得转让。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0071952.d.html</link>
+            <guid>2271404</guid>
+            <pubDate>Sat, 07 Aug 2021 03:55:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[江苏扬州7日上午9时启动主城区第四轮大规模核酸检测。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1467737.d.html</link>
+            <guid>2271341</guid>
+            <pubDate>Sat, 07 Aug 2021 03:44:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【江苏扬州主城区第三轮全员核酸检测已筛查出阳性感染者13人】 扬州市卫健委副主任王劲松通报：截至8月7日上午7时，扬州市主城区第三轮全员核酸检测累计采样151.97万人，完成检测151.7万人，共筛查出阳性感染者13人。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1467596.d.html</link>
+            <guid>2271337</guid>
+            <pubDate>Sat, 07 Aug 2021 03:44:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【林书豪核酸检测阳性，刚从美国旧金山飞抵上海】8月7日，北京首钢篮球队球员林书豪通过个人微博表示，在从旧金山飞抵上海隔离的第三天，他的核酸检测成为阳性。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0065620.d.html</link>
