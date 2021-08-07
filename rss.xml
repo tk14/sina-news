@@ -4,7 +4,7 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 07 Aug 2021 18:28:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 19:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -270,18 +270,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0109059.d.html</link>
             <guid>2271781</guid>
             <pubDate>Sat, 07 Aug 2021 08:11:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【三部门：平台不得制定损害外卖骑手等劳动者安全健康考核指标】近日，应急管理部、公安部、人力资源和社会保障部相关司局联合召开重点平台经济企业安全生产和劳动权益保障宣贯会议。会议要求各平台经济企业牢固树立安全生产“红线”意识和底线思维，加强安全生产警示教育和配送运输工具合规性检查，引导安全文明配送。要重视劳动者身心健康，优化平台算法，不得制定损害劳动者安全健康的考核指标，有效防范化解新就业形态安全风险，维护外卖骑手等劳动者生命安全和劳动权益，不断提升人民群众幸福感、安全感。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1505131.d.html</link>
-            <guid>2271768</guid>
-            <pubDate>Sat, 07 Aug 2021 07:58:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波音737 MAX飞抵上海浦东 接受中国民航局复飞验证】8月7日，一架波音官方的737 MAX 7飞抵上海浦东国际机场。据悉这架737 MAX来华是为通过中国民航局审定试飞，为已在中国停飞近2年半的该机型复飞做努力。 （北京商报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0106851.d.html</link>
-            <guid>2271767</guid>
-            <pubDate>Sat, 07 Aug 2021 07:55:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
