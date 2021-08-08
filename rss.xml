@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 08 Aug 2021 17:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 18:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【四川再次进入暴雨模式 10余万人受灾】8月7日—8日，四川东部和南部地区出现大到暴雨，部分地区大暴雨。截至8日13时，已造成泸州、绵阳、南充、达州、巴中、甘孜6市（州）12.16万人受灾，倒塌房屋45间，严损房屋118间；直接经济损失2.5亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqcfncc1716705.d.html</link>
+            <guid>2272933</guid>
+            <pubDate>Sun, 08 Aug 2021 18:18:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：特斯拉公司要求在内华达州的电池工厂里执行口罩佩戴要求。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqciyzm0316065.d.html</link>
+            <guid>2272929</guid>
+            <pubDate>Sun, 08 Aug 2021 17:45:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【鸿蒙用户已超5000万】最新数据显示，截至8月6日，华为鸿蒙系统的升级用户，已经超过5000万。面对鸿蒙系统如此猛烈的发展势头，华为将此前年底达到3亿台设备升级的目标提高到了4亿台。业内人士认为，现在开发新操作系统的关键，主要是建立操作系统的生态系统。能否进入良性循环，是一个操作系统能否真正拥有市场生命力的核心因素。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1704681.d.html</link>
@@ -218,24 +230,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0268426.d.html</link>
             <guid>2272832</guid>
             <pubDate>Sun, 08 Aug 2021 09:06:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【英搏尔：北方基地项目一期投产】英搏尔公告，近日，山东英搏尔在山东省菏泽市牡丹区吴店镇工业园举行了揭牌庆典仪式、年产20万台套新能源汽车零部件一期项目投产仪式、二期产业园奠基仪式，标志着公司“建设50万套轻型电动车辆驱动系统和电源系统北方基地项目”一期项目正式投产。一期项目投产后，可实现年产能20万套轻型电动车辆驱动系统和电源系统。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0267502.d.html</link>
-            <guid>2272830</guid>
-            <pubDate>Sun, 08 Aug 2021 09:00:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【英力特：国电电力拟将英力特集团51.025%股份转让至国家能源集团】英力特公告，公司收到控股股东英力特集团通知，国电电力正在筹划与国家能源集团资产置换事宜，国电电力拟将持有英力特集团总股本的51.025%协议转让至国家能源集团。转让完成后，国电电力将不再与公司存在股权关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1665972.d.html</link>
-            <guid>2272829</guid>
-            <pubDate>Sun, 08 Aug 2021 09:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿里王帅：我现在也不知道说什么 阿里不是如此的】阿里巴巴合伙人、市场公关委员会主席王帅就阿里女员工被侵害一事，在朋友圈中称，自己也不知道说些什么，痛心疾首是一定的。同时他表示，自己存在失职行为，但“阿里不是如此的”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1664523.d.html</link>
-            <guid>2272826</guid>
-            <pubDate>Sun, 08 Aug 2021 08:47:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
