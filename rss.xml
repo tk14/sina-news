@@ -4,7 +4,7 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 08 Aug 2021 16:34:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 17:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -236,18 +236,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1664523.d.html</link>
             <guid>2272826</guid>
             <pubDate>Sun, 08 Aug 2021 08:47:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【时隔3月，韩国一养猪场再次检出非洲猪瘟感染案例】 当地时间8月8日，据韩联社等韩国媒体援引韩国卫生部门消息报道，日前在韩国江原道高城郡一处养猪场内检出非洲猪瘟感染案例。这是韩国继今年5月之后再次检出非洲猪瘟。据介绍，事发养猪场内共饲养2400多头猪，经检测该养猪场半径3公里范围内的其他养猪场并未发现感染非洲猪瘟的情况。韩国相关部门已对事发养猪场进行扑杀、消毒等作业。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1663144.d.html</link>
-            <guid>2272822</guid>
-            <pubDate>Sun, 08 Aug 2021 08:34:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【科蓝软件：上半年亏损1358.44万元 同比减亏23.38%】科蓝软件公告，上半年实现营业收入4.47亿元，同比增长21.29%，主要来源于互联网银行(含互联网核心)增长19.86%，电子渠道及大中台增长24.24%，合作运营业务增长91.73%，数据库销售增长43.59%；归属于上市公司股东的净利润为-1358.44万元。基本每股收益-0.044元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1662510.d.html</link>
-            <guid>2272819</guid>
-            <pubDate>Sun, 08 Aug 2021 08:29:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
