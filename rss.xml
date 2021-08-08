@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 08 Aug 2021 05:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 06:28:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  在刚刚结束的奥运会女子拳击中量级（69-75公斤）决赛中，中国选手李倩为中国队收获一枚银牌。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1647365.d.html</link>
+            <guid>2272767</guid>
+            <pubDate>Sun, 08 Aug 2021 06:15:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿里破冰文化低俗聊天截图流出？阿里辟谣：截图是3年前的谣言】8月8日，随着阿里女员工被侵害一事引起热议并不断发酵，微博上流传出多张“阿里 破冰文化”的低俗聊天截图。对此，新京报贝壳财经记者就此事向阿里巴巴求证，阿里巴巴回应称，“阿里 破冰文化”的截图一则2018年的谣言，当时阿里巴巴已经辟谣，图中所涉人士并非阿里巴巴员工，也非阿里巴巴内部培训。（贝壳财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1645493.d.html</link>
+            <guid>2272764</guid>
+            <pubDate>Sun, 08 Aug 2021 06:00:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【字节跳动回应“重启上市计划”传闻：此消息不实】有消息称，字节跳动已经重启其上市计划，计划在2022年年初在香港上市。随后字节跳动方面表示：此消息不实。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1636498.d.html</link>
@@ -191,18 +203,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0152656.d.html</link>
             <guid>2272211</guid>
             <pubDate>Sat, 07 Aug 2021 15:20:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内规模最大 无锡智能网联汽车开放测试道路群启用】据无锡发布消息，全国规模最大的双向170公里的智能网联汽车开放测试道路群将在无锡市多区同步启用，实现开放测试道路与权威封闭测试区（国家智能交通综合测试基地）的无缝衔接。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0151416.d.html</link>
-            <guid>2272191</guid>
-            <pubDate>Sat, 07 Aug 2021 15:01:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【重庆今晚将迎来今年最强降雨】根据预报，8月7日到9日，受西南低涡和切变线共同影响，重庆市将出现暴雨到大暴雨，局部地区特大暴雨天气过程。重庆气象部门预计本轮暴雨天气过程将是今年以来最强的一次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0149763.d.html</link>
-            <guid>2272183</guid>
-            <pubDate>Sat, 07 Aug 2021 14:37:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
