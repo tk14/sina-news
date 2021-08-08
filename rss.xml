@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 08 Aug 2021 15:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 16:34:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【鸿蒙用户已超5000万】最新数据显示，截至8月6日，华为鸿蒙系统的升级用户，已经超过5000万。面对鸿蒙系统如此猛烈的发展势头，华为将此前年底达到3亿台设备升级的目标提高到了4亿台。业内人士认为，现在开发新操作系统的关键，主要是建立操作系统的生态系统。能否进入良性循环，是一个操作系统能否真正拥有市场生命力的核心因素。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1704681.d.html</link>
+            <guid>2272916</guid>
+            <pubDate>Sun, 08 Aug 2021 15:26:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【海南将全面停止暑期校外培训机构学科类培训】近日，海南省教育厅印发通知，要求各地各校切实提升学校育人水平，持续规范校外培训机构办学行为，确保实现“双减”工作目标。根据通知，海南将全面停止暑期校外培训机构学科类培训，同时不再审批新的面向义务教育阶段学生的学科类校外培训机构。通知要求，各市县要成立“双减”工作领导小组和工作专班，按照“一县一案”制定“双减”工作方案，不折不扣落实中央和省委关于“双减”工作的部署。尤其是，海口市作为省“双减”工作试点城市，要聚焦坚决大幅压减学科类校外培训、合理利用校内外资源、强化培训收费监管等加快制定试点工作方案，开展试点工作。 (海南日报)]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1702159.d.html</link>
@@ -242,24 +248,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1662510.d.html</link>
             <guid>2272819</guid>
             <pubDate>Sun, 08 Aug 2021 08:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【雪人股份：上半年亏损2840.51万元】雪人股份披露半年度报告，上半年实现营业收入为8.2亿元，同比增长36.98%；亏损2840.51万元，上年同期亏损2865.31万元。报告期内，公司业务收入结构的变化造成毛利率下降；由于有色金属、钢材等大宗商品价格大幅上涨，公司外购原材料、零部件的价格总体涨幅11.07%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0263372.d.html</link>
-            <guid>2272816</guid>
-            <pubDate>Sun, 08 Aug 2021 08:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北京市重点站区管理委员会：出京旅客非绿码不得进站乘车。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0263334.d.html</link>
-            <guid>2272815</guid>
-            <pubDate>Sun, 08 Aug 2021 08:23:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北京：国内中高风险地区所在县（市、区、旗）当地人员暂不允许进京，待其所在县（市、区、旗）全域转为低风险地区后，适时放开。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0263249.d.html</link>
-            <guid>2272814</guid>
-            <pubDate>Sun, 08 Aug 2021 08:23:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
