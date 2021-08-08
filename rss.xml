@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 08 Aug 2021 03:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 04:29:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【厦门两街道第三轮全员核酸检测结果全部阴性】记者从厦门市卫健委获悉，8月7日，厦门市对思明区莲前、筼筜两街道开展第三次全员核酸检测。今早8时，全部样品已检验完毕，结果均为阴性。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0229913.d.html</link>
+            <guid>2272750</guid>
+            <pubDate>Sun, 08 Aug 2021 04:07:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【济南华联回应“阿里员工自述被灌酒猥亵”：涉事员工停职调查】阿里巴巴一女员工自述被领导要求陪济南华联商家喝酒，其间遭到商家和领导猥亵。该事件引发关注。阿里方面已成立调查组，济南华联超市发布声明称，就该事件华联超市会全力配合警方工作，涉嫌员工现已停职正在接受警方调查。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1624674.d.html</link>
+            <guid>2272746</guid>
+            <pubDate>Sun, 08 Aug 2021 03:45:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【今年以来新三板挂牌公司成交金额达810亿元】根据全国中小企业股份转让系统（新三板）数据，截至8月6日收盘时，今年以来新三板挂牌公司累计成交金额达810亿元。在交易方式方面，本周（8月2日至6日）新三板挂牌公司成交29.39亿元，其中精选层成交14.01亿元。在指数方面，几大指数本周运行平稳，截至8月6日收盘，三板成指报998.25点，三板做市指数报1136.32点。截至8月6日，新三板挂牌公司总计7391家。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1620633.d.html</link>
@@ -216,23 +228,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1542886.d.html</link>
             <guid>2272176</guid>
             <pubDate>Sat, 07 Aug 2021 13:31:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通全球市场策略师Mike Bell：鉴于债券收益率将走高，预计价值股，尤其是金融股将跑赢大盘。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0142810.d.html</link>
-            <guid>2272173</guid>
-            <pubDate>Sat, 07 Aug 2021 13:12:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  8月7日，伊朗外交部发言人哈提卜扎德强烈谴责七国集团（G7）外长和欧盟针对伊朗毫无根据的言论。哈提卜扎德说，伊朗一贯致力于维护波斯湾和霍尔木兹海峡的航道安全，并将其视为国家安全的一部分。]]></title>
-            <guid>2272146</guid>
-            <pubDate>Sat, 07 Aug 2021 12:59:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[8月7日，伊朗外交部发言人哈提卜扎德强烈谴责七国集团（G7）外长和欧盟针对伊朗毫无根据的言论。哈提卜扎德说，伊朗一贯致力于维护波斯湾和霍尔木兹海峡的航道安全，并将其视为国家安全的一部分。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1536906.d.html</link>
-            <guid>2272089</guid>
-            <pubDate>Sat, 07 Aug 2021 12:33:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
