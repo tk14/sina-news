@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 08 Aug 2021 18:28:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 19:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【巴基斯坦旁遮普省一客车发生爆炸事故 致9死7伤】据当地媒体8月8日报道，巴基斯坦旁遮普省古吉兰瓦拉市一辆客车发生气瓶爆炸事故，造成9名乘客死亡，另外7人被烧伤。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqciyzm0319342.d.html</link>
+            <guid>2272937</guid>
+            <pubDate>Sun, 08 Aug 2021 18:47:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【四川再次进入暴雨模式 10余万人受灾】8月7日—8日，四川东部和南部地区出现大到暴雨，部分地区大暴雨。截至8日13时，已造成泸州、绵阳、南充、达州、巴中、甘孜6市（州）12.16万人受灾，倒塌房屋45间，严损房屋118间；直接经济损失2.5亿元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqcfncc1716705.d.html</link>
@@ -224,12 +230,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0273245.d.html</link>
             <guid>2272838</guid>
             <pubDate>Sun, 08 Aug 2021 09:44:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【均胜电子：与51WORLD签署战略合作协议】均胜电子公告，与51WORLD签署《战略合作框架协议》，51WORLD将提供标准化仿真测试技术与平台，均胜智能研究院则根据整车厂商的具体要求进行适配性集成与调整，最终为整车厂商等客户提供虚拟仿真测试数据服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0268426.d.html</link>
-            <guid>2272832</guid>
-            <pubDate>Sun, 08 Aug 2021 09:06:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
