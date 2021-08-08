@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 08 Aug 2021 02:30:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 03:24:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【今年以来新三板挂牌公司成交金额达810亿元】根据全国中小企业股份转让系统（新三板）数据，截至8月6日收盘时，今年以来新三板挂牌公司累计成交金额达810亿元。在交易方式方面，本周（8月2日至6日）新三板挂牌公司成交29.39亿元，其中精选层成交14.01亿元。在指数方面，几大指数本周运行平稳，截至8月6日收盘，三板成指报998.25点，三板做市指数报1136.32点。截至8月6日，新三板挂牌公司总计7391家。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1620633.d.html</link>
+            <guid>2272743</guid>
+            <pubDate>Sun, 08 Aug 2021 03:24:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【重庆市水利局将水旱灾害防御Ⅲ级应急响应升级为Ⅱ级应急响应】从重庆市水利局获悉，8月6日发布的水旱灾害防御Ⅲ级应急响应已经升级为Ⅱ级应急响应。受本轮强降雨影响，预计7日到10日，重庆市长江、嘉陵江、乌江均将出现不同程度的涨水过程。长江沿线及以北地区部分中小河流可能出现1～7米不同程度涨水过程，个别河流可能超警。重庆市水利局已于2021年8月6日21时启动水旱灾害防御Ⅲ级应急响应。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0217391.d.html</link>
+            <guid>2272740</guid>
+            <pubDate>Sun, 08 Aug 2021 02:59:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【7月以来近200家机构关注家电板块】“现在家电龙头的性价比无疑是很高的，但可能还需要一个基本面拐点，形成更为确定性的机会。”有基金经理直言。尽管7月以来机构调研品种中，家电公司占比并不大，但在新能源等成长性板块估值愈来愈高的当下，已有近200家机构悄悄将视线投向“估值在地板上摩擦”的家电板块。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1610932.d.html</link>
+            <guid>2272736</guid>
+            <pubDate>Sun, 08 Aug 2021 02:30:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中央气象台8月8日10时继续发布暴雨黄色预警】预计，8月8日14时至9日14时，四川东北部和南部、重庆大部、贵州北部、云南东北部、湖北西部、陕西南部以及台湾岛南部等地的部分地区有大到暴雨，其中，四川东部、重庆中部和北部、贵州西北部、云南东北部等地局地有大暴雨（100～230毫米）。上述部分地区伴有短时强降水（最大小时降雨量20～60毫米，局地可超过80毫米），局地有雷暴大风等强对流天气。（中央气象台）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1610177.d.html</link>
@@ -215,24 +233,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1536906.d.html</link>
             <guid>2272089</guid>
             <pubDate>Sat, 07 Aug 2021 12:33:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[湖北省武汉市江夏区：从8月7日19时起，对纸坊、藏龙岛、庙山、大桥区域合围范围内的所有小区（自然村）实施封闭管理。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0136832.d.html</link>
-            <guid>2272033</guid>
-            <pubDate>Sat, 07 Aug 2021 12:14:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[重庆将全市防汛三级应急响提升为二级应急响应。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0134732.d.html</link>
-            <guid>2272017</guid>
-            <pubDate>Sat, 07 Aug 2021 11:52:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新赛道风头不减，外资却开始默默加仓“老白马”】 作为当前A股市场的“最强风口”，光伏、锂电池等板块频频掀起涨停潮。但最新数据显示，外资已经开始默默买入这些“老白马”。近两周，中国平安、伊利股份、泸州老窖、格力电器、五粮液等股票均获北向资金大幅加仓。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0134110.d.html</link>
-            <guid>2272009</guid>
-            <pubDate>Sat, 07 Aug 2021 11:45:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
