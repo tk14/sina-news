@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 09 Aug 2021 19:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 20:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AMC院线盘后一度涨超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0521426.d.html</link>
+            <guid>2274191</guid>
+            <pubDate>Mon, 09 Aug 2021 20:19:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMC院线2021年第二季度营收4.447亿美元，市场预期3.82亿美元，去年同期0.19亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1918791.d.html</link>
+            <guid>2274190</guid>
+            <pubDate>Mon, 09 Aug 2021 20:19:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国副总统哈里斯周一与以色列总统进行了通话。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0519952.d.html</link>
+            <guid>2274178</guid>
+            <pubDate>Mon, 09 Aug 2021 19:55:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：拉丁美洲数字银行Nubank已聘请摩根士丹利(MS.N)为美股IPO协调人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0519618.d.html</link>
+            <guid>2274177</guid>
+            <pubDate>Mon, 09 Aug 2021 19:48:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄外交部：日本政府无视二战结果 纵容本国民众无理挑衅】当地时间8月9日，俄罗斯外交部发表声明称，当天一些日本民众在俄罗斯驻日使馆附近示威是日本政府纵容的结果。声明表示，这场示威活动是借口纪念苏联对日宣战进行的一次有组织的挑衅，类似行为是在日本政府的纵容下发生的，这再次证明日本政府及部分日本政客和社会力量不愿正视历史，吸取教训。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1916774.d.html</link>
+            <guid>2274176</guid>
+            <pubDate>Mon, 09 Aug 2021 19:43:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国绿党进入选战冲刺阶段】德国绿党当地时间9日下午在下萨克森州希尔德斯海姆进行造势活动，宣布绿党进入本次大选的冲刺阶段。当天的活动现场聚集了大约850名支持者，绿党总理候选人贝尔伯克和同党领袖哈贝克同时亮相。截至9日的民调显示，绿党支持率有所下降，为17.5%，落后于目前执政的联盟党8个百分点。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0517998.d.html</link>
+            <guid>2274171</guid>
+            <pubDate>Mon, 09 Aug 2021 19:16:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[南非国家电力公司（Eskom）：Medupi发电厂爆炸导致发电机严重损坏。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1915347.d.html</link>
@@ -121,84 +157,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0508102.d.html</link>
             <guid>2274095</guid>
             <pubDate>Mon, 09 Aug 2021 16:40:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【75岁宗庆后拿下基金从业资格，亲自挂帅投资，定位PE/VC】 基金业协会网站显示，“浙江娃哈哈创业投资有限公司”已于7月在协会完成登记，知名企业家、娃哈哈创始人、75岁高龄的宗庆后7月12日取得基金从业资格，担任公司法定代表人和执行董事。值得注意的是，本次宗庆后获得基金从业资格是通过资格认定，而非通过考试。基金协会此前规定，符合条件的私募股权投资基金管理人（含创业投资基金管理人）的高级管理人员，可以向协会资格认定委员会申请认定基金从业资格，其中一条是担任过上市公司或实收资本不低于10亿元人民币的大中型企业高级管理人员，且从业12年及以上。宗庆后显然符合这一条件。娃哈哈创投并非一家新公司，公司2010年11月8日就已成立。今年4月底，公司曾变更经营范围，增加PE/VC等多项业务，7月9日正式在协会完成登记。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1905281.d.html</link>
-            <guid>2274088</guid>
-            <pubDate>Mon, 09 Aug 2021 16:34:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Verizon(VZ.N)：69%的用户使用了无限流量服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0507612.d.html</link>
-            <guid>2274087</guid>
-            <pubDate>Mon, 09 Aug 2021 16:33:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Workhorse(WKHS.O)：已在今年夏季卖出了大部分Lordstown(RIDE.O)的股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1905246.d.html</link>
-            <guid>2274086</guid>
-            <pubDate>Mon, 09 Aug 2021 16:33:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[热门中概股盘中涨幅持续扩大，贝壳涨超16%，好未来涨10%，满帮、虎牙、富途控股、金山云涨超7%，网易、拼多多涨超6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1904646.d.html</link>
-            <guid>2274084</guid>
-            <pubDate>Mon, 09 Aug 2021 16:25:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外交部表示，将停止多名英国代表进入俄罗斯的通道。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1904437.d.html</link>
-            <guid>2274083</guid>
-            <pubDate>Mon, 09 Aug 2021 16:23:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【无视诸多担忧，多头预测标普500指数将站上5000点】标普500指数2021年以来已经44次刷新纪录高位，而华尔街策略师预期明年将延续牛市行情。 虽然还是在初步阶段，明年目标位正开始靠向5000点，意味着大盘还有进一步的上行空间。标普500指数自去年3月以来已经上涨一倍。 瑞信首席美国股票策略师Jonathan Golub对明年标普500指数的目标位是5000点，预计指数从现在到明年12月将上涨13%。高盛策略师预测明年末指数达4900点，或比现在上涨10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0506361.d.html</link>
-            <guid>2274079</guid>
-            <pubDate>Mon, 09 Aug 2021 16:17:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴里克黄金(GOLD.N)：未来会进行股份回购，需要讨论何时才是合适的时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0506235.d.html</link>
-            <guid>2274078</guid>
-            <pubDate>Mon, 09 Aug 2021 16:15:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：摩根大通(JPM.N)计划在明年二月将企业银行和投行分析师薪水提高，工作第一年的分析师年薪从8.5万美元上涨至10万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1903734.d.html</link>
-            <guid>2274077</guid>
-            <pubDate>Mon, 09 Aug 2021 16:13:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据大连发布：从2021年8月10日0时起，将大连市甘井子区泉水街道A4区27号楼调整为低风险地区。至此，大连市全域均为低风险地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1903391.d.html</link>
-            <guid>2274075</guid>
-            <pubDate>Mon, 09 Aug 2021 16:09:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国租车公司Turo已非公开递交IPO申请。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1903387.d.html</link>
-            <guid>2274074</guid>
-            <pubDate>Mon, 09 Aug 2021 16:09:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据AXIOS网站：美国中央情报局（CIA）局长Burns将访问以色列和巴勒斯坦。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1902983.d.html</link>
-            <guid>2274072</guid>
-            <pubDate>Mon, 09 Aug 2021 16:03:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：亚马逊(AMZN.O)与GoPro联合向山寨厂家发起诉讼。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0505337.d.html</link>
-            <guid>2274071</guid>
-            <pubDate>Mon, 09 Aug 2021 16:03:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quantumscape涨超8%，此前披露正在测试10层电池。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqcfncc1902274.d.html</link>
-            <guid>2274070</guid>
-            <pubDate>Mon, 09 Aug 2021 15:58:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
