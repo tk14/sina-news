@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 09 Aug 2021 18:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 19:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[南非国家电力公司（Eskom）：Medupi发电厂爆炸导致发电机严重损坏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1915347.d.html</link>
+            <guid>2274169</guid>
+            <pubDate>Mon, 09 Aug 2021 19:12:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部发言人Kirby：美国将在“可行的地方”对阿富汗发动空袭。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1913839.d.html</link>
+            <guid>2274166</guid>
+            <pubDate>Mon, 09 Aug 2021 18:46:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国疾控中心将针对以色列的旅游建议提高至最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1913774.d.html</link>
+            <guid>2274165</guid>
+            <pubDate>Mon, 09 Aug 2021 18:45:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部发言人Kirby：阿富汗安全问题“没有朝着正确的方向”发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1913707.d.html</link>
+            <guid>2274163</guid>
+            <pubDate>Mon, 09 Aug 2021 18:44:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：根据相关文件显示，意大利反垄断部门将对麦当劳(MCD.N)的特许经营条款进行调查。]]></title>
+            <guid>2274155</guid>
+            <pubDate>Mon, 09 Aug 2021 18:31:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据Business Insider：富国银行(WFC.N)将为基层银行家涨薪。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0514347.d.html</link>
@@ -170,36 +199,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqcfncc1902274.d.html</link>
             <guid>2274070</guid>
             <pubDate>Mon, 09 Aug 2021 15:58:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国共和党参议员图米：将寻求对加密资产税收修正案的一致同意。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqciyzm0504125.d.html</link>
-            <guid>2274069</guid>
-            <pubDate>Mon, 09 Aug 2021 15:49:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党参议员图米：加密资产税收修正案协议不会涉及到软件开发人员和验证人员。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqcfncc1900993.d.html</link>
-            <guid>2274063</guid>
-            <pubDate>Mon, 09 Aug 2021 15:36:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党参议员图米：将很快提交加密资产税收修正案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqciyzm0503197.d.html</link>
-            <guid>2274060</guid>
-            <pubDate>Mon, 09 Aug 2021 15:35:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议员表示已就加密资产税收修正案达成了两党协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqcfncc1900849.d.html</link>
-            <guid>2274058</guid>
-            <pubDate>Mon, 09 Aug 2021 15:35:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴里克黄金：计划在阿根廷矿区周围启动12台钻机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqcfncc1900746.d.html</link>
-            <guid>2274052</guid>
-            <pubDate>Mon, 09 Aug 2021 15:32:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
