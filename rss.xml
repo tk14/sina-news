@@ -4,11 +4,64 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 09 Aug 2021 21:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 22:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【欧盟对脸书并购行为展开反垄断调查】欧盟委员会日前发表声明称，欧盟将对社交网络巨头脸书收购美国初创企业卡斯特默公司展开深入调查，以评估该交易是否违反欧盟公平竞争法规。初步调查侧重于脸书是否会滥用来自卡斯特默公司的消费者数据，使其在个性化广告中获得不公平的优势。（人民日报）]]></title>
+            <guid>2274237</guid>
+            <pubDate>Mon, 09 Aug 2021 22:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【5.7万股东盼到了！*ST盐湖10日恢复上市，首日不限涨跌幅】在被暂停上市超14个月后，“钾肥之王”、曾经的“亏损王”*ST盐湖要回来了。9日盘后，*ST盐湖发布关于公司股票恢复上市首日的提示性公告，公司股票自2021年8月10日起恢复上市，股票简称“盐湖股份”；公司股票恢复上市首日不实行价格涨跌幅限制，公司股票自恢复上市次一交易日起，日涨跌幅限制为10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0528875.d.html</link>
+            <guid>2274235</guid>
+            <pubDate>Mon, 09 Aug 2021 22:20:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【7月份CPI同比涨幅回落 PPI反弹但涨势或难持续】尽管猪肉价格持续下跌，但极端天气影响鲜菜等价格上涨，从而带动7月份CPI同比涨幅超预期。与此同时，PPI同比仍保持高位运行，但随着大宗商品保供稳价政策效果显现，未来PPI涨幅有望回落。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0528738.d.html</link>
+            <guid>2274234</guid>
+            <pubDate>Mon, 09 Aug 2021 22:18:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【陆金所上半年营收利润增长稳健 新增7亿美元股票回购】陆金所控股发布二季度财报。上半年营业总收入同比增长17.1%，净利润同比增长33.4%。其中，二季度营收148.28亿元，净利润47.29亿元。陆金所控股还宣布，此前3亿美元回购已基本完成，并将在未来12个月再回购7亿美元，累计回购10亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0528390.d.html</link>
+            <guid>2274231</guid>
+            <pubDate>Mon, 09 Aug 2021 22:15:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济日报：IPO上市，券商不能一荐了之】中国证券业协会近日发布通知，就修订《证券公司保荐业务规则》向券商公开征求意见。按照修订后的规则，可能对投资者价值判断构成重大影响的事项，如重大异常、前后重大矛盾、与保荐机构尽职调查过程中获得的信息存在重大差异的，保荐机构应当进行调查、复核，并要求证券服务机构及其签字人员发表书面意见。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0527472.d.html</link>
+            <guid>2274228</guid>
+            <pubDate>Mon, 09 Aug 2021 22:02:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济日报：“币圈”须持续“缩圈”】对虚拟货币示以铁腕，是为了帮助投资者认清炒作虚拟货币背后的高风险，坚决防范个体风险向社会领域传导。公众也应该看到，虚拟货币绝非一本万利的投资产品，要增强风险意识，树立正确的投资理念，远离相关交易炒作活动，还可以主动参与到整治中来，及时举报相关违法违规线索。只要形成整治虚拟货币炒作的强大合力，“币圈”也将持续“缩圈”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1924684.d.html</link>
+            <guid>2274224</guid>
+            <pubDate>Mon, 09 Aug 2021 21:57:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【逾八成上市银行“破净”，中期业绩或提振估值】下半年以来，仅有3家银行股价累计涨幅为正，其余全部呈现下跌态势，“破净”银行数量也持续增加。截至昨日收盘，40家上市银行中已有33家“破净”（以2020年经审计的每股净资产为准），占比逾八成。对外经济贸易大学金融学院教授贺炎林表示，上市银行上半年业绩有望延续一季报整体盈利增长、资产质量持续改善的态势。在资产质量方面，随着上市银行持续大力度确认和处置不良贷款，表内外存量不良加速出清，资产质量进一步提高，将在一定程度上反哺银行利润。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0527216.d.html</link>
+            <guid>2274222</guid>
+            <pubDate>Mon, 09 Aug 2021 21:56:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【证券日报头版评论：中国电信顺利发行消减A股不确定性疑虑】昨日，A股市场史上第五大IPO的中国电信顺利开启新股申购，这对部分忧心不确定性的投资人来说，意味着“又一只靴子落地”。过去的两周，扰动A股投资者情绪的事情似乎过于密集，以至于有极端的说法称“政策充满不确定性，离场是唯一选择”。但仔细观察便知，政策出台是按部就班，媒体报道属例行履职，部委刊文为正常发布。事实上，从政策面来看，确定性是很强的。市场的非理性下跌，与投资者的过度反应相关，当然也不排除有资金借势打压吸筹的可能。莫为浮云遮望眼。去除种种不确定性疑虑后，再来看待A股市场，支持因素就变得明朗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1924581.d.html</link>
+            <guid>2274221</guid>
+            <pubDate>Mon, 09 Aug 2021 21:54:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国方面表示，美国国务卿布林肯与沙特外长就伊朗对默瑟街号油轮的袭击进行了讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1924188.d.html</link>
+            <guid>2274220</guid>
+            <pubDate>Mon, 09 Aug 2021 21:47:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[加拿大将限制印度航班入境的制度延长至9月21日。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0524616.d.html</link>
@@ -181,42 +234,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1910210.d.html</link>
             <guid>2274138</guid>
             <pubDate>Mon, 09 Aug 2021 17:46:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯全面恢复与埃及直航】一架由俄罗斯首都莫斯科飞往埃及红海海滨城市胡尔加达的客机9日上午抵达。这是时隔近6年后首批俄罗斯游客乘直航航班抵达胡尔加达，标志着俄罗斯和埃及全面恢复直航。俄罗斯是埃及最重要的游客来源国之一。埃及航空公司首席执行官介绍说，埃及另一个海滨城市沙姆沙伊赫10日也将迎来首架俄罗斯直航航班。除莫斯科至埃及首都开罗每日一班的直航航线外，莫斯科至胡尔加达和沙姆沙伊赫的直航航线未来将分别达到每周4班和每周3班，均由埃及航空公司执飞。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1909859.d.html</link>
-            <guid>2274136</guid>
-            <pubDate>Mon, 09 Aug 2021 17:42:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国宏桥信托投资集团：将Workhorse(WKHS.O)目标价从20美元下调至18美元，维持买入评级。尽管二季度公司营收和汽车交付量均低于市场预期，目前公司已经提高产量，库存充足。另外看好新上任近两周的CEO。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0511844.d.html</link>
-            <guid>2274133</guid>
-            <pubDate>Mon, 09 Aug 2021 17:37:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  东吴证券：首予百度(09888.HK)买入评级，目标价290港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0511435.d.html</link>
-            <guid>2274127</guid>
-            <pubDate>Mon, 09 Aug 2021 17:30:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：银湖资本将设立新私募基金，筹资可能至少200亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1908963.d.html</link>
-            <guid>2274126</guid>
-            <pubDate>Mon, 09 Aug 2021 17:29:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据珠海发布：8月10日6时起，经珠澳口岸出入境人员（包括珠澳跨境货车司机）需持48小时内核酸检测阴性证明通关。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1908392.d.html</link>
-            <guid>2274118</guid>
-            <pubDate>Mon, 09 Aug 2021 17:21:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【经参：加强平台监管促进数据安全管理】目前，世界各国都把推进信息技术发展作为实现创新发展的重要手段。谁掌握了数字经济发展和数据安全的主动权，谁就站在社会经济发展的制高点。要从全局高度树立科学的数据观，促进平台经济健康发展，统筹部署、协同推进数据强国战略与制造强国、网络强国、科技强国战略。需要不断加强重要数据的安全管理，维护国家网络空间主权、安全和发展利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0510235.d.html</link>
-            <guid>2274112</guid>
-            <pubDate>Mon, 09 Aug 2021 17:11:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
