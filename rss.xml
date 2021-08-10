@@ -4,11 +4,83 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 10 Aug 2021 17:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 18:29:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：维旺迪已向潘兴广场资本出售了7.1%环球音乐股权，价值28亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqcfncc2119707.d.html</link>
+            <guid>2275192</guid>
+            <pubDate>Tue, 10 Aug 2021 18:28:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  维旺迪：潘兴广场资本创始人阿克曼本人可以在9月9日前选择额外购买2.9%环球音乐股权。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqcfncc2119689.d.html</link>
+            <guid>2275191</guid>
+            <pubDate>Tue, 10 Aug 2021 18:28:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股半导体板块普跌，美光科技放量下跌5.3%，联电跌3.3%，安森美半导体跌2.4%，英伟达跌1.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqciyzm0721308.d.html</link>
+            <guid>2275187</guid>
+            <pubDate>Tue, 10 Aug 2021 18:10:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据英国金融时报：英国金融行为监管局计划制定规则，阻止银行关闭在高街的分行，以让顾客能够方便获取现金。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqcfncc2118775.d.html</link>
+            <guid>2275186</guid>
+            <pubDate>Tue, 10 Aug 2021 18:10:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据TechCrunch：美国新锐汽车保险平台Jerry在C轮融资中获得7500万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqcfncc2117903.d.html</link>
+            <guid>2275185</guid>
+            <pubDate>Tue, 10 Aug 2021 17:56:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛：舜宇(02382.HK)7月手机镜头出货量按年负增长 维持沽售评级】高盛发表研究报告指，舜宇光学科技(02382.HK)7月份手机镜头出货量录得按月增长，但与去年同期比较仍继续下跌，跌幅达23%，低于2019年7月水平，以及2016至2020年间7月份的平均按年增长。期内手机摄像模组出货量按年升约1%，汽车镜头按年升约8%，均逊于6月份及过去五年7月平均水平。该行表示，对市场竞争加剧及公司于手机镜头的优势是否已消散等问题感到关注，并认为数据或反映产品组合调整较慢。高盛维持对舜宇的沽售评级，目标价92港元不变，比起手机镜头，高盛更看好半导体及软件商。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqciyzm0720405.d.html</link>
+            <guid>2275184</guid>
+            <pubDate>Tue, 10 Aug 2021 17:54:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  COMEX 12月黄金期货收涨0.3%，报1731.70美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqciyzm0719856.d.html</link>
+            <guid>2275182</guid>
+            <pubDate>Tue, 10 Aug 2021 17:48:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：南非制定了减少对煤炭能源依赖的时间表，预计南非能源需求在未来两个十年中上升30％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqciyzm0719808.d.html</link>
+            <guid>2275181</guid>
+            <pubDate>Tue, 10 Aug 2021 17:47:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据日经新闻：尼康相中硅谷初创公司Aeva Technologies提供的无人驾驶汽车激光雷达技术，双方构建合作伙伴关系，以期在2025年推出新产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqciyzm0719750.d.html</link>
+            <guid>2275179</guid>
+            <pubDate>Tue, 10 Aug 2021 17:46:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本青森县和北海道南部降暴雨】日本北部青森县和北海道南部10日普降暴雨。据日本媒体报道，其中青森县风间浦村24小时降水量达370毫米，该村对外交通被切断。据日本气象厅消息，受今年第9号台风“卢碧”转变的温带低气压影响，青森县和北海道南部10日普降暴雨。青森县全境24小时降水量达300毫米。北海道南部函馆24小时降水量达305毫米。此外，北海道地区风力较大，最大风速达每秒25米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqcfncc2116975.d.html</link>
+            <guid>2275178</guid>
+            <pubDate>Tue, 10 Aug 2021 17:43:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国司法小组表示，现在判断得州对谷歌的反垄断案是否应该移交北加利福尼亚州还为时过早。 =]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqcfncc2116622.d.html</link>
+            <guid>2275174</guid>
+            <pubDate>Tue, 10 Aug 2021 17:38:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【监管密集出手破除增产制约 政策组合拳力促大宗商品“保供稳价”】近日，政策密集出台促大宗商品“保供稳价”。月内“国家储备库”两度打开大门向市场低价投放铜、铝、锌，引导市场价格合理回归。同时，近期国家发改委等部门多管齐下破除煤炭增产制约，为涨价预期“降温”。分析指出，随着一系列政策调节措施的落实，供需矛盾将得到缓解，预计后续大宗商品价格将进一步回归合理区间。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqcfncc2116214.d.html</link>
+            <guid>2275173</guid>
+            <pubDate>Tue, 10 Aug 2021 17:32:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【大空头查诺斯警告：市场正进入风险阶段，最终倒霉的是散户】华尔街知名大空头查诺斯（Jim Chano）警告称，随着投机性股票市场出现更多危险信号，后期“参与游戏”的散户投资者可能最终会为此“买单”。更多散户参与进来的问题在于，这种情况似乎总是在每个周期的尾声时发生。09年股市触底时没有散户，02年网络泡沫崩溃后他们也不在，99年时他们肯定在。“在我看来，过去几个周期的问题是，一些发起人和内部人士在散户投资者买入时兑现并赚得盆满钵满。”“当我们开始投机各种不同的加密货币、有问题的币种、某人推出的第6个SPAC、第48家电动汽车充电公司上市时，在我看来，事情开始变得危险，”查诺斯说。“我们已经进入了周期的那部分。我只是认为最后一批进场的散户可能会吸取惨痛的教训。”]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqciyzm0718000.d.html</link>
@@ -313,48 +385,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc2106777.d.html</link>
             <guid>2275069</guid>
             <pubDate>Tue, 10 Aug 2021 15:27:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【医疗器械行业上半年普遍火热，有公司业绩预增超800倍】申万医疗器械板块显示，截至8月9日收盘，共有42家公司公布了上半年业绩，26家增长，14家下降，2家不确定，业绩分化较为明显。其中，体外诊断相关公司业绩普遍大涨。热景生物、透景生物、九强生物、东方生物等8家预告净利润增长上限超100%。其中，热景生物增幅最大，超过800倍。而华大基因预计上半年业绩下滑，同比下降27.34%-39.45%。 A股医疗器械行业市值前十名的公司，7家股价下跌超过10%。业内人士认为，集采背景下，以量换价的形态搅动市场格局大变。但长期来看，依然看好医疗器械板块投资价值。随着国家出台一系列政策，鼓励国产医疗器械创新发展，拥有核心研发实力、不断推出新产品进行迭代的国内企业将从中受益。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0709043.d.html</link>
-            <guid>2275065</guid>
-            <pubDate>Tue, 10 Aug 2021 15:21:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：系统性网络攻击可能带来重大风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc2105428.d.html</link>
-            <guid>2275058</guid>
-            <pubDate>Tue, 10 Aug 2021 15:10:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国碳中和(01372.HK)：作为碳中和业务的重要战略部署，本集团正式推出ToC综合交易平台－“零碳公民”平台。“零碳公民”平台为个人提供一个获得碳信用资产的独特渠道，成为协助个人管理、交易和使用碳信用资产的综合平台，为个人实现个体碳中和并成为“零碳公民”提供综合解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0707774.d.html</link>
-            <guid>2275055</guid>
-            <pubDate>Tue, 10 Aug 2021 15:08:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美银最新报告称，二季度企业财报电话会议上对通胀的讨论次数创下历史新高。分析师表示，正开始看到良好的通胀环境转变为糟糕的通胀环境，许多企业称成本通胀正在加速，尤其是在工资方面。二季度与劳动力相关的通胀讨论同比飙升117％，这表明工资压力在增加。按行业划分，通胀被提及最多的是原材料和主要商品类企业，非必需消费品和工业类企业提及的劳动力通胀最多。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0707573.d.html</link>
-            <guid>2275053</guid>
-            <pubDate>Tue, 10 Aug 2021 15:07:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  波音(BA.N)：7月航空公司取消了17架喷气机的订单，包括15架波音MAX和2架波音787。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc2104958.d.html</link>
-            <guid>2275052</guid>
-            <pubDate>Tue, 10 Aug 2021 15:06:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  波音(BA.N)：积压的飞机总数从6月底的4155架减少到7月的4141架。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0707321.d.html</link>
-            <guid>2275051</guid>
-            <pubDate>Tue, 10 Aug 2021 15:05:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  波音(BA.N)现涨1.51%，报235.8美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc2104682.d.html</link>
-            <guid>2275048</guid>
-            <pubDate>Tue, 10 Aug 2021 15:04:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
