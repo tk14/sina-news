@@ -6,6 +6,13 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 2275196,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-11/detail-ikqcfncc2120489.d.html",
+            "title": "【BitMEX将通过支付1亿美元罚款与CFTC和FinCEN和解】加密衍生品交易平台BitMEX周二宣布已与美国商品期货交易委员会（CFTC）和金融犯罪执法网络（FinCEN）就民事指控达成和解。BitMEX在一篇博客文章中宣布，BitMEX将支付1亿美元的罚款来解决这些指控，但目前尚不清楚每个机构将获得多少罚款。该文章也没有涉及美国司法部对前BitMEX首席执行官Arthur Hayes和其他高管提起的刑事指控。",
+            "date_modified": "2021-08-10T18:41:05.000Z"
+        },
+        {
             "id": 2275192,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-08-11/detail-ikqcfncc2119707.d.html",
@@ -430,20 +437,6 @@
             "url": "https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0709951.d.html",
             "title": "欧洲地中海地震中心：亚丁湾发生5.0级地震。",
             "date_modified": "2021-08-10T15:35:56.000Z"
-        },
-        {
-            "id": 2275071,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc2106958.d.html",
-            "title": "欧洲STOXX 600指数初步收涨0.33%，报472.23点。 德国DAX 30指数初步收涨0.19%，报15775.33点。 法国股指初步收涨0.18%，英国股指初步收涨0.45%，意大利股指初步收涨0.28%。",
-            "date_modified": "2021-08-10T15:30:30.000Z"
-        },
-        {
-            "id": 2275069,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc2106777.d.html",
-            "title": "德国巴伐利亚州州长：德国不会再度实施封锁。",
-            "date_modified": "2021-08-10T15:27:18.000Z"
         }
     ]
 }

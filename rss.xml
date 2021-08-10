@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 10 Aug 2021 18:29:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 19:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【BitMEX将通过支付1亿美元罚款与CFTC和FinCEN和解】加密衍生品交易平台BitMEX周二宣布已与美国商品期货交易委员会（CFTC）和金融犯罪执法网络（FinCEN）就民事指控达成和解。BitMEX在一篇博客文章中宣布，BitMEX将支付1亿美元的罚款来解决这些指控，但目前尚不清楚每个机构将获得多少罚款。该文章也没有涉及美国司法部对前BitMEX首席执行官Arthur Hayes和其他高管提起的刑事指控。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqcfncc2120489.d.html</link>
+            <guid>2275196</guid>
+            <pubDate>Tue, 10 Aug 2021 18:41:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：维旺迪已向潘兴广场资本出售了7.1%环球音乐股权，价值28亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqcfncc2119707.d.html</link>
@@ -373,18 +379,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0709951.d.html</link>
             <guid>2275074</guid>
             <pubDate>Tue, 10 Aug 2021 15:35:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数初步收涨0.33%，报472.23点。 德国DAX 30指数初步收涨0.19%，报15775.33点。 法国股指初步收涨0.18%，英国股指初步收涨0.45%，意大利股指初步收涨0.28%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc2106958.d.html</link>
-            <guid>2275071</guid>
-            <pubDate>Tue, 10 Aug 2021 15:30:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国巴伐利亚州州长：德国不会再度实施封锁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc2106777.d.html</link>
-            <guid>2275069</guid>
-            <pubDate>Tue, 10 Aug 2021 15:27:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
