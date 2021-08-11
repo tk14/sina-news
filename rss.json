@@ -6,6 +6,55 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 2276776,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2326211.d.html",
+            "title": "土耳其总统埃尔多安：可能会与塔利班领导人会晤，以促进阿富汗的和平。",
+            "date_modified": "2021-08-11T19:00:26.000Z"
+        },
+        {
+            "id": 2276773,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2325892.d.html",
+            "title": "【摩根士丹利：上调信义光能(00968.HK)目标价至19港元 评级增持】摩根士丹利发表研报，将信义光能(00968.HK)2021至2023年每股盈利预测由0.65、0.57及0.81元调整为0.6、0.54及0.82元，以反映市场价格调整。根据管理层的增长指引，该行削减今明两年销量预测，但提升2023年预测，预期太阳能市场需求强劲，长远看好公司前景，将目标价由18.3港元升至19港元。大摩指，太阳能发电业务为公司贡献较高利润，且与太阳能玻璃生产业务有协同效应，料提升产能的同时可巩固市场地位，予增持评级。",
+            "date_modified": "2021-08-11T18:53:21.000Z"
+        },
+        {
+            "id": 2276772,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm0928461.d.html",
+            "title": "投行KBW：将Coinbase(COIN.O)目标价从265美元上调至275美元，评级持平大市。",
+            "date_modified": "2021-08-11T18:52:24.000Z"
+        },
+        {
+            "id": 2276770,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2325815.d.html",
+            "title": "摩根大通：将腾讯音乐(TME.N)评级下调至中性。",
+            "date_modified": "2021-08-11T18:51:15.000Z"
+        },
+        {
+            "id": 2276769,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2325795.d.html",
+            "title": "  动视暴雪(ATVI.O)短线放量拉升，现涨3.3%。据SEC披露文件显示，本季度动视高管开始大幅买入公司股票，而上季度则总体呈卖出趋势。",
+            "date_modified": "2021-08-11T18:50:41.000Z"
+        },
+        {
+            "id": 2276767,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm0927289.d.html",
+            "title": "  美股铝板块盘中走高，多只个股相继由跌转涨，世纪铝业(CENX.N)、凯撒铝业(KALU.N)涨2%，中国铝业(ACH.N)涨1.2%，美国铝业(AA.N)涨1%。",
+            "date_modified": "2021-08-11T18:29:26.000Z"
+        },
+        {
+            "id": 2276766,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2324693.d.html",
+            "title": "  摩根大通：将贝壳(BEKE.N)评级从跑赢大市下调至中性。",
+            "date_modified": "2021-08-11T18:29:19.000Z"
+        },
+        {
             "id": 2276765,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm0927037.d.html",
@@ -235,41 +284,6 @@
             "url": "https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2316133.d.html",
             "title": "美国白宫：核心通胀趋势放缓是一个令人鼓舞的迹象。",
             "date_modified": "2021-08-11T16:30:43.000Z"
-        },
-        {
-            "id": 2276672,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2315434.d.html",
-            "title": "【美股电动汽车类股普跌，因投资者抛售成长股】电动汽车制造商以及相关股票周三明显跑输大盘，因通胀数据发布后成长类股票下挫。罗素2000成长股指数（RUO）一度下跌1.1％，标普500指数则上涨0.3％。Vital Knowledge发布报告称，投资者周二处于买入周期性股票的心态，这种情绪一直持续到周三。电动汽车生产商特斯拉、Lucid、Workhorse、Nikola、Lordstown Motors、Fisker、Faraday Future和Canoo全线下跌。电动巴士和其他商用车制造商下滑，包括Lion Electric、GreenPower和Arrival。电池制造商、充电站网络和供应商也出现回落，包括Freyr、Microvast、Hyzon、ChargePoint、Blink、Velodyne和Luminar。",
-            "date_modified": "2021-08-11T16:22:27.000Z"
-        },
-        {
-            "id": 2276670,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm0917672.d.html",
-            "title": "  周三（8月11日）欧市尾盘，TTF基准荷兰天然气期货涨4.61%，报46.500欧元/兆瓦时，创历史新高。",
-            "date_modified": "2021-08-11T16:16:40.000Z"
-        },
-        {
-            "id": 2276669,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2314914.d.html",
-            "title": "  据券商中国：软银中国资本今日声明称，有注意到相关的媒体报道，对于日本软银集团在中国的投资策略我们不予置评，软银中国资本将一如既往地致力于在中国投资优秀的高科技、高成长性企业。但这一回应随后却被删除。",
-            "date_modified": "2021-08-11T16:16:23.000Z"
-        },
-        {
-            "id": 2276668,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2314630.d.html",
-            "title": "【软银中国资本删除“暂停投资中国的决定”的回应声明】软银中国资本对于日本软银集团做的“暂停投资中国的决定”进行了回应。软银中国资本（SBCVC）称，有注意到相关的媒体报道，对于日本软银集团在中国的投资策略我们不予置评，软银中国资本将一如既往地致力于在中国投资优秀的高科技、高成长性企业。但这一回应随后却被删除。（券商中国）",
-            "date_modified": "2021-08-11T16:13:50.000Z"
-        },
-        {
-            "id": 2276666,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm0916516.d.html",
-            "title": "  市场消息：默沙东(MRK.N)与卫材在外部委员会建议下终止了Keytruda和Lenvima联合治疗胃癌的研究。",
-            "date_modified": "2021-08-11T16:04:46.000Z"
         }
     ]
 }
