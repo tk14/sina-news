@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 12 Aug 2021 16:36:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 17:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  欧盟将于9月份针对通用移动充电器提出立法建议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2523634.d.html</link>
+            <guid>2277892</guid>
+            <pubDate>Thu, 12 Aug 2021 16:44:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国基民盟主席Laschet称将于周五会见特斯拉CEO埃隆·马斯克。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1124942.d.html</link>
+            <guid>2277890</guid>
+            <pubDate>Thu, 12 Aug 2021 16:39:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：欧盟将于9月份针对通用移动充电器提出立法。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1124766.d.html</link>
+            <guid>2277888</guid>
+            <pubDate>Thu, 12 Aug 2021 16:37:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【富满电子董秘回应蓝普视讯举报：价格是市场行为 由买卖双方自己选择】针对蓝普视讯举报公司“不正当加价”事项，富满电子董秘罗琼今日晚间表示：“蓝普视讯会从多家拿货，也会从代理商拿货，我们无权干涉。市场那么多家供应商，价格（变动）是市场行为，由买卖双方自己选择。（至于被控诉事项）一切以工商、法院裁决为准，我们相信政府。”（财联社）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2522453.d.html</link>
@@ -205,95 +223,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1112770.d.html</link>
             <guid>2277812</guid>
             <pubDate>Thu, 12 Aug 2021 14:10:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多城集中供地“急刹车” 土拍规则或迎大调整】继深圳宣布中止第二批集中供地之后，多个城市加入了土拍延期行列。日前，天津发布《天津市国有建设用地使用权挂牌出让补充公告》，将第二批集中供地挂牌截止时间由8月20日调整为9月10日。临期“急刹车”背后，或将迎来土拍规则调整，各城市房地产调控的“手术刀”指向土地市场，“稳地价”真正走向“控实际地价”，继而有利于房价水平的稳定。值得注意的是，天津规定单宗住宅用地达到最高限价后，采用摇号方式确定竞得人，并对61宗地块的最高限价进行了调整，据计算，所有地块的溢价率由原来不超过50%降到了不超过15%。 (21世纪经济报道)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2509929.d.html</link>
-            <guid>2277809</guid>
-            <pubDate>Thu, 12 Aug 2021 14:02:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【TCL科技：目前下游的渠道库存还是偏紧张的状态】TCL科技在投资者关系活动记录表中称，从下游的整机库存来看，应该是受到了前期供应的影响，以及物料供应以及面板供应的影响以及物流的影响，目前我们看到下游的渠道库存还是偏紧张的状态。IT方面的库存目前应该讲整体上还是呈现相对供应比较紧张的局面，但是后续随着TV面板的供应的缓解，可能会有部分面板厂会把这部分产能转移到IT的产品上，可能对于IT产品的库存情况有一定的改善。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2509821.d.html</link>
-            <guid>2277807</guid>
-            <pubDate>Thu, 12 Aug 2021 14:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moderna盘初转涨，现涨近3%，此前一度跌近2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2509506.d.html</link>
-            <guid>2277806</guid>
-            <pubDate>Thu, 12 Aug 2021 13:58:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚马逊电动车充电合作伙伴EO Charging拟通过SPAC在美上市估值近7亿美元】英国电动汽车充电初创公司EO Charging已同意与空白支票公司第一储备可持续增长公司(FRSG.O)合并，预计将在第四季度完成交易，并以股票代码“EOC”在纳斯达克上市。两家公司周四表示，EO Charging与第一储备可持续增长公司之间的交易意味着企业总价值将达到6.75亿美元。这笔交易将为EO带来超过1.5亿美元的现金收入。EO Charging成立于2014年，总部位于英国萨福克。该公司已经在超过35个国家部署了大约5万个充电器，并为亚马逊(AMZN.O)和Uber(UBER.N)等车队运营商提供服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1111045.d.html</link>
-            <guid>2277804</guid>
-            <pubDate>Thu, 12 Aug 2021 13:53:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【荣耀X20搭载66W超级快充，120Hz 超窄边全视屏】刚刚发布的荣耀X20，具有94.4%超高屏占比，1.05mm超窄边框；120Hz智能高刷+莱茵硬件级低蓝光认证+DCI-P3电影级色域+原彩显示以及66W超级快充，6400万主摄。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2509048.d.html</link>
-            <guid>2277803</guid>
-            <pubDate>Thu, 12 Aug 2021 13:52:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫国家经济委员会主任布赖恩·迪斯：美国政府正与生产商就供应瓶颈问题进行讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1109704.d.html</link>
-            <guid>2277798</guid>
-            <pubDate>Thu, 12 Aug 2021 13:41:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美光科技(MU.O)跌近6%，此前摩根士丹利将美光科技目标价降至75美元，评级降至持股观望。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2507455.d.html</link>
-            <guid>2277797</guid>
-            <pubDate>Thu, 12 Aug 2021 13:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【水利部：8月中下旬我国多个流域可能发生超警洪水】国家防总副总指挥、水利部部长李国英今日指出，黑龙江、嫩江、松花江洪水当前仍在演进中，部分河段超警或超保，将会持续至9月。与此同时，近期我国西南、长江中下游等地局部暴雨洪水频发。预计8月中下旬，黄河中游、海河部分水系、长江上中游地区等可能发生超警洪水，台风降雨可能引发区域性暴雨洪水，防汛形势依然严峻，要高度关注雨情、水情、汛情、工情，提前落实暴雨洪水防范应对措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1109163.d.html</link>
-            <guid>2277794</guid>
-            <pubDate>Thu, 12 Aug 2021 13:37:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Desktop Metal(DM.O)涨5.54%，ExOne(XONE.O)涨超41%，Desktop Metal将以5.75亿美元现金加股票的方式收购ExOne。]]></title>
-            <guid>2277793</guid>
-            <pubDate>Thu, 12 Aug 2021 13:34:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【青岛海上溢油事故登记债权 索赔金额远超赔偿基金】距离4月底青岛海域发生的轮船相撞溢油事件已过去3个多月，其造成的环境污染和损失赔偿问题却仍困扰着当地。一位接近青岛海事法院人士称，目前青岛溢油案还在债权登记阶段，之后损失方还要提起确权诉讼，然后法院再根据损失方提供的证据对案件进行审理和判决。该案目前设立了共约5亿元左右的赔偿责任限制基金，但各方损失“特别巨大”。有灵山岛养殖户称，据他们所知，索赔额已达到50亿元左右。 (财新)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1108876.d.html</link>
-            <guid>2277791</guid>
-            <pubDate>Thu, 12 Aug 2021 13:34:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Clover Health(CLOV.O)涨近14%，第二季度同比亏转盈，营收及净利润均超出市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2506874.d.html</link>
-            <guid>2277790</guid>
-            <pubDate>Thu, 12 Aug 2021 13:33:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Blink Charging(BLNK.O)跌近10%，第二季度净亏损差于市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2506865.d.html</link>
-            <guid>2277789</guid>
-            <pubDate>Thu, 12 Aug 2021 13:33:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[荣耀Magic3 4999元起、Magic3 pro 5299元起、Magic3至尊版8999元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2506784.d.html</link>
-            <guid>2277788</guid>
-            <pubDate>Thu, 12 Aug 2021 13:32:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[百度(BIDU.O)跌3.5%，第二季度因快手的市值调整造成公允价值损失31亿元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1108688.d.html</link>
-            <guid>2277787</guid>
-            <pubDate>Thu, 12 Aug 2021 13:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蔚来汽车(NIO.N)涨0.4%，第二季度营收同比翻倍、每股亏损大幅收窄。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1108652.d.html</link>
-            <guid>2277786</guid>
-            <pubDate>Thu, 12 Aug 2021 13:31:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
