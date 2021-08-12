@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 12 Aug 2021 17:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 18:28:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【阿富汗塔利班攻占该国第三大城市赫拉特】8月13日，阿富汗塔利班发言人穆贾希德宣布，塔利班攻占了位于阿富汗西部的第三大城市赫拉特市。早前，塔利班已控制了赫拉特省几乎全部区域，并围困省会赫拉特市多日。对此，阿富汗政府方面暂未表态。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1131127.d.html</link>
+            <guid>2277921</guid>
+            <pubDate>Thu, 12 Aug 2021 17:59:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[跨链去中心化金融平台Poly Network表示，黑客们已经几乎完全归还了周二被盗的逾6亿美元加密资产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2528839.d.html</link>
+            <guid>2277920</guid>
+            <pubDate>Thu, 12 Aug 2021 17:52:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国秘书长发言人杜加里克表示，联合国希望能继续在阿富汗开展工作，但因阿国内冲突不断的背景下正在转移个别地区的员工。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2528456.d.html</link>
+            <guid>2277919</guid>
+            <pubDate>Thu, 12 Aug 2021 17:46:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：已要求美国食品药品监督管理局（FDA）加快仿制药的发放。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1129648.d.html</link>
+            <guid>2277915</guid>
+            <pubDate>Thu, 12 Aug 2021 17:38:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  欧盟将于9月份针对通用移动充电器提出立法建议。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2523634.d.html</link>
@@ -163,66 +187,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2513153.d.html</link>
             <guid>2277832</guid>
             <pubDate>Thu, 12 Aug 2021 14:35:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚马逊计划在美国企业的供应和服务上花费超过1200亿美元】2021年，亚马逊(AMZN.O)将从美国20多万家企业购买物流设备、企业办公用品、建筑、设计、工程服务等，花费超过1200亿美元。2021年亚马逊的支出同比增长了20%，而且不包括亚马逊在其门店购买和销售的任何产品。Keystone Economics的一项独立分析估计，亚马逊预计2021年在供应商方面的支出将帮助当地经济，并在多个行业为美国增加84万个就业岗位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2512919.d.html</link>
-            <guid>2277829</guid>
-            <pubDate>Thu, 12 Aug 2021 14:32:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA天然气报告：截至8月6日当周，美国天然气库存总量为27760亿立方英尺，较此前一周增加490亿立方英尺，较去年同期减少5480亿立方英尺，同比降幅16.5%，同时较5年均值低1780亿立方英尺，降幅6.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1114727.d.html</link>
-            <guid>2277828</guid>
-            <pubDate>Thu, 12 Aug 2021 14:31:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月6日当周EIA天然气库存变动: 490亿立方英尺， 预期: 480亿立方英尺， 前值: 130亿立方英尺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2512793.d.html</link>
-            <guid>2277827</guid>
-            <pubDate>Thu, 12 Aug 2021 14:30:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7月生产者价格指数（PPI）同比上升7.8%，为2010年有纪录以来最大同比涨幅，表明大宗商品成本上升和供应瓶颈仍在加剧企业通胀压力；其中涨幅的近四分之三反映了服务业1.1%的创纪录涨幅。能源和运输成本在7月份飙升幅度最大，而食品成本实际上环比下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2512745.d.html</link>
-            <guid>2277826</guid>
-            <pubDate>Thu, 12 Aug 2021 14:30:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【荣耀CEO赵明：华为出售荣耀后不再占有任何股份 荣耀与全球产业链合作】荣耀CEO赵明在接受媒体采访时称，荣耀还是做好自己的事，现在越来越多的伙伴为荣耀站台。未来荣耀持续秉持开放的态度，与全球产业链合作。华为出售荣耀之后不再占有任何股份。（中证网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1114379.d.html</link>
-            <guid>2277825</guid>
-            <pubDate>Thu, 12 Aug 2021 14:27:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[雾芯科技(RLX.N)涨超5%，雾芯科技推进金护盾行动，协助监管部门查获假冒电子烟43万余件。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2512209.d.html</link>
-            <guid>2277824</guid>
-            <pubDate>Thu, 12 Aug 2021 14:24:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“上海电费将调价，8月1日起执行”？ 官方未发布消息】近日，网传上海电费将调价，且8月1日起执行。传言中还罗列出每度电新的收费标准：“早8点至12点1.08元；12点至17点0.64元；17点至21点1.08元；21点至0点0.64元；0点至8点0.31元。”国家电网客服人员介绍，电价调整一般都会提前一个月公布，目前并没有收到电价调整的通知，网传消息不实。 (上观新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1114095.d.html</link>
-            <guid>2277822</guid>
-            <pubDate>Thu, 12 Aug 2021 14:23:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：加拿大总理特鲁多计划于8月15日开始联邦竞选活动，投票将于9月20日举行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2511934.d.html</link>
-            <guid>2277820</guid>
-            <pubDate>Thu, 12 Aug 2021 14:21:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[区块链网站Poly Network 6.1亿美元资产被黑客洗劫，尽管据报道犯罪分子归还了近半被盗资金，但这次黑客攻击事件仍位居历史上最大加密盗窃案首位。据Ciphertrace数据，2020年因黑客和盗窃造成的损失为5.16亿美元，而欺诈活动造成的损失约为14亿美元。尽管这些数额看起来很大，但与2019年相比还是有所改善，2019年加密犯罪造成了45亿美元的损失。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1113753.d.html</link>
-            <guid>2277819</guid>
-            <pubDate>Thu, 12 Aug 2021 14:20:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【创梦天地寻求在与腾讯的框架协议中增加定制开发费条款】据联交所公告，创梦天地董事会建议修订与腾讯达成的截至2023年12月31日止三个年度的游戏合作框架协议，加入腾讯集团向创梦天地支付的定制开发费的额外类别上限。根据修订的协议，在2021年，2022年和2023年，假如腾讯集团委聘创梦天地开发腾讯若干特定领域的游戏，则应付予创梦天地每年不超过2167万元的定制开发费。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1112770.d.html</link>
-            <guid>2277812</guid>
-            <pubDate>Thu, 12 Aug 2021 14:10:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
