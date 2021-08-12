@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 12 Aug 2021 18:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 19:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：08月13日02时32分在南桑威奇群岛发生7.6级地震，震源深度50千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1134987.d.html</link>
+            <guid>2277944</guid>
+            <pubDate>Thu, 12 Aug 2021 19:07:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿富汗和平进程多边会议在卡塔尔闭幕】当地时间12日，阿富汗和平进程多边会议在卡塔尔首都多哈闭幕。此次会议为期3天，来自中国、美国、联合国以及有关涉阿国际地区重要攸关方的代表在会议期间就阿富汗形势、推进阿富汗和平进程等议题交换了意见。各方在会议上呼吁停战止暴，继续推进阿富汗内部和谈。出席会议的各方代表还分别与阿富汗政府代表、阿富汗民族和解高级委员会主席阿卜杜拉，以及塔利班代表、塔利班政治委员会负责人巴拉达尔举行了会谈，敦促双方早日就根本性问题达成协议。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1134398.d.html</link>
+            <guid>2277940</guid>
+            <pubDate>Thu, 12 Aug 2021 18:56:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：南桑维奇群岛地区发生7.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2532324.d.html</link>
+            <guid>2277936</guid>
+            <pubDate>Thu, 12 Aug 2021 18:48:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【阿富汗塔利班攻占该国第三大城市赫拉特】8月13日，阿富汗塔利班发言人穆贾希德宣布，塔利班攻占了位于阿富汗西部的第三大城市赫拉特市。早前，塔利班已控制了赫拉特省几乎全部区域，并围困省会赫拉特市多日。对此，阿富汗政府方面暂未表态。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1131127.d.html</link>
@@ -157,36 +175,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2515549.d.html</link>
             <guid>2277846</guid>
             <pubDate>Thu, 12 Aug 2021 15:01:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  通用汽车（GM）北美卡车工厂将于8月16日恢复生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2514956.d.html</link>
-            <guid>2277842</guid>
-            <pubDate>Thu, 12 Aug 2021 14:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：热带风暴Linda将形成飓风。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1116473.d.html</link>
-            <guid>2277841</guid>
-            <pubDate>Thu, 12 Aug 2021 14:51:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车(GM.N)：巴西南圣卡埃塔诺工厂将从8月26日起恢复雪佛兰Tracker、雪佛兰Joy、雪佛兰Spin的单班生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2513932.d.html</link>
-            <guid>2277838</guid>
-            <pubDate>Thu, 12 Aug 2021 14:43:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：通用汽车(GM.N)将恢复所有北美全尺寸卡车工厂的生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2513262.d.html</link>
-            <guid>2277833</guid>
-            <pubDate>Thu, 12 Aug 2021 14:36:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特斯拉加强与ReSource合作 钴溯源方案年内可覆盖供应链】ReSource宣布加强与特斯拉的合作关系，共同推动对钴金属的溯源及负责任采购，预计覆盖特斯拉整个供应链的最终试点方案将在今年第四季度铺开。ReSource是在2019年由全球第二大的钴生产商洛阳铝业(03993.HK)与欧亚资源集团、嘉能可一同发起的，旨在通过区块链技术推动对钴的溯源及负责任采购，确保所有的钴从开采、加工到应用于终端产品的全过程均采用了可持续的生产方式。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2513153.d.html</link>
-            <guid>2277832</guid>
-            <pubDate>Thu, 12 Aug 2021 14:35:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
