@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 13 Aug 2021 22:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 23:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【产销两旺，上半年钢企盈利大幅增长】截至8月13日晚，A股27家钢铁类公司披露了2021年上半年业绩预告，全部预喜。5家钢铁公司发布2021年半年报，净利润均同比大幅增长（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1350954.d.html</link>
+            <guid>2278996</guid>
+            <pubDate>Fri, 13 Aug 2021 23:09:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【土耳其黑海地区洪灾遇难人数升至38人】土耳其卫生部长科贾当地时间13日证实，黑海地区的洪灾已经导致38人死亡，其中卡斯塔莫努省（Kastamonu）32人、锡诺普省（Sinop） 6人。目前相关搜救行动仍在持续。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2742595.d.html</link>
@@ -229,23 +235,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2726528.d.html</link>
             <guid>2278898</guid>
             <pubDate>Fri, 13 Aug 2021 17:01:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄罗斯卫星网：声明显示，华盛顿特区附近的美国军事基地在现场报告出现“潜在武装人员”后实行了封锁 。]]></title>
-            <guid>2278896</guid>
-            <pubDate>Fri, 13 Aug 2021 16:56:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国发言人：联合国正对喀布尔和其他地方的安全形势进行“逐小时”评估，联合国工作人员没有撤离阿富汗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1326354.d.html</link>
-            <guid>2278893</guid>
-            <pubDate>Fri, 13 Aug 2021 16:37:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音：将暂停“星际客机”（Starliner）飞船的发射窗口，将对其进行更深层的故障排查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1325867.d.html</link>
-            <guid>2278892</guid>
-            <pubDate>Fri, 13 Aug 2021 16:31:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
