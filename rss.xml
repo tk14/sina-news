@@ -4,11 +4,28 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 13 Aug 2021 16:35:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 17:25:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国至8月13日当周石油钻井总数为397口，前值为387口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2726528.d.html</link>
+            <guid>2278898</guid>
+            <pubDate>Fri, 13 Aug 2021 17:01:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯卫星网：声明显示，华盛顿特区附近的美国军事基地在现场报告出现“潜在武装人员”后实行了封锁 。]]></title>
+            <guid>2278896</guid>
+            <pubDate>Fri, 13 Aug 2021 16:56:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国发言人：联合国正对喀布尔和其他地方的安全形势进行“逐小时”评估，联合国工作人员没有撤离阿富汗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1326354.d.html</link>
+            <guid>2278893</guid>
+            <pubDate>Fri, 13 Aug 2021 16:37:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[波音：将暂停“星际客机”（Starliner）飞船的发射窗口，将对其进行更深层的故障排查。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1325867.d.html</link>
@@ -246,71 +263,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2709456.d.html</link>
             <guid>2278806</guid>
             <pubDate>Fri, 13 Aug 2021 13:48:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿富汗副总统阿姆鲁拉·萨利赫在塔利班武装分子在各省发动进攻的大背景下发表声明称，阿富汗总统加尼主持安全会议期间做决定，将采取各种手段回击塔利班。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2709277.d.html</link>
-            <guid>2278805</guid>
-            <pubDate>Fri, 13 Aug 2021 13:47:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉CEO马斯克：将于10月9日在柏林-勃兰登堡超级工厂举办集市并开放参观，勃兰登堡和柏林的居民优先参与，也对其他公众开放。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1310685.d.html</link>
-            <guid>2278803</guid>
-            <pubDate>Fri, 13 Aug 2021 13:45:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【万孚生物：公司质量体系暨产品获得IVDR CE认证】万孚生物公告，公司于近日获得由 TüV 南德意志集团签发的欧盟质量管理体系证书(IVDR)。同时，公司的糖化血红蛋白检测试剂盒(免疫荧光分析法)和 C-反应蛋白检测试剂盒(免疫荧光分析法)等产品也获得了IVDR CE证书。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1310067.d.html</link>
-            <guid>2278801</guid>
-            <pubDate>Fri, 13 Aug 2021 13:40:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【供应链问题并无缓和迹象经济学家持续上调美国通胀预期】困扰美国经济复苏的供应紧张问题几乎没有在短期之内消散的迹象，令经济承压，并可能引发通胀。彭博对经济学家进行的最新月度调查显示，预测人士们下调了今年的经济增长预期，并上调今明两年的多项通胀预期指标。ING首席国际经济学家JamesKnightley表示，持续的供应链限制和劳动力短缺不仅妨碍经济增长，还提高了企业的成本。“供不应求不仅意味着通胀走高，也意味着增长机会错失。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2708422.d.html</link>
-            <guid>2278800</guid>
-            <pubDate>Fri, 13 Aug 2021 13:40:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[热门中概股多数走跌，叮咚买菜跌5.74%，哔哩哔哩跌3.93%，小鹏汽车跌3.02%，贝壳跌3.26%，理想汽车跌2.79%，百度跌2.29%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2708265.d.html</link>
-            <guid>2278799</guid>
-            <pubDate>Fri, 13 Aug 2021 13:39:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【外交部副部长马朝旭会见俄罗斯驻华大使杰尼索夫】据外交部网站，今日，外交部副部长马朝旭会见俄罗斯驻华大使杰尼索夫。双方积极评价中俄新时代全面战略协作伙伴关系，以及多边领域高水平合作，一致同意进一步加强在联合国等多边机构的沟通协调，维护双方共同利益，为世界和平与发展发挥积极作用。]]></title>
-            <guid>2278797</guid>
-            <pubDate>Fri, 13 Aug 2021 13:35:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Rocket Companies(RKT.N)涨5.6%，第三季度指引好于市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1309225.d.html</link>
-            <guid>2278796</guid>
-            <pubDate>Fri, 13 Aug 2021 13:33:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Luminar(LAZR.O)跌近4%，上调2021年销售额预期，预计将在2023年推出消费者可以购买的汽车。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2707612.d.html</link>
-            <guid>2278795</guid>
-            <pubDate>Fri, 13 Aug 2021 13:33:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  XL FLEET(XL.N)跌9.58%，第二季度业绩不及市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2707574.d.html</link>
-            <guid>2278794</guid>
-            <pubDate>Fri, 13 Aug 2021 13:32:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  SOFI(SOFI.O)跌超12%，公司维持财务指引，不及市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1309124.d.html</link>
-            <guid>2278793</guid>
-            <pubDate>Fri, 13 Aug 2021 13:32:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  DoorDash(DASH.N)跌4.75%，第二季度净亏损超预期，预计第三季度新用户获取量将下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1308997.d.html</link>
-            <guid>2278792</guid>
-            <pubDate>Fri, 13 Aug 2021 13:31:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
