@@ -4,11 +4,52 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 13 Aug 2021 20:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 21:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  兰博基尼CEO Stephen Winkelmann：兰博基尼“乐于”保留在德国大众汽车集团之内，目前还无意寻求独立。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2740903.d.html</link>
+            <guid>2278981</guid>
+            <pubDate>Fri, 13 Aug 2021 21:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：汤加南部发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2740501.d.html</link>
+            <guid>2278977</guid>
+            <pubDate>Fri, 13 Aug 2021 21:09:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  苹果公司（AAPL）在Optis专利复审中被责令支付3亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2740260.d.html</link>
+            <guid>2278975</guid>
+            <pubDate>Fri, 13 Aug 2021 21:04:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：确认土耳其评级为“BB-”；前景展望稳定。]]></title>
+            <guid>2278973</guid>
+            <pubDate>Fri, 13 Aug 2021 21:03:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：Linda已增强为大型飓风。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2739523.d.html</link>
+            <guid>2278971</guid>
+            <pubDate>Fri, 13 Aug 2021 20:47:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪：确认爱尔兰评级为A2，前景展望由稳定调整为积极。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2739238.d.html</link>
+            <guid>2278969</guid>
+            <pubDate>Fri, 13 Aug 2021 20:39:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉：预计董事会将从9名成员缩减至8名成员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1340232.d.html</link>
+            <guid>2278966</guid>
+            <pubDate>Fri, 13 Aug 2021 20:23:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【英国国防大臣：美国从阿富汗撤军是“错误”决定】英国国防大臣华莱士13日表示，美国从阿富汗撤军的决定是个“错误”，将导致阿富汗安全形势恶化，整个国际社会可能将为此承担后果。他说，根据撤军协议，英军别无选择，只能跟随美国撤离阿富汗。但如果阿富汗安全形势持续恶化，不排除英军重返阿富汗的可能。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2738429.d.html</link>
@@ -204,18 +245,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1321981.d.html</link>
             <guid>2278882</guid>
             <pubDate>Fri, 13 Aug 2021 15:45:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【湘西两地调整为低风险地区】8月14日0时起，古丈县默戎镇墨戎苗寨、吉首市峒河街道办事处五里牌社区公租房小区调整为低风险地区。（新湖南）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1321788.d.html</link>
-            <guid>2278880</guid>
-            <pubDate>Fri, 13 Aug 2021 15:42:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国十年一次的2020年人口普查结果显示，白人在美国人口中的占比首次下降至低于60%，而被认定为多元种族、西班牙裔和亚裔的人口则大幅增长，是2010-2020年期间人口增长的主要动力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1318735.d.html</link>
-            <guid>2278867</guid>
-            <pubDate>Fri, 13 Aug 2021 15:03:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
