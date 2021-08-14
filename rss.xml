@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 14 Aug 2021 21:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 22:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【巴基斯坦卡拉奇市发生手榴弹袭击 10人死亡】8月15日，据当地媒体援引警方和救援组织消息，14日巴基斯坦卡拉奇市的一辆卡车遭到手榴弹袭击，造成10人死亡，其中6名妇女、4名儿童。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2904334.d.html</link>
+            <guid>2279408</guid>
+            <pubDate>Sat, 14 Aug 2021 22:14:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拜登授权向阿富汗部署约5000名美军士兵以帮助人员撤离】美国总统拜登于当地时间8月14日通过白宫网站发表声明称，他已授权向阿富汗部署约5000名美军士兵，以确保安全撤离驻阿富汗美国人员和其他盟国人员，并帮助疏散帮助过美国的、受到特殊安全威胁的阿富汗人。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2902525.d.html</link>
+            <guid>2279405</guid>
+            <pubDate>Sat, 14 Aug 2021 21:30:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[欧洲地中海地震中心：南桑威奇群岛地区发生5.4级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1501966.d.html</link>
@@ -365,30 +377,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2844354.d.html</link>
             <guid>2279120</guid>
             <pubDate>Sat, 14 Aug 2021 09:08:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿富汗总统加尼：已经意识到阿富汗的局势，首要目标是在危机中动员力量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2843805.d.html</link>
-            <guid>2279119</guid>
-            <pubDate>Sat, 14 Aug 2021 09:04:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[38名武汉返乡人员多人失控漏管，河南驻马店正阳县多地被通报。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2843601.d.html</link>
-            <guid>2279118</guid>
-            <pubDate>Sat, 14 Aug 2021 09:02:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[8月14日下午，不少网友纷纷表示自己的支付宝崩了，贝壳财经记者致电支付宝客服，得到回应称，该情况是由于新推出的1314抢红包功能太火爆导致的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1444628.d.html</link>
-            <guid>2279117</guid>
-            <pubDate>Sat, 14 Aug 2021 08:59:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【攻下沙兰市，塔利班宣称占领第19个省会】北京时间8月14日16时许，塔利班发言人穆贾希德在社交媒体上发文称，塔利班已经攻下了阿富汗东部帕克提卡省的省会沙兰市，控制了省长办公室、警方总部以及情报中心。若此说法属实，则目前阿富汗34座省会城市中已有19个被塔利班占领。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1444428.d.html</link>
-            <guid>2279116</guid>
-            <pubDate>Sat, 14 Aug 2021 08:56:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
