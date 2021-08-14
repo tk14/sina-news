@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 14 Aug 2021 20:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 21:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：南桑威奇群岛地区发生5.4级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1501966.d.html</link>
+            <guid>2279402</guid>
+            <pubDate>Sat, 14 Aug 2021 20:40:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国政府声明：拜登总统指示国务卿布林肯在阿富汗实现政治解决方案。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1500785.d.html</link>
@@ -383,18 +389,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1444428.d.html</link>
             <guid>2279116</guid>
             <pubDate>Sat, 14 Aug 2021 08:56:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第五届中阿博览会将力促国际农业务实合作】第五届中国-阿拉伯国家博览会将于19日至22日在宁夏银川市举办。记者14日从第五届中阿博览会“大健康产业论坛”和“现代农业合作大会”新闻发布会上获悉，本届中阿博览会农业板块活动主要内容包括现代农业合作大会和绿色食品展，将以“深化农业合作、融入‘一带一路’”为主题，聚焦技术和经贸，全方位促进农业务实合作。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2842655.d.html</link>
-            <guid>2279115</guid>
-            <pubDate>Sat, 14 Aug 2021 08:54:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：热带低压Grace预计将于今日晚些时候增强为热带风暴，Grace预计将于今晚抵达安的列斯群岛。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2841072.d.html</link>
-            <guid>2279114</guid>
-            <pubDate>Sat, 14 Aug 2021 08:40:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
