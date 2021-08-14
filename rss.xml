@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 14 Aug 2021 11:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 12:35:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国海啸预警系统：阿拉斯加半岛发生的7级地震不会触发海啸预警。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2865783.d.html</link>
+            <guid>2279154</guid>
+            <pubDate>Sat, 14 Aug 2021 12:33:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其黑海地区洪灾遇难人数上升至44人】土耳其灾难和应急管理局（AFAD）当地时间8月14日发布最新声明称，黑海地区的洪灾已经导致44人死亡。当地时间10日夜间开始，土耳其黑海地区持续强降雨，引发山体滑坡和泥石流等灾害。土耳其总统埃尔多安13日视察了重灾区卡斯塔莫努省博兹库尔特镇（Bozkurt），宣布卡斯塔莫努省、锡诺普省和巴顿省为灾区，并表示政府将动用一切手段赈灾。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2865771.d.html</link>
+            <guid>2279153</guid>
+            <pubDate>Sat, 14 Aug 2021 12:33:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：08月14日19时57分在美国阿拉斯加州以南海域发生7.0级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1465924.d.html</link>
+            <guid>2279152</guid>
+            <pubDate>Sat, 14 Aug 2021 12:22:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[自然资源部海啸预警中心：2021年8月14日19时57分（北京时间），美国阿拉斯加半岛海域发生6.9级地震，震源深度为10.0千米。自然资源部海啸预警中心根据初步地震参数判断，地震可能会在震源周围引发局地海啸，但不会对我国沿岸造成影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1464738.d.html</link>
+            <guid>2279151</guid>
+            <pubDate>Sat, 14 Aug 2021 12:10:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：美国阿拉斯加州佩里维尔东南方向117千米处发生6.4级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1464121.d.html</link>
+            <guid>2279149</guid>
+            <pubDate>Sat, 14 Aug 2021 12:05:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯卫星网：消息人士称，塔利班已攻占阿富汗东部库纳尔省的省会阿萨达巴德，该城市与巴基斯坦边境接壤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1462439.d.html</link>
+            <guid>2279146</guid>
+            <pubDate>Sat, 14 Aug 2021 11:48:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带风暴Grace目前正快速地向西往背风群岛移动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1462396.d.html</link>
+            <guid>2279145</guid>
+            <pubDate>Sat, 14 Aug 2021 11:47:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美机构：刚刚过去的7月是有记录以来最热的月份】当地时间13日，美国国家海洋和大气管理局(NOAA)表示，2021年7月是全球有记录以来最炎热的月份，再度拉响气候变化危机警报。据报道，NOAA局长斯宾拉德表示，7月向来是全球年度最热月份，但今年的7月不但创下历年7月最高温纪录，也是有记录以来最炎热的月份。NOAA表示，在北半球，7月陆地的温度创下了历史新高。按大州来看，亚洲录得史上最热7月，欧洲则是史上第二热。（中新网）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2855013.d.html</link>
@@ -301,30 +343,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1394177.d.html</link>
             <guid>2279058</guid>
             <pubDate>Sat, 14 Aug 2021 03:10:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：大型飓风Linda风力有所增强。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2788209.d.html</link>
-            <guid>2279053</guid>
-            <pubDate>Sat, 14 Aug 2021 02:50:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三氯蔗糖三日涨幅接近20%】据百川盈孚消息，8月11日，三氯蔗糖市场价格大幅上涨，从之前的20.5万元/吨上涨至22.5万元/吨，单日涨幅高达9.75%。随后两天，其价格持续攀升。截至13日，三氯蔗糖市场价格在24.5万元/吨附近，三日涨幅接近20%。与此同时，安赛蜜价格也从之前的6万元/吨上涨至7万元/吨，涨幅达16.67%。华创证券分析认为，从供给端看，安赛蜜市场价格大幅上涨，主要源于原料双乙烯酮等价格上涨。三氯蔗糖的涨价则受原料DMF上涨的影响。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1389408.d.html</link>
-            <guid>2279051</guid>
-            <pubDate>Sat, 14 Aug 2021 02:47:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【随着塔利班占领主要城市 美军抵达喀布尔撤离使馆工作人员】据CNBC报道，随着塔利班攻势继续席卷阿富汗，美国海军陆战队于当地时间周五开始抵达喀布尔，以帮助撤离大使馆工作人员。预计美军每天将支援数千人的撤离，包括美国公民和阿富汗国民，料周末将结束撤离。与此同时，国务院已指示喀布尔的员工开始销毁“敏感材料”，包括带有大使馆标志或美国国旗的物品。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1385628.d.html</link>
-            <guid>2279046</guid>
-            <pubDate>Sat, 14 Aug 2021 02:28:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【监管雷霆出手：19家投资机构遭处罚，知名私募赫然在列】针对新股发行“抱团压价”行为，监管刚刚重磅出手！8月13日晚间，中国证券业协会对19家网下投资者采取自律措施，其中，对1家保险公司暂停资格一个月，对1家证券公司资管子公司、4家公募、4家私募暂停新增配售对象注册一个月，对1家证券公司资管子公司、6家公募、2家私募给予警示。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2780797.d.html</link>
-            <guid>2279042</guid>
-            <pubDate>Sat, 14 Aug 2021 02:12:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
