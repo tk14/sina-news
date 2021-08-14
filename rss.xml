@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 14 Aug 2021 16:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 17:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[海地总理宣布该国进入紧急状态，为期一个月。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1490849.d.html</link>
+            <guid>2279328</guid>
+            <pubDate>Sat, 14 Aug 2021 17:15:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿富汗官员：塔利班已占领北部城市马扎里沙里夫，安全部队向乌兹别克斯坦边境方向逃跑。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2888720.d.html</link>
+            <guid>2279319</guid>
+            <pubDate>Sat, 14 Aug 2021 17:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【青海通报柴达尔煤矿冒顶事故：该矿已于8月2日停产整顿】8月14日12时10分，青海省海北州刚察县热水地区，西海煤炭开发有限责任公司柴达尔煤矿301采区3690综采工作面发生冒顶事故。截至目前，已救出2人，其中1人遇难，1人无生命危险，尚有19人被困。据悉，该矿因存在重大安全隐患，已于8月2日被青海煤监局责令停产整顿，并暂扣了安全生产许可证，正在进行隐患排查和实施整治。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2887686.d.html</link>
+            <guid>2279309</guid>
+            <pubDate>Sat, 14 Aug 2021 16:52:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海地当局确认国内逾7级强震造成至少29人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2887309.d.html</link>
+            <guid>2279305</guid>
+            <pubDate>Sat, 14 Aug 2021 16:48:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：国家安全事务团队向拜登总统通报了阿富汗局势。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1488306.d.html</link>
+            <guid>2279301</guid>
+            <pubDate>Sat, 14 Aug 2021 16:45:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【江苏中小学今秋开学后推行“5加2”课后服务】江苏省四部门要求，今年秋学期开学后，确保全省所有义务教育学校和有需要的学生全覆盖。推行课后服务“5+2”模式，学校每周5天（周一至周五）都要开展课后服务，每天至少提供2小时的课后服务，课后服务结束时间原则上不早于当地正常下班时间。有条件的初中，周一至周五可设晚自习（一般安排2小时以内，原则上不晚于20：30结束）。课后服务必须突出育人导向，提供丰富课程，学校不得利用课后服务时间讲授新课。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1487082.d.html</link>
@@ -361,18 +391,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1435930.d.html</link>
             <guid>2279101</guid>
             <pubDate>Sat, 14 Aug 2021 07:41:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【临港新片区管委会与上海银保监局签署战略合作备忘录】8月13日，上海临港新片区管委会与上海银保监局正式签署战略合作备忘录。双方将在加强金融风险防范、加快金融资源集聚、加大金融创新力度、加强企业金融服务、加深金融科技实践等方面开展全方位合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2830835.d.html</link>
-            <guid>2279099</guid>
-            <pubDate>Sat, 14 Aug 2021 07:12:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【深圳跨境电商企业座谈会与会商家透露 支持政策或日后公布】昨日，深圳市商务局针对近期亚马逊集体封店对卖家影响情况召开了跨境电商企业座谈会。参会企业代表透露，深圳市政府对跨境电商卖家的支持政策可能将在日后公布。深圳市跨境电子商务协会统计数据显示，从5月开始，亚马逊封店导致的中国电商行业损失金额预估超过千亿元。帕拓逊、通拓、泽宝、有棵树等头部亚马逊大卖均受波及。 (21财经)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1430375.d.html</link>
-            <guid>2279098</guid>
-            <pubDate>Sat, 14 Aug 2021 06:55:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
