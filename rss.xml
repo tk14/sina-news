@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 14 Aug 2021 02:00:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 02:32:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【监管雷霆出手：19家投资机构遭处罚，知名私募赫然在列】针对新股发行“抱团压价”行为，监管刚刚重磅出手！8月13日晚间，中国证券业协会对19家网下投资者采取自律措施，其中，对1家保险公司暂停资格一个月，对1家证券公司资管子公司、4家公募、4家私募暂停新增配售对象注册一个月，对1家证券公司资管子公司、6家公募、2家私募给予警示。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2780797.d.html</link>
+            <guid>2279042</guid>
+            <pubDate>Sat, 14 Aug 2021 02:12:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【京泉华：与小米生态链公司已在智能家居领域等展开相关业务合作】京泉华(002885)在互动平台表示，公司与小米生态链公司已在智能家居领域、氮化镓技术-快充系列-电源适配器产品类展开了相关业务合作；公司车载磁性器件类产品主要应用于新能源汽车电气电控总成零部件（主要为OBC车载充电机、DC-DC/DC-AC转换器、BMS和充电器件等），针对小米公司为市场提供的新机遇，公司会积极同小米相关部门进行沟通。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1381038.d.html</link>
+            <guid>2279041</guid>
+            <pubDate>Sat, 14 Aug 2021 02:05:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【截止今年一季度 我国在线租房用户规模为8711.6万】数据显示，截止今年一季度，我国在线租房用户规模为8711.6万，较去年同期增加1044.1万，但与此同时，越来越多的租客反映，不少租房平台充斥着大量虚假房源，租房者深受其害。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2777695.d.html</link>
@@ -286,18 +298,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1337673.d.html</link>
             <guid>2278943</guid>
             <pubDate>Fri, 13 Aug 2021 19:27:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国官员：位于美国华盛顿特区的军事基地已解除封锁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1336499.d.html</link>
-            <guid>2278940</guid>
-            <pubDate>Fri, 13 Aug 2021 19:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洲际交易所ICE：上周汽油期货投机性净多头头寸减少28858手至99490手，为20周低位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1336187.d.html</link>
-            <guid>2278937</guid>
-            <pubDate>Fri, 13 Aug 2021 18:54:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
