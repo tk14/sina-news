@@ -4,11 +4,70 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 15 Aug 2021 19:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Aug 2021 20:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【匈牙利发生严重交通事故 致8死48伤】当地时间8月15日，匈牙利警方发布声明称，15日凌晨4时55分，一辆客车在前往首都布达佩斯的M7高速公路上发生严重交通事故，造成8人死亡，48人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1655464.d.html</link>
+            <guid>2279882</guid>
+            <pubDate>Sun, 15 Aug 2021 20:14:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【塔利班发言人：驻阿富汗外交机构和外籍人员将不会面临任何危险】当地时间8月15日晚，塔利班发言人扎比乌拉·穆贾希德在其社交主页发表动态，表示在塔利班部队进入喀布尔后，所有驻当地的外交机构和外籍人员都不会面临任何危险，称塔利班部队控制喀布尔之后将维持当地治安。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1654856.d.html</link>
+            <guid>2279881</guid>
+            <pubDate>Sun, 15 Aug 2021 20:03:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯驻阿富汗大使计划与塔利班代表见面】当地时间8月15日，俄罗斯驻喀布尔大使馆新闻参赞伊什琴科表示，俄罗斯驻阿富汗大使日尔诺夫计划与塔利班代表见面，讨论俄罗斯外交使团的安全问题。会议具体日期正在商议中。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1654530.d.html</link>
+            <guid>2279879</guid>
+            <pubDate>Sun, 15 Aug 2021 19:59:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿富汗塔利班宣称控制阿富汗总统府】当地时间15日夜间，阿富汗塔利班发布消息称，其已控制位于阿富汗首都喀布尔的总统府。部分塔利班武装人员在总统府对媒体表示，塔利班将对与西方国家政府和军队合作的阿富汗人实施大赦。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1653508.d.html</link>
+            <guid>2279878</guid>
+            <pubDate>Sun, 15 Aug 2021 19:36:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄媒：阿富汗总统加尼并未前往乌兹别克斯坦】当地时间15日夜间，国际文传电讯社援引乌兹别克斯坦相关消息人士的话说，乌方并未收到阿富汗方面有关接受阿富汗总统加尼所乘坐航班的申请。]]></title>
+            <guid>2279877</guid>
+            <pubDate>Sun, 15 Aug 2021 19:30:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【塔利班发言人：已控制阿富汗喀布尔11个区域】当地时间8月15日晚，塔利班发言人扎比乌拉·穆贾希德在其社交主页发表动态，表示其已控制阿富汗首都喀布尔11个区域，以及喀布尔郊区的普里查基（Pul-e-Charkhi）监狱。此外，他还表示，当天塔利班已经控制该国努尔斯坦省、代孔迪省以及帕尔万省。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3052420.d.html</link>
+            <guid>2279876</guid>
+            <pubDate>Sun, 15 Aug 2021 19:29:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据沙特通讯社：沙特正在撤离驻阿富汗的外交使团人员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1653061.d.html</link>
+            <guid>2279875</guid>
+            <pubDate>Sun, 15 Aug 2021 19:29:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国官员：国防部已授权增派1000名施斌前往喀布尔帮助人员撤离。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3052115.d.html</link>
+            <guid>2279874</guid>
+            <pubDate>Sun, 15 Aug 2021 19:21:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[塔利班发言人：塔利班已经控制阿富汗首都所有市区。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1652759.d.html</link>
+            <guid>2279873</guid>
+            <pubDate>Sun, 15 Aug 2021 19:21:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄媒：阿富汗总统加尼并未前往乌兹别克斯坦】国际文传电讯社援引乌兹别克斯坦相关消息人士的话说，乌方并未收到阿富汗方面有关接受阿富汗总统加尼所乘坐航班的申请。稍早时，《纽约时报》网站报道称，阿富汗总统加尼与夫人及两名顾问已由喀布尔飞往乌兹别克斯坦。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1652739.d.html</link>
+            <guid>2279872</guid>
+            <pubDate>Sun, 15 Aug 2021 19:20:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【俄外交部：俄罗斯与阿富汗政府和塔利班保持着联系】当地时间8月15日，俄罗斯总统阿富汗问题特别代表、俄外交部第二亚洲司司长扎米尔·卡布洛夫表示，俄罗斯不担心阿富汗的局势，因为俄罗斯与阿富汗政府和塔利班都保持着联系。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3050512.d.html</link>
@@ -396,72 +455,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1629629.d.html</link>
             <guid>2279714</guid>
             <pubDate>Sun, 15 Aug 2021 13:54:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【巴基斯坦两架航班获准飞离阿富汗喀布尔机场 机上共有499名乘客】据当地媒体报道，两架巴航航班被困在阿富汗喀布尔机场，机上共有499名乘客。目前，已获准飞往巴基斯坦首都伊斯兰堡。当地媒体援引巴航声明称，因有大量巴基斯坦人和其他国家国民希望离开喀布尔，16日还将在伊斯兰堡和喀布尔之间运营三趟航班。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1629397.d.html</link>
-            <guid>2279713</guid>
-            <pubDate>Sun, 15 Aug 2021 13:51:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【近期强降雨已致湖北141万余人受灾】据湖北省应急管理厅消息，8日以来强降雨过程已累计造成湖北141.12万人受灾。目前，湖北降雨开始明显减弱，江河湖库汛情趋稳，长江、汉江各站水位均在设防以下。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1628646.d.html</link>
-            <guid>2279702</guid>
-            <pubDate>Sun, 15 Aug 2021 13:44:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大外交部：将暂停在喀布尔的外交活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1628278.d.html</link>
-            <guid>2279701</guid>
-            <pubDate>Sun, 15 Aug 2021 13:41:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿富汗总统办公室：出于安全考虑，我们不会对阿富汗总统加尼的去向置评。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1628272.d.html</link>
-            <guid>2279698</guid>
-            <pubDate>Sun, 15 Aug 2021 13:41:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿布林肯：如果塔利班为阿富汗的恐怖分子提供庇护，美国将对塔利班实施制裁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3027489.d.html</link>
-            <guid>2279697</guid>
-            <pubDate>Sun, 15 Aug 2021 13:40:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄罗斯卫星网：总统府消息人士称，有关阿富汗总统继任者的问题将在2-3天内得到最终解决。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1628245.d.html</link>
-            <guid>2279696</guid>
-            <pubDate>Sun, 15 Aug 2021 13:40:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿布林肯：美国将在阿富汗保持核心外交存在。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3027457.d.html</link>
-            <guid>2279695</guid>
-            <pubDate>Sun, 15 Aug 2021 13:40:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄罗斯卫星网：消息人士称，有关阿富汗前内政部长贾拉里被任命为阿富汗过渡政府首脑的消息不实。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3027433.d.html</link>
-            <guid>2279694</guid>
-            <pubDate>Sun, 15 Aug 2021 13:40:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【英媒：阿富汗总统和副总统已离开喀布尔前往塔吉克斯坦】英国《每日电讯报》刚刚在推特上援引塔吉克斯坦媒体报道称，阿富汗总统加尼和副总统阿姆鲁拉·萨利赫目前已离开喀布尔，前往塔吉克斯坦，并将前往第三国。俄罗斯连塔网援引塔吉克斯坦媒体消息称，加尼在抵达塔吉克斯坦后将前往第三国，目前尚不清楚他的最终目的地。 (环球网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3026878.d.html</link>
-            <guid>2279687</guid>
-            <pubDate>Sun, 15 Aug 2021 13:34:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据英媒：阿富汗总统加尼和副总统阿姆鲁拉·萨利赫目前已离开喀布尔，前往塔吉克斯坦，并将前往第三国。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1627585.d.html</link>
-            <guid>2279682</guid>
-            <pubDate>Sun, 15 Aug 2021 13:33:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄媒：阿富汗总统加尼同意辞职】根据俄罗斯新闻社（RIA）8月15日报道，阿富汗总统加尼同意辞职。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1627208.d.html</link>
-            <guid>2279678</guid>
-            <pubDate>Sun, 15 Aug 2021 13:29:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
