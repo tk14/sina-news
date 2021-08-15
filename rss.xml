@@ -4,11 +4,52 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 15 Aug 2021 01:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Aug 2021 02:30:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国国防部长奥斯汀与加拿大国防部长通话，承诺会在阿富汗问题上密切合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1542656.d.html</link>
+            <guid>2279450</guid>
+            <pubDate>Sun, 15 Aug 2021 02:21:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Mini LED背光需求旺盛：隆达年底前产能翻倍 晶电明年目标扩产5成】8月13日，LED龙头厂富采投控召开发布会，其旗下晶电、隆达均看好Mini-LED市场前景。目前，Mini LED背光正蓬勃发展，且应用领域也不断扩大，因应需求增长，晶电明年第一季产能将增加2成，全年产能目标得成长5成，才能满足客户需求，隆达则是年底前相关产能将增加一倍。（集微网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2939213.d.html</link>
+            <guid>2279448</guid>
+            <pubDate>Sun, 15 Aug 2021 02:09:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：08月15日09时44分在新疆喀什地区叶城县（北纬37.81度，东经77.85度）发生3.1级地震，震源深度10千米。]]></title>
+            <guid>2279444</guid>
+            <pubDate>Sun, 15 Aug 2021 01:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[黎巴嫩红十字会：黎巴嫩北部阿卡地区发生油罐车爆炸事故，造成至少20人死亡，另有7名伤者已被送往当地医院。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1533802.d.html</link>
+            <guid>2279441</guid>
+            <pubDate>Sun, 15 Aug 2021 01:33:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在被问及预计月球飞船能否准备好在2024年载人月球时，特斯拉CEO埃隆·马斯克表示，“可能会更早”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2930238.d.html</link>
+            <guid>2279439</guid>
+            <pubDate>Sun, 15 Aug 2021 01:20:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【湖南8月14日新增确诊病例1例 在张家界市】据“健康微湖南”消息，2021年8月14日0--24时，湖南省报告新增新型冠状病毒肺炎确诊病例1例（张家界市）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2929709.d.html</link>
+            <guid>2279437</guid>
+            <pubDate>Sun, 15 Aug 2021 01:17:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中演协要求对张哲瀚进行从业抵制】中国演出行业协会官方微博发文称，演员张哲瀚的行为存在严重不当，不仅伤害民族感情，而且对其受众中的青少年群体带来恶劣的不良影响。因此，中国演出行业协会对演员张哲瀚参观靖国神社的不当行为进行道德申斥，并根据《演出行业演艺人员从业自律管理办法》的规定，要求会员单位对其进行从业抵制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2929390.d.html</link>
+            <guid>2279436</guid>
+            <pubDate>Sun, 15 Aug 2021 01:15:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[河南省卫健委：昨日，河南新增本土确诊病例5例（商丘市5例），本土新增无症状感染者7例（郑州市1例、商丘市6例）。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2928204.d.html</link>
@@ -347,60 +388,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1470051.d.html</link>
             <guid>2279161</guid>
             <pubDate>Sat, 14 Aug 2021 13:02:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：08月14日20时29分在海地地区发生7.3级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2867506.d.html</link>
-            <guid>2279160</guid>
-            <pubDate>Sat, 14 Aug 2021 12:51:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德媒：默尔克任总理15年即将卸任 退休金每月1.5万欧元】德新社报道称，德国总理默克尔卸任后，每月可以领取1.5万欧元（约合人民币11.5万元）的退休养老金。报道称，默克尔早前宣布不会参加今年9月的大选，这意味着她将卸任总理一职，但她没有透露自己未来的计划。根据德新社报道，默克尔自1990年起在德国联邦议会任职，并担任总理一职长达15年。默克尔将在新政府完成组阁后辞职。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2867175.d.html</link>
-            <guid>2279159</guid>
-            <pubDate>Sat, 14 Aug 2021 12:48:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：08月14日20时29分在海地地区附近发生7.6级左右地震，最终结果以正式速报为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1468334.d.html</link>
-            <guid>2279158</guid>
-            <pubDate>Sat, 14 Aug 2021 12:44:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：海地附近发生6.7级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2866166.d.html</link>
-            <guid>2279156</guid>
-            <pubDate>Sat, 14 Aug 2021 12:37:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国海啸预警系统：阿拉斯加半岛发生的7级地震不会触发海啸预警。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2865783.d.html</link>
-            <guid>2279154</guid>
-            <pubDate>Sat, 14 Aug 2021 12:33:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其黑海地区洪灾遇难人数上升至44人】土耳其灾难和应急管理局（AFAD）当地时间8月14日发布最新声明称，黑海地区的洪灾已经导致44人死亡。当地时间10日夜间开始，土耳其黑海地区持续强降雨，引发山体滑坡和泥石流等灾害。土耳其总统埃尔多安13日视察了重灾区卡斯塔莫努省博兹库尔特镇（Bozkurt），宣布卡斯塔莫努省、锡诺普省和巴顿省为灾区，并表示政府将动用一切手段赈灾。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2865771.d.html</link>
-            <guid>2279153</guid>
-            <pubDate>Sat, 14 Aug 2021 12:33:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：08月14日19时57分在美国阿拉斯加州以南海域发生7.0级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1465924.d.html</link>
-            <guid>2279152</guid>
-            <pubDate>Sat, 14 Aug 2021 12:22:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[自然资源部海啸预警中心：2021年8月14日19时57分（北京时间），美国阿拉斯加半岛海域发生6.9级地震，震源深度为10.0千米。自然资源部海啸预警中心根据初步地震参数判断，地震可能会在震源周围引发局地海啸，但不会对我国沿岸造成影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1464738.d.html</link>
-            <guid>2279151</guid>
-            <pubDate>Sat, 14 Aug 2021 12:10:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：美国阿拉斯加州佩里维尔东南方向117千米处发生6.4级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1464121.d.html</link>
-            <guid>2279149</guid>
-            <pubDate>Sat, 14 Aug 2021 12:05:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
