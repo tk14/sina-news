@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 15 Aug 2021 04:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Aug 2021 05:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【A股史上最贵新股明天上市！一签大赚30万？】A股史上最贵新股义翘神州，将于明天在创业板挂牌上市。义翘神州的上市首日表现，将成为明天市场的最大看点之一。作为A股历史上发行价最高的新股，义翘神州的发行价高达292.92元/股，若上市首日涨幅超过200%，中一签的盈利将高达30万元，有望创造新的打新盈利纪录。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1572178.d.html</link>
+            <guid>2279485</guid>
+            <pubDate>Sun, 15 Aug 2021 05:15:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴基斯坦南部发生手榴弹袭击致10死10伤】巴基斯坦警方15日说，巴南部港口城市卡拉奇14日晚发生一起手榴弹袭击事件，导致至少10人死亡、10人受伤。卡拉奇警方反恐部门负责人拉贾·哈塔卜表示，袭击事件发生时，一辆卡车载着同一家庭的20多人在道路上行驶，他们参加完婚礼在返家途中，一辆摩托车上的多名袭击者突然向这辆卡车投掷手榴弹。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1569012.d.html</link>
+            <guid>2279481</guid>
+            <pubDate>Sun, 15 Aug 2021 04:57:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【复旦研究生院回应张文宏博士学位论文被举报：已启动调查核实】复旦大学研究生院表示，已收到举报，同时也关注到网上关于张文宏博士学位论文综述部分问题的反映，学校已启动调查核实，调查结果将及时公布。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2967748.d.html</link>
+            <guid>2279480</guid>
+            <pubDate>Sun, 15 Aug 2021 04:54:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外媒：海地地震致300多人死亡后，又遭遇5.8级余震】据“今日俄罗斯”刚刚消息，海地遭遇5.8级余震，这是该国14日遭遇7.3级地震之后的最强余震。报道援引美国地质调查局称，此次余震发生在海地城市热雷米以北31公里，震源深度12公里。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1568313.d.html</link>
+            <guid>2279479</guid>
+            <pubDate>Sun, 15 Aug 2021 04:51:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据《当今大马》：马来西亚总理马希亚丁将在周一宣布辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2966985.d.html</link>
+            <guid>2279478</guid>
+            <pubDate>Sun, 15 Aug 2021 04:48:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年内已有200位基金经理离职 下半年离职加速】随着公募基金行业竞争加剧及市场持续震荡，基金经理离职潮难止。年内离任基金经理接近200位，创近六年同期新高记录。其中中小型公募人才压力更大，基金经理流失持续加速。从公告披露的基金经理离任原因来看，以“个人原因”及“个人发展原因”为主。华南一位基金公司人事部人士表示，“个人原因”通常包括“公奔公”、“公奔私”、“业绩不佳未通过考核”以及公司治理等。 (中国基金报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1566044.d.html</link>
+            <guid>2279476</guid>
+            <pubDate>Sun, 15 Aug 2021 04:35:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【阿富汗塔利班控制25座省会城市】当地时间8月15日，阿富汗塔利班发言人穆贾希德发布消息称，控制了楠格哈尔省省会贾拉拉巴德市。截至目前，塔利班已控制25个省会城市。此前一天，塔利班还发布声明称控制了帕克蒂亚、帕克提卡、库纳尔、法里亚布、巴尔赫和拉格曼6省省会。(央视新闻)]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2962963.d.html</link>
@@ -350,36 +386,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1488306.d.html</link>
             <guid>2279301</guid>
             <pubDate>Sat, 14 Aug 2021 16:45:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏中小学今秋开学后推行“5加2”课后服务】江苏省四部门要求，今年秋学期开学后，确保全省所有义务教育学校和有需要的学生全覆盖。推行课后服务“5+2”模式，学校每周5天（周一至周五）都要开展课后服务，每天至少提供2小时的课后服务，课后服务结束时间原则上不早于当地正常下班时间。有条件的初中，周一至周五可设晚自习（一般安排2小时以内，原则上不晚于20：30结束）。课后服务必须突出育人导向，提供丰富课程，学校不得利用课后服务时间讲授新课。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1487082.d.html</link>
-            <guid>2279290</guid>
-            <pubDate>Sat, 14 Aug 2021 16:31:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：海地Baraderes西北10公里处发生5.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1486318.d.html</link>
-            <guid>2279289</guid>
-            <pubDate>Sat, 14 Aug 2021 16:22:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿富汗塔利班表示已占领法里亚布省省会迈马纳】当地时间14日，阿富汗塔利班发言人穆贾希德在社交媒体上发布声明称，已占领法里亚布省省会迈马纳。据塔利班消息，这是其攻占的第21个省会城市。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1486047.d.html</link>
-            <guid>2279287</guid>
-            <pubDate>Sat, 14 Aug 2021 16:19:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国驻美国大使秦刚通过视频会见美中贸委会会长艾伦】当地时间8月13日，中国驻美国大使秦刚通过视频会见美中贸委会会长艾伦。秦刚大使充分肯定美中贸委会多年来为促进中美关系发展所做贡献，强调中美经贸合作是互利共赢的。中国对外开放的大门会越来越大。希望中美两国工商界继续加强交流合作，为双边关系良性发展注入更多正能量。艾代表美中贸委会及其会员企业欢迎秦刚大使来美履新，表示一个稳定的美中关系对两国商界至关重要，贸委会愿为此作出努力，继续推进中美友好交流、开展互利合作。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1484316.d.html</link>
-            <guid>2279284</guid>
-            <pubDate>Sat, 14 Aug 2021 15:59:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海地总理：政府将动用所有资源救灾。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1483831.d.html</link>
-            <guid>2279282</guid>
-            <pubDate>Sat, 14 Aug 2021 15:49:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
