@@ -4,11 +4,214 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 16 Aug 2021 12:59:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 13:57:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据美联社：美国军方与塔利班会面，将寻求不干涉机场。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1833392.d.html</link>
+            <guid>2280943</guid>
+            <pubDate>Mon, 16 Aug 2021 13:54:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗称日本外相将于8月22日访问德黑兰。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1833045.d.html</link>
+            <guid>2280942</guid>
+            <pubDate>Mon, 16 Aug 2021 13:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯卫星网：消息人士称，前阿富汗总统加尼正身处阿曼。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3231464.d.html</link>
+            <guid>2280941</guid>
+            <pubDate>Mon, 16 Aug 2021 13:50:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特斯拉(TSLA.O)跌幅扩大至3%，报692.1美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3231325.d.html</link>
+            <guid>2280940</guid>
+            <pubDate>Mon, 16 Aug 2021 13:48:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股抗疫概念板块集体下挫。BioNTech SE(BNTX.O)跌超9%，Moderna(MRNA.O)跌超7%，诺瓦瓦克斯医药(NVAX.O)跌6%，Inovio制药(INO.O)跌3.7%，辉瑞(PFE.N)跌1.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1832512.d.html</link>
+            <guid>2280937</guid>
+            <pubDate>Mon, 16 Aug 2021 13:47:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿富汗塔利班发言人发文强调喀布尔局势已被控制】当地时间8月16日，阿富汗塔利班发言人扎比乌拉·穆贾希德在其社交媒体发表声明，再次强调喀布尔局势已被控制。此外，声明还警告称，任何人都不得进入政府官员的家中进行抢劫、掠夺或者勒索。声明表示，制造骚乱的人将被逮捕。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3230946.d.html</link>
+            <guid>2280934</guid>
+            <pubDate>Mon, 16 Aug 2021 13:45:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【全柴动力：控股子公司燃料电池动力系统目前处于研发试制阶段 尚未经过权威认证】全柴动力公告，控股子公司质子交换膜、膜电极及燃料电池动力系统目前处于研发试制阶段，其研发技术、数据指标尚未经过第三方权威机构认证。控股子公司目前仅有一台30kW氢燃料电池搭载公交车进行示范运行。目前市场主流产品系统额定功率大于或等于50kW，公司就上述主流产品尚未进行测试、验证及试运行。控股子公司仅能自制膜电极、质子交换膜零部件，燃料电池动力系统其他零部件需从市场外购，部分核心部件的对外依赖度较高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3230785.d.html</link>
+            <guid>2280933</guid>
+            <pubDate>Mon, 16 Aug 2021 13:43:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果(AAPL.O)涨0.8%，报150.59美元，续刷历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3230716.d.html</link>
+            <guid>2280932</guid>
+            <pubDate>Mon, 16 Aug 2021 13:43:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿富汗确认不参加东京残奥会。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1831839.d.html</link>
+            <guid>2280930</guid>
+            <pubDate>Mon, 16 Aug 2021 13:40:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股区块链板块普跌。比特矿业(BTCM.N)跌7.8%，嘉楠科技(CAN.O)跌3.7%，第九城市(NCTY.O)跌3.5%，亿邦国际(EBON.O)跌2.5%。]]></title>
+            <guid>2280929</guid>
+            <pubDate>Mon, 16 Aug 2021 13:40:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特外长：阿富汗人民应当在没有干预的情况下决定其政策立场。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1831337.d.html</link>
+            <guid>2280924</guid>
+            <pubDate>Mon, 16 Aug 2021 13:37:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 随着避险需求回升，美国国债价格上涨，美国10年期国债收益率跌至1.245%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3229693.d.html</link>
+            <guid>2280921</guid>
+            <pubDate>Mon, 16 Aug 2021 13:35:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  ContextLogic (WISH.O)跌6.8%，此前遭美国银行下调评级至跑输大市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1831084.d.html</link>
+            <guid>2280920</guid>
+            <pubDate>Mon, 16 Aug 2021 13:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[生物制药公司ADMA Biologics(ADMA.O)涨超9%，其等离子体收集设施获得美国食品药品监督管理局批准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1831066.d.html</link>
+            <guid>2280919</guid>
+            <pubDate>Mon, 16 Aug 2021 13:34:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[燕麦奶公司Oatly(OTLY.O)涨5.57%，公司对全年营收预期高于市场预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3229649.d.html</link>
+            <guid>2280918</guid>
+            <pubDate>Mon, 16 Aug 2021 13:34:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据Business Insider：环球老虎基金正在洽谈扩建总部。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1830990.d.html</link>
+            <guid>2280916</guid>
+            <pubDate>Mon, 16 Aug 2021 13:34:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  小牛电动(NIU.O)涨3.2%，Q2营收同比增长46.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1830805.d.html</link>
+            <guid>2280913</guid>
+            <pubDate>Mon, 16 Aug 2021 13:32:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[搜诺斯(SONO.O)涨超9%，此前赢得与谷歌在美国国际贸易委员会的第一轮专利诉讼。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3229386.d.html</link>
+            <guid>2280912</guid>
+            <pubDate>Mon, 16 Aug 2021 13:32:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sesen Bio(SESN.O)跌超26%，此前美国食品药品监督管理局拒绝了该公司膀胱癌药物的申请。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3229373.d.html</link>
+            <guid>2280911</guid>
+            <pubDate>Mon, 16 Aug 2021 13:32:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  腾讯音乐(TME.N)跌超3%，有报道称该公司在香港上市的计划搁置。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1830722.d.html</link>
+            <guid>2280910</guid>
+            <pubDate>Mon, 16 Aug 2021 13:31:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：南印度洋发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1830699.d.html</link>
+            <guid>2280909</guid>
+            <pubDate>Mon, 16 Aug 2021 13:31:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  金融界(JRJC.O)跌超39%，该股不符合纳斯达克全球精选市场上市相关规定，面临被退市风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3229205.d.html</link>
+            <guid>2280907</guid>
+            <pubDate>Mon, 16 Aug 2021 13:30:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  田中精机：拟定增募资不超过3.5亿元，用于高端智能装备生产基地改扩建项目、新能源智能制造设备创新中心项目等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1830236.d.html</link>
+            <guid>2280905</guid>
+            <pubDate>Mon, 16 Aug 2021 13:27:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【乌兹别克斯坦国防部：阿富汗军机未经许可试图越境被乌空军击落】据俄罗斯卫星网消息，乌兹别克斯坦国防部表示，15日晚些时候在乌兹别克斯坦坠毁的阿富汗军用飞机是被乌空军击落的，原因是其未经许可试图越境。路透社此前援引乌兹别克斯坦报刊网消息称，一架阿富汗军用飞机于15日晚些时候在乌兹别克斯坦最南端的苏尔汉河州坠毁，该州毗邻阿富汗。报刊网公布了医护人员对一名身着空军制服的男子进行治疗的照片。报道还援引消息人士称，两名据称也在飞机上的阿富汗军人正在苏尔汉河州首府泰尔梅兹接受治疗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1829887.d.html</link>
+            <guid>2280904</guid>
+            <pubDate>Mon, 16 Aug 2021 13:24:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【江苏连云港：我国自主研发建造纯电动拖轮交付试运行】今日，由我国自主研发建造的纯电动拖轮“云港电拖一号”在江苏连云港交付试运行。据了解，该船具有零排放、污染小、低噪音、能耗少等性能优势。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3228244.d.html</link>
+            <guid>2280903</guid>
+            <pubDate>Mon, 16 Aug 2021 13:22:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【华为鸿蒙HarmonyOS第五批内测招募结束：荣耀9X系列、荣耀20S等内测名单公布】华为鸿蒙HarmonyOS第五批内测招募已经结束。官方还公布了华为畅享10系列、荣耀9X系列、荣耀20S、荣耀play4TPro用户内测名单，部分用户已通过审核。其中荣耀系列用户暂未收到推送，且内测版还未发布。（IT之家）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3228092.d.html</link>
+            <guid>2280902</guid>
+            <pubDate>Mon, 16 Aug 2021 13:21:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯外交部：阿富汗喀布尔机场的混乱由美国造成】当地时间8月16日，俄罗斯总统阿富汗问题特别代表、俄外交部第二亚洲司司长扎米尔·卡布洛夫在俄罗斯24套节目中表示，阿富汗首都喀布尔局势稳定，而美国派出数千名美军撤离美驻阿富汗人员，民用航班被迫停止，最终造成喀布尔机场的混乱。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1829013.d.html</link>
+            <guid>2280901</guid>
+            <pubDate>Mon, 16 Aug 2021 13:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国对约76.5万辆特斯拉汽车展开正式安全调查】美国国家公路交通安全管理局(NHTSA)周一表示，在发生一系列涉及紧急车辆的撞车事故后，他们已对特斯拉(TSLA.O)的自动驾驶系统展开正式安全调查。NHTSA表示调查涵盖了美国约76.5万辆特斯拉汽车，大多数事故发生在天黑之后，碰撞现场包括现场控制措施，例如急救车灯、照明弹、发光箭头板和路锥。近年来，NHTSA已经派出了许多专门的事故调查小组来审查特斯拉的事故。6月，NHTSA表示已派出小组审查自2016年以来发生的30起疑似开启了特斯拉自动驾驶产生的车祸，其中10人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1828902.d.html</link>
+            <guid>2280899</guid>
+            <pubDate>Mon, 16 Aug 2021 13:17:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【周鸿祎：L2到L5都是自娱自乐 建议L3改名为“高级辅助驾驶”】理想汽车(LI.O)创始人、CEO李想此前在朋友圈发文，呼吁媒体和行业机构统一自动驾驶的中文名词的标准，避免夸张的宣传造成用户使用误解。360创始人、董事长周鸿祎对此表示赞同。他认为，“人工智能不是营销话术，没有那么神奇，自动驾驶无人驾驶还有很多路要走很多坑要填，不能为了营销误导用户，李想的建议我大部分赞同，L2到L5都是行业黑话自娱自乐，应该变成普通用户可以望文生义的简单概念，但是L3=自动辅助驾驶容易混淆误解，还是L3=高级辅助驾驶比较好，你觉得叫什么比较好”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1828495.d.html</link>
+            <guid>2280898</guid>
+            <pubDate>Mon, 16 Aug 2021 13:14:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国外长马斯：德国内阁将就从阿富汗撤离国民和工作人员举行紧急会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1828166.d.html</link>
+            <guid>2280895</guid>
+            <pubDate>Mon, 16 Aug 2021 13:11:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中孚信息：拟以不超6.16亿元购买办公房产】中孚信息公告，公司拟向济南东拓置业有限公司购买其开发的位于济南市高新区经十路北侧、凤凰路西侧的部分办公房产，交易总价约为5.98亿元。(最终以实测为准，预计差异绝对值不超过3%，最终交易价格预计不超过6.16亿元)。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1827783.d.html</link>
+            <guid>2280893</guid>
+            <pubDate>Mon, 16 Aug 2021 13:09:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[大商所：生猪期货2109合约非期货公司会员和客户交割月份持仓限额为10手，个人客户交割月份持仓限额为0手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1826947.d.html</link>
+            <guid>2280890</guid>
+            <pubDate>Mon, 16 Aug 2021 13:03:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【腾讯视频回应崩溃：后台正紧急扩容，将尽快恢复正常】针对网友反映腾讯视频崩溃一事，腾讯视频微博8月16日晚间发布回应称，由于今晚用户观看热情高涨，服务器“开了小差”。目前后台正在紧急扩容，将尽快恢复正常。给大家带来的观看不便，我们深感抱歉。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1826870.d.html</link>
+            <guid>2280888</guid>
+            <pubDate>Mon, 16 Aug 2021 13:03:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  腾讯ADR(TCEHY)美股盘前跌3.7%，腾讯控股(00700.HK)今日港股收跌约3.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1826399.d.html</link>
+            <guid>2280885</guid>
+            <pubDate>Mon, 16 Aug 2021 12:59:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【中国宝安：2021年公司债券(第一期)票面利率定为7.3%】中国宝安公布2021年面向合格投资者公开发行公司债券(第一期)票面利率，2021年8月16日，发行人和主承销商在网下向合格投资者中的机构投资者进行了票面利率询价，利率询价区间为6.30%至7.30%。根据网下向合格投资者中的机构投资者询价结果，经发行人和主承销商充分协商和审慎判断，最终确定本次债券票面利率为7.3%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3225019.d.html</link>
@@ -185,281 +388,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3221025.d.html</link>
             <guid>2280843</guid>
             <pubDate>Mon, 16 Aug 2021 12:26:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：俄罗斯8月日平均用气量较8年均值高9％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3221001.d.html</link>
-            <guid>2280842</guid>
-            <pubDate>Mon, 16 Aug 2021 12:26:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔吉克斯坦方面称，载有100多名阿富汗士兵的飞机抵达塔吉克斯坦的Bokhtar机场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3220991.d.html</link>
-            <guid>2280841</guid>
-            <pubDate>Mon, 16 Aug 2021 12:26:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉(TSLA.O)从655美元涨至726美元是一个非常好的现象，上周五试图清除726美元的阻力但是收盘没能成功。TSLA必须守住697美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3220965.d.html</link>
-            <guid>2280840</guid>
-            <pubDate>Mon, 16 Aug 2021 12:26:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Craig-Hallum：将英伟达(NVDA.O)目标价上调至220美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1822067.d.html</link>
-            <guid>2280839</guid>
-            <pubDate>Mon, 16 Aug 2021 12:25:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根士丹利：将美国国际集团(AIG.N)目标价从60美元上调至62美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3220908.d.html</link>
-            <guid>2280838</guid>
-            <pubDate>Mon, 16 Aug 2021 12:25:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根士丹利：将百济神州(BGNE.O)目标价从409美元下调至407美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1822043.d.html</link>
-            <guid>2280837</guid>
-            <pubDate>Mon, 16 Aug 2021 12:25:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【招商积余：上半年净利2.48亿元 同比增长38.85%】招商积余公告，上半年实现净利润2.48亿元，同比增长38.85%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3220876.d.html</link>
-            <guid>2280836</guid>
-            <pubDate>Mon, 16 Aug 2021 12:25:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯天然气公司Gazprom：今年截至8月前15日，天然气产量同比增长18％至3165亿立方米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3220567.d.html</link>
-            <guid>2280835</guid>
-            <pubDate>Mon, 16 Aug 2021 12:22:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【腾龙股份澄清：公司没有氢燃料电池业务相关的研发、收入】腾龙股份澄清公告，公司主营业务中，无与氢燃料电池业务相关的研发、收入；氢燃料电池未来在技术研发、产品竞争能力、盈利能力等方面存在不确定性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1821582.d.html</link>
-            <guid>2280834</guid>
-            <pubDate>Mon, 16 Aug 2021 12:21:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中洲控股：上半年净利润2.78亿元 同比增长78.74%】中洲控股发布2021年半年度报告，实现营业收入39.56亿元，同比增长12.50%；归属于上市公司股东的净利润2.78亿元，同比增长78.74%；归属于上市公司股东的扣除非经常性损益的净利润2.58亿元，同比增长74.75%；基本每股收益0.4175元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3220414.d.html</link>
-            <guid>2280833</guid>
-            <pubDate>Mon, 16 Aug 2021 12:21:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【田中精机：拟定增募资不超3.5亿元】田中精机披露向特定对象发行股票预案，拟募资不超过3.5亿元，用于高端智能装备生产基地改扩建项目、新能源智能制造设备创新中心项目和补充流动资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1821491.d.html</link>
-            <guid>2280831</guid>
-            <pubDate>Mon, 16 Aug 2021 12:20:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【粤桂股份：上修业绩预估 上半年预盈6600万至7000万元】粤桂股份公告，上修半年度业绩预估。公司上半年预盈6600万元-7000万元，同比扭亏，此前预盈4500万元-5500万元。受硫酸市场需求旺盛和铁矿石价格指数上涨的影响，公司主要产品硫酸、铁矿粉销售价格高于预期，公司把握上行机遇，硫酸和铁矿粉产销两旺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3219901.d.html</link>
-            <guid>2280829</guid>
-            <pubDate>Mon, 16 Aug 2021 12:17:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【海联金汇：上半年净利润1.55亿元 同比增长480.20%】海联金汇公布2021年半年度报告，公司上半年实现营业收入38.83亿元，同比增长46.71%；归属于上市公司股东的净利润1.55亿元，同比增长480.20%；归属于上市公司股东的扣除非经常性损益的净利润6831.10万元；基本每股收益0.13元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1821003.d.html</link>
-            <guid>2280828</guid>
-            <pubDate>Mon, 16 Aug 2021 12:17:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴林政府媒体办公室：巴林将与其他海湾国家就阿富汗局势展开磋商。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3219808.d.html</link>
-            <guid>2280827</guid>
-            <pubDate>Mon, 16 Aug 2021 12:16:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外交部称，阿富汗在没有发生暴力的情况下完成权力移交，莫斯科对此表示满意。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1820909.d.html</link>
-            <guid>2280826</guid>
-            <pubDate>Mon, 16 Aug 2021 12:16:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国家公路交通安全管理局 ：对特斯拉(TSLA.O)自动驾驶的调查包括了11起碰撞事件、17名受伤人员和1名死亡人员的报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3219764.d.html</link>
-            <guid>2280825</guid>
-            <pubDate>Mon, 16 Aug 2021 12:15:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【岳阳兴长：上半年净利润1200.89万元 同比扭亏为盈】岳阳兴长公布2021年半年度报告，公司上半年实现营业收入6.75亿元，同比增长7.34%；归属于上市公司股东的净利润1200.89万元，同比扭亏为盈；归属于上市公司股东的扣除非经常性损益的净利润1175.596万元，同比下降3.92%；基本每股收益0.04元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3219586.d.html</link>
-            <guid>2280824</guid>
-            <pubDate>Mon, 16 Aug 2021 12:14:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄新社：俄罗斯外交部表示，莫斯科希望阿富汗新当局遵守基本人权。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1820689.d.html</link>
-            <guid>2280823</guid>
-            <pubDate>Mon, 16 Aug 2021 12:14:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  恩捷股份：2.46亿股限售股将于8月18日上市流通，占总股本27.61%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3219349.d.html</link>
-            <guid>2280822</guid>
-            <pubDate>Mon, 16 Aug 2021 12:12:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【棒杰股份半年报：上半年净利润2698.35万元 同比下降9.51%】棒杰股份公布2021年半年度报告，公司上半年实现营业收入2.46亿元，同比增长13.72%；归属于上市公司股东的净利润2698.35万元，同比下降9.51%；归属于上市公司股东的扣除非经常性损益的净利润2627.12万元，同比下降1.12%；基本每股收益0.06元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1820333.d.html</link>
-            <guid>2280821</guid>
-            <pubDate>Mon, 16 Aug 2021 12:11:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：沙特阿美寻求出售至少170亿美元的天然气管道股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3219126.d.html</link>
-            <guid>2280820</guid>
-            <pubDate>Mon, 16 Aug 2021 12:11:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国基民盟主席Laschet：阿富汗问题是北约所了解到的最严重的灾难。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1820163.d.html</link>
-            <guid>2280819</guid>
-            <pubDate>Mon, 16 Aug 2021 12:10:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【海王生物：上半年净利润1.4亿元 同比增长9.44%】海王生物公布2021年半年度报告，公司上半年实现营业收入202.38亿元，同比增长13.28%；归属于上市公司股东的净利润1.40亿元，同比增长9.44%；归属于上市公司股东的扣除非经常性损益的净利润1.31亿元，同比增长7.27%；基本每股收益0.051元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1819868.d.html</link>
-            <guid>2280818</guid>
-            <pubDate>Mon, 16 Aug 2021 12:08:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄驻喀布尔大使馆：阿总统加尼乘坐装满现金的汽车逃离喀布尔】俄罗斯大使馆发言人8月16日表示，为防止阿富汗发生进一步的暴力事件，阿富汗总统加尼此前已乘坐装满现金的汽车离开该国首都喀布尔。关于加尼离开阿富汗的方式，俄罗斯驻喀布尔大使馆新闻秘书尼基塔·伊申科16日告诉俄罗斯卫星通讯社，加尼在四辆汽车中塞满了现金，并试图拿出部分现金放进一架直升机，但却未能完全装下。因此，加尼还将一些现金留在飞机跑道上。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3218638.d.html</link>
-            <guid>2280817</guid>
-            <pubDate>Mon, 16 Aug 2021 12:07:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：雅培(ABT.N)的心房颤动设备获美国食品药品监督管理局批准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1819575.d.html</link>
-            <guid>2280815</guid>
-            <pubDate>Mon, 16 Aug 2021 12:06:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【默克尔：德国将对阿富汗周边国家接收难民提供支持】当地时间16日，德国总理默克尔在基民盟主席团会议上就阿富汗局势作出表态，称情况令人震惊。她在讲话中说：“我们当前应专注于营救！”与此同时，默克尔预计难民人数将出现增加，并承诺，德国政府将尽一切可能提供支持。她强调，德国将与阿富汗周边国家就此展开密切合作。默克尔还补充说，有多少人可以顺利离开阿富汗将取决于塔利班，而处理难民潮问题将会持续非常长的一段时间。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1819365.d.html</link>
-            <guid>2280814</guid>
-            <pubDate>Mon, 16 Aug 2021 12:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[浙江宁波梅山街道、白峰街道全域人员将开展第三轮核酸检测。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1819305.d.html</link>
-            <guid>2280813</guid>
-            <pubDate>Mon, 16 Aug 2021 12:04:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：热带风暴热带风暴”弗雷德“现位于佛罗里达州阿巴拉契科拉西南偏南约90英里（145公里），最大持续风速50英里/小时（85公里/小时）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3217858.d.html</link>
-            <guid>2280812</guid>
-            <pubDate>Mon, 16 Aug 2021 12:02:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国防部高级官员：美国军方暂时停止从喀布尔撤离，以清理机场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3217598.d.html</link>
-            <guid>2280810</guid>
-            <pubDate>Mon, 16 Aug 2021 12:00:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[尼日利亚政府发言人：尼日利亚总统签署石油大修法案以成为法律，结束了对此做出的20年的努力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1818278.d.html</link>
-            <guid>2280807</guid>
-            <pubDate>Mon, 16 Aug 2021 11:56:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌兹别克斯坦医务人员称，阿富汗空军飞机在乌兹别克斯坦境内坠毁，两名飞行员目前位于泰尔梅兹市医院。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3217013.d.html</link>
-            <guid>2280805</guid>
-            <pubDate>Mon, 16 Aug 2021 11:56:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【迪森股份：拟转让控股孙公司60%股权】迪森股份公告，公司拟转让通过全资子公司苏州迪森持有的控股孙公司将积善节能60%股权。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3216944.d.html</link>
-            <guid>2280804</guid>
-            <pubDate>Mon, 16 Aug 2021 11:55:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟基准碳价格涨超5%，至58.19欧元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3216792.d.html</link>
-            <guid>2280802</guid>
-            <pubDate>Mon, 16 Aug 2021 11:54:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【正海磁材半年报：上半年净利1.14亿元 同比增128%】正海磁材发布半年报，上半年营业收入14.63亿元，同比增长77.33%；净利润1.14亿元，同比增长127.88%；基本每股收益0.14元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3216721.d.html</link>
-            <guid>2280801</guid>
-            <pubDate>Mon, 16 Aug 2021 11:53:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国暂停了在喀布尔机场的空中运行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3216689.d.html</link>
-            <guid>2280800</guid>
-            <pubDate>Mon, 16 Aug 2021 11:53:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国副国家安全顾问FINER：今天和明天将有更多部队进入喀布尔机场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1817844.d.html</link>
-            <guid>2280798</guid>
-            <pubDate>Mon, 16 Aug 2021 11:52:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【三只松鼠半年报：上半年净利3.52亿元 同比增87%】三只松鼠发布半年报，上半年营业收入52.61亿元，同比增长0.17%；净利润3.52亿元，同比增长87.32%；基本每股收益0.882元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3216610.d.html</link>
-            <guid>2280797</guid>
-            <pubDate>Mon, 16 Aug 2021 11:52:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【兴业科技半年报：上半年净利1.16亿元 同比增5439%】兴业科技发布半年报，上半年营业收入8.04亿元，同比增长87.08%；净利润1.16亿元，同比增长5439.23%；基本每股收益0.3969元。同日公告，公司全资子公司兴业国际以自有资金63万美元受让白志祥持有的HARVEST GLORY LIMITED（简称“HG公司”）9%的股权。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3216581.d.html</link>
-            <guid>2280796</guid>
-            <pubDate>Mon, 16 Aug 2021 11:52:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  高盛：将太古地产(01972.HK)评级上调至买进，目标价29.3港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3216530.d.html</link>
-            <guid>2280795</guid>
-            <pubDate>Mon, 16 Aug 2021 11:51:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国家公路交通安全管理局：自2018年1月以来，已经确定了11起事故，其中特斯拉(TSLA.O)车型“出现了应急情况，并随后撞上了一辆或多辆涉及这些场景的车辆”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1817741.d.html</link>
-            <guid>2280794</guid>
-            <pubDate>Mon, 16 Aug 2021 11:51:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国家公路交通安全管理局：针对特斯拉(TSLA.O)斯拉(TSLA.O)的调查将评估自动驾驶过程中“用于监控、协助和强制驾驶员参与”的技术和方法。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1817124.d.html</link>
-            <guid>2280793</guid>
-            <pubDate>Mon, 16 Aug 2021 11:47:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国家公路交通安全管理局对特斯拉(TSLA.O)2014-2021年Model S、Model Y、Model X和Model 3的Autopilot自动辅助驾驶展开调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1817052.d.html</link>
-            <guid>2280792</guid>
-            <pubDate>Mon, 16 Aug 2021 11:47:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【节能铁汉：签订宝安区沙井街道体育公园PPP项目合同】节能铁汉公告，公司近日收到与宝安区沙井街道办事处、铁汉建设、瀚华文旅签署的《宝安区沙井街道体育公园PPP项目合同》。本项目初始总投资估算为2.64亿元（最终以政府批复为准）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1816368.d.html</link>
-            <guid>2280789</guid>
-            <pubDate>Mon, 16 Aug 2021 11:42:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯能源部旗下CDU-TEK部门：俄罗斯8月前15天日均原油和凝析油产量环比下降0.4%至142.2万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqciyzm1816257.d.html</link>
-            <guid>2280788</guid>
-            <pubDate>Mon, 16 Aug 2021 11:41:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国东方航空股份(00670.HK)：2021年7月货邮载运量同比上升21.64%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-16/detail-ikqcfncc3214470.d.html</link>
-            <guid>2280786</guid>
-            <pubDate>Mon, 16 Aug 2021 11:37:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国东方航空股份(00670.HK)：2021年7月，旅客周转量（按客运人公里计）同比上升24.97%，其中国内和地区航线旅客周转量分别同比上升25.44%和791.42%，国际航线旅客周转量同比下降24.86%。]]></title>
-            <guid>2280784</guid>
-            <pubDate>Mon, 16 Aug 2021 11:36:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
