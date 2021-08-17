@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 17 Aug 2021 19:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 20:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：葛兰素史克(GSK.N)旗下药物Jemperli获FDA加速批准用于治疗复发或晚期子宫内膜癌患者。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2072730.d.html</link>
+            <guid>2283514</guid>
+            <pubDate>Tue, 17 Aug 2021 20:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据文件披露：苹果(AAPL.O)就模拟器制作方Corellium版权侵权诉讼案提交上诉通知书。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3469501.d.html</link>
+            <guid>2283496</guid>
+            <pubDate>Tue, 17 Aug 2021 19:59:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国国际贸易部：目前正处于与印度自由贸易协定的预谈判阶段，计划在今年年底前与印度启动贸易协定谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2071310.d.html</link>
+            <guid>2283494</guid>
+            <pubDate>Tue, 17 Aug 2021 19:54:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股尾盘回升，纳指跌幅收窄至1%，道指、标普500指数分别跌0.87%和0.77%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3469216.d.html</link>
+            <guid>2283493</guid>
+            <pubDate>Tue, 17 Aug 2021 19:53:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国东南部森林火情尚未稳定 超900名消防员持续灭火】当地时间17日，法国东南部瓦尔省的森林大火仍在持续。据瓦尔省省政府的通报，当天已有超过900名消防员参与到灭火作业当中。同时，2架直升机与7架灭火飞机成为空中灭火力量。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2071180.d.html</link>
+            <guid>2283492</guid>
+            <pubDate>Tue, 17 Aug 2021 19:50:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务院：如有职责，美国外交官可能会在喀布尔逗留到8月31日以后。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3468779.d.html</link>
+            <guid>2283491</guid>
+            <pubDate>Tue, 17 Aug 2021 19:44:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿里巴巴(BABA.N)尾盘跌超5%，报173.5美元，续创去年4月以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2070068.d.html</link>
+            <guid>2283489</guid>
+            <pubDate>Tue, 17 Aug 2021 19:35:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[有道(DAO.N)尾盘涨幅扩大至10%，股价重回10美元关口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3467032.d.html</link>
+            <guid>2283484</guid>
+            <pubDate>Tue, 17 Aug 2021 19:20:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【聚焦经贸合作 第五届中阿博览会将于19日在宁夏银川开幕】第五届中国—阿拉伯国家博览会（以下简称中阿博览会）将于2021年8月19日至22日在宁夏银川举办。中阿博览会是中国与阿拉伯国家共同打造的面向世界合作、交流的平台，每两年举办一届。目前，中阿博览会已经成功举办四届，共有112个国家和地区、5000多家国内外企业、4万多名国内外嘉宾参会参展，累计签订各类合作项目936个。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3466819.d.html</link>
@@ -204,142 +252,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3460056.d.html</link>
             <guid>2283416</guid>
             <pubDate>Tue, 17 Aug 2021 17:27:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  研究机构Hedgeye分析师Van Sciver：特斯拉(TSLA.O)并没有自动驾驶技术，只有二级驾驶辅助系统，并错误地称之为”Autopilot“。 在德国，他们甚至不能这样营销，因为这是一个谎言。特斯拉的营销很荒谬，而且这辆车一点都不安全。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2062318.d.html</link>
-            <guid>2283414</guid>
-            <pubDate>Tue, 17 Aug 2021 17:26:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Nikola(NKLA.O)短线拉升，涨幅扩大至5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3459977.d.html</link>
-            <guid>2283413</guid>
-            <pubDate>Tue, 17 Aug 2021 17:26:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【涉及多项违法行为 谷歌被俄罗斯法院罚款1400万卢布】当地时间8月17日，俄罗斯莫斯科塔甘斯基第422号地方法院根据《俄罗斯联邦行政法》裁定美国互联网公司谷歌存在五项行政违法行为，对其处以总计1400万卢布（约人民币124万元）的罚款。此前，谷歌公司因未按俄政府要求删除被俄官方禁止传播的信息和内容已被多次处以罚款。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2061093.d.html</link>
-            <guid>2283409</guid>
-            <pubDate>Tue, 17 Aug 2021 17:09:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：亚马逊将投资逾100亿美元开发旗下卫星部门的Kuiper全球卫星宽带计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2061085.d.html</link>
-            <guid>2283408</guid>
-            <pubDate>Tue, 17 Aug 2021 17:08:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉跌幅扩大至5%，报651.7美元，最新总市值不足6500亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2060990.d.html</link>
-            <guid>2283406</guid>
-            <pubDate>Tue, 17 Aug 2021 17:07:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席兼“外长”博雷利：美国离开后，欧盟将不能再留在阿富汗了。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3458558.d.html</link>
-            <guid>2283405</guid>
-            <pubDate>Tue, 17 Aug 2021 17:06:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鉴于对德尔塔毒株带来的更加长久的担忧，加拿大安大略省延长对防疫限制措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2060904.d.html</link>
-            <guid>2283404</guid>
-            <pubDate>Tue, 17 Aug 2021 17:06:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国外长马斯：西方将通过塔利班的“行动”来对其进行判断。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2060820.d.html</link>
-            <guid>2283403</guid>
-            <pubDate>Tue, 17 Aug 2021 17:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【创纪录的高温已导致农作物种植和收割工人死亡】由于气候变化，极端天气模式的出现越发频繁，席卷美国西部的创纪录高温已导致农作物种植和收割工人死亡。虽然很难追踪，但联合农场工人工会最近几个月已发现三起可能由高温导致的工人死亡事件。曾提起相关法案的俄亥俄州参议员Sherrod Brown表示，在全球气温上升之际，保护劳动者免受高温负荷的影响至关重要。虽然俄勒冈州和华盛顿州也出台了应急规定，但倡议者指出，这些措施还远远不够。美国官方资料显示，在1992年至2017年间，高温负荷导致815名美国工人死亡，7万多人受重伤，而农场工人死于高温的风险是普通劳动者的35倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3458253.d.html</link>
-            <guid>2283401</guid>
-            <pubDate>Tue, 17 Aug 2021 17:03:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数可选消费品板块跌幅扩大至3%，原材料板块跌超2.2%，工业板块跌约2.0%，医疗保健板块维持大约0.5%的涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2060468.d.html</link>
-            <guid>2283400</guid>
-            <pubDate>Tue, 17 Aug 2021 17:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[成分股家得宝维持4.7%的跌幅，波音跌超3.6%，陶氏化学跌3.4%，卡特彼勒也跌超3.1%，3M跌超2.2%，霍利韦尔和英特尔跌超2.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2060402.d.html</link>
-            <guid>2283399</guid>
-            <pubDate>Tue, 17 Aug 2021 17:01:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席兼“外长”博雷利：还没有与塔利班进行过私人接触。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3457883.d.html</link>
-            <guid>2283397</guid>
-            <pubDate>Tue, 17 Aug 2021 16:59:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席兼“外长”博雷利：塔利班接管阿富汗是自俄罗斯2014年“入侵”克里米亚以来最重要的地缘政治事件。]]></title>
-            <guid>2283396</guid>
-            <pubDate>Tue, 17 Aug 2021 16:55:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【氢能多元应用场景可期 上市公司密集布局】近期氢能概念升温，部分上市公司短期内股价异常波动，已经引起监管层的注意。8月17日，氢能概念股厚普股份收到创业板公司管理部关注函，要求公司说明氢能业务相关情况。Wind数据显示，截至收盘，厚普股份跌4.89%，报收31.90元。当日氢能概念指数跌3.49%，成分股大面积普跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2059783.d.html</link>
-            <guid>2283393</guid>
-            <pubDate>Tue, 17 Aug 2021 16:53:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【现身百余家上市公司 社保QFII调仓路径浮现截至8月17日，A股市场已有677家上市公司披露中报，以社保基金、QFII为代表的长期资金机构持仓动向也浮出水面。Wind数据显示，社保基金共现身87家上市公司流通股股东，合计持仓总市值超过445亿元；QFII共现身99家上市公司流通股股东，合计持仓总市值超过834亿元。从行业来看，电子、化工、医药生物和银行在上述机构中占有最重仓位。]]></title>
-            <guid>2283392</guid>
-            <pubDate>Tue, 17 Aug 2021 16:52:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【打造国资国企改革高地 第二批综改试验正式实施】近日，经国务院国有企业改革领导小组同意，领导小组办公室正式批复辽宁沈阳、浙江杭州、陕西西安和山东青岛四地区域性国资国企综合改革试验实施方案，这意味着第二批综改试验正式启动实施，表明在国企改革三年行动积极实施背景下，区域性国资国企综合改革试验实现了多点开花。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3457387.d.html</link>
-            <guid>2283391</guid>
-            <pubDate>Tue, 17 Aug 2021 16:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【汽车芯片持续短缺 监管层严查串通涨价等违法行为】今年以来，芯片短缺一直困扰着汽车业，且显现加剧趋势。分析机构认为，汽车产业芯片短缺或将持续较长时间。国家市场监管总局近日出台措施，针对汽车芯片市场哄抬炒作、价格高企等突出问题，根据价格监测和举报线索，对涉嫌哄抬价格的汽车芯片经销企业立案调查。市场监管总局将持续关注芯片等重要商品市场价格秩序，并进一步加大监管执法力度，严厉查处囤积居奇、哄抬价格、串通涨价等违法行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2059738.d.html</link>
-            <guid>2283390</guid>
-            <pubDate>Tue, 17 Aug 2021 16:52:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[第一太阳能（FSLR）维持超过4%的跌幅，在美国股市大盘重挫至少逾1.2%之际，徘徊于日低92.27美元附近，该公司位于美国俄亥俄州的6.80亿美元规模新工厂破土动工。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3457345.d.html</link>
-            <guid>2283389</guid>
-            <pubDate>Tue, 17 Aug 2021 16:51:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乡村消费迎政策力挺 十万亿级市场可期】最新数据显示，7月，乡村消费品零售额4547亿元，同比增长8.8%，跑赢城镇消费品零售额0.4个百分点。值得注意的是，乡村消费正获得更多政策支持。近期，中央层面集中部署推动扩大农村消费，政策举措涵盖贯通县乡村电子商务体系、完善快递物流配送、保障就业增加收入等多个方面。未来10年乡村社会消费品零售总额有条件保持年均7%左右的增速，在2030年有望达到10万亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2059657.d.html</link>
-            <guid>2283388</guid>
-            <pubDate>Tue, 17 Aug 2021 16:51:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席兼“外长”博雷利：目前没有向阿富汗提供发展援助，这与人道主义援助不同，将继续或甚至增加对后者的援助。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2059626.d.html</link>
-            <guid>2283387</guid>
-            <pubDate>Tue, 17 Aug 2021 16:50:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席兼“外长”博雷利：阿富汗人民将需要大量的人道主义援助，这必须得到维持。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3457238.d.html</link>
-            <guid>2283386</guid>
-            <pubDate>Tue, 17 Aug 2021 16:50:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席兼“外长”博雷利：估计阿富汗有380-400名与欧盟有联系的当地人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2059581.d.html</link>
-            <guid>2283385</guid>
-            <pubDate>Tue, 17 Aug 2021 16:50:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[立陶宛边防警卫：12名白俄罗斯官员星期二非法越境进入立陶宛，同时带进35名伊拉克移民。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2059537.d.html</link>
-            <guid>2283384</guid>
-            <pubDate>Tue, 17 Aug 2021 16:49:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
