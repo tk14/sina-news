@@ -4,11 +4,71 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 17 Aug 2021 18:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 19:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【聚焦经贸合作 第五届中阿博览会将于19日在宁夏银川开幕】第五届中国—阿拉伯国家博览会（以下简称中阿博览会）将于2021年8月19日至22日在宁夏银川举办。中阿博览会是中国与阿拉伯国家共同打造的面向世界合作、交流的平台，每两年举办一届。目前，中阿博览会已经成功举办四届，共有112个国家和地区、5000多家国内外企业、4万多名国内外嘉宾参会参展，累计签订各类合作项目936个。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3466819.d.html</link>
+            <guid>2283483</guid>
+            <pubDate>Tue, 17 Aug 2021 19:15:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务院发言人Price：美国在阿富汗的核心外交人员已完成撤离。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3466667.d.html</link>
+            <guid>2283482</guid>
+            <pubDate>Tue, 17 Aug 2021 19:12:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务院发言人Price：美国将派大使前往喀布尔加快签证处理程序。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3466661.d.html</link>
+            <guid>2283481</guid>
+            <pubDate>Tue, 17 Aug 2021 19:11:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  惠誉：电动汽车在美国的普及受到充电站、长时间充电和长期电池更换成本的挑战。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2068423.d.html</link>
+            <guid>2283477</guid>
+            <pubDate>Tue, 17 Aug 2021 19:05:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  惠誉：消费者对电动汽车价格相对较高的担忧将继续挑战美国对电动汽车的接受程度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3466286.d.html</link>
+            <guid>2283476</guid>
+            <pubDate>Tue, 17 Aug 2021 19:05:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  惠誉：预计电动汽车在美国的盈利能力将随着时间的推移而改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2068413.d.html</link>
+            <guid>2283475</guid>
+            <pubDate>Tue, 17 Aug 2021 19:05:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  惠誉：美国的电动汽车普及率将继续落后于中国和一些欧洲国家。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2068410.d.html</link>
+            <guid>2283474</guid>
+            <pubDate>Tue, 17 Aug 2021 19:05:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  惠誉：美国总统拜登关于电动汽车的行政令短期内不会对信贷产生影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2068381.d.html</link>
+            <guid>2283473</guid>
+            <pubDate>Tue, 17 Aug 2021 19:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：参议员Rubio就审查问题对YouTube首席执行官提出质问。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2068364.d.html</link>
+            <guid>2283472</guid>
+            <pubDate>Tue, 17 Aug 2021 19:04:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：推特(TWTR.N)将在美国、澳大利亚和韩国进行错误信息测试，并利用结果来扩大事实核查。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3466225.d.html</link>
+            <guid>2283471</guid>
+            <pubDate>Tue, 17 Aug 2021 19:04:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据科技网站Verge：微软(MSFT.O)任命前Uber(UBER.N)高管领导其消费者端应用程式。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3464267.d.html</link>
@@ -280,94 +340,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2059537.d.html</link>
             <guid>2283384</guid>
             <pubDate>Tue, 17 Aug 2021 16:49:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股太阳能板块普跌，Sunrun(RUN.O)跌11.2%，Sunnova(NOVA.O)跌8.1%，瑞能新能源(SOL.N)跌6.2%，晶科能源(JKS.N)跌6.6%，阿特斯太阳能(CSIQ.O)跌6%，Sunpower(SPWR.O)跌5.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3457178.d.html</link>
-            <guid>2283383</guid>
-            <pubDate>Tue, 17 Aug 2021 16:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党众议员COMER：拜登撤军是正确的，但需要更好的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2059107.d.html</link>
-            <guid>2283381</guid>
-            <pubDate>Tue, 17 Aug 2021 16:44:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国外交部和国防部因撤离行动迟缓遭多方批评】当地时间17日早上，德国联邦国防军派往阿富汗的第一架A400M运输机仅搭载7人离开喀布尔。下午抵达的第二架A400M运输机则从喀布尔机场撤离了125人至乌兹别克斯坦首都塔什干。对此，德国联邦国防部长卡伦鲍尔表示：“我们已尽可能地撤离了更多的人。”然而，德国政府撤离计划和行动的迟缓依旧遭致诸多批评。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3456620.d.html</link>
-            <guid>2283380</guid>
-            <pubDate>Tue, 17 Aug 2021 16:43:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席兼“外长”博雷利：我们需要吸取很多教训，我们必须承认错误已经发生了。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2058868.d.html</link>
-            <guid>2283379</guid>
-            <pubDate>Tue, 17 Aug 2021 16:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席兼“外长”博雷利：喀布尔机场的功能和安全通道至关重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3456534.d.html</link>
-            <guid>2283378</guid>
-            <pubDate>Tue, 17 Aug 2021 16:42:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油期货短线走低0.3美元，现分别报66.47美元/桶和68.96美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2058714.d.html</link>
-            <guid>2283377</guid>
-            <pubDate>Tue, 17 Aug 2021 16:41:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席兼“外长”博雷利：塔利班已经赢得了战争，所以我们必须与他们进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3456242.d.html</link>
-            <guid>2283376</guid>
-            <pubDate>Tue, 17 Aug 2021 16:40:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席兼“外长”博雷利：西班牙准备为阿富汗撤离人员提供场所。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3456071.d.html</link>
-            <guid>2283375</guid>
-            <pubDate>Tue, 17 Aug 2021 16:38:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席兼“外长”博雷利：欧盟认同在阿富汗的首要任务是撤离。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2058364.d.html</link>
-            <guid>2283374</guid>
-            <pubDate>Tue, 17 Aug 2021 16:38:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谷歌发布Pixel 5a手机 售价449美元】谷歌周二发布低价款手机Pixel 5a，售价449美元，将于8月26日上市。Pixel 5a较去年发布的Pixel 4a 5G做出了适度的改进，配有更大容量的电池、稍大的屏幕和防水功能，同时支持5G。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3455977.d.html</link>
-            <guid>2283373</guid>
-            <pubDate>Tue, 17 Aug 2021 16:38:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席兼“外长”博雷利：在阿富汗打击基地组织的战斗成功了，而阿富汗的国家建设没有成功。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2058237.d.html</link>
-            <guid>2283371</guid>
-            <pubDate>Tue, 17 Aug 2021 16:36:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Alphabet旗下的生命科学部门Verily：交易完成后，SignalPath的员工将加入Verily，参与临床研究业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3455729.d.html</link>
-            <guid>2283370</guid>
-            <pubDate>Tue, 17 Aug 2021 16:35:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：谷歌母公司Alphabet旗下的生命科学部门Verily拟收购医疗技术公司SignalPath。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3455660.d.html</link>
-            <guid>2283369</guid>
-            <pubDate>Tue, 17 Aug 2021 16:34:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  江苏省淮安市2021年秋季开学时间公布：9月7日起分期分批有序开学。（淮安发布）。]]></title>
-            <guid>2283368</guid>
-            <pubDate>Tue, 17 Aug 2021 16:29:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：08月18日00时23分在云南大理州漾濞县（北纬25.71度，东经99.87度）发生3.4级地震，震源深度12千米。]]></title>
-            <guid>2283367</guid>
-            <pubDate>Tue, 17 Aug 2021 16:29:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
