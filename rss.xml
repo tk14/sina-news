@@ -4,11 +4,452 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 18 Aug 2021 09:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 10:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：民主党参议员Richard Blumenthal和Edward Markey敦促美国联邦贸易委员会(FTC)调查特斯拉(TSLA.O)的Autopilot自动辅助驾驶和完全自动驾驶(FSD)是否存在欺骗性营销行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2219374.d.html</link>
+            <guid>2284361</guid>
+            <pubDate>Wed, 18 Aug 2021 10:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：8月18日18时10分在瓦努阿图群岛附近发生6.9级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3616821.d.html</link>
+            <guid>2284360</guid>
+            <pubDate>Wed, 18 Aug 2021 10:24:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[重庆啤酒：上半年实现净利润6.2亿元，同比下降3.34%，扣非净利润同比增长184.04%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3616720.d.html</link>
+            <guid>2284359</guid>
+            <pubDate>Wed, 18 Aug 2021 10:23:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国海啸预警系统：瓦努阿图发生7.1级地震后，有海啸威胁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2218807.d.html</link>
+            <guid>2284357</guid>
+            <pubDate>Wed, 18 Aug 2021 10:21:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[贝伦伯格：将3D系统(DDD.N)目标价从23美元上调至26美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3616193.d.html</link>
+            <guid>2284355</guid>
+            <pubDate>Wed, 18 Aug 2021 10:20:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全国碳市场排放配额累计成交额3.55亿】 生态环境部部长黄润秋在新闻发布会上表示：7月16日，全国碳市场正式启动上线交易。第一个履约周期，我们把全国燃煤发电行业2162家（企业）纳入到碳市场的范围，总共覆盖了45亿吨二氧化碳排放量。自启动以来，全国碳市场运行平稳，交易价格也从首日开盘价的每吨48元上升到昨天收盘价51.76元每吨。开市一个月来，全国碳市场排放配额累计成交量达到了702万吨，累计成交额是3.55亿元。 （央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2218420.d.html</link>
+            <guid>2284354</guid>
+            <pubDate>Wed, 18 Aug 2021 10:20:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宁德时代成立未来能源研究院公司 注册资本2亿元】天眼查App显示，8月18日，宁德时代未来能源（上海）研究院有限公司成立，注册资本2亿元，经营范围包括从事新能源科技及新材料领域内的科学研究、技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；新兴能源技术研发；软件开发等。该公司由宁德时代新能源科技股份有限公司全资控股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3615744.d.html</link>
+            <guid>2284352</guid>
+            <pubDate>Wed, 18 Aug 2021 10:18:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【因芯片断供致多款主力车型停产？一汽奥迪：消息不属实】针对网络流传的“奥迪多款主销车型因‘缺芯’停产，多家4S店已无现车，转为订单制销售”的消息，一汽-大众奥迪内部人士表示，“此为虚假信息，不属实。”（财联社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2218113.d.html</link>
+            <guid>2284351</guid>
+            <pubDate>Wed, 18 Aug 2021 10:18:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：参议员要求联邦贸易委员会调查特斯拉全自动驾驶功能是否存在欺骗营销行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3615168.d.html</link>
+            <guid>2284349</guid>
+            <pubDate>Wed, 18 Aug 2021 10:15:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[格林美：与孚能科技签署建设废旧动力电池及电池废料绿色处理产业链战略合作框架协议，形成对动力电池及其废物的完整绿色回收、镍钴锂资源再造、三元材料再造、动力电池梯级利用的绿色产业链。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3615122.d.html</link>
+            <guid>2284348</guid>
+            <pubDate>Wed, 18 Aug 2021 10:15:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广汽集团(02238.HK)：董事会会议将于二零二一年八月三十日举行，藉以批准本公司及其附属公司截至二零二一年六月三十日止六个月之中期业绩公告，以及考虑支付中期股息。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3615089.d.html</link>
+            <guid>2284347</guid>
+            <pubDate>Wed, 18 Aug 2021 10:14:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【亚太科技：全资子公司取得航空质量管理体系认证证书】亚太科技公告，全资子公司亚太轻合金（南通）科技有限公司近日收到Bureau Veritas Certification颁发的BS EN ISO 9001:2015 / EN 9100:2018航空质量管理体系认证证书。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3614939.d.html</link>
+            <guid>2284346</guid>
+            <pubDate>Wed, 18 Aug 2021 10:14:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【生态环境部：实现碳达峰等目标纳入到督察范围中】 生态环境部部长黄润秋在新闻发布会上表示：将持续开展好中央生态环境保护督察，特别是继续将共抓长江大保护、推动黄河流域生态保护和高质量发展，以及实现碳达峰目标等举措，党中央的重大决策部署纳入到督察范围中。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3614906.d.html</link>
+            <guid>2284345</guid>
+            <pubDate>Wed, 18 Aug 2021 10:13:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【惠誉：确认国网国际发展长期外币发行人违约评级为“A+”，展望“稳定”】惠誉报告称，确认国家电网国际发展有限公司（State Grid International Development Limited）长期外币发行人违约评级（IDR）为“A+”，展望“稳定”。同时，惠誉确认国网国际发展的高级无抵押评级和State Grid Europe Development (2014) Public Limited Company发行的票据评级为“A+”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3614657.d.html</link>
+            <guid>2284344</guid>
+            <pubDate>Wed, 18 Aug 2021 10:12:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国继续保持日本最大出口市场地位。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3614584.d.html</link>
+            <guid>2284343</guid>
+            <pubDate>Wed, 18 Aug 2021 10:11:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大全能源半年报：上半年净利22亿元 同比增598%】大全能源公告，上半年净利21.61亿元，同比增597.96%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3614373.d.html</link>
+            <guid>2284342</guid>
+            <pubDate>Wed, 18 Aug 2021 10:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南京银行半年报：上半年净利84.5亿元 同比增17%】南京银行公告，上半年实现净利润84.5亿元，同比增长17.07%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3613995.d.html</link>
+            <guid>2284341</guid>
+            <pubDate>Wed, 18 Aug 2021 10:09:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士信贷：将美国钢铁(X.N)目标价从41美元上调至49美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2216492.d.html</link>
+            <guid>2284340</guid>
+            <pubDate>Wed, 18 Aug 2021 10:08:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士信贷：将纽柯钢铁(NUE.N)目标价从115美元上调至142美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2216466.d.html</link>
+            <guid>2284339</guid>
+            <pubDate>Wed, 18 Aug 2021 10:08:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【爱柯迪：股东拟合计减持不超2.12%公司股份】爱柯迪公告，宁波领挈、宁波领祺、宁波领鑫、宁波领荣及宁波领禧减持公司股份不超过1821.53万股，即不超过公司目前总股本的2.12%。同日发布半年报，上半年营业收入15.72亿元，同比增长52.7%；净利润1.98亿元，同比增长38.97%；基本每股收益0.23元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3613864.d.html</link>
+            <guid>2284337</guid>
+            <pubDate>Wed, 18 Aug 2021 10:08:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士信贷：将克里夫斯天然资源公司(CLF.N)目标价从28美元上调至34美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2215966.d.html</link>
+            <guid>2284335</guid>
+            <pubDate>Wed, 18 Aug 2021 10:06:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泰祥股份宣布拟转板上市】继观典防务和翰博高新之后，泰祥股份于8月18日晚间公告宣布转板上市计划，成为精选层第三家拟转板公司。据公告，泰祥股份董事会审议通过了申请向深交所创业板转板上市的议案。如果转板上市获得深交所同意，公司将申请股票在全国股转系统终止挂牌，目前该议案尚未生效。公司2019年、2020年净利润分别为7313.99万元、6731.08万元，满足转板相关财务指标规定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2215930.d.html</link>
+            <guid>2284334</guid>
+            <pubDate>Wed, 18 Aug 2021 10:06:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世界贸易组织表示，世界贸易的前景继续被下行风险所笼罩。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2215593.d.html</link>
+            <guid>2284331</guid>
+            <pubDate>Wed, 18 Aug 2021 10:04:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世界贸易组织称商品指数创历史新高，证实了贸易复苏的力度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2215558.d.html</link>
+            <guid>2284330</guid>
+            <pubDate>Wed, 18 Aug 2021 10:04:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[唯品会(VIPS.N)：Q2活跃用户为5110万，去年同期为3880万，同比增长32%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2215499.d.html</link>
+            <guid>2284329</guid>
+            <pubDate>Wed, 18 Aug 2021 10:04:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[唯品会(VIPS.N)：Q2商品交易总额为481亿元，去年同期为384亿元，同比增长25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3613015.d.html</link>
+            <guid>2284328</guid>
+            <pubDate>Wed, 18 Aug 2021 10:03:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【浙商证券半年报：上半年净利8.78亿元 同比增34%】浙商证券公告，上半年净利8.78亿元，同比增34.16%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2215393.d.html</link>
+            <guid>2284327</guid>
+            <pubDate>Wed, 18 Aug 2021 10:03:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【江苏新能：资产重组事项获无条件通过 明起复牌】江苏新能公告，资产重组事项获中国证券监督管理委员会上市公司并购重组审核委员会审核通过。公司股票将于2021年8月19日(星期四)开市起复牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3612883.d.html</link>
+            <guid>2284326</guid>
+            <pubDate>Wed, 18 Aug 2021 10:03:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[唯品会(VIPS.N)：Q2每ADS盈利为2.18元，市场预期为2.03元，去年同期为2.24元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3612830.d.html</link>
+            <guid>2284325</guid>
+            <pubDate>Wed, 18 Aug 2021 10:02:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[公布财报后，唯品会(VIPS.N)盘前拉升，现涨近3%，报15.09美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3612791.d.html</link>
+            <guid>2284324</guid>
+            <pubDate>Wed, 18 Aug 2021 10:02:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[唯品会(VIPS.N)：Q2调整后每ADS盈利2.1元，去年同期1.9元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2215225.d.html</link>
+            <guid>2284323</guid>
+            <pubDate>Wed, 18 Aug 2021 10:02:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大洋电机：“氢燃料电池系统”短期之内对公司业绩的贡献较小】大洋电机发布股价异动公告，投资者近期对公司氢燃料电池业务关注度较高，鉴于目前氢燃料电池行业仍处于起步阶段，相关行业政策有待进一步落地实施，氢燃料电池的应用预计还将经历一段较长的推广期，公司将“氢燃料电池系统”定位为未来的事业，其短期之内对公司业绩的贡献较小，且在技术研发、产品销售及盈利等方面存在一定的不确定性。未来公司将根据行业发展趋势及市场需求，科学合理地进行业务布局与市场开拓。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2215082.d.html</link>
+            <guid>2284322</guid>
+            <pubDate>Wed, 18 Aug 2021 10:02:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[唯品会第二季度营收296亿元，市场预估297.2亿元；预计第三季度营收243亿元至255亿元。]]></title>
+            <guid>2284321</guid>
+            <pubDate>Wed, 18 Aug 2021 10:01:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交控科技：上半年净利1.06亿元 同比增21.71%】交控科技(688015)8月18日晚间披露半年报，公司2021年半年度实现营业收入10.44亿元，同比增长41.24%；净利润1.06亿元，同比增长21.71%；基本每股收益0.66元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2214389.d.html</link>
+            <guid>2284318</guid>
+            <pubDate>Wed, 18 Aug 2021 09:58:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【博腾股份：拟收购湖北宇阳药业有限公司70%股权】博腾股份公告：拟以1.72亿元的价格现金收购李翠林等21名自然人所持有的湖北宇阳药业有限公司70%股权。本次交易完成后，公司将持有宇阳药业70%股权，宇阳药业将成为公司控股子公司，并纳入公司的合并报表范围。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2213929.d.html</link>
+            <guid>2284317</guid>
+            <pubDate>Wed, 18 Aug 2021 09:55:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【横店东磁：上半年净利5.46亿元 同比增58.9%】横店东磁(002056)8月18日晚间披露半年报，公司2021年半年度实现营业收入56.91亿元，同比增长79.36%；净利润5.46亿元，同比增长58.9%；基本每股收益0.34元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3611281.d.html</link>
+            <guid>2284316</guid>
+            <pubDate>Wed, 18 Aug 2021 09:54:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：日本伊豆岛发生5.3级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3611235.d.html</link>
+            <guid>2284315</guid>
+            <pubDate>Wed, 18 Aug 2021 09:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国移动(00941.HK)：根据中国有关法律法规要求，A股招股书已于2021年8月18日刊载于中国证监会网站进行预先披露。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3611176.d.html</link>
+            <guid>2284314</guid>
+            <pubDate>Wed, 18 Aug 2021 09:53:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国药股份：上半年实现净利润7.66亿元，同比增长23.56%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2213481.d.html</link>
+            <guid>2284313</guid>
+            <pubDate>Wed, 18 Aug 2021 09:53:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏宁易购获百亿新增授信】近日，苏宁易购联合授信委员会在南京成立。同时，江苏银行、南京银行、建设银行、工商银行、农业银行和中国银行等六家银行，率先为苏宁易购新增百亿授信，进一步支持苏宁易购提升零售服务和供应链能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3610942.d.html</link>
+            <guid>2284312</guid>
+            <pubDate>Wed, 18 Aug 2021 09:52:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【湖南发展：所属部分电站上网电价下调 预计减少净利162.84万元】湖南发展(000722)8月18日晚间公告，自8月1日起，湖南省电网装机容量在2.5万千瓦及以上、上网电价在0.3元/千瓦时及以上的水电项目上网电价每千瓦时降低0.01元。公司所属部分电站将相应下调上网电价。该调整预计会导致公司8月1日至12月31日的净利润减少约162.84万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2213196.d.html</link>
+            <guid>2284310</guid>
+            <pubDate>Wed, 18 Aug 2021 09:51:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【普元信息：上半年营业收入1.24亿元 同比增长31.95%】普元信息(688118)8月18日晚披露半年报，上半年营业收入1.24亿元，同比增长31.95%；净利润亏损1015万元，较上年同期减少亏损408万元。营收增长主要由于公司持续扩展和深化对金融行业业务系统的覆盖和连接，牢牢把握金融信创适配与数字化应用升级带来的新的业务机会。公司收入存在较显著的季节性波动特征，通常呈现上半年尤其是第一季度收入占比相对较低、下半年尤其是第四季度收入占比相对较高的特点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2213099.d.html</link>
+            <guid>2284309</guid>
+            <pubDate>Wed, 18 Aug 2021 09:51:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：塔利班在接管喀布尔以来的首次新闻发布会上表示，阿富汗不会构成威胁，也不会寻求报复。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2213045.d.html</link>
+            <guid>2284308</guid>
+            <pubDate>Wed, 18 Aug 2021 09:50:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【爱尔眼科：收购日照爱尔、威海爱尔、河源爱尔、江门新会爱尔和枣阳爱尔部分股权】爱尔眼科公告，拟收购爱尔安星所持有的日照爱尔55%的股权、威海爱尔51%的股权、河源爱尔75%的股权、江门新会爱尔65.1%的股权、枣阳爱尔70%的股权，交易价格分别为4929.65万元、3813.27万元、3367.5万元、1.56亿元、5001.5万元。收购完成后，公司将持有日照爱尔55%的股权，持有威海爱尔51%的股权， 持有河源爱尔75%的股权，持有江门新会爱尔65.1%的股权，持有枣阳爱尔70%的股权。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3610555.d.html</link>
+            <guid>2284307</guid>
+            <pubDate>Wed, 18 Aug 2021 09:50:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【渤海部分区域24日将进行实弹射击】山东海事局发布航行警告，渤海部分区域8月24日11时至19时，将进行实弹射击。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3610293.d.html</link>
+            <guid>2284306</guid>
+            <pubDate>Wed, 18 Aug 2021 09:50:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新疆3例无症状感染者病毒基因测序结果显示为境外输入德尔塔毒株。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3610072.d.html</link>
+            <guid>2284304</guid>
+            <pubDate>Wed, 18 Aug 2021 09:48:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国证券业协会近日就《证券行业诚信准则（征求意见稿）》向会员单位征求意见，会员单位需于8月27日前提交反馈意见。根据意见稿，恶性压价、虚假宣传、诋毁同行等行为将受到惩戒。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3609602.d.html</link>
+            <guid>2284303</guid>
+            <pubDate>Wed, 18 Aug 2021 09:46:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福达股份：控股股东福达集团拟减持不超过3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3609297.d.html</link>
+            <guid>2284302</guid>
+            <pubDate>Wed, 18 Aug 2021 09:45:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【主力资金连续5日以上持续净流入47股】统计显示，截至8月18日收盘，共有47只个股主力资金连续5个交易日以上持续净流入，连续流入天数最多的是玉龙股份，该股已连续18个交易日净流入；连续净流入天数较多的还有信邦制药、星光农机等，主力资金分别连续流入16天、11天。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2210653.d.html</link>
+            <guid>2284298</guid>
+            <pubDate>Wed, 18 Aug 2021 09:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新金路半年报：半年度净利润1.62亿元 同比增长275%】新金路发布2021年半年度报告，实现营业收入14.54亿元，同比增长41.73%；归属于上市公司股东的净利润1.62亿元，同比增长275.59%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3608028.d.html</link>
+            <guid>2284297</guid>
+            <pubDate>Wed, 18 Aug 2021 09:39:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国出售8.2670亿欧元30年期政府债券，收益率为0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3607989.d.html</link>
+            <guid>2284296</guid>
+            <pubDate>Wed, 18 Aug 2021 09:39:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[涂鸦智能(TUYA.N)美股盘前涨4%，Q2营收好于预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3607943.d.html</link>
+            <guid>2284295</guid>
+            <pubDate>Wed, 18 Aug 2021 09:39:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【龙洲股份：转让上海金润二当50.09651%股权】龙洲股份公告，转让上海金润二当家供应链管理有限公司50.09651%股权，作价1146万元；本次交易完成后，公司将不再持有上海金润二当家股权，上海金润二当家及其子公司不再纳入上市公司合并报表范围，上市公司主营业务将不再包括商业保理相关的业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2210437.d.html</link>
+            <guid>2284294</guid>
+            <pubDate>Wed, 18 Aug 2021 09:38:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[温氏股份：上半年亏损24.98亿元，上年同期净利润41.53亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3607847.d.html</link>
+            <guid>2284293</guid>
+            <pubDate>Wed, 18 Aug 2021 09:38:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【亚洲最大重型自航绞吸船“天鲲号”完成吹水试验】在江苏盐城滨海港海域，亚洲最大重型自航绞吸船“天鲲号”完成吹水试验及全部工前准备工作，即将投入盐城滨海港疏浚工程建设。随着我国综合国力和创新能力的不断提高，一件件重大装备不断提升我国交通、能源等基础设施建设能力水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2210340.d.html</link>
+            <guid>2284292</guid>
+            <pubDate>Wed, 18 Aug 2021 09:38:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[皖仪科技：与西安交通大学环境材料与污染防治技术中心签订《战略合作协议》，双方重点围绕环保和分析仪器领域，结合双方发展需求，加强环境监测、仪器应用、创新技术、碳捕集等方面的科技开发合作，并拟共建“创新技术与仪器联合实验室”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3607759.d.html</link>
+            <guid>2284291</guid>
+            <pubDate>Wed, 18 Aug 2021 09:38:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[龙洲股份：转让上海金润二当家供应链管理有限公司50.09651%股权，作价1146万元；本次交易完成后，公司将不再持有上海金润二当家股权，上海金润二当家及其子公司不再纳入上市公司合并报表范围，上市公司主营业务将不再包括商业保理相关的业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2210107.d.html</link>
+            <guid>2284290</guid>
+            <pubDate>Wed, 18 Aug 2021 09:37:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【岳阳兴长：20万t/a烷基化及配套装置建成投产】岳阳兴长(000819)8月18日晚间公告，公司20万t/a烷基化装置及配套工程项目已完成建设并一次性投产成功，产品质量优良。该项目投产将有利于公司产业升级，提升公司在成品油调和市场的竞争力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3607510.d.html</link>
+            <guid>2284289</guid>
+            <pubDate>Wed, 18 Aug 2021 09:36:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中利集团：全资孙公司中利腾晖香港公司与买方Nautilus签署了《Master Solar Module Supply Agreement》，该合同下目前已签署总金额约1980万美元的订单，并已收到该笔订单金额18%的预付款，订单约定由中利腾晖香港公司向Nautilus销售约66MW光伏组件。]]></title>
+            <guid>2284288</guid>
+            <pubDate>Wed, 18 Aug 2021 09:36:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[湖南生育三孩费用纳入医保报销，可领生育津贴。（新湖南）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3607285.d.html</link>
+            <guid>2284286</guid>
+            <pubDate>Wed, 18 Aug 2021 09:35:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【远光九天（YG-JT）通过华为鲲鹏双重兼容性技术认证】近日，远光软件核心技术平台九天智能一体化云平台（YG-JT）通过了华为云鲲鹏云服务及华为云Stack8.0（鲲鹏）双重兼容性认证，进一步验证了远光九天平台的开放性、稳定性和高可靠性，标志着远光九天平台可以帮助企业实现“在国产化基础设施之上，使用国产化研发工具，开发国产化应用”的目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2209714.d.html</link>
+            <guid>2284285</guid>
+            <pubDate>Wed, 18 Aug 2021 09:35:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[远大控股：终止收购辽宁微科生物工程股份有限公司100%股权。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2209639.d.html</link>
+            <guid>2284284</guid>
+            <pubDate>Wed, 18 Aug 2021 09:34:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[湖南发展：自2021年8月1日起，湖南省电网装机容量在2.5万千瓦及以上、上网电价在0.3元/千瓦时及以上的水电项目上网电价每千瓦时降低0.01元；此次上网电价调整预计会导致公司2021年8月1日至12月31日的净利润减少约162.84万元。]]></title>
+            <guid>2284283</guid>
+            <pubDate>Wed, 18 Aug 2021 09:34:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金雷股份半年报：上半年净利2.68亿元 同比增长50%】金雷股份发布2021年半年度报告，实现营业收入8亿元，同比增长31.80%；归属于上市公司股东的净利润2.68亿元，同比增长49.58%。基本每股收益1.02元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2209096.d.html</link>
+            <guid>2284279</guid>
+            <pubDate>Wed, 18 Aug 2021 09:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【民航局对两个航班发出熔断指令】8月18日，民航局再发熔断指令，对中国国际航空公司CA432航班（法兰克福至成都）、四川航空公司3U8392航班（开罗至成都）实施熔断措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2208622.d.html</link>
+            <guid>2284277</guid>
+            <pubDate>Wed, 18 Aug 2021 09:30:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波导股份：公司未与荣耀手机有过商议，不存在荣耀手机借壳波导股份上市事项，公司也未代工生产荣耀手机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3605965.d.html</link>
+            <guid>2284275</guid>
+            <pubDate>Wed, 18 Aug 2021 09:29:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[塔利班官员：塔利班领导人计划在未来48小时内会见阿富汗前政府中有影响力的成员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2208187.d.html</link>
+            <guid>2284274</guid>
+            <pubDate>Wed, 18 Aug 2021 09:27:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[塔利班官员：现在说塔利班是否会在阿富汗新政府中纳入前政府成员还为时过早。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2208163.d.html</link>
+            <guid>2284273</guid>
+            <pubDate>Wed, 18 Aug 2021 09:27:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中环股份：惠州华星7.83MW屋顶分布式光伏项目并网发电】中环股份消息，8月17日9时58分，天津中环新能源有限公司惠州华星7.83MW屋顶布式光伏项目成功并网发电。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3605616.d.html</link>
+            <guid>2284272</guid>
+            <pubDate>Wed, 18 Aug 2021 09:27:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【汇添富美国子公司设立获批 公募龙头加快国际化业务布局】汇添富基金的第二家境外子公司——汇添富资产管理（美国）控股有限公司的设立正式获得证监会批准，标志着这家国内公募龙头在加速国际化布局的道路上又迈出重要一步。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2208060.d.html</link>
+            <guid>2284271</guid>
+            <pubDate>Wed, 18 Aug 2021 09:26:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中兴通讯：中标中国联通IPRAN产品集采项目】近日，中国联通公布2021年IPRAN产品集中采购结果，中兴通讯多业务分组平台ZXCTN 9000-EA系列、5G承载智慧接入ZXCTN 6000系列等产品成功中标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3605537.d.html</link>
+            <guid>2284270</guid>
+            <pubDate>Wed, 18 Aug 2021 09:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【必和必拓：中期看中国对铁矿石的需求将低于目前水平】必和必拓在8月17日公布的业绩和战略更新报告中表示，由于供应复苏滞后于下游需求改善，一些关键地区的钢材价格和利润率都达到了创纪录的水平。预计在2022财年期间（2021年7月至2022年6月），中国的终端用钢需求仍维持强劲，其他地区的需求也会复苏。必和必拓方面认为，从中期来看，由于粗钢产量停滞不前，加上废钢的使用量提升，预计中国对铁矿石的需求将低于目前的水平。从长期来看，预计价格将由澳大利亚或巴西的高生产成本决定，质量差异也是决定铁矿石价格的一个因素。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2207815.d.html</link>
+            <guid>2284268</guid>
+            <pubDate>Wed, 18 Aug 2021 09:25:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【监管就《证券行业诚信准则》征求意见 恶性压价、虚假宣传、诋毁同行等行为将受到惩戒】中证协近日就《证券行业诚信准则（征求意见稿）》向会员单位征求意见，证券公司、证券投资咨询公司、证券资信评级公司等行业机构应当尊重同行，公平竞争，自觉维护市场竞争秩序，坚决反对不正当竞争的行为；不以恶性压价、支付回扣、虚假宣传，或者贬损、诋毁其他机构等不正当手段招揽业务；不发表不当言论，贬损、诋毁其他同行，损害同行声誉和利益。 (中证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3605116.d.html</link>
+            <guid>2284266</guid>
+            <pubDate>Wed, 18 Aug 2021 09:24:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国生物制药(01177.HK)发布盈利预告：预期本集团截至二零二一年六月三十日止六个月期间的归属于母公司持有者应占盈利较去年同期增长超过500%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2207578.d.html</link>
+            <guid>2284265</guid>
+            <pubDate>Wed, 18 Aug 2021 09:24:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[独立研究：将沃尔玛百货(WMT.N)目标价从165美元升至170美元，评级买入。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2207445.d.html</link>
@@ -44,486 +485,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3604248.d.html</link>
             <guid>2284259</guid>
             <pubDate>Wed, 18 Aug 2021 09:20:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【教育部：新一轮“双一流”建设将调整认定 不搞平衡照顾】教育部官网公布了《对十三届全国人大四次会议第4114号建议的答复》。该答复中，谈及“推进京津冀高等教育协同发展”时，教育部提到，新一轮“双一流”建设，按照“以需求为导向、以学科为基础、以比选为手段、确保平稳推进”的路径进行调整认定，不搞平衡照顾。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3604148.d.html</link>
-            <guid>2284258</guid>
-            <pubDate>Wed, 18 Aug 2021 09:20:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福然德：上半年净利1.87亿元 同比增长66.26%】福然德(605050)8月18日晚间披露半年报，公司上半年实现营收44.99亿元，同比增长82.02%；净利润1.87亿元，同比增长66.26%；基本每股收益0.43元。福然德主要为中高端汽车、家电等行业企业或其配套厂商提供完整的钢材物流供应链服务，报告期内公司扩大业务辐射范围，同时汽车市场回暖，经营业绩稳步提升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3604087.d.html</link>
-            <guid>2284257</guid>
-            <pubDate>Wed, 18 Aug 2021 09:20:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[深圳燃气：股东新希望集团、南方希望拟合计减持不超过2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3603713.d.html</link>
-            <guid>2284255</guid>
-            <pubDate>Wed, 18 Aug 2021 09:18:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【仕佳光子：股东安阳惠通、惠通巨龙及惠通创盈拟清仓减持】仕佳光子公告，合计持股7.01%股东安阳惠通、惠通巨龙及惠通创盈拟清仓减持。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3603672.d.html</link>
-            <guid>2284254</guid>
-            <pubDate>Wed, 18 Aug 2021 09:17:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿富汗黎明电视台当地时间18日报道，有消息人士称，塔利班政治办公室成员阿纳斯·哈卡尼当天在阿富汗首都喀布尔同阿富汗前总统哈米德·卡尔扎伊及阿富汗民族和解高级委员会主席阿卜杜拉·阿卜杜拉以及其他政界人士会面。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3603578.d.html</link>
-            <guid>2284252</guid>
-            <pubDate>Wed, 18 Aug 2021 09:17:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【交通运输部：网络货运平台不得恶性低价竞争 】8月18日，在国务院政策例行吹风会上，交通运输部表示，围绕保障货车司机合法权益 ，各级交通运输部门都设置了12328交通运输服务监督电话。并会同相关部门以交通运输新业态协同监管部际联席会议名义，约谈了满帮、货拉拉、滴滴等平台企业，督促平台企业不得诱导货主不合理报价以及货车司机恶性低价竞争。（中国网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2206106.d.html</link>
-            <guid>2284251</guid>
-            <pubDate>Wed, 18 Aug 2021 09:17:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【兰剑智能：累计收到宁德时代及子公司合同金额1.48亿元】兰剑智能(688557)8月18日晚间公告，从2021年3月25日起至今，公司累计收到宁德时代及其子公司各类合同及定点通知单金额约1.48亿元（含税）。若销售合同顺利履行，预计将会对公司2021-2022年度业绩产生积极影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3603459.d.html</link>
-            <guid>2284250</guid>
-            <pubDate>Wed, 18 Aug 2021 09:16:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国长城：旗下长城信息中标天津银行网信一体机集成项目】近日，中国长城旗下企业长城信息成功中标天津银行专用网信一体机集成项目。此次中标的嘉翔HF726是由中国长城自主研发的全能型一体机，它基于国产FT-2000/4新四核处理器，搭配自研主板与整机，性能高效，自主安全。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2205995.d.html</link>
-            <guid>2284249</guid>
-            <pubDate>Wed, 18 Aug 2021 09:16:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微博(WB.O)美股盘前涨7%，Q2营收好于预期，预计Q3收入增长20%-25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2205846.d.html</link>
-            <guid>2284248</guid>
-            <pubDate>Wed, 18 Aug 2021 09:15:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Telsey Advisory：将沃尔玛百货(WMT.N)目标价从170美元升至175美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2205823.d.html</link>
-            <guid>2284247</guid>
-            <pubDate>Wed, 18 Aug 2021 09:15:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四方科技半年报：上半年净利7923.62万元 同比增长35%】四方科技发布2021年半年度报告，实现营业收入7.18亿元，同比增长29.30%；归属于上市公司股东的净利润7923.62万元，同比增长34.71%。基本每股收益0.26元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2205757.d.html</link>
-            <guid>2284246</guid>
-            <pubDate>Wed, 18 Aug 2021 09:15:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[东吴证券三日内累涨超28%，期内沪股通买入5.17亿元并卖出2.67亿元，东吴证券苏州大道西卖出3亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2205716.d.html</link>
-            <guid>2284245</guid>
-            <pubDate>Wed, 18 Aug 2021 09:15:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海昌新材：上半年净利4904.61万元 同比增106.44%】海昌新材(300885)8月18日晚间披露半年报，公司上半年实现营收1.61亿元，同比增长99.1%；净利润4904.61万元，同比增长106.44%；基本每股收益0.53元。海昌新材专注于粉末冶金制品，产品主要包括齿轮、轴承、齿轮箱、结构件等粉末冶金零部件，报告期公司营业收入及利润较上年同期继续保持一定幅度增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3602871.d.html</link>
-            <guid>2284243</guid>
-            <pubDate>Wed, 18 Aug 2021 09:13:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【凯赛生物半年报：上半年净利3.26亿元 同比增长58%】凯赛生物发布2021年半年度报告，实现营业收入10.14亿元，同比增长27.83%；归属于上市公司股东的净利润3.26亿元，同比增长58.12%。基本每股收益0.78元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3602763.d.html</link>
-            <guid>2284242</guid>
-            <pubDate>Wed, 18 Aug 2021 09:13:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[涂鸦智能(TUYA.N)：Q2 SaaS及其他收入340万美元，同比增长171.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3602724.d.html</link>
-            <guid>2284241</guid>
-            <pubDate>Wed, 18 Aug 2021 09:13:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[涂鸦智能(TUYA.N)：Q2 IoT PaaS业务收入0.769亿美元，同比增长164%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2205316.d.html</link>
-            <guid>2284240</guid>
-            <pubDate>Wed, 18 Aug 2021 09:13:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所公告：在8月13日，摩根大通(JPM.N)对万科企业(02202.HK)的持股比例从5.06%降至4.99%。]]></title>
-            <guid>2284239</guid>
-            <pubDate>Wed, 18 Aug 2021 09:12:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[涂鸦智能(TUYA.N)：Q2每ADS亏损0.07美元，市场预期亏损0.05美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3602655.d.html</link>
-            <guid>2284238</guid>
-            <pubDate>Wed, 18 Aug 2021 09:12:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[涂鸦智能(TUYA.N)：预计第三季度营收在0.83-0.86亿美元之间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2205240.d.html</link>
-            <guid>2284237</guid>
-            <pubDate>Wed, 18 Aug 2021 09:12:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[理想汽车(02015.HK)：2021年8月30日举行董事会会议，以考虑及通过本公司截至2021年6月30日止三个月的季度业绩及其发布，以及本公司截至2021年6月30日止六个月的中期业绩及其发布。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3602605.d.html</link>
-            <guid>2284236</guid>
-            <pubDate>Wed, 18 Aug 2021 09:12:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乘联会：8月第二周乘用车市场零售日均3.6万辆 同比降17%】乘联会：8月第二周的乘用车市场零售达到日均3.6万辆，同比下降17%，表现相对偏弱。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2204928.d.html</link>
-            <guid>2284234</guid>
-            <pubDate>Wed, 18 Aug 2021 09:11:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【青龙管业：中标2.32亿元输配水工程项目】青龙管业(002457)8月18日晚间公告，公司近日收到中标通知书，公司为银川都市圈中线供水工程输配水工程（第一批）项目所招BCCP管、PCP管、J-PCCP管和混凝土管中标单位。中标金额2.32亿元，约占公司2020年度营业总收入的11.24%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3602239.d.html</link>
-            <guid>2284233</guid>
-            <pubDate>Wed, 18 Aug 2021 09:10:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：过早判定塔利班的政权是错误的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3602121.d.html</link>
-            <guid>2284232</guid>
-            <pubDate>Wed, 18 Aug 2021 09:10:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【资金面持续宽松，银行间隔夜回购利率大幅下行至1.7%关口】 截至北京时间17:00，隔夜回购利率下行约24个基点，报1.7228%；7天期回购利率下行约10个基点，报2.0109%。彭博援引交易员称，今日早盘资金面十分宽松，隔夜和7天资金供给充足，可以跨月的14天资金报价也很低，下午3点后融出有所减少，资金面趋于均衡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3601956.d.html</link>
-            <guid>2284231</guid>
-            <pubDate>Wed, 18 Aug 2021 09:09:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[济川药业：全资子公司济川药业集团有限公司主要品种蒲地蓝消炎口服液将于2021年12月31日24时退出《黑龙江省基本医疗保险、工伤保险和生育保险药品目录》，药品调出前仍按原政策执行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2204393.d.html</link>
-            <guid>2284230</guid>
-            <pubDate>Wed, 18 Aug 2021 09:09:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：英国将努力团结国际社会解决塔利班的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3601791.d.html</link>
-            <guid>2284229</guid>
-            <pubDate>Wed, 18 Aug 2021 09:09:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：我们将根据塔利班的行动而不是言论来判断它。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2204286.d.html</link>
-            <guid>2284228</guid>
-            <pubDate>Wed, 18 Aug 2021 09:09:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【市场监管总局：网络餐饮平台应适当放宽配送时限】国务院新闻办公室于2021年8月18日（星期三）下午3时举行国务院政策例行吹风会，会上市场监管总局网络交易监督管理司司长庞锦提到：合理设定对外卖送餐员的绩效考核制度。平台应当合理确定订单数量、在线率等考核要素，适当放宽配送时限，不得通过算法等手段侵害劳动者的正当权益。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3601595.d.html</link>
-            <guid>2284226</guid>
-            <pubDate>Wed, 18 Aug 2021 09:08:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【先进数通：上半年净利1.07亿元 同比增长68.97%】先进数通(300541)8月18日晚间披露半年报，公司上半年实现营收21.95亿元，同比增长138.79%；净利润1.07亿元，同比增长68.97%；基本每股收益0.35元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2204039.d.html</link>
-            <guid>2284225</guid>
-            <pubDate>Wed, 18 Aug 2021 09:08:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上交所终止审核重塑股份科创板上市申请】上交所披露，因发行人撤回发行上市申请或者保荐人撤销保荐，上交所决定终止对上海重塑能源集团股份有限公司首次公开发行股票并在科创板上市的审核。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2203974.d.html</link>
-            <guid>2284224</guid>
-            <pubDate>Wed, 18 Aug 2021 09:07:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：必须接受阿富汗制度改革的现实。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3601213.d.html</link>
-            <guid>2284222</guid>
-            <pubDate>Wed, 18 Aug 2021 09:06:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小鹏汽车成立智能制造公司 经营范围含智能控制系统集成】天眼查App显示，8月16日，武汉小鹏智能制造有限公司成立，注册资本5000万元，经营范围含通用零部件制造；电力电子元器件制造；智能基础制造装备制造；专用设备制造；新能源汽车换电设施销售；智能控制系统集成等。该公司由小鹏汽车华中（武汉）有限公司全资控股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3601174.d.html</link>
-            <guid>2284221</guid>
-            <pubDate>Wed, 18 Aug 2021 09:06:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【吉利汽车：2025年销量目标365万辆 电动汽车占比超30%】吉利汽车集团制定了业务发展五年规划的纲要：到2025年，市场占有率位居中国品牌第一，销量达到365万辆（含极氪汽车），其中智能电动汽车占比超过30%。极氪汽车到2025年在高端电动汽车市场占有率居全球前三，销量达到65万辆。公司管理层将于近期对外解析五年规划具体内容。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3601022.d.html</link>
-            <guid>2284220</guid>
-            <pubDate>Wed, 18 Aug 2021 09:05:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【顾家家居：上半年净利7.72亿元 同比增34.15%】顾家家居(603816)8月18日晚间发布业绩快报，2021年半年度营业收入80.16亿元，同比增长64.89%；净利润7.72亿元，同比增长34.15%；基本每股收益1.23元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3600982.d.html</link>
-            <guid>2284219</guid>
-            <pubDate>Wed, 18 Aug 2021 09:05:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【奥普特：上半年净利1.43亿元 同比增79.53%】奥普特(688686)8月18日晚间披露半年报，公司2021年半年度实现营业收入3.92亿元，同比增长63.11%；净利润1.43亿元，同比增长79.53%；基本每股收益1.74元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2203426.d.html</link>
-            <guid>2284218</guid>
-            <pubDate>Wed, 18 Aug 2021 09:05:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[公布财报后，微博盘前涨1.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2203314.d.html</link>
-            <guid>2284217</guid>
-            <pubDate>Wed, 18 Aug 2021 09:05:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【辰欣药业：上半年净利1.83亿元 同比增长1.69%】辰欣药业公布2021年半年度报告，上半年实现营业收入约18.32亿元，同比增长10.46%；归属于上市公司股东的净利润约1.83亿元，同比增长1.69%。基本每股收益0.4元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2203210.d.html</link>
-            <guid>2284216</guid>
-            <pubDate>Wed, 18 Aug 2021 09:04:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：英国对阿富汗人民有着“长久的承诺”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2202951.d.html</link>
-            <guid>2284215</guid>
-            <pubDate>Wed, 18 Aug 2021 09:03:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微博第二季度净营收5.745亿美元，市场预估5.235亿美元；第二季度调整后EBITDA2.324亿美元，市场预估1.635亿美元。]]></title>
-            <guid>2284214</guid>
-            <pubDate>Wed, 18 Aug 2021 09:03:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元区7月份CPI环比-0.1%；预期为-0.1%。]]></title>
-            <guid>2284213</guid>
-            <pubDate>Wed, 18 Aug 2021 09:02:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元区7月份核心CPI同比上升0.7%；预期为0.7%。]]></title>
-            <guid>2284212</guid>
-            <pubDate>Wed, 18 Aug 2021 09:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元区7月CPI同比上升2.2%；初步数据为上升2.2%。]]></title>
-            <guid>2284211</guid>
-            <pubDate>Wed, 18 Aug 2021 09:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[宝胜股份公告，中标南方电网公司2021年配网材料第一批框架招标项目，采购金额约1.25亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2202130.d.html</link>
-            <guid>2284210</guid>
-            <pubDate>Wed, 18 Aug 2021 09:00:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克声称特斯拉100％回收废旧电池 专家反驳：不可能】在不久前发布的《2020年影响报告》中，特斯拉(TSLA.O)声称，该公司已经掌握了电动汽车制造中最难应对的环境挑战之一，可以百分之百回收废旧锂离子电池。对此，国外专业拆解机构IFixit首席执行官Kyle Wiens表示：“没有任何现代电池可以100%回收，至少胶粘剂和密封剂等就是不可回收材料。虽然电池回收行业正在进行创新，但要达到100%可回收的标准还需要大量的研发。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3599553.d.html</link>
-            <guid>2284209</guid>
-            <pubDate>Wed, 18 Aug 2021 08:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[滴滴美股盘前跌幅扩大至3%，交通运输部称将设定网约车平台抽成比例上限。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3599405.d.html</link>
-            <guid>2284208</guid>
-            <pubDate>Wed, 18 Aug 2021 08:59:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：法国总统马克龙，德国总理默克尔已就避免人道主义危机达成共识。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3599329.d.html</link>
-            <guid>2284207</guid>
-            <pubDate>Wed, 18 Aug 2021 08:58:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[滴滴美股盘前跌1.8%，交通运输部称将设定网约车平台抽成比例上限。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3599270.d.html</link>
-            <guid>2284206</guid>
-            <pubDate>Wed, 18 Aug 2021 08:58:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[顾家家居公告，上半年实现净利润7.7亿元，同比增长34.15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3599038.d.html</link>
-            <guid>2284205</guid>
-            <pubDate>Wed, 18 Aug 2021 08:57:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广济药业：上半年净利5971.96万元 同比增215%】广济药业披露2021年半年度报告，报告期内，公司实现营业收入3.23亿元，同比下降5.15%；归属于上市公司股东的净利润5971.96万元，同比增长215.20%；归属于上市公司股东的扣除非经常性损益的净利润3317.37元，同比增长82.21%；基本每股收益0.1736元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3598939.d.html</link>
-            <guid>2284204</guid>
-            <pubDate>Wed, 18 Aug 2021 08:56:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：仍预计“格蕾丝”今天晚些时候会成为飓风。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3598915.d.html</link>
-            <guid>2284202</guid>
-            <pubDate>Wed, 18 Aug 2021 08:56:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宁波联合半年报：上半年净利5930.16万元 同比下降81%】宁波联合公布2021年半年度报告，公司上半年实现营业收入约10.38亿元，同比下降49.37%；归属于上市公司股东的净利润约5930.16万元，同比下降80.97%。基本每股收益0.191元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2201410.d.html</link>
-            <guid>2284201</guid>
-            <pubDate>Wed, 18 Aug 2021 08:56:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：不认为部署英国军队打击塔利班是英国的选择。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3598621.d.html</link>
-            <guid>2284199</guid>
-            <pubDate>Wed, 18 Aug 2021 08:55:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：认为任何北约伙伴都想继续在阿富汗驻军的观点是种错觉。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3598586.d.html</link>
-            <guid>2284198</guid>
-            <pubDate>Wed, 18 Aug 2021 08:54:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：合作伙伴没有继续留在阿富汗的欲望。]]></title>
-            <guid>2284197</guid>
-            <pubDate>Wed, 18 Aug 2021 08:54:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[腾讯在德国法兰克福交易所涨1.05%，报47.6欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2201034.d.html</link>
-            <guid>2284196</guid>
-            <pubDate>Wed, 18 Aug 2021 08:54:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【realme全球手机用户突破1亿 推首款笔记本realme Book】Strategy Analytics最新数据显示，realme仅用37个月时间，成为全球最快达到1亿销量的智能手机品牌。与此同时，realme开始发力“1+5+T”AIoT战略，8月18日正式推出了首款笔记本电脑realme Book，4299元起。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2200961.d.html</link>
-            <guid>2284195</guid>
-            <pubDate>Wed, 18 Aug 2021 08:54:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【青海春天：上半年净亏损4971.26万元】青海春天公布2021年半年度报告，公司上半年实现营业收入约4704.64万元，同比增长39.81%；归属于上市公司股东的净利润为亏损4971.26万元；归属于上市公司股东的扣除非经常性损益的净利润为亏损5198.24万元；基本每股收益为亏损0.085元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2200877.d.html</link>
-            <guid>2284194</guid>
-            <pubDate>Wed, 18 Aug 2021 08:53:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：合作伙伴没有继续留在阿富汗的欲望。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3598346.d.html</link>
-            <guid>2284193</guid>
-            <pubDate>Wed, 18 Aug 2021 08:53:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【青龙管业：中标2.32亿元供水工程项目】青龙管业公告，中标银川都市圈中线供水工程输配水工程BCCP管、PCP管、J-PCCP管和混凝土管，中标价格2.32亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3598308.d.html</link>
-            <guid>2284192</guid>
-            <pubDate>Wed, 18 Aug 2021 08:53:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美力科技收问询函：要求说明标的公司产能及技术工艺能否满足公司客户需求及产能扩张需要】美力科技收到问询函，公司此前披露，拟收购北京大圆和江苏大圆各70%的股权。问询函要求说明标的公司产能达到盈亏平衡点的预计时间、维持盈亏平衡点所需的产能利用率水平，以及标的公司扭亏为盈是否具有可实现性；补充说明本次收购的标的公司产能及技术工艺能否有效利用，能否满足上市公司客户需求及产能扩张需要。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3598265.d.html</link>
-            <guid>2284191</guid>
-            <pubDate>Wed, 18 Aug 2021 08:53:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[吉利汽车极氪智能科技CEO安聪慧表示，到2025年，极氪销量将有望达到65万辆，在全球高端智能电动汽车市场的占有率达到全球前三。（新华财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3598233.d.html</link>
-            <guid>2284190</guid>
-            <pubDate>Wed, 18 Aug 2021 08:53:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中泰股份公告，部分董事、监事、高级管理人员及持股5%以上股东拟合计减持不超过2.6045%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3598011.d.html</link>
-            <guid>2284187</guid>
-            <pubDate>Wed, 18 Aug 2021 08:52:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【兰剑智能：累计收到宁德时代及子公司合同金额合计1.48亿元】兰剑智能公告，从2021年3月25日起至本公告披露日，公司累计收到宁德时代及其子公司各类合同及定点通知单金额合计约为1.48亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2200395.d.html</link>
-            <guid>2284186</guid>
-            <pubDate>Wed, 18 Aug 2021 08:51:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：没有美国的支持，西方无法继续在阿富汗执行任务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2200349.d.html</link>
-            <guid>2284185</guid>
-            <pubDate>Wed, 18 Aug 2021 08:51:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：英国方面考虑了留在阿富汗的选择。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2200308.d.html</link>
-            <guid>2284184</guid>
-            <pubDate>Wed, 18 Aug 2021 08:51:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【奥普特：半年度净利1.43亿元 同比增长80%】奥普特发布2021年半年度报告，实现营业收入3.92亿元，同比增长63.11%；归属于上市公司股东的净利润1.43亿元，同比增长79.53%；归属于上市公司股东的扣除非经常性损益的净利润1.29亿元，同比增长75.62%；基本每股收益1.7368元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2199878.d.html</link>
-            <guid>2284182</guid>
-            <pubDate>Wed, 18 Aug 2021 08:50:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海瀚讯：入选工信部专精特新“小巨人”企业名单】上海瀚讯公告，公司入选工信部第三批专精特新“小巨人”企业公示名单。公司主要从事军用宽带移动通信系统及战术通信设备的研制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2199839.d.html</link>
-            <guid>2284181</guid>
-            <pubDate>Wed, 18 Aug 2021 08:49:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【味知香半年报：上半年净利6142.04万元 同比增长17%】味知香公布2021年半年度报告，上半年实现营业收入约3.65亿元，同比增长31.39%；归属于上市公司股东的净利润约6142.04万元，同比增长17.37%。基本每股收益0.74元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2199632.d.html</link>
-            <guid>2284180</guid>
-            <pubDate>Wed, 18 Aug 2021 08:48:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：塔利班允许人员撤离阿富汗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3597110.d.html</link>
-            <guid>2284179</guid>
-            <pubDate>Wed, 18 Aug 2021 08:48:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：喀布尔的局势已经稳定，但仍存在危不确定性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2199556.d.html</link>
-            <guid>2284178</guid>
-            <pubDate>Wed, 18 Aug 2021 08:48:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深交所：永福股份跌幅严重异常期间 自然人买入占比达75%】据深交所披露，永福股份在8月13日至8月18日跌幅严重异常期间累计下跌46.93%，获自然人累计买入38.47亿元，占比75.01%；其中，中小投资者累计买入16.39亿元，占比31.96%。机构投资者累计买入12.82亿元，占比24.99%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2199501.d.html</link>
-            <guid>2284177</guid>
-            <pubDate>Wed, 18 Aug 2021 08:48:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【零跑科技完成45亿元融资 中金资本领投、杭州国资投资30亿元 】造车新势力零跑汽车主体零跑科技今日宣布完成新一轮融资，融资金额45亿元。本轮战略投资由中金资本领投，杭州国资、中信建投和中信戴卡等跟投。其中，杭州国资本轮投资金额30亿元，双方将围绕零跑新能源汽车项目展开合作。加上今年1月完成的B轮融资，零跑今年融资已超88亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2199455.d.html</link>
-            <guid>2284176</guid>
-            <pubDate>Wed, 18 Aug 2021 08:47:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福然德半年报：上半年净利1.87亿元 同比增长66%】福然德公布2021年半年度报告，上半年实现营业收入约44.99亿元，同比增长82.02%；归属于上市公司股东的净利润约1.87亿元，同比增长66.26%；基本每股收益0.43元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3596876.d.html</link>
-            <guid>2284175</guid>
-            <pubDate>Wed, 18 Aug 2021 08:47:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北元集团：半年度净利11.68亿元 同比增长61%】北元集团发布2021年半年度报告，实现实现营业收入60.32亿元，同比增长32.54%；归属于上市公司股东的净利润11.68亿元，同比增长61.05%；归属于上市公司股东的扣除非经常性损益的净利润11.55亿元，同比增长62.53%；基本每股收益0.32元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3596748.d.html</link>
-            <guid>2284174</guid>
-            <pubDate>Wed, 18 Aug 2021 08:46:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[腾讯控股：第二季度收入增长受商业服务和广告板块的推动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3596459.d.html</link>
-            <guid>2284172</guid>
-            <pubDate>Wed, 18 Aug 2021 08:45:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：阿富汗的事态发展比预期的要快。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3596344.d.html</link>
-            <guid>2284170</guid>
-            <pubDate>Wed, 18 Aug 2021 08:45:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：（当被问及对阿富汗行为的调查时）认为大多数问题已经解决了。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2198808.d.html</link>
-            <guid>2284169</guid>
-            <pubDate>Wed, 18 Aug 2021 08:45:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海昌新材：半年度净利4904.61万元 同比增106%】海昌新材发布2021年半年度报告，实现营业收入1.61亿元，同比增长99.10%；归属于上市公司股东的净利润4904.61万元，同比增长106.44%；归属于上市公司股东的扣除非经常性损益后的净利润4251.42万元，同比增长88.80%；基本每股收益0.5331元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3595775.d.html</link>
-            <guid>2284166</guid>
-            <pubDate>Wed, 18 Aug 2021 08:42:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[腾讯控股：社交及其他广告收入增长5%至人民币195亿元，部分被移动广告联盟广告收入减少所抵销，课后补习品类的广告投放因监管变化而减少。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3595726.d.html</link>
-            <guid>2284165</guid>
-            <pubDate>Wed, 18 Aug 2021 08:42:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[证监会同意山东隆华新材料股份有限公司、江苏新瀚新材料股份有限公司、开勒环境科技（上海）股份有限公司、邵阳维克液压股份有限公司、浙江君亭酒店管理股份有限公司、深圳市显盈科技股份有限公司在创业板IPO注册。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqcfncc3595691.d.html</link>
-            <guid>2284164</guid>
-            <pubDate>Wed, 18 Aug 2021 08:42:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江中药业半年报：上半年净利3.07亿元 同比增长14%】江中药业公布2021年半年度报告，公司上半年实现营业收入约12.66亿元，同比增长9.30%；归属于上市公司股东的净利润约3.07亿元，同比增长13.54%。基本每股收益0.49元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-18/detail-ikqciyzm2197904.d.html</link>
-            <guid>2284162</guid>
-            <pubDate>Wed, 18 Aug 2021 08:41:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
