@@ -4,11 +4,63 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 19 Aug 2021 17:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 18:27:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【证券日报头版：网约车平台们 该放弃高利润幻想了】证券日报发表评论文章称，网约车属于准公共服务供给，因为国家允许平台投放网约车加入公共交通行业，占用了稀缺的道路资源，要对公众负有安全责任，那么这些平台的服务价格就理应接受管理，不能以获取高额利润为首要目标。合规经营，保证安全，让乘客享受到品质服务，让司机获得应有的劳动报酬，让平台赚取合理的利润，实现乘客、司机与平台的三方共赢，这个行业才能走得更远、更长久。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3876082.d.html</link>
+            <guid>2286198</guid>
+            <pubDate>Thu, 19 Aug 2021 18:26:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务院：美国一夜之间大幅增加了有资格离开喀布尔的人数，包括美国公民、当地雇员、特别移民签证（SIV）申请人和其他阿富汗弱势群体。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2478457.d.html</link>
+            <guid>2286196</guid>
+            <pubDate>Thu, 19 Aug 2021 18:19:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  梅西百货(M.N)涨超20%，第二季度同比扭亏为盈；其他美股百货商店股跟涨，柯尔百货(KSS.N)涨7.2%，诺德斯特龙(JWN.N)涨4.3%。]]></title>
+            <guid>2286194</guid>
+            <pubDate>Thu, 19 Aug 2021 18:13:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[游戏平台Epic：谷歌曾考虑从腾讯手中购买部分本公司的股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3874554.d.html</link>
+            <guid>2286191</guid>
+            <pubDate>Thu, 19 Aug 2021 18:02:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞典SSAB：本公司生产出全球第一份与化石燃料无关的、而是100%氢能耗的钢铁产品，已将开始将其交付给客户沃尔沃。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3873554.d.html</link>
+            <guid>2286188</guid>
+            <pubDate>Thu, 19 Aug 2021 17:46:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Eros STX Global Corporation(ESGC.N)短线拉升，涨幅扩大至10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2476236.d.html</link>
+            <guid>2286187</guid>
+            <pubDate>Thu, 19 Aug 2021 17:44:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：Eros STX Global Corporation(ESGC.N)与亚马逊(AMZN.O)Prime Video共同扩大南非战略产出协议。]]></title>
+            <guid>2286186</guid>
+            <pubDate>Thu, 19 Aug 2021 17:43:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：尼日利亚将9月Bonny原油官方售价设定为较布伦特原油贴水31美分/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3873043.d.html</link>
+            <guid>2286185</guid>
+            <pubDate>Thu, 19 Aug 2021 17:38:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据悉，ValueAct认为，Fiserv旗下Clover部门价值300-450亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2475264.d.html</link>
+            <guid>2286184</guid>
+            <pubDate>Thu, 19 Aug 2021 17:31:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[现代汽车COO：芯片短缺情况将有所改善。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2474253.d.html</link>
@@ -296,54 +348,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2462050.d.html</link>
             <guid>2286100</guid>
             <pubDate>Thu, 19 Aug 2021 14:37:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国五角大楼：美国在喀布尔有5200多名士兵。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3859162.d.html</link>
-            <guid>2286099</guid>
-            <pubDate>Thu, 19 Aug 2021 14:36:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯天然气公司Gazprom：预计2021年产量将高于2019年水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2461962.d.html</link>
-            <guid>2286097</guid>
-            <pubDate>Thu, 19 Aug 2021 14:36:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哔哩哔哩高管解读2021年Q2财报：游戏和视频行业的监管今年未有明显变化】哔哩哔哩董事长兼CEO陈睿表示，我觉得过去几个月我并没有感觉到在游戏跟视频的这种监管政策方面有什么大的变化。然后我们一直觉得政府在这方面的监管是合适的，并且是科学的，而且行业里的厂商对于这些监管的方向也是认可。这个已经形成了一个行业的共识，所以我觉得整个行业的形势是积极的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2461511.d.html</link>
-            <guid>2286094</guid>
-            <pubDate>Thu, 19 Aug 2021 14:30:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[对于相机和摄影设备行业来说，智能手机摄影的兴起已经产生了毁灭性的影响。据由奥林巴斯、佳能和尼康等成员组成的日本行业组织CIPA的数据，2010年至2020年期间，全球相机出货量下降了93%，抹去了超过40年的增长。急剧下降的主要原因是内置镜头数码相机出货量的下降，在智能手机摄影兴起之前，摄影爱好者过去常常依赖这种相机类型。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3858631.d.html</link>
-            <guid>2286093</guid>
-            <pubDate>Thu, 19 Aug 2021 14:30:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【媒体：万达轻资产商管IPO前融资额提高至60亿美元】据悉，亚洲私募股权公司PAG将对万达轻资产商管投资约28亿美元，本次投资将使该公司上市前融资额达到约60亿美元。相关讨论仍在进行中，计划的细节仍有可能改变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2461045.d.html</link>
-            <guid>2286091</guid>
-            <pubDate>Thu, 19 Aug 2021 14:25:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：据悉亚洲私募股权公司PAG对万达商管的融资规模将提高至60亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2460659.d.html</link>
-            <guid>2286090</guid>
-            <pubDate>Thu, 19 Aug 2021 14:21:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【祁连山：拟11.73亿元投建新型干法水泥生产线产能置换项目】祁连山公告，公司今日审议通过了《关于建设夏河祁连山安多水泥有限公司年产120万吨熟料新型干法水泥生产线(带纯低温余热发电站)产能置换项目的议案》，投资金额11.73亿元。建设一条完整的年产120万吨熟料新型干法水泥生产线和一座额定功率为7.5MW的余热发电站，年产熟料120万吨，年产水泥145万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3857508.d.html</link>
-            <guid>2286087</guid>
-            <pubDate>Thu, 19 Aug 2021 14:19:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[汽车制造商Stellantis：由于半导体芯片短缺，将停止法国雷恩工厂的汽车生产，并停止索肖工厂的部分生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3857309.d.html</link>
-            <guid>2286085</guid>
-            <pubDate>Thu, 19 Aug 2021 14:17:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
