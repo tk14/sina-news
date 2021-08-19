@@ -4,11 +4,52 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 19 Aug 2021 18:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 19:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  Snap聘用Facebook老员工Konstantinos Papamiliadis，其将担任高级副总裁，以负责推进增强现实（AR）业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3877880.d.html</link>
+            <guid>2286213</guid>
+            <pubDate>Thu, 19 Aug 2021 19:02:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【亚马逊今夏市值蒸发2530亿美元 华尔街普遍看涨情绪受到考验】数据显示，总计55位给予亚马逊(AMZN.O)评级的分析师都建议客户买入该股。根据美国银行8月10日的报告，主动型基金经理现在比一年前更“超配”这只股票。 该股自7月初的高点已经下跌近14%，市值蒸发约2530亿美元，本周早些时候自6月份以来首次收于200日移动均线下方，现在股价低于年初时的水平。Bokeh Capital Advisors的创始人兼首席投资官Kim Forrest表示，“市场奖励增长，但现在看起来亚马逊没有用户增加支出或吸引更多用户的催化剂。”]]></title>
+            <guid>2286212</guid>
+            <pubDate>Thu, 19 Aug 2021 19:00:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：俄罗斯总统普京在与美国总统拜登的峰会上回绝了美国在中亚建立基地的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3877238.d.html</link>
+            <guid>2286209</guid>
+            <pubDate>Thu, 19 Aug 2021 18:49:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[利比亚国家石油公司：7月份石油销售总额达21亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2479784.d.html</link>
+            <guid>2286206</guid>
+            <pubDate>Thu, 19 Aug 2021 18:43:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股太空概念股齐挫，Maxar Technologies(MAXR.N)跌5%，维珍银河(SPCE.N)跌3.2%，波音(BA.N)跌3.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3876284.d.html</link>
+            <guid>2286203</guid>
+            <pubDate>Thu, 19 Aug 2021 18:30:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部发言人Kirby：美国就机场问题与塔利班“频繁沟通”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2479113.d.html</link>
+            <guid>2286202</guid>
+            <pubDate>Thu, 19 Aug 2021 18:29:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Epic：谷歌曾考虑从腾讯收购部分股份从而控制该公司】新近解密的法庭文件显示，EpicGames Inc.称，在其拒绝了谷歌提出的在Google Play应用商店推出重磅游戏Fortnite的建议之后，谷歌考虑过通过从腾讯收购Epic的部分股份从而控制该公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3876196.d.html</link>
+            <guid>2286201</guid>
+            <pubDate>Thu, 19 Aug 2021 18:28:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【证券日报头版：网约车平台们 该放弃高利润幻想了】证券日报发表评论文章称，网约车属于准公共服务供给，因为国家允许平台投放网约车加入公共交通行业，占用了稀缺的道路资源，要对公众负有安全责任，那么这些平台的服务价格就理应接受管理，不能以获取高额利润为首要目标。合规经营，保证安全，让乘客享受到品质服务，让司机获得应有的劳动报酬，让平台赚取合理的利润，实现乘客、司机与平台的三方共赢，这个行业才能走得更远、更长久。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3876082.d.html</link>
@@ -276,78 +317,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3861118.d.html</link>
             <guid>2286117</guid>
             <pubDate>Thu, 19 Aug 2021 14:58:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄罗斯卫星网：克里姆林宫方面表示，俄罗斯总统普京和意大利总理德拉基讨论了打击恐怖主义意识形态扩散的必要性，以及来自阿富汗的毒品威胁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2463869.d.html</link>
-            <guid>2286115</guid>
-            <pubDate>Thu, 19 Aug 2021 14:58:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新型储能装机规模飙涨6倍，储能行业站上风口】2021年以来，国家发改委、国家能源局密集出台了一系列有关储能的利好政策，储能行业的应用场景正在不断拓展。据不完全统计，2021年上半年，国内新增新型储能装机规模超过10GW，同比增长超600%，且装机规模较大的项目数量达34个，是去年的8.5倍，辐射全国12个省份。根据国家能源局的指导意见，预计2025年新型储能装机规模达3000万千瓦以上，接近当前新型储能装机规模的10倍。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2463667.d.html</link>
-            <guid>2286114</guid>
-            <pubDate>Thu, 19 Aug 2021 14:55:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯天然气公司Gazprom表示，预计到2021年，天然气平均出口价格将升至每1000立方米269.6美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2463498.d.html</link>
-            <guid>2286113</guid>
-            <pubDate>Thu, 19 Aug 2021 14:53:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  道指跌超200点，成分股雪佛龙跌3.9%，波音、卡特彼勒、陶氏化学至少跌2.2%，默沙东和联合健康则涨超1.0%，思科涨超2.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3860573.d.html</link>
-            <guid>2286112</guid>
-            <pubDate>Thu, 19 Aug 2021 14:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股部分内地教育股走低。高途跌6%，掌门教育跌5.3%，新东方跌3.8%，好未来跌3.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2463212.d.html</link>
-            <guid>2286111</guid>
-            <pubDate>Thu, 19 Aug 2021 14:50:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浦东发布知识产权发展十四五规划，将建自贸区版权服务中心】8月19日，《浦东新区知识产权发展“十四五”规划》（以下简称《规划》）发布。十四五”期间，浦东将重点推进六大项目。其中，中国（上海）自由贸易试验区版权服务中心建设提上议程。此项目将全面开展版权快速登记、快速监测、快速维权，深化公共版权服务创新、新型版权业务等试点，加强区域版权发展状况的分析、管理、监测，促进版权的运用。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3859939.d.html</link>
-            <guid>2286110</guid>
-            <pubDate>Thu, 19 Aug 2021 14:45:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国会警察局在推特上称，他们正在调查“当前存在的炸弹威胁”，人们应该避开国会图书馆周围的区域。目前一些国会办公楼已疏散，其他工作人员被要求在室内安全地点隐蔽。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3859801.d.html</link>
-            <guid>2286107</guid>
-            <pubDate>Thu, 19 Aug 2021 14:44:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[焦煤主连短线下挫，跌幅扩大至1.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3859692.d.html</link>
-            <guid>2286106</guid>
-            <pubDate>Thu, 19 Aug 2021 14:42:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国五角大楼：美国武装战斗机飞越喀布尔上空以确保局势安全。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2462516.d.html</link>
-            <guid>2286105</guid>
-            <pubDate>Thu, 19 Aug 2021 14:42:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国五角大楼：自8月14日以来，美国已经从喀布尔撤离了约7000人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2462071.d.html</link>
-            <guid>2286102</guid>
-            <pubDate>Thu, 19 Aug 2021 14:37:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国五角大楼：美国在过去一天疏散了超过2000人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3859179.d.html</link>
-            <guid>2286101</guid>
-            <pubDate>Thu, 19 Aug 2021 14:37:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯天然气公司Gazprom：旨在根据欧佩克+协议在下半年充分利用其市场份额。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2462050.d.html</link>
-            <guid>2286100</guid>
-            <pubDate>Thu, 19 Aug 2021 14:37:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
