@@ -4,11 +4,101 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 19 Aug 2021 15:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 16:35:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  日本加密数字货币交易所Liquid遭遇网络袭击，区块链分析公司Elliptic称，黑客从（部分）数字货币钱包盗窃了大约9700万美元。这是最近两周内第二起重大的加密数字货币网络盗窃事故。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2470542.d.html</link>
+            <guid>2286162</guid>
+            <pubDate>Thu, 19 Aug 2021 16:28:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国恒大ADR(EGRNY)跌15.1%，传恒大正在与小米谈判出售其电动汽车部门股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2469962.d.html</link>
+            <guid>2286161</guid>
+            <pubDate>Thu, 19 Aug 2021 16:22:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  微软将对Office 365企业版提价。（CNBC）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2469915.d.html</link>
+            <guid>2286160</guid>
+            <pubDate>Thu, 19 Aug 2021 16:21:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[智利化工矿业公司SQM CEO：本公司预计在2022年生产14万吨锂。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2469130.d.html</link>
+            <guid>2286157</guid>
+            <pubDate>Thu, 19 Aug 2021 16:10:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦贸易委员会（FTC）以3比2的投票通过了对Facebook的新投诉。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2467989.d.html</link>
+            <guid>2286151</guid>
+            <pubDate>Thu, 19 Aug 2021 15:57:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦贸易委员会（FTC）：美国联邦贸易委员会主席Lina Khan不会回避针对Facebook的调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2467794.d.html</link>
+            <guid>2286150</guid>
+            <pubDate>Thu, 19 Aug 2021 15:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯卫星网：消息人士称，塔利班领导人在喀布尔开始与阿富汗政治家就新政府问题进行会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3864818.d.html</link>
+            <guid>2286148</guid>
+            <pubDate>Thu, 19 Aug 2021 15:50:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ARK基金创始人Cathie Wood：加密技术、去中心化对金融业来说是一个巨大的挑战。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3864412.d.html</link>
+            <guid>2286146</guid>
+            <pubDate>Thu, 19 Aug 2021 15:45:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【蔚来车主联合声明发起人发声：不存在“个人利益”】蔚来车主林文钦车祸事件官方调查结果尚未公布，8月18日，一份《蔚来车主发布对NOP/NP系统认知的联合声明》在网上流传，此声明随即引发大量争议，不少蔚来车主认为自己被代表，他们质疑发起人林蔚，为何要在大量车主不知情的情况下发布此声明。8月19日晚，蔚来APP显示，截至20时49分，已有7844人参与《反对车主联合声明》。8月19日，蔚来车友《联合声明》发起人林蔚，与其他数位蔚来车友接受新京报贝壳财经记者采访。林蔚表示，用户信托是一个志愿者组织，做公益慈善，用户选举出来的志愿者，没有酬劳，就是社工，一年一人换人。没有任何个人利益。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2467206.d.html</link>
+            <guid>2286145</guid>
+            <pubDate>Thu, 19 Aug 2021 15:44:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股汽车制造商股普跌。Nikola、蔚来汽车跌超4%，丰田汽车、小牛电动、通用汽车、小鹏汽车跌超3%，福特汽车跌2.57%，特斯拉跌1.55%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3864328.d.html</link>
+            <guid>2286143</guid>
+            <pubDate>Thu, 19 Aug 2021 15:43:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ARK基金创始人Cathie Wood：我认为我们现在没有泡沫。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2466749.d.html</link>
+            <guid>2286141</guid>
+            <pubDate>Thu, 19 Aug 2021 15:37:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑土耳其里拉USD/TRY日内涨超1%，现报8.5419。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3863768.d.html</link>
+            <guid>2286140</guid>
+            <pubDate>Thu, 19 Aug 2021 15:35:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据悉，法国能源公司Engie SA正考虑以至少3亿美元出售对印尼（多个）地热项目的持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2466637.d.html</link>
+            <guid>2286139</guid>
+            <pubDate>Thu, 19 Aug 2021 15:35:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦贸易委员会（FTC）：Facebook维持其垄断地位的非法行为至今仍在继续，必须予以禁止。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3863396.d.html</link>
+            <guid>2286137</guid>
+            <pubDate>Thu, 19 Aug 2021 15:29:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Facebook(FB.O)跳水，现跌约0.2%，此前一度涨约0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3863325.d.html</link>
+            <guid>2286136</guid>
+            <pubDate>Thu, 19 Aug 2021 15:27:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美股部分芯片股走高。英伟达涨超5%，AMD涨2%，赛灵思涨1.7%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3862636.d.html</link>
@@ -260,114 +350,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2456248.d.html</link>
             <guid>2286064</guid>
             <pubDate>Thu, 19 Aug 2021 13:41:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[铁矿石主连跌幅收窄，现跌2%，此前一度跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2455921.d.html</link>
-            <guid>2286063</guid>
-            <pubDate>Thu, 19 Aug 2021 13:38:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[动力煤09合约直线拉涨，现涨超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3852767.d.html</link>
-            <guid>2286061</guid>
-            <pubDate>Thu, 19 Aug 2021 13:35:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔利班官员：我们不仅为外国人，也为阿富汗人提供安全出口通道。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3851678.d.html</link>
-            <guid>2286055</guid>
-            <pubDate>Thu, 19 Aug 2021 13:25:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔利班官员：我们正在防止阿富汗人、外国人和塔利班成员在机场发生任何形式的暴力、口头冲突。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2454375.d.html</link>
-            <guid>2286054</guid>
-            <pubDate>Thu, 19 Aug 2021 13:25:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【扬杰科技：上半年净利3.44亿元 同比增138.57%】扬杰科技(300373)8月19日晚间披露半年报，公司2021年半年度实现营业收入20.8亿元，同比增长82.93%；净利润3.44亿元，同比增长138.57%；基本每股收益0.68元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3851602.d.html</link>
-            <guid>2286053</guid>
-            <pubDate>Thu, 19 Aug 2021 13:24:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST麦趣: 上半年净利增23.19% 实现一二三产业协同】*ST麦趣(002719)19日晚披露半年报，上半年公司实现营业收入4.81亿元，同比增17.19%；净利润1093.81万元，同比增23.19%。公司以奶牛养殖深入产业链源头布局第一产业；以新疆乳品工厂、烘焙工厂，宁波烘焙工厂，北京烘焙工厂，形成大三角第二产业布局，为实现京津冀、江浙沪市场快速突破夯实基础；以新疆40家烘焙连锁、宁波178家烘焙连锁为基础，打造“天山牧场·鲜奶烘焙”全新经营模式。通过一滴奶打通一二三产，实现产业协同。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3851589.d.html</link>
-            <guid>2286052</guid>
-            <pubDate>Thu, 19 Aug 2021 13:24:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴基斯坦发生手榴弹袭击致5死30伤】巴基斯坦政府官员19日说，巴东部旁遮普省当天发生一起手榴弹袭击事件，造成至少5人死亡、30人受伤。旁遮普省巴哈瓦尔讷格尔地区助理专员布哈里称，一名犯罪嫌疑人当天在该地区朝参加阿舒拉节纪念活动的什叶派穆斯林人群投掷了手榴弹。袭击发生时，现场有超过400人。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3851568.d.html</link>
-            <guid>2286051</guid>
-            <pubDate>Thu, 19 Aug 2021 13:24:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄罗斯卫星网：联合国和国际援助机构呼吁捐助者帮助满足阿富汗8亿美元的资金缺口。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2453568.d.html</link>
-            <guid>2286050</guid>
-            <pubDate>Thu, 19 Aug 2021 13:18:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【工业富联：5000万参设东南数字化转型投资基金】8月19日晚，工业富联(601138)公告，公司拟以5000万元参与设立东南数字化转型投资（莆田）合伙企业（有限合伙），该基金是推动工业互联网与产业融合的重要举措，投资国内范围的传统产业数字化升级项目、基础产业数字化项目、行业数字化共性技术的企业，总投资规模10亿元。工业富联将通过参与东南数字化转型投资基金，探索在东南区域半导体相关的机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2453558.d.html</link>
-            <guid>2286049</guid>
-            <pubDate>Thu, 19 Aug 2021 13:18:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国高级官员及国际援助组织在联合声明中表示，呼吁为阿富汗提供人道主义援助并承诺会留下来转移人员。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3850742.d.html</link>
-            <guid>2286048</guid>
-            <pubDate>Thu, 19 Aug 2021 13:16:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国总统拜登将在美国当地时间周四与国会议员讨论其议程。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3850731.d.html</link>
-            <guid>2286047</guid>
-            <pubDate>Thu, 19 Aug 2021 13:16:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统在塔利班控制阿富汗的情况下表示，叙利亚和其它国家为美国造成更严峻的恐怖主义威胁。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2453007.d.html</link>
-            <guid>2286044</guid>
-            <pubDate>Thu, 19 Aug 2021 13:12:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【网传揭阳水厂路出现“红码”人员？官方：系一名次密接，正在集中隔离点接受观察】“揭阳发布”微信公众号8月19日消息，揭东区疾病预防控制中心通报，2021年8月18日网传李某某为健康码红码并提示密切接触者，位置疑似在水厂路附近。经核查此网传信息为李某某在微信聊天群聊天记录被转发。14日当晚，将李某某以次密接身份送揭东区集中隔离点接受隔离医学观察，目前体温、体征正常，已完成2次核酸检测，结果均为阴性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3850182.d.html</link>
-            <guid>2286043</guid>
-            <pubDate>Thu, 19 Aug 2021 13:11:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【亿利达：上半年净利3007.51万元 同比增138%】亿利达公布2021年半年度报告，公司上半年实现营业收入约9.06亿元，同比增长59.84%；归属于上市公司股东的净利润约3007.51万元，同比增长138.47%；归属于上市公司股东的扣除非经常性损益的净利润约2576.52万元，同比增长741.64%；基本每股收益0.0531元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3850143.d.html</link>
-            <guid>2286042</guid>
-            <pubDate>Thu, 19 Aug 2021 13:11:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国、法国和德国敦促伊朗尽快回到维也纳的谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3850002.d.html</link>
-            <guid>2286041</guid>
-            <pubDate>Thu, 19 Aug 2021 13:10:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【深信服：半年度净亏损1.33亿元】深信服发布2021年半年度报告，实现营业收入25.86亿元，同比增长48.26%；归属于上市公司股东的净利润亏损1.33亿元，上年同期为亏损1.26亿元；归属于上市公司股东的扣除非经常性损益后的净利润亏损1.96亿元；基本每股亏损0.33元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2452624.d.html</link>
-            <guid>2286040</guid>
-            <pubDate>Thu, 19 Aug 2021 13:10:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【怡合达：半年度净利1.97亿元 同比增63%】怡合达发布2021年半年度报告，实现营业收入8.52亿元，同比增长59.09%；归属于上市公司股东的净利润1.97亿元，同比增长62.50%；归属于上市公司股东的扣除非经常性损益后的净利润1.93亿元，同比增长66.85%；基本每股收益0.55元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2452299.d.html</link>
-            <guid>2286037</guid>
-            <pubDate>Thu, 19 Aug 2021 13:07:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国，法国和德国表示，伊朗必须停止所有违反联合全面行动计划的行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2452041.d.html</link>
-            <guid>2286036</guid>
-            <pubDate>Thu, 19 Aug 2021 13:05:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
