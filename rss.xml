@@ -4,11 +4,65 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 19 Aug 2021 19:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 20:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  Farfetch(FTCH.N)：第二季度数字平台商品交易总额（GMV）同比增长40%，较2019年同期增长89%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2484808.d.html</link>
+            <guid>2286229</guid>
+            <pubDate>Thu, 19 Aug 2021 20:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Farfetch(FTCH.N)：2021年Q2每股亏损0.31美元，市场预期亏损0.42美元，去年同期亏损1.29美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3881855.d.html</link>
+            <guid>2286228</guid>
+            <pubDate>Thu, 19 Aug 2021 20:20:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据叙利亚国家电视台：叙利亚防空系统瞄准了大马士革上空的敌方目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3881842.d.html</link>
+            <guid>2286227</guid>
+            <pubDate>Thu, 19 Aug 2021 20:20:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  应用材料(AMAT.O)盘后涨0.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3881046.d.html</link>
+            <guid>2286226</guid>
+            <pubDate>Thu, 19 Aug 2021 20:04:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  应用材料(AMAT.O)：2021财年Q3每股盈利1.87美元，市场预期1.74美元，去年同期0.91美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3881043.d.html</link>
+            <guid>2286225</guid>
+            <pubDate>Thu, 19 Aug 2021 20:04:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据美国证券交易委员会文件：知名招聘科技公司iCIMS递交美国IPO申请，拟筹资至多1亿美元。公司已选择摩根士丹利、摩根大通、花旗、巴克莱、瑞士信贷等多家大行作为此次IPO的承销商。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2483687.d.html</link>
+            <guid>2286223</guid>
+            <pubDate>Thu, 19 Aug 2021 19:58:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【9家基金公司上半年业绩揭晓 招商基金净利7.84亿元暂领先】随着2021年上市公司半年报陆续披露，9家控股参股的公募基金公司上半年经营情况浮出水面。盈利榜单排名暂为：招商基金、诺安基金、万家基金、永赢基金、鑫元基金、东吴基金、浙商基金、东海基金和南华基金。作为头部公募基金公司，今年上半年招商基金资管业务总规模增长2552.17亿元，强势突破万亿元大关，达到12139.78亿元，实现净利润7.84亿元，同比增幅更是高达75%，规模和业绩暂时领先。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3879955.d.html</link>
+            <guid>2286221</guid>
+            <pubDate>Thu, 19 Aug 2021 19:36:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【A股连续22日成交破万亿 北上资金加仓15只绩优股】在过去的22个交易日（7月21日至8月19日），沪深两市成交额连续突破万亿，市场火爆可见一斑，连续突破万亿成交的持续天数位居历史第三位。持续天数前两名均出现在2015年且都超过25天。在近22个交易日内，北上资金加仓流通盘0.3个百分点以上、估值低于30倍、半年报净利润增幅30%以上(含预增下限)、股价涨幅跑输大盘的个股仅有15只，加仓股大多属于传统周期性行业，包括万华化学、河钢资源、宁波华翔等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3879834.d.html</link>
+            <guid>2286219</guid>
+            <pubDate>Thu, 19 Aug 2021 19:35:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克金龙中国指数跌超5%，中概股多数走低。贝壳跌15.3%，高途跌13.2%，老虎证券跌12%，拼多多跌7.6%，阿里巴巴跌6.5%，哔哩哔哩、蔚来汽车跌约6%，京东跌5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3879729.d.html</link>
+            <guid>2286218</guid>
+            <pubDate>Thu, 19 Aug 2021 19:32:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  Snap聘用Facebook老员工Konstantinos Papamiliadis，其将担任高级副总裁，以负责推进增强现实（AR）业务。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3877880.d.html</link>
@@ -275,48 +329,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2465361.d.html</link>
             <guid>2286130</guid>
             <pubDate>Thu, 19 Aug 2021 15:15:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国防部发言人Kirby：不清楚有多少美国人仍滞留在阿富汗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3862454.d.html</link>
-            <guid>2286129</guid>
-            <pubDate>Thu, 19 Aug 2021 15:14:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【创业板上市委：何氏眼科等三公司首发获通过】创业板上市委公告，辽宁何氏眼科医院集团股份有限公司、安徽铜冠铜箔集团股份有限公司、广州凡拓数字创意科技股份有限公司首发获通过。另外，武汉回盛生物科技股份有限公司向不特定对象发行可转债获通过。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2465159.d.html</link>
-            <guid>2286128</guid>
-            <pubDate>Thu, 19 Aug 2021 15:12:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国恒大、恒大物业在港交所公告，将于8月31日（星期二）举行董事会会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3862074.d.html</link>
-            <guid>2286127</guid>
-            <pubDate>Thu, 19 Aug 2021 15:09:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  淡水河谷纽交所股价跌幅收窄至不足5.8%，脱离日低18.11美元，公诉人关于没收该公司与必和必拓资产的要求被法官驳回。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3862048.d.html</link>
-            <guid>2286126</guid>
-            <pubDate>Thu, 19 Aug 2021 15:08:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿富汗塔利班发言人：阿富汗新政府组建预计很快完成】8月19日，CGTN主持人专访了阿富汗塔利班发言人苏海尔·沙欣。在谈及塔利班未来的建国目标和计划时，沙欣表示：“当下各方一直在商议组建新政府的事宜，塔利班方面以毛拉阿卜·杜勒加尼·巴拉达尔领衔的谈判代表团前往坎大哈省就是为了和各方协商，以期成立一个开放、包容的伊斯兰政府，预计很快就会完成。”（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3862010.d.html</link>
-            <guid>2286125</guid>
-            <pubDate>Thu, 19 Aug 2021 15:08:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[京东跌超5%，今日港股收跌2.68%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3861728.d.html</link>
-            <guid>2286123</guid>
-            <pubDate>Thu, 19 Aug 2021 15:05:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国金融时报：币安面临迄今最大规模索赔诉讼】据英国金融时报，因今年早些时候加密货币市场动荡期间服务中断而寻求币安赔偿的交易者，已经获得资金支持，准备向该交易所发起迄今规模最大的法律战之一。瑞士诉讼融资公司Liti Capital已承诺，将为针对币安发起的国际仲裁案提供至少500万美元资金，并已聘请纽约伟凯律师事务所代表投资人。由来自乌克兰、澳大利亚、法国、美国等国的6名投资人组成的初始团体表示，他们向该交易所提出的索赔总额超过2000万美元，并且希望再联合数百名交易者。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3861118.d.html</link>
-            <guid>2286117</guid>
-            <pubDate>Thu, 19 Aug 2021 14:58:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
