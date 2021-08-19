@@ -4,11 +4,65 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 19 Aug 2021 20:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 21:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[路透调查：预计新西兰房价在2021年平均上涨20.0%，在2022年和2023年平均上涨2.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2486631.d.html</link>
+            <guid>2286239</guid>
+            <pubDate>Thu, 19 Aug 2021 21:07:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[路透调查：8位分析师中有7位认为新西兰未来两三年的住房负担能力将维持不变或继续恶化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2486626.d.html</link>
+            <guid>2286238</guid>
+            <pubDate>Thu, 19 Aug 2021 21:07:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国7月PPI年率录得7.1%，为2011年6月以来最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3883489.d.html</link>
+            <guid>2286237</guid>
+            <pubDate>Thu, 19 Aug 2021 21:01:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国7月PPI年率公布 7.1%，前值 6.40%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3883483.d.html</link>
+            <guid>2286236</guid>
+            <pubDate>Thu, 19 Aug 2021 21:01:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国7月PPI月率公布 0.7%，前值 0.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3883479.d.html</link>
+            <guid>2286235</guid>
+            <pubDate>Thu, 19 Aug 2021 21:01:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一件道具24.8万元天价？ 网易游戏定价机制引质疑】一则“24.8w天价时装”的消息，让网易游戏旗下的武侠RPG手游《一梦江湖》最近过得并不太平。对于持续难消的争议，尽管网易游戏方面回应北京商报记者称，该说法不是事实，玩家可用相关积分兑换道具，但并非所有玩家均对此买账。现如今在TapTap上，已有超3000条评价直指《一梦江湖》“过度氪金”，还有不少玩家指出网易游戏此前推出的《明日之后》等其他游戏在付费设置上同样也存不合理之处，这令网易游戏的定价机制持续受到质疑。（北京商报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3882925.d.html</link>
+            <guid>2286234</guid>
+            <pubDate>Thu, 19 Aug 2021 20:43:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲药品管理局（EMA）确认吉利德科学（GILD）艾滋病衣壳抑制剂lenacapavir的营销授权许可。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3882568.d.html</link>
+            <guid>2286232</guid>
+            <pubDate>Thu, 19 Aug 2021 20:33:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Farfetch(FTCH.N)盘后一度涨5%，现涨幅收窄至0.68%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3882267.d.html</link>
+            <guid>2286231</guid>
+            <pubDate>Thu, 19 Aug 2021 20:28:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Farfetch(FTCH.N)：预计第三季度数字平台GMV同比增长约30%，2021全年数字平台GMV同比增长35%至40%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2485015.d.html</link>
+            <guid>2286230</guid>
+            <pubDate>Thu, 19 Aug 2021 20:25:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  Farfetch(FTCH.N)：第二季度数字平台商品交易总额（GMV）同比增长40%，较2019年同期增长89%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2484808.d.html</link>
@@ -299,36 +353,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3863768.d.html</link>
             <guid>2286140</guid>
             <pubDate>Thu, 19 Aug 2021 15:35:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据悉，法国能源公司Engie SA正考虑以至少3亿美元出售对印尼（多个）地热项目的持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2466637.d.html</link>
-            <guid>2286139</guid>
-            <pubDate>Thu, 19 Aug 2021 15:35:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦贸易委员会（FTC）：Facebook维持其垄断地位的非法行为至今仍在继续，必须予以禁止。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3863396.d.html</link>
-            <guid>2286137</guid>
-            <pubDate>Thu, 19 Aug 2021 15:29:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Facebook(FB.O)跳水，现跌约0.2%，此前一度涨约0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3863325.d.html</link>
-            <guid>2286136</guid>
-            <pubDate>Thu, 19 Aug 2021 15:27:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股部分芯片股走高。英伟达涨超5%，AMD涨2%，赛灵思涨1.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqcfncc3862636.d.html</link>
-            <guid>2286131</guid>
-            <pubDate>Thu, 19 Aug 2021 15:17:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据意大利安莎通讯社：意大利将就阿富汗问题召开20国集团特别领导人峰会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2465361.d.html</link>
-            <guid>2286130</guid>
-            <pubDate>Thu, 19 Aug 2021 15:15:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
