@@ -4,11 +4,65 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 20 Aug 2021 16:35:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 17:25:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[兴业证券：给予哔哩哔哩港股买入的初始评级，目标价980港元，较其周五收盘价494港元有98%的上涨空间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2680002.d.html</link>
+            <guid>2287264</guid>
+            <pubDate>Fri, 20 Aug 2021 17:08:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[贝克休斯油服：美国钻井公司连续第三周增加石油和天然气钻井平台。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2679622.d.html</link>
+            <guid>2287261</guid>
+            <pubDate>Fri, 20 Aug 2021 17:04:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至8月20日当周总钻井总数公布 503口，前值 500口，预期 504口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2679428.d.html</link>
+            <guid>2287260</guid>
+            <pubDate>Fri, 20 Aug 2021 17:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至8月20日当周天然气钻井总数公布 97口，前值 102口，预期 103口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4077152.d.html</link>
+            <guid>2287259</guid>
+            <pubDate>Fri, 20 Aug 2021 17:01:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥能源部长：墨西哥正在审查石油贸易公司的不当行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2679258.d.html</link>
+            <guid>2287256</guid>
+            <pubDate>Fri, 20 Aug 2021 16:59:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国政府官员：在短暂的暂停之后，美军指挥官下令重启从阿富汗撤离的航班。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4076693.d.html</link>
+            <guid>2287255</guid>
+            <pubDate>Fri, 20 Aug 2021 16:54:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据路透社计算，9月份俄罗斯脱机初级炼油产能较此前计划上调4.2%，至336.5万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4076225.d.html</link>
+            <guid>2287253</guid>
+            <pubDate>Fri, 20 Aug 2021 16:48:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯月球探测计划将被推迟至2022年】俄罗斯国家航天集团8月20日宣布，该国月球探测计划将从2021年推迟至2022年。按计划，2021年俄罗斯航天部门应发射月球-25极地着陆器，但该部门决定对着陆器进行额外检修。早在2014年，俄罗斯航天部门就计划发射月球-25着陆器，验证用于后续探测任务的月面软着陆技术，并承担月球科学探测任务，对月表风化层和局部外逸层进行探测。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2677918.d.html</link>
+            <guid>2287251</guid>
+            <pubDate>Fri, 20 Aug 2021 16:42:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：美国环境保护署建议白宫将生物燃料混合要求降低到2020年的水平以下。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2677433.d.html</link>
+            <guid>2287250</guid>
+            <pubDate>Fri, 20 Aug 2021 16:36:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  数字营销公司Vinco Ventures(BBIG.O)盘中拉升涨近30%，此前与该公司达成合并协议的数字内容分发公司Zash Global主席Ted Farnsworth强调将在 "未来几天内 "发布股东委托书。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4074677.d.html</link>
@@ -312,71 +366,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2666587.d.html</link>
             <guid>2287167</guid>
             <pubDate>Fri, 20 Aug 2021 14:27:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：防止（阿富汗）恐怖分子进入邻国很重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc4064238.d.html</link>
-            <guid>2287166</guid>
-            <pubDate>Fri, 20 Aug 2021 14:26:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：希望塔利班兑现其恢复阿富汗秩序的承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2666456.d.html</link>
-            <guid>2287165</guid>
-            <pubDate>Fri, 20 Aug 2021 14:25:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：塔利班控制了俄罗斯的大部分地区，我们需要接受这一现实。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc4064121.d.html</link>
-            <guid>2287163</guid>
-            <pubDate>Fri, 20 Aug 2021 14:25:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：其他国家不能把他们的价值观强加给阿富汗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc4064057.d.html</link>
-            <guid>2287161</guid>
-            <pubDate>Fri, 20 Aug 2021 14:24:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Lordstown Motors(RIDE.O)涨超10%。其他新能源汽车股跟涨，Nikola(NKLA.O)涨6.7%，小鹏汽车(XPEV.N)涨5.8%，理想汽车(LI.O)、小牛电动(NIU.O)涨超4%，蔚来汽车(NIO.N)、图森未来(TSP.O)涨超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2666244.d.html</link>
-            <guid>2287159</guid>
-            <pubDate>Fri, 20 Aug 2021 14:23:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄罗斯卫星网：俄罗斯总统普京在和德国总理默克尔会面后表示，会谈在建设性的务实气氛中进行，讨论了发展关系的前景。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2666211.d.html</link>
-            <guid>2287158</guid>
-            <pubDate>Fri, 20 Aug 2021 14:23:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄罗斯卫星网：俄罗斯总统普京将于周一会见约旦国王。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc4063797.d.html</link>
-            <guid>2287156</guid>
-            <pubDate>Fri, 20 Aug 2021 14:22:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国外长马斯：位于德国的美国拉姆施泰因空军基地将被临时用于从阿富汗运送人员到美国。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2665993.d.html</link>
-            <guid>2287155</guid>
-            <pubDate>Fri, 20 Aug 2021 14:21:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【兴业银行获批发行不超过500亿元A股可转债】 兴业银行8月20日发布公告称，该行当日收到《中国银保监会关于兴业银行公开发行A股可转换公司债券的批复》，同意该行公开发行不超过人民币500亿元的A股可转换公司债券，在转股后按照相关监管要求计入核心一级资本。该行将依照相关法律法规，向中国证券监督管理委员会等监管机构履行公开发行A股可转换公司债券的申报程序，并依法履行相应的信息披露义务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2665959.d.html</link>
-            <guid>2287154</guid>
-            <pubDate>Fri, 20 Aug 2021 14:21:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【英国反垄断当局称有必要深入调查英伟达与Arm的合并交易】英国竞争与市场管理局（CMA）发布声明称，该局认定基于竞争理由，有必要对英伟达与Arm达成的交易进行深入调查。]]></title>
-            <guid>2287153</guid>
-            <pubDate>Fri, 20 Aug 2021 14:21:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 英伟达(NVDA.O)延续昨日涨势，现涨超3%，昨日收涨近4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc4063647.d.html</link>
-            <guid>2287151</guid>
-            <pubDate>Fri, 20 Aug 2021 14:21:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
