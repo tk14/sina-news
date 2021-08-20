@@ -4,11 +4,89 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 20 Aug 2021 19:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 20:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美股大类资产ETF涨跌各异，罗素2000指数ETF涨约1.7%，纳指100ETF涨超1%，巴克莱美国可转债ETF、标普500ETF涨0.8%，道指ETF涨超0.6%，恐慌指数做多跌超7.5%，美国布伦特原油基金跌超2.8%，大豆基金跌2%，农产品基金跌1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2688659.d.html</link>
+            <guid>2287311</guid>
+            <pubDate>Fri, 20 Aug 2021 20:21:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股行业ETF全线收涨，区域银行ETF涨约2%，银行业ETF涨约1.7%，科技行业ETF涨超1.2%，公用事业ETF涨约1.2%，网络股指数ETF涨超1%，全球科技股指数ETF涨1%，日常消费品ETF以将近0.2%的涨幅垫底。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2688470.d.html</link>
+            <guid>2287309</guid>
+            <pubDate>Fri, 20 Aug 2021 20:16:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[本周标普500指数跌0.59%，道指跌1.12%，纳指跌0.73%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4085709.d.html</link>
+            <guid>2287306</guid>
+            <pubDate>Fri, 20 Aug 2021 20:03:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：美国总统拜登计划提名奥巴马时期的白宫幕僚长Rahm Emanuel担任美国驻日本大使。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2687930.d.html</link>
+            <guid>2287305</guid>
+            <pubDate>Fri, 20 Aug 2021 20:02:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至8月17日当周，美元投机性净多头押注减少至10.6亿美元，前一周为30.8亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4085368.d.html</link>
+            <guid>2287303</guid>
+            <pubDate>Fri, 20 Aug 2021 19:53:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国竞争和市场管理局（CMA）认为英伟达收购ARM存在竞争担忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2687363.d.html</link>
+            <guid>2287302</guid>
+            <pubDate>Fri, 20 Aug 2021 19:44:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  香港药物开发商Regencell Bioscience(RGC.O)尾盘大涨约252%，盘中多次触发熔断，一度涨至26美元创历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2687298.d.html</link>
+            <guid>2287301</guid>
+            <pubDate>Fri, 20 Aug 2021 19:42:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至8月月17日当周，NYMEX、ICE市场的天然气期货投机性净多头持仓减少64174手至261471手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2686787.d.html</link>
+            <guid>2287299</guid>
+            <pubDate>Fri, 20 Aug 2021 19:34:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至8月17日当周，投机者将CBOT美国10年期国债期货合约净多头头寸增加36407手至145216手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4084471.d.html</link>
+            <guid>2287298</guid>
+            <pubDate>Fri, 20 Aug 2021 19:32:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至8月17日当周，COMEX铜期货投机性净多头头寸减少12022手至19944手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2686714.d.html</link>
+            <guid>2287297</guid>
+            <pubDate>Fri, 20 Aug 2021 19:31:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至8月17日当周，COMEX白银期货投机性净多头头寸减少2147手至9758手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2686711.d.html</link>
+            <guid>2287296</guid>
+            <pubDate>Fri, 20 Aug 2021 19:31:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部：从阿富汗撤离的飞机今天将降落在德国。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4084326.d.html</link>
+            <guid>2287293</guid>
+            <pubDate>Fri, 20 Aug 2021 19:29:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[洲际交易所ICE：上周布伦特原油期货投机性净多头头寸减少24528手至254818手合约。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4084324.d.html</link>
+            <guid>2287292</guid>
+            <pubDate>Fri, 20 Aug 2021 19:28:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【谷歌宣布解散健康部门Google Health 主管9月1日离职】据报道，谷歌(GOOG.O、GOOGL.O)将解散其健康部门Google Health，该部门主管David Feinberg将于9月1日离职。一份内部备忘录显示，Google Health旗下的项目和团队将被分散到谷歌的不同部门。今年6月份，谷歌已经对Google Health进行了重组，大约130名员工被转移到其他部门。电子病历巨头Cerner公司今日宣布，Feinberg将加盟该公司，出任CEO兼总裁。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2685812.d.html</link>
@@ -264,77 +342,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc4068558.d.html</link>
             <guid>2287213</guid>
             <pubDate>Fri, 20 Aug 2021 15:10:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RealPage数据显示，美国7月新签租约租金上涨17%，达到历史最高水平。分析认为，随着美国房价不断飙升，无法负担高昂房价的潜在用户正被迫回到租房市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc4067273.d.html</link>
-            <guid>2287205</guid>
-            <pubDate>Fri, 20 Aug 2021 14:57:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【紫光股份：旗下新华三中标中国石化信息类硬件设备框架招标项目】近日，中国石化2021-2022年信息类硬件设备框架招标项目公布中标结果，紫光股份旗下新华三集团成功中标中国石化网络、服务器、安全网关、入侵防御、光纤交换机、虚拟磁带库6类设备框架，全面涵盖路由、交换、智能运维、安全、计算、存储共计40余款主流产品型号。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc4067220.d.html</link>
-            <guid>2287204</guid>
-            <pubDate>Fri, 20 Aug 2021 14:56:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  ContextLogic(WISH.O)涨超10%，报6.92美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2669472.d.html</link>
-            <guid>2287203</guid>
-            <pubDate>Fri, 20 Aug 2021 14:55:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【科创板和创业板IPO承销规范券拟修订 投价报告不再要求给出每股估值区间】记者从券商处获悉，监管层近日向各证券公司就《科创板和创业板首次公开发行股票承销规范（修订征求意见稿）》征求意见，相关反馈于下周一上报。值得注意的是，本次修订征求意见稿对投资价值研究报告的有关要求进行调整，一是不再要求投资价值研究报告给出发行人本次发行的每股估值区间；二是不再要求所有主承销商撰写投资价值研究报告，仅对牵头主承销商提出相关要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc4067060.d.html</link>
-            <guid>2287202</guid>
-            <pubDate>Fri, 20 Aug 2021 14:55:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【券商投行执业质量将实行ABC分类评价 结果拟纳入执业声誉约束机制】记者从券商处获悉，监管层近日下发《证券公司投行业务执业质量评价办法（试行）（征求意见稿）》，券商需下周一前提交反馈意见。评价范围内的证券公司和项目的执业质量评价结果分为A类、B类、C类三个等级。监管层可根据执业质量评价结果对证券公司在保荐代表人管理、现场检查和非现场检查频率等方面实行区别对待，并将执业质量评价结果纳入证券行业执业声誉约束机制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc4067036.d.html</link>
-            <guid>2287201</guid>
-            <pubDate>Fri, 20 Aug 2021 14:54:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北约秘书长斯托尔滕贝格：几个盟友要求延长喀布尔机场的时间表。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2669259.d.html</link>
-            <guid>2287200</guid>
-            <pubDate>Fri, 20 Aug 2021 14:53:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国总理默克尔：现在必须设法与塔利班对话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2669255.d.html</link>
-            <guid>2287199</guid>
-            <pubDate>Fri, 20 Aug 2021 14:52:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄罗斯卫星网：俄罗斯总统普京评价美国、北约在阿富汗行动的结果称，行动不能称之为成功，但称其失败也不符合俄罗斯的利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2669101.d.html</link>
-            <guid>2287197</guid>
-            <pubDate>Fri, 20 Aug 2021 14:51:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：俄罗斯寻求阿富汗局势正常化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc4066534.d.html</link>
-            <guid>2287196</guid>
-            <pubDate>Fri, 20 Aug 2021 14:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：飓风“格蕾丝”位于墨西哥韦拉克鲁斯东北约155英里（250公里）；最大持续风速85英里/小时（140公里/小时）。]]></title>
-            <guid>2287194</guid>
-            <pubDate>Fri, 20 Aug 2021 14:49:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：纠缠于美国在阿富汗的行动结果不符合俄罗斯的利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2668789.d.html</link>
-            <guid>2287193</guid>
-            <pubDate>Fri, 20 Aug 2021 14:48:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：预计飓风“格蕾丝”将继续加强，飓风警报区应对保护生命和财产进行准备工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc4066415.d.html</link>
-            <guid>2287192</guid>
-            <pubDate>Fri, 20 Aug 2021 14:48:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
