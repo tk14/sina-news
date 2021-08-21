@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 21 Aug 2021 05:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 06:27:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【前7月广东规上工业增加值超2万亿元】前7月，广东规上工业增加值2.01万亿元，同比增长16.0%。新基建和工业投资力度大，新基建领域的互联网和相关服务投资两年平均增长45.7%，工业投资同比增长22.8%。消费持续恢复，线上消费活跃，限额以上单位通过公共网络实现的商品零售同比增长26.0%，两年平均增长23.0%。（南方新闻网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4163837.d.html</link>
+            <guid>2287432</guid>
+            <pubDate>Sat, 21 Aug 2021 06:16:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【通用汽车：因扩大召回电动汽车或损失10亿美元】美国通用汽车公司20日宣布，由于高压电池组存在着火风险，公司将扩大召回雪佛兰Bolt电动汽车的范围，公司或因此损失10亿美元。通用汽车表示，最新一批召回的汽车包括7.3万辆2019年至2022年款Bolt电动汽车。公司将无限期停止销售该车型，并将向电池供应商LG公司寻求赔偿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4156502.d.html</link>
+            <guid>2287427</guid>
+            <pubDate>Sat, 21 Aug 2021 05:27:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【恐怖组织“俾路支解放军”承认恐袭中国公民 曾策划袭击我驻巴领馆】20日，载有中国人车队在巴基斯坦再遭自杀式恐袭，中使馆强烈谴责。事发几小时后，被多国列为恐怖组织的“俾路支解放军”宣称对此事负责。2018年11月，中国驻卡拉奇领事馆遭多名武装分子袭击，致2死1伤，也是“俾路支解放军”所为。 (环球时报)]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4154936.d.html</link>
@@ -386,18 +398,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4088242.d.html</link>
             <guid>2287321</guid>
             <pubDate>Fri, 20 Aug 2021 21:16:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【市场热捧HJT概念，龙头股4个月涨4倍】 8月20日，光伏板块再度活跃，其中HJT（异质结电池）概念股表现抢眼。自今年4月以来，金辰股份股价从年内低点27.88元一路上涨，8月13日摸高至146.41元，区间累计涨幅高达425%。同期，捷佳伟创股价也已实现翻番。HJT电池综合了晶体硅电池与薄膜电池的优势，由于其工艺流程明显简化，具有更高的转化效率和产品良率，成为产业投资和市场资金的关注重点。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2690243.d.html</link>
-            <guid>2287320</guid>
-            <pubDate>Fri, 20 Aug 2021 21:08:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【半年报引导资金流向，科创板绩优股走出独立行情】 进入半年报密集披露期，即期业绩成为主导个股短期走势的决定性因素。据机构测算，以上市公司半年报业绩预告为口径统计，剔除连续两年净利润为负的公司，科创板今年上半年整体净利润的同比增速达146.52%，两年复合增速高达78.31%，整体表现显著优于其他板块。反映到股价上，部分绩优科创板公司的股票近期无视大盘波动，逐渐走出了独立行情。20日，有5只科创板股票涨幅超过10%，在整体低迷的市场大环境中显得比较抢眼。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2689784.d.html</link>
-            <guid>2287316</guid>
-            <pubDate>Fri, 20 Aug 2021 20:55:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
