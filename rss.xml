@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 21 Aug 2021 18:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 19:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[泰国议会批准自10月1日起实施的930亿美元的财政预算。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2847780.d.html</link>
+            <guid>2287987</guid>
+            <pubDate>Sat, 21 Aug 2021 18:53:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[媒体报道，尽管因阿富汗局势美国国防部遭到批评，但美国国防部长奥斯汀并不打算辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2846964.d.html</link>
+            <guid>2287905</guid>
+            <pubDate>Sat, 21 Aug 2021 18:38:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国国家飓风中心：热带风暴“亨利”位于北卡罗来纳州哈特拉斯角以东335公里处。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4242601.d.html</link>
