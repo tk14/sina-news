@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 21 Aug 2021 08:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 09:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【日媒：日本外相或将与伊朗总统莱希面对面会谈】多名日伊外交消息人士20日透露，本月就任伊朗总统的莱希正协调与目前访问中东的日本外相茂木敏充会谈一事。据报道，伊核问题和波斯湾局势等可能成为议题。茂木计划21-22日访问德黑兰。消息人士透露，茂木正在协调22日与总统莱希、外长扎里夫举行会谈，此外还将与预计出任莱希政府外长的前副外长阿卜杜拉希安会谈。据称由于莱希极为忙碌，也不排除取消会谈的可能性。（日本共同社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2790155.d.html</link>
+            <guid>2287473</guid>
+            <pubDate>Sat, 21 Aug 2021 09:17:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：根据预测轨迹，热带风暴“亨利” 预计将于周日在长岛或新英格兰南部地区登陆。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4186379.d.html</link>
+            <guid>2287472</guid>
+            <pubDate>Sat, 21 Aug 2021 09:04:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：今天强风和暴雨将席卷墨西哥内陆部分地区。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4185628.d.html</link>
+            <guid>2287469</guid>
+            <pubDate>Sat, 21 Aug 2021 08:59:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：目前飓风“格蕾丝”在墨西哥东部逐步向西移动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2787692.d.html</link>
+            <guid>2287467</guid>
+            <pubDate>Sat, 21 Aug 2021 08:58:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：亨利预计将在今天向东北方向移动的过程中增强为飓风。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4185484.d.html</link>
+            <guid>2287466</guid>
+            <pubDate>Sat, 21 Aug 2021 08:58:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：从今晚晚些时候或周日早些时候开始，美国东北部部分地区将出现危险的风暴潮、飓风和可能导致出现洪水的大降雨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4185461.d.html</link>
+            <guid>2287465</guid>
+            <pubDate>Sat, 21 Aug 2021 08:58:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[塔利班官员：塔利班将成立独立小组负责处理内部安全和金融危机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4184960.d.html</link>
+            <guid>2287462</guid>
+            <pubDate>Sat, 21 Aug 2021 08:53:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【吉林发布雷电黄色预警信号】吉林省气象台8月21日15时21分发布雷电黄色预警信号，预计未来6小时，松原东部、长春、四平有雷电，可能会造成雷电灾害事故，部分地方伴有短时强降水、雷暴大风或冰雹等强对流天气，对此吉林省应急管理厅、省气象局联合提醒注意做好预防工作。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2783123.d.html</link>
@@ -320,66 +362,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4106770.d.html</link>
             <guid>2287360</guid>
             <pubDate>Sat, 21 Aug 2021 00:32:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：美国总统拜登与卡塔尔埃米尔进行过通话，感谢卡塔尔方面对阿富汗撤离行动提供的帮助。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4103757.d.html</link>
-            <guid>2287358</guid>
-            <pubDate>Sat, 21 Aug 2021 00:12:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，拜登再次呼吁州和地方政府帮助租房者。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4103500.d.html</link>
-            <guid>2287357</guid>
-            <pubDate>Sat, 21 Aug 2021 00:11:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金正恩考察平壤市住宅区建设工程】据朝中社21日报道，朝鲜劳动党总书记、朝鲜国务委员长金正恩对平壤市普通江岸边楼梯式住宅区建设工程进行了实地考察。金正恩表示，在一切都紧缺和困难的条件下，由于建设者们的爱国忠诚，普通江岸边相较140多天前发生了翻天覆地的变化。金正恩对此表示满意，并高度评价全体建设者的劳动殊勋。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2704692.d.html</link>
-            <guid>2287355</guid>
-            <pubDate>Sat, 21 Aug 2021 00:05:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京昨天无本土新增，新增境外输入“2+2”】8月20日0时至24时，北京无新增本地确诊病例、疑似病例和无症状感染者；新增2例境外输入确诊病例和2例境外输入无症状感染者，无新增疑似病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4101558.d.html</link>
-            <guid>2287354</guid>
-            <pubDate>Fri, 20 Aug 2021 23:58:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【需求带动，锂盐价格或迎来新一轮上涨行情】在新能源产业强劲需求带动下，8月以来，电池级碳酸锂、氢氧化锂均价分别上涨13.48%、15.2%。机构指出，考虑到第四季度将迎来消费电子、新能源汽车的双旺季，供给受精矿短缺影响难有显著增量，锂盐价格或迎来新一轮上涨行情。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4101202.d.html</link>
-            <guid>2287353</guid>
-            <pubDate>Fri, 20 Aug 2021 23:55:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苹果新iPhone备货力道强劲 鸿海郑州厂招工赏金翻倍】苹果新iPhone备货力道强劲，鸿海郑州厂大招工生产新机，近期破天荒六度调高内部推荐奖金至人民币1.27万元，较一开始的人民币6000元大增逾一倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2701702.d.html</link>
-            <guid>2287351</guid>
-            <pubDate>Fri, 20 Aug 2021 23:43:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【农村寄递物流体系建设将提速 2025年实现乡乡有网点】国务院办公厅近日发布《关于加快农村寄递物流体系建设的意见》(下称《意见》)。《意见》提出，到2022年6月底，建设100个农村电商快递协同发展示范区；到2025年，实现乡乡有网点、村村有服务，农产品运得出、消费品进得去，便民惠民寄递服务基本覆盖。（上海证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4099380.d.html</link>
-            <guid>2287350</guid>
-            <pubDate>Fri, 20 Aug 2021 23:41:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全民健身热 体育消费火】随着全民健身上升为国家战略，人们对运动健身的需求越来越强烈。我国体育消费规模也在逐步扩大，个性化、体验性消费增量明显。中国奥运军团在东京奥运会上争金夺银，体育消费再掀高潮。从观看体育赛事到参与体育活动，线上线下体育消费方式日益丰富，体育消费市场的巨大潜能正被持续激发。（经济日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4098728.d.html</link>
-            <guid>2287349</guid>
-            <pubDate>Fri, 20 Aug 2021 23:35:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构：Q2三星超越英特尔重返居全球半导体最大供应商】全球前十大半导体厂商产值排名出现变化。依据研调机构IC Insights发布最新研究报告显示，今年第2季三星超越英特尔，重返居全球半导体最大供应商，因记忆体与储存需求增加，第3季将持续领先英特尔。纯晶圆代工厂台积电则维持第三大，联发科提升一名、至第九名。数据显示，全球前十大半导体厂第2季产值合计达955.07亿美元，季增10%，增幅高于整体半导体业的8%水准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4098649.d.html</link>
-            <guid>2287348</guid>
-            <pubDate>Fri, 20 Aug 2021 23:35:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：1、栗战书主持人大常委会第三十次会议闭幕会并作讲话强调，深入学习习近平总书记关于全过程人民民主的重要论述，发挥好人民代表大会保证人民当家作主的制度保障作用；2、栗战书主持召开第一百次委员长会议，决定将个人信息保护法草案等交付常委会会议表决；3、国办印发《意见》加快农村寄递物流体系建设；4、丁薛祥主持专项工作机制会议，紧盯突出问题加大整治力度，务求取得基层减负工作实效；5、将科学绿化贯穿生态修复全过程（权威发布），到2025年，湿地保护率达到55%；6、前7月我国对一带一路沿线国家投资保持增长；7、山东省枣庄市薛城区——加快内陆港建设 助力高质量发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4097940.d.html</link>
-            <guid>2287346</guid>
-            <pubDate>Fri, 20 Aug 2021 23:29:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
