@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 21 Aug 2021 17:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 18:27:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带风暴“亨利”位于北卡罗来纳州哈特拉斯角以东335公里处。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4242601.d.html</link>
+            <guid>2287845</guid>
+            <pubDate>Sat, 21 Aug 2021 18:10:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带风暴“亨利”快速移动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4240764.d.html</link>
+            <guid>2287749</guid>
+            <pubDate>Sat, 21 Aug 2021 17:46:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国纽约州州长科莫宣布纽约州长岛进入紧急状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2842478.d.html</link>
+            <guid>2287686</guid>
+            <pubDate>Sat, 21 Aug 2021 17:33:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[阿富汗民族和解高级委员会主席阿卜杜拉表示，他与阿富汗前总统哈米德·卡尔扎伊一同会见了塔利班政治办公室的成员，该国的其他政治和部落领导人也出席了此次会议。会议就阿富汗国家局势、民众安全等问题进行了讨论。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2838943.d.html</link>
@@ -328,36 +346,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4184960.d.html</link>
             <guid>2287462</guid>
             <pubDate>Sat, 21 Aug 2021 08:53:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【吉林发布雷电黄色预警信号】吉林省气象台8月21日15时21分发布雷电黄色预警信号，预计未来6小时，松原东部、长春、四平有雷电，可能会造成雷电灾害事故，部分地方伴有短时强降水、雷暴大风或冰雹等强对流天气，对此吉林省应急管理厅、省气象局联合提醒注意做好预防工作。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2783123.d.html</link>
-            <guid>2287459</guid>
-            <pubDate>Sat, 21 Aug 2021 08:20:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国国防部：阿富汗的锂像沙特的石油一样重要】2010年，美国地质学家发现阿富汗的金、铁、铜、锂、钴及稀土等矿产资源丰富，价值至少1万亿美元。美国国防部在一份内部备忘录中表示，阿富汗的锂可以像沙特的石油一样重要。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2782835.d.html</link>
-            <guid>2287458</guid>
-            <pubDate>Sat, 21 Aug 2021 08:18:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据郑州发布：自2021年8月21日20时起，将郑州市二七区京广路街道由高风险地区调整为中风险地区；将郑州新郑教育园区永泽·上公馆、郑州新郑教育园区正商瑞钻由中风险地区调整为低风险地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4180474.d.html</link>
-            <guid>2287457</guid>
-            <pubDate>Sat, 21 Aug 2021 08:18:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【飓风“格蕾丝”登陆墨西哥东部 或将引发洪水和泥石流】据外媒报道，美国气象预报员称，当地时间21日早些时候，飓风“格蕾丝”以三级风暴的形式在墨西哥东部登陆，可能会引发严重的洪水和泥石流。据美国国家飓风中心(NHC)称，这场风暴袭击了墨西哥韦拉克鲁斯州特科勒特拉附近的海岸，最大持续风速为每小时200公里。韦拉克鲁斯及其水域是多个石油设施的所在地。该州北部和中部地区已启动红色警戒级别。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2781599.d.html</link>
-            <guid>2287455</guid>
-            <pubDate>Sat, 21 Aug 2021 08:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【河南开封：除保障生活用品的超市、商店外 沿街门店一律停业】据河南省开封市气象部门预报，受低涡影响，预计22日到23日开封市有暴雨到大暴雨。开封市防汛抗旱指挥部办公室、开封市应急管理局提醒广大市民：沿街门店除保障生活用品的超市、商店外，8月21日24时前一律停止营业，根据雨情原则上23日12时后方可营业。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2781522.d.html</link>
-            <guid>2287454</guid>
-            <pubDate>Sat, 21 Aug 2021 08:07:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
