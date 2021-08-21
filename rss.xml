@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 21 Aug 2021 16:34:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 17:24:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[阿富汗民族和解高级委员会主席阿卜杜拉表示，他与阿富汗前总统哈米德·卡尔扎伊一同会见了塔利班政治办公室的成员，该国的其他政治和部落领导人也出席了此次会议。会议就阿富汗国家局势、民众安全等问题进行了讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2838943.d.html</link>
+            <guid>2287658</guid>
+            <pubDate>Sat, 21 Aug 2021 16:52:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【我国实现水稻生育周期减半重要突破】近日，中国农业科学院都市农业研究所植物工厂创新团队与中国水稻研究所钱前团队合作，在植物工厂环境下成功实现水稻种植60天左右收获的重要突破，将传统大田环境下120天以上的水稻生长周期缩短了一半，这为加速作物育种提供了新的技术途径。（新华社）]]></title>
             <guid>2287653</guid>
@@ -352,12 +358,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2781522.d.html</link>
             <guid>2287454</guid>
             <pubDate>Sat, 21 Aug 2021 08:07:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄罗斯卫星网：俄罗斯对乌克兰外交部长及乌克兰国家安全与国防委员会秘书长实施制裁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4177500.d.html</link>
-            <guid>2287450</guid>
-            <pubDate>Sat, 21 Aug 2021 07:54:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
