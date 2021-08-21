@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 21 Aug 2021 20:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 21:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据福克斯新闻：美国国务院据悉在数周前遭到网络攻击，但不影响近期正在执行的阿富汗撤离任务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4250571.d.html</link>
+            <guid>2288118</guid>
+            <pubDate>Sat, 21 Aug 2021 21:00:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国考虑预订商业航班参与阿富汗撤离行动 】拜登政府计划大幅增加喀布尔的空运能力，以帮助从阿富汗撤离数以万计的人员，并增加可容纳阿富汗人的美军基地数量。美国官员表示，白宫计划启用民用后备航空队（Civil Reserve Air Fleet），以获得多达5家航空公司的近20架商业飞机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2852572.d.html</link>
+            <guid>2288117</guid>
+            <pubDate>Sat, 21 Aug 2021 20:37:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据华尔街日报：美国考虑预订商业航班参与阿富汗撤离行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4249391.d.html</link>
+            <guid>2288116</guid>
+            <pubDate>Sat, 21 Aug 2021 20:27:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国纽约市长办公室发布飓风紧急状态宣言。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2851630.d.html</link>
@@ -352,24 +370,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4185628.d.html</link>
             <guid>2287469</guid>
             <pubDate>Sat, 21 Aug 2021 08:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：目前飓风“格蕾丝”在墨西哥东部逐步向西移动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2787692.d.html</link>
-            <guid>2287467</guid>
-            <pubDate>Sat, 21 Aug 2021 08:58:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：亨利预计将在今天向东北方向移动的过程中增强为飓风。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4185484.d.html</link>
-            <guid>2287466</guid>
-            <pubDate>Sat, 21 Aug 2021 08:58:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：从今晚晚些时候或周日早些时候开始，美国东北部部分地区将出现危险的风暴潮、飓风和可能导致出现洪水的大降雨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4185461.d.html</link>
-            <guid>2287465</guid>
-            <pubDate>Sat, 21 Aug 2021 08:58:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
