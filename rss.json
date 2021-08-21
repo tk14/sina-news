@@ -6,6 +6,13 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 2288119,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2854817.d.html",
+            "title": "【阿富汗塔利班不打算组建过渡政府】据阿富汗哈马新闻社21日报道，塔利班高级成员艾哈迈杜拉·瓦西克当天表示，塔利班没有组建临时政府或过渡政府的计划，将直接组建一个能被阿各方接受的包容性政府。瓦西克在接受媒体采访时表示，塔利班目前正与各方就组建政府加快协商。据悉，阿富汗目前仍没有国家元首，塔利班只任命了一部分省长和市长。（新华网）",
+            "date_modified": "2021-08-21T21:40:54.000Z"
+        },
+        {
             "id": 2288118,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4250571.d.html",
@@ -420,13 +427,6 @@
             "url": "https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4186379.d.html",
             "title": "美国国家飓风中心：根据预测轨迹，热带风暴“亨利” 预计将于周日在长岛或新英格兰南部地区登陆。",
             "date_modified": "2021-08-21T09:04:52.000Z"
-        },
-        {
-            "id": 2287469,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4185628.d.html",
-            "title": "美国国家飓风中心：今天强风和暴雨将席卷墨西哥内陆部分地区。",
-            "date_modified": "2021-08-21T08:59:55.000Z"
         }
     ]
 }
