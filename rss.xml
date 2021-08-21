@@ -4,13 +4,31 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 21 Aug 2021 15:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 16:34:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【我国实现水稻生育周期减半重要突破】近日，中国农业科学院都市农业研究所植物工厂创新团队与中国水稻研究所钱前团队合作，在植物工厂环境下成功实现水稻种植60天左右收获的重要突破，将传统大田环境下120天以上的水稻生长周期缩短了一半，这为加速作物育种提供了新的技术途径。（新华社）]]></title>
+            <guid>2287653</guid>
+            <pubDate>Sat, 21 Aug 2021 16:00:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：塔利班政治办公室主任将在两周内就阿富汗未来政府组织结构做出决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2834496.d.html</link>
+            <guid>2287646</guid>
+            <pubDate>Sat, 21 Aug 2021 15:56:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美使馆提醒公民远离喀布尔】当地时间周六，美国大使馆发布旅行咨询，建议在阿富汗的美国人避免前往喀布尔机场，因有数千人试图通过该机场离开阿富汗，“喀布尔机场大门外存在潜在安全威胁，应避免前往”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4230737.d.html</link>
+            <guid>2287623</guid>
+            <pubDate>Sat, 21 Aug 2021 15:40:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[阿富汗塔利班官员：正在与前政府官员讨论应对金融危机和重新开放银行的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2832102.d.html</link>
             <guid>2287611</guid>
             <pubDate>Sat, 21 Aug 2021 15:24:48 GMT</pubDate>
         </item>
@@ -340,24 +358,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4177500.d.html</link>
             <guid>2287450</guid>
             <pubDate>Sat, 21 Aug 2021 07:54:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据阿富汗黎明电视台21日消息，阿富汗塔利班核心人员哈利勒·拉赫曼·哈卡尼在该国首都喀布尔同阿富汗前总理、伊斯兰党主席古勒卜丁·希克马蒂亚尔会面。目前尚未披露任何会谈细节。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4177097.d.html</link>
-            <guid>2287449</guid>
-            <pubDate>Sat, 21 Aug 2021 07:51:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【陕西省防总决定于8月21日8时启动陕西省IV级防汛应急响应】8月19日至20日陕西出现强降水天气，造成渭河、汉江干支流发生洪水过程，灞河、沣河、大峪河、滈河、蓝桥河、喜神坝河出现超警戒洪水。据预报，8月21日至22日陕西将再次发生大范围强降水天气过程，陕北南部中到大雨、局地暴雨，关中陕南大到暴雨、局地有大暴雨，过程范围大、局地强度高、累计雨量大，且与前期区域重合，极易引发洪涝地质灾害。根据《陕西省防汛应急预案》规定，陕西省防总决定于8月21日8时启动陕西省IV级防汛应急响应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2778410.d.html</link>
-            <guid>2287447</guid>
-            <pubDate>Sat, 21 Aug 2021 07:42:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【河南新郑市发布紧急通告：停工、停课、停产、停业、停运】河南新郑市防汛抗旱指挥部发布紧急通告。8月21日18时至23日12时 ，全市采取紧急避险措施，除抢险和民生保障人员外，全市实行停工、停课、停产、停业、停运。因特殊原因暂时不能停工停产的企业，要及时向市防汛抗旱指挥部报备，并做好应急防范措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2777752.d.html</link>
-            <guid>2287445</guid>
-            <pubDate>Sat, 21 Aug 2021 07:38:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
