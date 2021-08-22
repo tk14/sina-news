@@ -4,11 +4,52 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 22 Aug 2021 17:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Aug 2021 18:26:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国田纳西州洪灾已造成至少15人死亡 约30人失踪】当地时间8月22日，美国田纳西州汉弗莱斯县警长克里斯·戴维斯表示，21日在田纳西州中部发生的洪灾已造成至少15人死亡，约30人失踪。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4393707.d.html</link>
+            <guid>2288568</guid>
+            <pubDate>Sun, 22 Aug 2021 18:11:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登将于当地时间16:00（北京时间23日04:00）就飓风“亨利” 和阿富汗问题发表讲话。]]></title>
+            <guid>2288566</guid>
+            <pubDate>Sun, 22 Aug 2021 18:09:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：飓风“亨利” 位于罗德岛州以东约10公里处，最大持续风速80千米/时。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm2996508.d.html</link>
+            <guid>2288565</guid>
+            <pubDate>Sun, 22 Aug 2021 18:08:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【比利时外交部：已从阿富汗撤离263名比利时公民】据比利时官方媒体当地时间8月22日报道，当天，比利时外交部宣布，包括136名比利时人在内的共175人通过比利时官方撤离行动，从阿富汗喀布尔撤离到巴基斯坦首都伊斯兰堡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4393295.d.html</link>
+            <guid>2288561</guid>
+            <pubDate>Sun, 22 Aug 2021 18:05:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：飓风“亨利”向罗德岛州西南部移动，速度放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm2995832.d.html</link>
+            <guid>2288555</guid>
+            <pubDate>Sun, 22 Aug 2021 18:01:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[塔利班政治办公室发言人：正在与美国及其他国家进行谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4390909.d.html</link>
+            <guid>2288534</guid>
+            <pubDate>Sun, 22 Aug 2021 17:40:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[塔利班政治办公室发言人：阿富汗境内不存在基地组织，塔利班与基地组织没有关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm2993128.d.html</link>
+            <guid>2288531</guid>
+            <pubDate>Sun, 22 Aug 2021 17:33:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【5G部署加深 三大运营商挖潜产业数字化】近日，中国电信、中国移动、中国联通相继发布2021年中期业绩。上半年三大运营商共计实现营业收入8270亿元，经营业绩稳中有升。随着我国经济社会数字化转型提速，5G应用潜力加速释放，三大运营商正加快在人工智能、区块链、物联网等新技术布局。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4389119.d.html</link>
@@ -341,42 +382,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4359299.d.html</link>
             <guid>2288320</guid>
             <pubDate>Sun, 22 Aug 2021 12:14:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：热带风暴“亨利”的中心正在靠近纽约长岛东部和新英格兰南部。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4357733.d.html</link>
-            <guid>2288317</guid>
-            <pubDate>Sun, 22 Aug 2021 12:00:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：08月22日19时52分在台湾台南市附近发生4.0级左右地震，最终结果以正式速报为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2960372.d.html</link>
-            <guid>2288316</guid>
-            <pubDate>Sun, 22 Aug 2021 11:55:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【宁沪高速等拟就终止收购土耳其路桥资产展开后续谈判】宁沪高速、招商公路22日晚间均公告，包括两公司在内的中方联合体近日收到土耳其IC Ictas（“卖方”）正式函件，卖方要求交易双方共同商谈土耳其三桥项目《终止协议》相关条款。联合体各方综合考虑，决定接受卖方提议，双方拟就《终止协议》展开后续谈判。据此前2019年12月份公告，宁沪高速、招商公路、招商联合、浙江沪杭甬、四川成渝和皖通高速组成联合体，拟以其各自在香港设立的全资子公司，按比例出资设立联合体香港SPV公司共同收购土耳其ICA公司 51%股权等资产，共同投资土耳其的路桥项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4356572.d.html</link>
-            <guid>2288315</guid>
-            <pubDate>Sun, 22 Aug 2021 11:48:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统泽连斯基：乌克兰、德国和美国的能源部长将于周一会面。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2958753.d.html</link>
-            <guid>2288312</guid>
-            <pubDate>Sun, 22 Aug 2021 11:40:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国防部：民用后备航空队的飞机不会飞到喀布尔，而是从美军基地运送撤离人员。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2958736.d.html</link>
-            <guid>2288311</guid>
-            <pubDate>Sun, 22 Aug 2021 11:40:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国防部：拜登政府动用了民用后备航空队，以协助从阿富汗撤离的人员。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4355337.d.html</link>
-            <guid>2288309</guid>
-            <pubDate>Sun, 22 Aug 2021 11:37:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
