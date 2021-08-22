@@ -4,11 +4,28 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 22 Aug 2021 04:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Aug 2021 05:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【“巴铁”项目启动，中国时速160公里客车技术首次“走出去”】从中车唐山公司获悉，8月20日，中车唐山与巴基斯坦铁路局正式签订230辆铁路客车项目合同。这是中国时速160公里客车制造技术首次“走出去”，进行技术转让。据统计，截至目前唐山公司已累计签约出口各型客车订单近1400辆。产品出口到哈萨克斯坦、土库曼斯坦、尼日利亚、蒙古、古巴、巴基斯坦、孟加拉国、安哥拉、莫桑比克等国，近几年还先后斩获美国、加拿大等发达国家干线铁路订单。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2908034.d.html</link>
+            <guid>2288192</guid>
+            <pubDate>Sun, 22 Aug 2021 05:18:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泰康保险集团向武汉大学捐赠10亿元】8月22日消息，泰康保险集团在25周年司庆之际，宣布向武汉大学捐赠10亿元。公开资料显示，泰康保险集团创始人、董事长兼首席执行官陈东升1983年7月毕业于武汉大学经济系。泰康自1996年成立以来，已先后向武汉大学捐赠了近3亿元，此次将再捐10亿元，重点支持武汉大学医学、生命科学建设。]]></title>
+            <guid>2288191</guid>
+            <pubDate>Sun, 22 Aug 2021 04:56:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据美国有线电视新闻网（CNN）：美国东部田纳西州洪灾造成至少10人遇难，其中包括2名儿童。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4298923.d.html</link>
+            <guid>2288188</guid>
+            <pubDate>Sun, 22 Aug 2021 04:35:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【外媒：美国或将启用民航帮助执行阿富汗撤离任务】当地时间21日，知情人士称，美国政府计划让美国主要航空公司帮助执行阿富汗撤离任务。《华尔街日报》21日报道援引知情人士的话称，美国政府计划增加从阿富汗首都喀布尔的航班数量，准备让几家主要航空公司帮助执行阿富汗撤离任务。报道称，美政府打算激活民用后备航空队（CRAF），该航空队于1952年成立，包含来自 5 家航空公司提供的近 20 架商用飞机。（环球网）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2900259.d.html</link>
@@ -358,35 +375,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2827766.d.html</link>
             <guid>2287577</guid>
             <pubDate>Sat, 21 Aug 2021 14:38:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【郑州公交明后两天停止运营】据郑州公交消息，根据郑州市防汛抗旱指挥部6号令，为有效应对暴雨天气，22日、23日，郑州公交线路全部停止运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2826970.d.html</link>
-            <guid>2287569</guid>
-            <pubDate>Sat, 21 Aug 2021 14:30:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄外交部：美国制裁违反两国领导人峰会精神】当地时间8月21日，俄罗斯外交部在官方网站发表声明，批评美国对俄新一轮制裁。声明指出，拜登政府的敌对行为证明，美方缺乏同俄罗斯建立伙伴关系的政治意愿，美国制裁行动与两国领导人日内瓦峰会达成的共识和协议背道而驰。声明强调，美国在阿富汗遭遇最大外交政策失败的背景下，以牵强的借口对俄罗斯实施新的制裁，将引发不可预测的后果。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4223841.d.html</link>
-            <guid>2287564</guid>
-            <pubDate>Sat, 21 Aug 2021 14:26:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北半球高温“引爆”天然气价格，全球掀起抢天然气潮，俄罗斯减供天然气致欧洲气荒蔓延】入夏以来，随着北半球热浪来袭，制冷负荷显著增加，天然气需求激增，价格随之上涨。此外随着全球经济复苏，天然气供应缺口越来越大。亚洲、欧洲、美国天然气库存开始下降，价格一涨再涨，活脱脱就是“第二个铁矿石”。据外媒报道，目前欧洲天然气库存比5年平均水平低25%，已降至十多年来最低水平。各国开始掀起的“抢气潮”，已导致荷兰基准天然气期货价格今年飙升了50%以上，目前交易水平接近13年来最高水平。英国天然气价格更是处于16年来最高水平。然而市场最重要的天然气出口国俄罗斯，偏偏在关键时刻减少了供应。近半个月以来，德国马尔诺压缩机站作为接受俄罗斯天然气输向欧洲的重要枢纽，其所接收到来自俄罗斯的天然气流量相较以往减少了近50%，更加导致欧洲气荒蔓延。此外，近年来全球主要经济体都相继宣布加快绿色能源转型，天然气作为与煤炭、石油相比更为清洁的能源，成为转型过渡的首选资源。国际能源署发布最新能源报告显示：未来几年的天然气需求量或将呈现持续增长态势，至2024年全球天然气需求量可能增至43000亿立方米。能源转型已成为天然气需求增加的又一推手。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4223765.d.html</link>
-            <guid>2287563</guid>
-            <pubDate>Sat, 21 Aug 2021 14:25:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比亚迪半导体相关方回应IPO遭天元律所“牵连”中止：会尽快推进复核。（21世纪经济报道）]]></title>
-            <guid>2287558</guid>
-            <pubDate>Sat, 21 Aug 2021 14:21:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广西多措并举满足优势商品出口，前7月外贸进出口快速增长】 广西商务厅厅长杨春庭8月21日表示，广西将做好边境口岸疏堵工作，保障友谊关通关顺畅；加强对驳船运力以及外贸集装箱调配的协调指导，确保香港“天天班”班次运行；稳定运行以广西为始发地的跨境直达中欧班列，满足优势商品出口。1-7月，广西外贸进出口3423.1亿元，同比增长32.3%，高于全国平均水平7.8个百分点，增幅在西部地区排位较1-6月提升1位，今年以来首次超过重庆。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2825963.d.html</link>
-            <guid>2287554</guid>
-            <pubDate>Sat, 21 Aug 2021 14:20:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
