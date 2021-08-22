@@ -4,11 +4,28 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 22 Aug 2021 06:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Aug 2021 07:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美联社消息，英国军方周日表示，在喀布尔机场周围的混乱中，又有7名阿富汗平民丧生。报道称，塔利班成员向空中开火，驱赶那些急于搭乘任何航班离开该国的人，而后人群出现了踩踏和挤压事件。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2924113.d.html</link>
+            <guid>2288204</guid>
+            <pubDate>Sun, 22 Aug 2021 07:18:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿富汗哈马新闻社援引美国国务院报道称，喀布尔机场将保持关闭状态48小时，以疏散聚集在机场内的所有人。]]></title>
+            <guid>2288202</guid>
+            <pubDate>Sun, 22 Aug 2021 07:12:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列战机空袭巴勒斯坦加沙地带哈马斯武器制造和存储基地】当地时间21日深夜，以色列战机空袭了加沙地带巴勒斯坦伊斯兰抵抗运动（哈马斯）用于武器制造和储存的4个基地，以报复当天早些时候，在与巴勒斯坦人冲突时，一名以色列士兵头部受重伤。以色列军方当地时间22日早晨证实了这次空袭。为防止冲突升级，以军已向加沙地带以巴边境地区增派部队。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4319672.d.html</link>
+            <guid>2288201</guid>
+            <pubDate>Sun, 22 Aug 2021 07:08:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【星星科技：生产经营正常 重整申请被法院批准可能性较大】星星科技在互动易平台表示，公司目前生产经营一切正常，公司网站也可正常访问。专业人士认为，债权人对公司的重整申请被法院批准的可能性较大。星星科技此前披露上半年计提信用减值损失及资产减值损失合计约5.72亿元，自8月24日起实施退市风险警示。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4313255.d.html</link>
@@ -341,41 +358,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2838943.d.html</link>
             <guid>2287658</guid>
             <pubDate>Sat, 21 Aug 2021 16:52:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国实现水稻生育周期减半重要突破】近日，中国农业科学院都市农业研究所植物工厂创新团队与中国水稻研究所钱前团队合作，在植物工厂环境下成功实现水稻种植60天左右收获的重要突破，将传统大田环境下120天以上的水稻生长周期缩短了一半，这为加速作物育种提供了新的技术途径。（新华社）]]></title>
-            <guid>2287653</guid>
-            <pubDate>Sat, 21 Aug 2021 16:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：塔利班政治办公室主任将在两周内就阿富汗未来政府组织结构做出决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2834496.d.html</link>
-            <guid>2287646</guid>
-            <pubDate>Sat, 21 Aug 2021 15:56:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美使馆提醒公民远离喀布尔】当地时间周六，美国大使馆发布旅行咨询，建议在阿富汗的美国人避免前往喀布尔机场，因有数千人试图通过该机场离开阿富汗，“喀布尔机场大门外存在潜在安全威胁，应避免前往”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4230737.d.html</link>
-            <guid>2287623</guid>
-            <pubDate>Sat, 21 Aug 2021 15:40:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿富汗塔利班官员：正在与前政府官员讨论应对金融危机和重新开放银行的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2832102.d.html</link>
-            <guid>2287611</guid>
-            <pubDate>Sat, 21 Aug 2021 15:24:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国防部：已在喀布尔撤离约1.7万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2831226.d.html</link>
-            <guid>2287603</guid>
-            <pubDate>Sat, 21 Aug 2021 15:14:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安与俄罗斯总统普京通电话，两国领导人同意协调与塔利班的关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2831207.d.html</link>
-            <guid>2287602</guid>
-            <pubDate>Sat, 21 Aug 2021 15:14:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
