@@ -4,16 +4,99 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 24 Aug 2021 04:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 05:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【集采“风声”吓懵军工股业内人士：和医药集采不一样】受昨日晚间传出的军工集采影响，今天军工板块有所回落，不过业内人士认为，军工板块和医药板块集采完全不同，军工采购主要考虑的是质量，不会低价中标，另外军工板块也不存在同业竞争。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqciyzm3282352.d.html</link>
-            <guid>2290304</guid>
-            <pubDate>Tue, 24 Aug 2021 04:29:49 GMT</pubDate>
+            <title><![CDATA[【药企半年报“张榜”：近八成增长 37家业绩翻倍】截至8月24日，已有163家生物医药公司发布2021年半年报，其中129家实现增长，占比接近八成，净利润翻倍的有37家，占比超过两成。从细分行业来看，医疗器械、中药、化药的“体质”最好。截至目前，在44家医疗器械公司中，有34家实现增长，其中12家增长超过100%，占比达到27.27%。（上海证券报）]]></title>
+            <guid>2290330</guid>
+            <pubDate>Tue, 24 Aug 2021 05:19:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【习近平：发挥塞罕坝精神，在新征程上再建功立业】习近平总书记23日下午来到塞罕坝机械林场尚海纪念林。纪念林位于原马蹄坑造林会战区，是塞罕坝精神发源地、百万亩林海起源地。习近平同林场职工代表亲切交流，他强调，你们做的事非常有示范意义，对全国生态文明建设具有激励作用和深远影响。塞罕坝精神是中国共产党精神谱系的组成部分。全党全国人民要发扬这种精神，把绿色经济和生态文明发展好。塞罕坝要更加深刻地理解生态文明理念，再接再厉，二次创业，在新征程上再建功立业。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqciyzm3290074.d.html</link>
+            <guid>2290329</guid>
+            <pubDate>Tue, 24 Aug 2021 05:18:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  第三代半导体板块午后拉升，创业板派瑞股份封涨停，露笑科技、温州宏丰、苏州固锝、易事特等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqcfncc4686986.d.html</link>
+            <guid>2290328</guid>
+            <pubDate>Tue, 24 Aug 2021 05:15:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[腾讯控股午后股价涨幅扩大至5.2％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqciyzm3289624.d.html</link>
+            <guid>2290327</guid>
+            <pubDate>Tue, 24 Aug 2021 05:15:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  光伏板块午后走强。协鑫集成、东方盛虹、钧达股份等多股涨停，华自科技涨超12%，福斯特、聆达股份、晶澳科技跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqcfncc4686891.d.html</link>
+            <guid>2290326</guid>
+            <pubDate>Tue, 24 Aug 2021 05:15:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【万达集团：对“万达商管IPO融资最高达60亿美元”不予回应】针对网传“万达商管IPO融资最高达60亿美元”的传闻，万达集团方面回应中国证券报记者称，对此不予回应。业内人士指出，一般来说，中国证监会批准之后，就能进行赴港IPO递表，招股书会披露融资情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqciyzm3289461.d.html</link>
+            <guid>2290325</guid>
+            <pubDate>Tue, 24 Aug 2021 05:13:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  港股美团涨超10%，现报215港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqciyzm3289038.d.html</link>
+            <guid>2290324</guid>
+            <pubDate>Tue, 24 Aug 2021 05:11:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国防军工板块午后持续低迷，新研股份跌超12%，安达维尔、天秦装备、四创电子跟跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqciyzm3288215.d.html</link>
+            <guid>2290323</guid>
+            <pubDate>Tue, 24 Aug 2021 05:06:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：塔利班判处一名美军翻译亲属死刑】据CNN报道称，阿富汗塔利班发出三封信件，指控一名阿富汗男子帮助美国并庇护其为美军充当翻译员的兄弟，在男子未出席听证会后，塔利班在信中判处该男子死刑。CNN称为保护该男子和其家人安全，未透露其身份。CNN指出，这些信件说明塔利班存在直接威胁为美国工作的阿富汗人或其家人的行为，这导致了大量阿富汗人在塔利班掌权后没有选择，只能逃离阿富汗。（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqciyzm3287310.d.html</link>
+            <guid>2290320</guid>
+            <pubDate>Tue, 24 Aug 2021 05:00:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长安、华为、宁德时代三方打造的高端新能源品牌首款新车E11亮相】在2021长安汽车科技生态大会高峰论坛上，长安汽车高端新能源品牌阿维塔科技打造的首款新车E11亮相，该款车型搭载华为HI智能汽车全栈解决方案和宁德时代最新电动化技术。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqciyzm3287143.d.html</link>
+            <guid>2290319</guid>
+            <pubDate>Tue, 24 Aug 2021 04:59:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【山东港口烟台港开港160周年 上半年完成吞吐量1.83亿吨】记者24日从山东港口烟台港获悉，今年上半年，烟台港完成货物吞吐量1.83亿吨，同比增长8.8%，主要生产经营指标创历史同期最好水平。烟台1861年开埠，2021年是烟台开埠160周年，也是烟台港开港160周年。烟台港伴随城市发展，已由建国初期吞吐量4.7万吨的小港发展成为吞吐量突破3亿吨的现代化综合性大港，跻身中国沿海十大港口行列。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqciyzm3286476.d.html</link>
+            <guid>2290317</guid>
+            <pubDate>Tue, 24 Aug 2021 04:54:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【铭普光磁：推出电信级100G LR4双速率器件和模块】据铭普光磁消息，经过近三年的大力研发投入，铭普光磁数通产品线在BOX产品领域取得了重大突破，BOX气密方案100G LR4 10km产品正式加入数据中心产品队列，已通过可靠性性验证，并正式开启客户送样。至此，数据中心产品已具备10G SR，25G SR，40G SR4，40G LR4，100G SR4，100G CWDM4 2km等产品，可以覆盖数据中心机房绝大部分应用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqciyzm3286025.d.html</link>
+            <guid>2290315</guid>
+            <pubDate>Tue, 24 Aug 2021 04:50:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登批准美国田纳西州进入灾难状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqciyzm3285971.d.html</link>
+            <guid>2290314</guid>
+            <pubDate>Tue, 24 Aug 2021 04:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【香港中联办主任骆惠宁：香港发展的最大机遇在内地】23日，由国务院港澳办、国家发展改革委、科技部、中国人民银行等多个部门组成的国家“十四五”规划宣讲团在港举行系列宣讲活动。香港中联办主任骆惠宁作开幕致辞时表示，全球发展的最大机遇在中国，香港发展的最大机遇在内地。随着国家“十四五”规划的实施以及2035年远景目标的确立，香港正面临新一轮历史发展机遇，一定要牢牢地抓住它。   （中国日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqcfncc4681208.d.html</link>
+            <guid>2290311</guid>
+            <pubDate>Tue, 24 Aug 2021 04:38:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【专访塔利班发言人：组建阿富汗包容性政府关键是让所有人参与进来】中央广播电视总台CGTN主持人碧翠丝·马歇尔（Beatrice Marshall）专访了塔利班发言人苏海尔·沙欣。在谈及组建新政府的原则时，沙欣表示让所有人参与进来是组建新政府的关键。沙欣称，让所有阿富汗政治家和阿富汗人民成为未来包容性政府的组成部分至关重要。沙欣说，为了实现这一目标，塔利班高层人员正在与非塔利班人士以及阿富汗政治家进行对话与协商，这些对话将有益于一个包容性阿富汗伊斯兰政府的组建。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqciyzm3283041.d.html</link>
+            <guid>2290307</guid>
+            <pubDate>Tue, 24 Aug 2021 04:33:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[  【碧桂园：上半年实现权益合同销售额约3030.9亿元 同比增长14%】碧桂园发布2021年中期业绩报告显示，上半年共实现归属公司股东权益的合同销售金额约3030.9亿元，同比增长14%；权益合同销售面积约3451万平方米，同比增长8%，销售业绩稳居行业前列。公司多项核心盈利指标持续向好，营收高达2349.3亿元，毛利、净利、股东应占核心净利润分别增至462亿元、224.2亿元、152.2亿元。]]></title>
@@ -330,101 +413,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqcfncc4654145.d.html</link>
             <guid>2290221</guid>
             <pubDate>Tue, 24 Aug 2021 02:36:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家邮政局：中国邮政位列世界邮政企业的第2位】国家邮政局局长马军胜介绍，目前，我国与小康社会相适应的现代邮政业已全面建成。企业培育跃上了新的台阶。中国邮政世界500强的的排位从2012年的258位跃升到去年的74位，位列世界邮政企业的第2位，培育出了3家年业务收入超千亿元、4家年业务收入超500亿元的大型快递企业集团，8家快递企业已经成功改制上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqciyzm3257124.d.html</link>
-            <guid>2290220</guid>
-            <pubDate>Tue, 24 Aug 2021 02:35:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本自民党秘书长二阶俊博：我支持菅义伟连任党首的立场没有改变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqciyzm3256947.d.html</link>
-            <guid>2290219</guid>
-            <pubDate>Tue, 24 Aug 2021 02:35:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【汉威科技：目前市场需求持续 订单排产已近年底】汉威科技在互动平台表示，后半年是公司业务旺季，目前市场需求持续，订单排产已近年底。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqciyzm3256470.d.html</link>
-            <guid>2290218</guid>
-            <pubDate>Tue, 24 Aug 2021 02:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【教育部：注重全面提升学生劳动素养】教育部24日举行新闻发布会介绍劳动教育进课程教材情况时强调，要通过独立开设劳动教育必修课、在学科专业中有机渗透等途径，将劳动教育贯穿到学校教育各个方面，解决有教育无劳动的问题，努力克服有劳动无教育的问题。要注重全面提升学生劳动素养，防止把新时代劳动教育与过去的劳技训练混为一谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqcfncc4653057.d.html</link>
-            <guid>2290217</guid>
-            <pubDate>Tue, 24 Aug 2021 02:31:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[半导体芯片股拉升走高，石英股份此前涨停，万业企业涨超9%，苏州固锝、兆易创新涨逾7%，易事特、派瑞股份等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqcfncc4652777.d.html</link>
-            <guid>2290216</guid>
-            <pubDate>Tue, 24 Aug 2021 02:30:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【王传福卸任比亚迪物业董事长】天眼查App显示，近日，深圳比亚迪物业管理有限公司发生工商变更，王传福不再担任董事长及法定代表人，均由李慧接任。 深圳比亚迪物业管理有限公司成立于2017年3月，注册资本1亿人民币，经营范围含企业投资；项目管理；物业管理投资等。该公司由深圳市比亚迪投资管理有限公司全资控股。目前，王传福仍在比亚迪股份有限公司、比亚迪汽车工业有限公司等超40家企业任职。]]></title>
-            <guid>2290214</guid>
-            <pubDate>Tue, 24 Aug 2021 02:28:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【交通运输部：高铁覆盖95%百万人口以上城市】交通运输部部长李小鹏介绍，党的十八大以来，我国综合立体交通网日益完善。目前，我们国家以铁路为主干、以公路为基础、水运和民航比较优势充分发挥的国家综合立体交通网日益完善。六轴、七廊、八通道的国家综合立体交通网的主骨架空间已经初步形成，高速铁路对百万以上人口城市的覆盖率超过了95%，高速公路对20万以上人口城市覆盖率超过了98%，民用运输机场覆盖了92%以上的地级市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqciyzm3255040.d.html</link>
-            <guid>2290213</guid>
-            <pubDate>Tue, 24 Aug 2021 02:27:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【史玉柱再次被冻结6500万股权】天眼查App显示，近日，史玉柱再次被冻结股权，冻结股权标的企业为杭州云溪投资合伙企业（有限合伙），执行法院为北京金融法院，被冻结股权数额为6500万人民币，冻结期限至2024年8月。 杭州云溪投资合伙企业（有限合伙）成立于2014年4月，执行事务合伙人为史玉柱。 值得注意的是，此前，史玉柱还分别被冻结珠海巨人高科技集团有限责任公司股权数额277.94万人民币，珠海市绅士新技术有限公司股权数额1630万人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqciyzm3254909.d.html</link>
-            <guid>2290212</guid>
-            <pubDate>Tue, 24 Aug 2021 02:27:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【富达国际中国区董事长何慧芬即将卸任】何慧芬即将卸任富达国际中国区董事长这一职位，并在外部寻求其他职业发展机会。富达国际亚太区（日本除外）董事总经理马瑞杰（Rajeev Mittal）将和中国高管团队一起领导中国业务，直至新的人选得到任命。 富达基金表示 ，这项人事变动对于中国公募基金业务的筹备没有影响。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqcfncc4651665.d.html</link>
-            <guid>2290211</guid>
-            <pubDate>Tue, 24 Aug 2021 02:26:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【锂电池板块继续活跃 宁德时代涨超3%】多氟多触及涨停，天赐材料、华友钴业、西藏城投此前涨停，华自科技、厦门钨业、长远锂科、天际股份、盛新锂能等涨幅居前，宁德时代涨超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqciyzm3253755.d.html</link>
-            <guid>2290208</guid>
-            <pubDate>Tue, 24 Aug 2021 02:22:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金冠股份：公司双向储能变流器和华为公司在技术对接】金冠股份今日在互动平台回应投资者称，“公司的双向储能变流器和华为公司在技术对接，且已经取得华为的认证”的情况属实。另外，公司同大众的合作项目，目前合作方案正在恰谈对接中，如后续方案确认后，施工周期大约在两个月左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqcfncc4650427.d.html</link>
-            <guid>2290207</guid>
-            <pubDate>Tue, 24 Aug 2021 02:22:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【SEMI：7月北美半导体设备出货38.6亿美元 年增49.8%】SEMI（国际半导体产业协会）今日公布最新出货报告显示，2021年7月北美半导体设备制造商出货金额为38.6亿美元，较2021年6月最终数据的36.9亿美元相比提升4.5%，相较于2020年同期25.7亿美元则上升了49.8%。SEMI全球行销长暨台湾区总裁曹世纶表示，北美半导体设备制造商出货金额在2021年下半年开始，展现了强劲的增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqciyzm3253067.d.html</link>
-            <guid>2290205</guid>
-            <pubDate>Tue, 24 Aug 2021 02:20:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【新潮能源：上半年天然气产量同比增长16.53% 形成天然气量价齐升的良好格局】新潮能源在互动平台表示，近期天然气价格持续攀升，8月12日NYMEX价格已达 $3.933美元/MMBTU，较去年同期 $2.18/MMBTU增长44%。公司上半年天然气产量同比增长16.53%，形成天然气量价齐升的良好格局。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqciyzm3252514.d.html</link>
-            <guid>2290203</guid>
-            <pubDate>Tue, 24 Aug 2021 02:18:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【交通运输部：长江干线连续多年成为全球内河运量最大的黄金水道】交通运输部24日在国新办新闻发布会披露的数据显示，2020年全球港口货物吞吐量和集装箱吞吐量排名前10名的港口中，中国港口分别占8席和7席。2020年我国内河货运量完成38亿吨，货物周转量1.6万亿吨公里，长江干线连续多年成为全球内河运输最繁忙、运量最大的黄金水道。我国拥有世界第二大规模的海运船队，国际海运承担了我国约95%的外贸货物运输量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqciyzm3251733.d.html</link>
-            <guid>2290198</guid>
-            <pubDate>Tue, 24 Aug 2021 02:14:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫发布哈里斯的新加坡讲话文稿摘要，哈里斯拟表示印太地区是美国的一个优先事项。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqcfncc4648301.d.html</link>
-            <guid>2290197</guid>
-            <pubDate>Tue, 24 Aug 2021 02:13:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中信证券：将中控技术评级上调至超配，目标价142元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-24/detail-ikqciyzm3251255.d.html</link>
-            <guid>2290196</guid>
-            <pubDate>Tue, 24 Aug 2021 02:12:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
