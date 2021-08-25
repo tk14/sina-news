@@ -4,11 +4,69 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 25 Aug 2021 18:26:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 19:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[监测网络状况的网站DownDetector：用户报告显示亚马逊服务出现问题。]]></title>
+            <guid>2292364</guid>
+            <pubDate>Wed, 25 Aug 2021 19:10:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[监测网络状况的网站DownDetector：用户报告显示亚马逊服务出现问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqciyzm3619957.d.html</link>
+            <guid>2292362</guid>
+            <pubDate>Wed, 25 Aug 2021 19:03:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  微软(MSFT.O)：未来5年将投资200亿美元，通过设计和提供先进的安全解决方案，以加大力度整合网络安全。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqcfncc5015417.d.html</link>
+            <guid>2292360</guid>
+            <pubDate>Wed, 25 Aug 2021 19:03:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Moderna(MRNA.O)小幅跳水，现跌0.87%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqciyzm3619924.d.html</link>
+            <guid>2292358</guid>
+            <pubDate>Wed, 25 Aug 2021 19:02:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收跌0.29%，报25606点，低水88点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqciyzm3619880.d.html</link>
+            <guid>2292356</guid>
+            <pubDate>Wed, 25 Aug 2021 19:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务卿布林肯：自8月14日以来，已有82300多人安全撤离喀布尔；其中至少有4500名美国公民。]]></title>
+            <guid>2292355</guid>
+            <pubDate>Wed, 25 Aug 2021 18:48:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【第二季度PC市场增长17%，苹果继续保持第二位】市场研究公司Canalys发布最新数据显示，第二季度PC市场销售额整体同比增长17%，但与上一季度的74%相比，增长明显放缓，另一方面也是受到全球芯片短缺的影响。苹果以20.6%的份额位居第二，不过苹果今年的增长率下降了2.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqciyzm3618603.d.html</link>
+            <guid>2292354</guid>
+            <pubDate>Wed, 25 Aug 2021 18:44:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海原油期货主力合约夜盘收涨1.35%，报434.8元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqcfncc5013381.d.html</link>
+            <guid>2292352</guid>
+            <pubDate>Wed, 25 Aug 2021 18:32:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西雷亚尔兑美元在现货市场交易中涨3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqcfncc5013193.d.html</link>
+            <guid>2292350</guid>
+            <pubDate>Wed, 25 Aug 2021 18:28:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果在不断增长的PC市场中继续保持第二位】市场研究公司Canalys发布最新数据显示，第二季度PC市场销售额整体同比增长17%，但与上一季度的74%相比，增长明显放缓，另一方面也是受到全球芯片短缺的影响。苹果以20.6%的份额位居第二，不过苹果今年的增长率下降了2.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqciyzm3617694.d.html</link>
+            <guid>2292348</guid>
+            <pubDate>Wed, 25 Aug 2021 18:28:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国总统拜登：网络安全是国家安全的核心挑战。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqcfncc5011892.d.html</link>
@@ -255,29 +313,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4997620.d.html</link>
             <guid>2292265</guid>
             <pubDate>Wed, 25 Aug 2021 15:12:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据Civey民意调查显示，德国总理默克尔所在的保守派政党与社会民主党支持率持平，为22%；绿党支持率为18%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4997311.d.html</link>
-            <guid>2292262</guid>
-            <pubDate>Wed, 25 Aug 2021 15:09:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：9月份来自波罗的海港口的俄罗斯乌拉尔石油出口量为450万吨（8月份为470万吨）。]]></title>
-            <guid>2292257</guid>
-            <pubDate>Wed, 25 Aug 2021 15:04:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[媒体消息：贾瓦德·欧吉被确认任命为伊朗新任石油部长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3600528.d.html</link>
-            <guid>2292248</guid>
-            <pubDate>Wed, 25 Aug 2021 14:56:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据港交所文件：萨摩耶云科技集团控股有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3600440.d.html</link>
-            <guid>2292247</guid>
-            <pubDate>Wed, 25 Aug 2021 14:55:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
