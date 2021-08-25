@@ -4,18 +4,66 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 25 Aug 2021 04:30:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 05:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[龙湖集团上半年营收606.2亿元；上半年核心盈利61.8亿元。]]></title>
+            <title><![CDATA[快手跌幅扩大至5%，盘初一度涨逾6%，将于今日发布二季度财报。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4897029.d.html</link>
+            <guid>2291575</guid>
+            <pubDate>Wed, 25 Aug 2021 05:15:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天津同仁堂发布声明：公司前身可追溯至清朝 知识产权系合法取得】针对知识产权问题，天津同仁堂集团股份有限公司发布声明：公司前身可追溯至清朝时期，历史上曾使用京都同仁堂张家老药铺、京同仁堂和记、天津同仁堂制药厂等名称开展药品经营活动。天津同仁堂的企业名称、字号和商标等均系合法取得，具有悠久的历史渊源，毋庸置疑。据了解，天津同仁堂核心产品以处方药为主，与北京同仁堂、南京同仁堂在主要药品分类、功效、适应症等方面不同。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4896676.d.html</link>
+            <guid>2291572</guid>
+            <pubDate>Wed, 25 Aug 2021 05:13:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[光伏板块午后持续走高，金博股份、海优新材、恒星科技、清源股份、金辰股份、嘉泽新能、福莱特、鑫铂股份、意华股份、帝科股份、天合光能等十余股涨停或涨幅超10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3500093.d.html</link>
+            <guid>2291570</guid>
+            <pubDate>Wed, 25 Aug 2021 05:13:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  机场航运板块午后持续拉升，上海机场涨近8%，春秋航空、南方航空跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3500051.d.html</link>
+            <guid>2291569</guid>
+            <pubDate>Wed, 25 Aug 2021 05:12:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国副总统哈里斯：越南经济对美国的供应链至关重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3498803.d.html</link>
+            <guid>2291566</guid>
+            <pubDate>Wed, 25 Aug 2021 05:05:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京东城区：力争三年实现义务教育阶段学校干部教师100%轮岗】北京市委教育工委副书记、市教委新闻发言人李奕指出，新的学期，北京市将大面积、大比例推进干部教师轮岗。东城区委教育工委副书记、区教委主任高伟指出，东城区将以先教师后干部、先小学后初中等的方式，在本学年度实现干部教师轮岗不少于2000人，力争用三年时间实现东城区义务教育阶段学校干部教师100%轮岗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3498473.d.html</link>
+            <guid>2291564</guid>
+            <pubDate>Wed, 25 Aug 2021 05:03:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【塔利班媒体事务负责人接受采访 承诺保障新闻采访自由】当地时间8月25日，塔利班文化委员会副主任阿哈马杜拉·瓦西克接受了总台亚非中心记者的采访，他表示，塔利班承诺保障新闻采访自由，所有媒体记者无论男性还是女性记者，均可继续他们在阿富汗的采访报道工作，把真相带给观众。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3494267.d.html</link>
+            <guid>2291552</guid>
+            <pubDate>Wed, 25 Aug 2021 04:37:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据国际文传电讯社：俄罗斯派出四架飞机从阿富汗疏散500多名公民。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3493897.d.html</link>
+            <guid>2291551</guid>
+            <pubDate>Wed, 25 Aug 2021 04:34:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【龙湖集团上半年净利润74.2亿元人民币，上年同期63.4亿元】龙湖集团上半年净利润74.2亿元人民币，上年同期63.4亿元；上半年营收606.2亿元，同比增长19%；上半年净利润74.2亿元，同比增长17%；上半年核心盈利61.8亿元，同比增长17%；上半年开发物业营业额518.4亿元，同比增长15%；每股中期派息0.47元人民币，上年同期0.40元。]]></title>
             <guid>2291549</guid>
             <pubDate>Wed, 25 Aug 2021 04:28:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[雷蛇上半年营收7.52亿美元；上半年净利润3400万美元，上年同期亏损1730万美元。]]></title>
+            <title><![CDATA[雷蛇上半年营收7.52亿美元，上年同期4.475亿美元；上半年净利润3400万美元，上年同期亏损1730万美元； 上半年毛利率27.1％，上年同期22％。]]></title>
             <guid>2291548</guid>
             <pubDate>Wed, 25 Aug 2021 04:28:17 GMT</pubDate>
         </item>
@@ -256,89 +304,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3474146.d.html</link>
             <guid>2291471</guid>
             <pubDate>Wed, 25 Aug 2021 03:01:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国资委：聚焦主业实业 加大“两非”“两资”清退力度】国资委召开中央企业结构调整与重组工作媒体通气会。国资委副主任翁杰明表示，聚焦主业实业，加大“两非”“两资”清退力度。按照国资委“两非”剥离、“两资”清退工作的整体部署，推动中央企业高效有序退出非主业，促进资源从非主业向主业集中，提高资源的配置效率。针对中央企业在剥离“两非”“两资”业务过程中遇到的实际问题，“因企施策”予以指导支持，逐步建立“有进有退”的资源灵活配置机制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4869563.d.html</link>
-            <guid>2291467</guid>
-            <pubDate>Wed, 25 Aug 2021 02:58:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鸿蒙概念持续走弱，芯海科技跌超5%，梦网科技、诚迈科技、九联科技跟跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3472985.d.html</link>
-            <guid>2291466</guid>
-            <pubDate>Wed, 25 Aug 2021 02:56:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北京严厉查处校外培训机构违法行为，罚没款共计1534.54万元。（北京时间）]]></title>
-            <guid>2291465</guid>
-            <pubDate>Wed, 25 Aug 2021 02:56:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京： 2021年年底之前，再启动六个区的干部教师轮岗交流试点】北京市委教育工委副书记、市教委新闻发言人李奕：目前本市已有东城区、密云区两个试点区，下一步，全市将有计划地逐步扩大试点，在2021年年底之前，再启动六个区的干部教师轮岗交流试点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4868913.d.html</link>
-            <guid>2291464</guid>
-            <pubDate>Wed, 25 Aug 2021 02:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京市教委：教师转岗将在绩效工资分配中予以适当倾斜】北京市委教育工委副书记、市教委新闻发言人李奕表示，“我们将义务教育学校校长教师参与交流轮岗和工作绩效作为校长职级晋升，教师专业技术职务评聘与晋升，区级及以上骨干教师评选、评优评先等方面工作条件之一。”李奕说，切实保障参加交流轮岗校长教师的工资待遇，在绩效工资分配中予以适当倾斜。我们将校长教师交流轮岗工作纳入市区教育工作督导评价范围，作为各区深化教师队伍建设改革、推进义务教育高水平优质均衡发展、全面提升教育质量督导评价重要指标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3472084.d.html</link>
-            <guid>2291462</guid>
-            <pubDate>Wed, 25 Aug 2021 02:53:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京东城区：试点区探索“区管校聘”模式】8月25日，在北京市教育“双减”工作新闻发布会上，东城区委教委主任高伟介绍，东城区深化义务教育综合改革，突破校际间干部教师管理使用的壁垒，完善校际间、学区间、区域内的交流轮岗机制，逐步探索出“区管校聘”长效管理经验，不断扩大优质管理资源与教育资源的覆盖面，干部教师完成了由“学校人”向“学区人”再向“系统人”的从认识到任职的转变。东城区也因此被教育部评定为全国首批“区管校聘”示范区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3471566.d.html</link>
-            <guid>2291461</guid>
-            <pubDate>Wed, 25 Aug 2021 02:51:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 有色金属板块继续走强，中国铝业拉升触板，怡球资源、鑫铂股份此前涨停，锌业股份、罗平锌电、云铝股份等涨幅居前。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4867807.d.html</link>
-            <guid>2291460</guid>
-            <pubDate>Wed, 25 Aug 2021 02:50:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中船集团副总经理：推进上市公司整合融合改革】中国船舶集团有限公司副总经理钱建平周三表示，目前已经推进实施了集团总部机构改革，船海服务业和智库咨询机构专业化重组整合，地区公司区域化整合实体化改革，新组建重大工程管理中心、未来发展研究中心和装备保障中心等重要改革事项，后续将持续推进产业结构优化重组、科技创新体系重塑、上市公司整合融合等深层次改革工作，以改革激发活力、挖掘潜力、增强动力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3471088.d.html</link>
-            <guid>2291459</guid>
-            <pubDate>Wed, 25 Aug 2021 02:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  船舶制造股全线走高，中船科技拉升封板，中国船舶、中船应急、中船防务、海兰信等冲高。消息面上，上海市人民政府与中国船舶集团有限公司昨日在沪签署合作协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3470386.d.html</link>
-            <guid>2291457</guid>
-            <pubDate>Wed, 25 Aug 2021 02:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宁波全面深化改革“十四五”规划出台】近日，市委改革委出台了《宁波市全面深化改革“十四五”规划》。到2025年，宁波将率先在重要领域和关键环节改革上取得标志性成果，打造数字化改革先行市，建设国内国际双循环枢纽城市和共同富裕先行市，提升现代产业竞争新优势，基本实现市域治理体系和治理能力现代化。（宁波日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3470349.d.html</link>
-            <guid>2291456</guid>
-            <pubDate>Wed, 25 Aug 2021 02:46:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[穆迪：将华融金融租赁评级下调至Baa3，仍维持负面观察。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4866393.d.html</link>
-            <guid>2291455</guid>
-            <pubDate>Wed, 25 Aug 2021 02:45:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【吉林省将严查校外培训广告】昨日，吉林市场监督管理厅发布《关于规范校外培训广告行为的提示书》，明确各主流媒体、新媒体、公共场所、居民区各类广告牌和网络平台等不刊登、不播发校外培训广告，同时不得在中小学校、幼儿园内开展商业广告活动。公众如发现校外培训广告相关违法行为，可拨打12315市场监管投诉举报热线进行投诉举报，一经查实，将依法严肃处理。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3469364.d.html</link>
-            <guid>2291453</guid>
-            <pubDate>Wed, 25 Aug 2021 02:42:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【乐视网再次被强制执行 5个月被法院执行12次】天眼查App显示，8月24日，乐视网信息技术（北京）股份有限公司新增一条被执行人信息，案号(2021)京0105执36317号，执行标的13853984元，执行法院为北京市朝阳区人民法院。其案件为喀什金溪影视有限公司与乐视网信息技术（北京）股份有限公司相关合同纠纷。 值得注意的是，目前该公司已存在12条被执行人信息，被执行总金额超20亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3468085.d.html</link>
-            <guid>2291450</guid>
-            <pubDate>Wed, 25 Aug 2021 02:37:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【今年全国早稻总产量2802万吨 增长2.7%】 国家统计局25日发布数据，根据10省（区）早稻实割实测抽样调查结果推算，2021年全国早稻总产量2802万吨，比2020年增加72.3万吨，增长2.7%。全国早稻播种面积稳中略降，单产恢复性增长，早稻产量较上年小幅增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4863696.d.html</link>
-            <guid>2291446</guid>
-            <pubDate>Wed, 25 Aug 2021 02:34:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
