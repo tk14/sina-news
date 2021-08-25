@@ -4,11 +4,92 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 25 Aug 2021 16:35:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 17:26:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  波音(BA.N)公布卡塔尔F-15先进喷气式飞机；在完成交付前的飞行员培训后，第一架F-15喷气式飞机将于今年晚些时候被运往卡塔尔。]]></title>
+            <guid>2292327</guid>
+            <pubDate>Wed, 25 Aug 2021 17:15:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大总理特鲁多：需要结束投机性住房的增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqcfncc5007303.d.html</link>
+            <guid>2292325</guid>
+            <pubDate>Wed, 25 Aug 2021 17:14:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【伊朗议会投票产生新一届内阁】当地时间25日，伊朗议会对总统莱希提交的内阁名单进行投票表决，除教育部部长提名未获通过外，其他18名部长均获得了议会的信任投票。根据伊朗法律规定，对于提名人选遭到否决的职位，伊朗总统莱希将指派一名代理部长，并需在三个月内提交新人选。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqciyzm3611820.d.html</link>
+            <guid>2292322</guid>
+            <pubDate>Wed, 25 Aug 2021 17:13:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[媒体消息：土耳其开始从阿富汗撤军。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqcfncc5006926.d.html</link>
+            <guid>2292320</guid>
+            <pubDate>Wed, 25 Aug 2021 17:09:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大总理特鲁多：加拿大银行将保持强劲和盈利。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqciyzm3610598.d.html</link>
+            <guid>2292315</guid>
+            <pubDate>Wed, 25 Aug 2021 17:01:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯经济部：截至8月23日，预计年度通胀率将增加至6.68%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqciyzm3610178.d.html</link>
+            <guid>2292313</guid>
+            <pubDate>Wed, 25 Aug 2021 16:55:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  惠誉：美国房屋建筑商需求可能会在2021年下半年剩余时间里继续保持轻微疲软，但会超过2019年下半年的水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqciyzm3610162.d.html</link>
+            <guid>2292312</guid>
+            <pubDate>Wed, 25 Aug 2021 16:55:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  惠誉：预计美国房屋建筑商的供需状况将在2021年下半年有所改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqciyzm3610148.d.html</link>
+            <guid>2292311</guid>
+            <pubDate>Wed, 25 Aug 2021 16:55:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【江苏南京江宁区禄口街道离境通道解除管控】在南京机场高速禄口收费站，25日下午仍处关闭状态的出口通道已经打开通行。南京市城管部门工作人员处表示，26日0时起，禄口街道所有离境通道卡口陆续打开，解除管控。至此，禄口街道所有进出通道开放。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqciyzm3610103.d.html</link>
+            <guid>2292310</guid>
+            <pubDate>Wed, 25 Aug 2021 16:55:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  惠誉：预计2021年美国房价将上涨8%-10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqcfncc5005435.d.html</link>
+            <guid>2292308</guid>
+            <pubDate>Wed, 25 Aug 2021 16:53:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  惠誉：将梅西百货(M.N)的发行人违约评级提升至“BB+"，前景展望稳定。]]></title>
+            <guid>2292307</guid>
+            <pubDate>Wed, 25 Aug 2021 16:53:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据ActuNiger门户网站援引尼日尔国防部的声明报道，该国南部迪法区的安全部队遭到“博科圣地”数百名武装分子的袭击，导致16名军人死亡，9人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqcfncc5004791.d.html</link>
+            <guid>2292306</guid>
+            <pubDate>Wed, 25 Aug 2021 16:45:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英法或将于周五前结束阿富汗撤离工作】英法两国或将于周五之前结束在阿富汗的人员撤离工作。据悉，英国皇家空军最后一架载人飞机会在接下来的24至36小时内离开喀布尔，而法国的撤离任务很可能将于周四结束。]]></title>
+            <guid>2292305</guid>
+            <pubDate>Wed, 25 Aug 2021 16:43:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【41家百亿私募重仓持有168只股票，五大板块被集中持有，八大私募新进或增持紫金矿业等股票】截至8月24日上市公司公告披露完毕时，根据某第三方机构不完全统计，第二季度末，共有41家百亿私募旗下的基金产品出现在168家上市公司半年报前十大流通股东名单中。相关持股持仓总市值为704.34亿元。从重点持股情况来看，共有7家百亿级私募在22只个股上的单票持股总市值超过5亿元。其中，单家百亿级私募持股市值最大的三只个股依次为海康威视、贵州茅台和紫金矿业。从百亿级私募二季度末重仓股所属的行业板块来看，来自朝阳永续的统计数据显示，科技、医药医疗、顺周期、先进制造、大消费等五大板块，成为了41家百亿级私募持仓最为集中的赛道。高毅资产、景林资产、淡水泉投资、石锋资产、宁泉资产、礼仁投资、林园投资、重阳投资等八家百亿级私募，新进或增持了多只个股，行业以顺周期、大消费、医药医疗、先进制造等为主。业内人士表示，对于个人投资者而言，百亿级私募的“重点持股作业”，不应当仅是简单“抄写”，而应在独立分析之后作为参考。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqciyzm3608968.d.html</link>
+            <guid>2292304</guid>
+            <pubDate>Wed, 25 Aug 2021 16:42:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【英法或将于周五前结束阿富汗撤离工作】英法两国或将于周五之前结束在阿富汗的人员撤离工作。据悉，英国皇家空军最后一架载人飞机会在接下来的24至36小时内离开喀布尔，而法国的撤离任务很可能将于周四结束。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqciyzm3607551.d.html</link>
@@ -193,90 +274,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4994708.d.html</link>
             <guid>2292232</guid>
             <pubDate>Wed, 25 Aug 2021 14:42:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  蓝月亮：上半年收入约23.554亿港元，同比下滑约3.3%。 上半年毛利约12.595亿港元，同比下滑约19.2%。 上半年毛利率约53.5%，2020年同期约64.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3598720.d.html</link>
-            <guid>2292230</guid>
-            <pubDate>Wed, 25 Aug 2021 14:37:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内首艘纯电动拖轮“云港电拖一号”下水作业】8月25日下午，伴随着“云港电拖一号”在连云港港27号码头拖拽作业，我国自主建造的首艘纯电动拖轮正式投入使用，填补了国内港口作业纯电动拖轮的空白。“云港电拖一号”采用磷酸铁锂电池组作为动力源，能够达到4000马力常规拖轮使用效果，可完全替代传统大功率燃油拖轮，实现对进出港大型船舶的拖拽作业，具有零污染物排放、噪音低等优点，为港口拖轮作业提供了新方式。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3598169.d.html</link>
-            <guid>2292222</guid>
-            <pubDate>Wed, 25 Aug 2021 14:32:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国上周原油出口减少61.9万桶/日至281.2万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4993570.d.html</link>
-            <guid>2292221</guid>
-            <pubDate>Wed, 25 Aug 2021 14:30:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国原油产品四周平均供应量为2099万桶/日，较去年同期增加13.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4993565.d.html</link>
-            <guid>2292220</guid>
-            <pubDate>Wed, 25 Aug 2021 14:30:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ EIA报告：除却战略储备的商业原油上周进口615.7万桶/日，较前一周减少19.3万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3598002.d.html</link>
-            <guid>2292219</guid>
-            <pubDate>Wed, 25 Aug 2021 14:30:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：除却战略储备的商业原油库存减少298万桶至4.326亿桶，减少0.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3597965.d.html</link>
-            <guid>2292218</guid>
-            <pubDate>Wed, 25 Aug 2021 14:30:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟宣布将于8月30日就阿富汗问题举行部长级会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4993508.d.html</link>
-            <guid>2292217</guid>
-            <pubDate>Wed, 25 Aug 2021 14:30:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海通国际上半年纯利大增逾100%，费类收入创5年新高】8月25日，海通国际发布中期业绩，公司上半年收入38.35亿港元，同比增9%，纯利大增逾一倍至10.81亿港元，创5年新高。费类业务增长显著，期内费类收入达5年来最高水平，同比上升39%至16.58亿港元，在收入中的占比由去年同期的34%升至43%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4993207.d.html</link>
-            <guid>2292215</guid>
-            <pubDate>Wed, 25 Aug 2021 14:27:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  红星美凯龙：上半年归属于母公司所有者的净利润17.32亿元人民币，2020年同期11.01亿元。 上半年归属于母公司所有者的净利润率23.1%，2020年同期18.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4992396.d.html</link>
-            <guid>2292210</guid>
-            <pubDate>Wed, 25 Aug 2021 14:20:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧盟将于周四讨论重新对美国实施旅行限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4991604.d.html</link>
-            <guid>2292208</guid>
-            <pubDate>Wed, 25 Aug 2021 14:13:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【维尔利半年报：上半年净利润1.31亿元 同比减少19.57%】维尔利发布半年报，上半年营业收入15.86亿元，同比增长23.28%；净利润1.31亿元，同比减少19.57%；基本每股收益0.17元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3595660.d.html</link>
-            <guid>2292207</guid>
-            <pubDate>Wed, 25 Aug 2021 14:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美银将拼多多目标价上调至148美元，较周二99.12美元的收盘价上涨49％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3595524.d.html</link>
-            <guid>2292206</guid>
-            <pubDate>Wed, 25 Aug 2021 14:10:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【众信旅游：上半年净亏损1.23亿元 拟减持不超2%回购股份】众信旅游公告，2021年上半年净亏损1.23亿元，上年同期亏损1.76亿元，亏损缩窄。2020年2月5日至3月23日公司累计回购2.43%股份，公司拟采用集中竞价的交易方式减持回购股份数量不超过1812.66万股，即不超过公司最新股本总额9.06亿股（截至2021年8月24日）的2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4991018.d.html</link>
-            <guid>2292205</guid>
-            <pubDate>Wed, 25 Aug 2021 14:08:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【浩通科技半年报：上半年净利润1.72亿元 同比增长265%】浩通科技发布半年报，上半年营业收入11.32亿元，同比增长158.72%；净利润1.72亿元，同比增长265.29%；基本每股收益2.0192元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4990374.d.html</link>
-            <guid>2292204</guid>
-            <pubDate>Wed, 25 Aug 2021 14:03:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
