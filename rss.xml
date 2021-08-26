@@ -4,11 +4,76 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 26 Aug 2021 17:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 18:26:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美股油气板块走低，中石化(SNP.N)跌2.42%，埃克森美孚石油(XOM.N)跌1.15%，雪佛龙(CVX.N)、巴西石油公司(PBR.N)、英国石油(BP.N)跌近1%。]]></title>
+            <guid>2293774</guid>
+            <pubDate>Thu, 26 Aug 2021 18:25:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[塔利班发言人：在喀布尔机场发生爆炸后，塔利班不打算延长美军撤离期限。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-27/detail-ikqcfncc5230741.d.html</link>
+            <guid>2293771</guid>
+            <pubDate>Thu, 26 Aug 2021 18:13:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间8月26日晚，喀布尔机场附近再次传出爆炸声。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-27/detail-ikqciyzm3834304.d.html</link>
+            <guid>2293770</guid>
+            <pubDate>Thu, 26 Aug 2021 18:13:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据塔斯社：俄罗斯外长告诉伊朗外长，维也纳核协议谈判应尽快重启。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-27/detail-ikqciyzm3834211.d.html</link>
+            <guid>2293768</guid>
+            <pubDate>Thu, 26 Aug 2021 18:10:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳元兑美元AUD/USD日内跌超0.50%，现报0.7239。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-27/detail-ikqcfncc5230638.d.html</link>
+            <guid>2293767</guid>
+            <pubDate>Thu, 26 Aug 2021 18:10:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[必和必拓发言人：必和必拓计划在周五之前关闭位于墨西哥湾的Shenzi平台的油气生产，并撤出所有员工。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-27/detail-ikqcfncc5230013.d.html</link>
+            <guid>2293765</guid>
+            <pubDate>Thu, 26 Aug 2021 17:59:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银行半年报“佐证”，房地产不良贷款率上升】近期，受一些地产大户经营风险的影响，房地产业不良贷款增加。结合目前披露出来的上市银行半年报分析，开发贷资产质量确实承压。中信证券研究所副所长、首席FICC分析师明明表示：对于涉房贷款质量而言，个人按揭贷款风险可控，在房地产价格不大幅波动的前提下，相关贷款押品充足安全垫充裕，但是开发贷不良有明显上升。对于银行而言，随着今年涉房贷款集中度严格管控要求下，后续房地产对公贷款在总量不新增的前提下，结构上可能会有变化，或许会更倾向于央企或国企房地产开发主体。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-27/detail-ikqciyzm3833057.d.html</link>
+            <guid>2293762</guid>
+            <pubDate>Thu, 26 Aug 2021 17:49:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：市政债券基金本周流入18.7亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-27/detail-ikqcfncc5229370.d.html</link>
+            <guid>2293760</guid>
+            <pubDate>Thu, 26 Aug 2021 17:46:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：美国高收益基金本周资金流入5.32亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-27/detail-ikqcfncc5229361.d.html</link>
+            <guid>2293759</guid>
+            <pubDate>Thu, 26 Aug 2021 17:46:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[挪威国家石油公司（Equinor）正在从美国墨西哥湾的Titan石油生产平台上撤离工人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-27/detail-ikqciyzm3832642.d.html</link>
+            <guid>2293758</guid>
+            <pubDate>Thu, 26 Aug 2021 17:40:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿富汗民族和解高级委员会主席：喀布尔机场外爆炸事件是“恐怖袭击”】据俄新社，阿富汗民族和解高级委员会主席阿卜杜拉·阿卜杜拉发推文称，喀布尔机场附近26日发生的爆炸事件是恐怖袭击。阿卜杜拉刚刚发推文说：“我强烈谴责喀布尔机场附近发生的恐怖袭击，这导致大量平民伤亡。”（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-27/detail-ikqcfncc5228547.d.html</link>
+            <guid>2293757</guid>
+            <pubDate>Thu, 26 Aug 2021 17:31:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美媒：美大使称四名美国海军陆战队士兵在喀布尔机场爆炸事件中死亡。（环球网）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-27/detail-ikqciyzm3831116.d.html</link>
@@ -312,53 +377,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqcfncc5214157.d.html</link>
             <guid>2293676</guid>
             <pubDate>Thu, 26 Aug 2021 14:40:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：最后一架德国军用飞机已离开喀布尔机场，德国撤离行动完成。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqciyzm3817593.d.html</link>
-            <guid>2293673</guid>
-            <pubDate>Thu, 26 Aug 2021 14:35:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝壳盘中涨幅扩大至10%，报20.87美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqcfncc5213654.d.html</link>
-            <guid>2293672</guid>
-            <pubDate>Thu, 26 Aug 2021 14:35:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：贝索斯的蓝色起源进行新谢泼德火箭的第17次发射任务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqcfncc5213593.d.html</link>
-            <guid>2293671</guid>
-            <pubDate>Thu, 26 Aug 2021 14:34:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据媒体报道，喀布尔机场地区第二起爆炸发生在美国人此前聚集的宾馆附近。（卫星新闻）]]></title>
-            <guid>2293669</guid>
-            <pubDate>Thu, 26 Aug 2021 14:33:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【奥佳华半年报：上半年净利润2.66亿元 同比增长78.68%】奥佳华发布2021年半年度报告，实现营业收入39.38亿元，同比增长41.34%；净利润2.66亿元，同比增长78.68%；基本每股收益0.43元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqcfncc5213190.d.html</link>
-            <guid>2293668</guid>
-            <pubDate>Thu, 26 Aug 2021 14:32:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【立讯精密：预计三年左右 汽车相关业务投入产出会逐渐平衡】立讯精密(002475)在昨日的电话会议上表示，今年上半年，虽受到芯片短缺及海运物流影响，公司汽车业务营业收入仍然实现近40%增长。目前公司在汽车相关业务上的投入高于公司平均水平，但是预计三年左右，投入产出会逐渐平衡。同时，公司在新能源汽车上无论是产品还是客户层面都布局较深，相信不久就能从财务数字层面呈现出来。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqcfncc5212830.d.html</link>
-            <guid>2293661</guid>
-            <pubDate>Thu, 26 Aug 2021 14:28:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔利班官员：喀布尔机场外发生爆炸造成至少13人死亡，其中包括儿童，许多塔利班警卫受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqciyzm3816700.d.html</link>
-            <guid>2293660</guid>
-            <pubDate>Thu, 26 Aug 2021 14:28:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST中基：已采取措施恢复番茄主业持续经营】据*ST中基(000972)8月26日晚间的半年报，公司在兵团及股东方的大力支持下，已着手恢复番茄产业生产，为保证公司番茄主业持续经营，公司已建全完善下属全资子公司中基红色番茄的组织架构，逐步恢复各生产工厂的产量以及成本计划、人才储备、设备检修等工作。同时调整和优化番茄制品结构，组织恢复高附加值的番茄红素保健品的生产加工。通过转型升级，公司将实现多业并举，提高主营业务盈利能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-26/detail-ikqciyzm3816628.d.html</link>
-            <guid>2293658</guid>
-            <pubDate>Thu, 26 Aug 2021 14:27:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
