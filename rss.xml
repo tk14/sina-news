@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 27 Aug 2021 18:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 19:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【证券日报：明星商业化之路千万不能走偏】中国娱乐产业要发展，必须是在健康、阳光的环境中。中国故事要输出，必须是在踏实、积极的价值观下。笔者认为，应严防明星资本化，针对明星股东应增加披露条款与细则，建立透明的薪酬评分体系，对劣迹艺人“零容忍”。启用终身负责制，一旦明星出现劣迹行为，其代言的产品出现问题，消费者、参演作品的投资方等相关受害者均可追偿。同时，要促进行业健康发展，不能仅停留在“倡议自律”的层面，而是应该上升到制度高度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2590463.d.html</link>
+            <guid>2295177</guid>
+            <pubDate>Fri, 27 Aug 2021 19:10:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  迪士尼短线上扬约1.20美元，使得日内整体涨幅扩大至将近1.4%，刷新日高至179.00美元，据道琼斯新闻报道，ESPN探索价值至少30亿美元的体育博彩类交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0818001.d.html</link>
+            <guid>2295175</guid>
+            <pubDate>Fri, 27 Aug 2021 18:51:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国银行：OPEC+之外的产油国石油产量料将在2022年增加180万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0817848.d.html</link>
+            <guid>2295174</guid>
+            <pubDate>Fri, 27 Aug 2021 18:48:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[洲际交易所（ICE）：上周布伦特原油期货投机性净多头头寸减少8854手合约至245964手合约。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0816957.d.html</link>
+            <guid>2295172</guid>
+            <pubDate>Fri, 27 Aug 2021 18:34:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[必和必拓正考虑在智利矿场现场安装可再生能源设施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2587772.d.html</link>
+            <guid>2295169</guid>
+            <pubDate>Fri, 27 Aug 2021 18:28:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国天然气期货延续涨势，日内涨5%，创32个月来新高。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2586597.d.html</link>
@@ -211,29 +241,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzqtyt2573687.d.html</link>
             <guid>2294979</guid>
             <pubDate>Fri, 27 Aug 2021 15:23:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【汉缆股份半年报：上半年净利润4.86亿元 同比增长38.29%】汉缆股份发布半年报，上半年归属于母公司所有者的净利润4.86亿元，同比增长38.29%；营业收入37.66亿元，同比增长27.1%；基本每股收益0.15元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzscyx0801037.d.html</link>
-            <guid>2294973</guid>
-            <pubDate>Fri, 27 Aug 2021 15:11:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【金字火腿：实控人将变更为任奇峰 8月30日起复牌】金字火腿公告，当日巴玛合伙企业、任奇峰、施延军共同签署了股份转让协议，巴玛合伙企业拟将其持有的20.30%公司股份以每股5元的价格转让给任奇峰，股份转让价款为9.93亿元。同时，任奇峰拟全额认购公司非公开发行的股份，数量预计不超过2.94亿股。此次权益变动完成后，任奇峰将持有公司38.69%的股份，成为公司控股股东、实控人。公司股票自8月30日开市起复牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzqtyt2572615.d.html</link>
-            <guid>2294972</guid>
-            <pubDate>Fri, 27 Aug 2021 15:10:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[商汤集团：截至2021年6月30日，我们软件平台的客户数量合计已超过2400家，其中包括超过250家《财富》500强企业及上市公司，119个城市以及超过30余家汽车企业，同时我们还赋能了超过4.5亿部手机及200多款手机应用程序。]]></title>
-            <guid>2294967</guid>
-            <pubDate>Fri, 27 Aug 2021 15:03:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国轩高科：拟不超2.6亿元投建国轩1GWh高性能电芯项目】国轩高科公告，公司全资子公司国轩电池拟以自有和自筹资金不超过2.6亿元投资建设国轩1GWh高性能电芯项目。项目达产后，预计可实现年产值约人民币6亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzqtyt2571866.d.html</link>
-            <guid>2294965</guid>
-            <pubDate>Fri, 27 Aug 2021 15:03:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
