@@ -4,11 +4,95 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 27 Aug 2021 19:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 20:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[惠誉：加拿大的银行受益于信贷利好和储备释放。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2593353.d.html</link>
+            <guid>2295207</guid>
+            <pubDate>Fri, 27 Aug 2021 20:22:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大权威信用评级公司DBRS：确认瑞典的评级为“AAA”，前景展望为稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2592832.d.html</link>
+            <guid>2295203</guid>
+            <pubDate>Fri, 27 Aug 2021 20:09:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道指本周累涨0.96%，纳指本周累涨2.82%，标普500指数本周累涨1.52%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0821511.d.html</link>
+            <guid>2295202</guid>
+            <pubDate>Fri, 27 Aug 2021 20:06:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上交所发布股票质押式回购交易业务指引第1号，明年起实施】8月27日，从上交所获悉，为引导和规范证券公司合规、审慎开展股票质押式回购交易业务，有效防范和化解业务风险，根据《股票质押式回购交易及登记结算业务办法（2018年修订）》等相关规定，上交所制定并发布了《上海证券交易所股票质押式回购交易业务指引第1号——风险管理》。自2022年1月1日起实施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2592048.d.html</link>
+            <guid>2295192</guid>
+            <pubDate>Fri, 27 Aug 2021 19:49:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至8月月17日当周，NYMEX、ICE市场的天然气期货投机性净多头持仓减少32697手至228775手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0820484.d.html</link>
+            <guid>2295188</guid>
+            <pubDate>Fri, 27 Aug 2021 19:37:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至8月24日当周，美元投机性净多头押注跳升至85亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2591559.d.html</link>
+            <guid>2295187</guid>
+            <pubDate>Fri, 27 Aug 2021 19:35:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至8月24日当周，投机者将CBOT美国10年期国债期货合约净多头头寸减少31904手至113312手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0820403.d.html</link>
+            <guid>2295186</guid>
+            <pubDate>Fri, 27 Aug 2021 19:35:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至8月24日当周，COMEX铜期货投机性净多头头寸减少6987手至12956手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0820301.d.html</link>
+            <guid>2295185</guid>
+            <pubDate>Fri, 27 Aug 2021 19:32:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至8月17日当周，COMEX白银期货投机性净多头头寸增加419手至10176手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2591461.d.html</link>
+            <guid>2295184</guid>
+            <pubDate>Fri, 27 Aug 2021 19:32:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至8月24日当周，COMEX黄金期货投机性净多头头寸增加16942手至94592手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0820293.d.html</link>
+            <guid>2295183</guid>
+            <pubDate>Fri, 27 Aug 2021 19:32:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至8月24日当周，WTI原油期货投机性净多头头寸增加5102手至280069手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2591326.d.html</link>
+            <guid>2295181</guid>
+            <pubDate>Fri, 27 Aug 2021 19:30:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  在线赞助公司Support.com(SPRT.O)再度触发熔断，熔断前涨超52%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2591079.d.html</link>
+            <guid>2295180</guid>
+            <pubDate>Fri, 27 Aug 2021 19:25:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【业界预计今年小微企业专项金融债发行规模达5000亿元】近年来，小微企业专项金融债正成为各家商业银行定向“滴灌”小微企业的重要工具。根据同花顺iFinD数据统计显示，今年以来，截至8月27日，已有多家银行合计发行39只小微企业专项金融债，规模达2842亿元。中信证券研究所副所长、首席FICC分析师明明表示，按照目前小微企业专项金融债的发行节奏及中央的支持力度来看，今年小微企业专项金融债发行规模有望达到5000亿元左右，较2020年的3708亿元和2019年的1753亿元实现进一步增长。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0819821.d.html</link>
+            <guid>2295179</guid>
+            <pubDate>Fri, 27 Aug 2021 19:23:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务院发言人Price：塔利班已经向美国明确表示，他们希望看到美国在阿富汗继续保持外交存在。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2590773.d.html</link>
+            <guid>2295178</guid>
+            <pubDate>Fri, 27 Aug 2021 19:17:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【证券日报：明星商业化之路千万不能走偏】中国娱乐产业要发展，必须是在健康、阳光的环境中。中国故事要输出，必须是在踏实、积极的价值观下。笔者认为，应严防明星资本化，针对明星股东应增加披露条款与细则，建立透明的薪酬评分体系，对劣迹艺人“零容忍”。启用终身负责制，一旦明星出现劣迹行为，其代言的产品出现问题，消费者、参演作品的投资方等相关受害者均可追偿。同时，要促进行业健康发展，不能仅停留在“倡议自律”的层面，而是应该上升到制度高度。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2590463.d.html</link>
@@ -187,60 +271,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0805136.d.html</link>
             <guid>2295005</guid>
             <pubDate>Fri, 27 Aug 2021 16:03:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  曼联(MANU.N)涨幅扩大，现涨7.1%，此前宣布C罗回归曼联。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0805121.d.html</link>
-            <guid>2295004</guid>
-            <pubDate>Fri, 27 Aug 2021 16:03:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【快狗打车母公司58 Freight向香港交易所提交IPO申请】据香港交易所网站上发布的公告，经营GogoX和快狗打车品牌的物流初创公司58 Freight向港交所提交上市前文件。文件显示，中金公司、瑞银、交银国际和农银国际任联席保荐人。香港物流独角兽GogoX据悉考虑进行规模4亿美元的IPO。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzqtyt2575783.d.html</link>
-            <guid>2295001</guid>
-            <pubDate>Fri, 27 Aug 2021 15:52:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[部分中概股跌幅扩大，万国数据跌9.57%，金山云跌超8%，爱奇艺、每日优鲜、老虎证券跌超5%，叮咚买菜跌4.63%，富途控股跌3.67%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzscyx0804044.d.html</link>
-            <guid>2294999</guid>
-            <pubDate>Fri, 27 Aug 2021 15:49:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【五角大楼更正：喀布尔机场外只发生一起自杀式炸弹袭击】五角大楼刚刚更正了关于喀布尔机场外发生的爆炸事件次数的说法。法新社消息，五角大楼8月27日表示，26日当天在喀布尔机场外只发生了一起自杀式炸弹袭击。美国国防部负责地区行动的联合参谋部副主任威廉·汉克·泰勒少将说：“我们不相信在巴龙宾馆或宾馆附近发生了第二起爆炸。”此前，五角大楼发言人称，喀布尔机场外发生的是一次“复合型攻击”，一起爆炸发生在前往机场的主要通道阿比门附近，另一起发生在不远处的巴龙宾馆附近。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzqtyt2574563.d.html</link>
-            <guid>2294988</guid>
-            <pubDate>Fri, 27 Aug 2021 15:35:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【商汤科技提交赴港IPO申请，软银持股14.88%】据港交所披露，人工智能独角兽商汤科技已向港交所递交上市申请，中金、海通国际、汇丰为联席保荐人。招股书显示，商汤科技2021年上半年营收16.52亿元，去年同期为8.61亿元，同比增长91.87%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzscyx0802879.d.html</link>
-            <guid>2294987</guid>
-            <pubDate>Fri, 27 Aug 2021 15:33:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【邮储银行：增设数字人民币部为总行一级部门】今日，中国邮政储蓄银行发布2021年半年度报告，财报显示，邮储银行上半年实现净利润412.44亿元，同比增长22.48%；上半年银行资产总额和管理零售客户资产（AUM）双双突破12万亿元；在总行增设一级部门数字人民币部。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzqtyt2574007.d.html</link>
-            <guid>2294982</guid>
-            <pubDate>Fri, 27 Aug 2021 15:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股3D打印板块普涨，3D系统(DDD.N)涨超4%，Nano Dimension(NNDM.O)涨3.7%，Stratasys(SSYS.O)涨2.32%，ExOne(XONE.O)涨1.54%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzscyx0802416.d.html</link>
-            <guid>2294981</guid>
-            <pubDate>Fri, 27 Aug 2021 15:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【恒泰艾普回复关注函：银行账户被冻结事项不影响支付结算业务和正常的生产经营活动】恒泰艾普回复关注函，公司监事会认为本次监事会决议召集召开程序、决策过程、会议决议内容符合相关规定，合法合规，真实有效。但公司断然拒绝监事会的要求，使得监事会无法聘请律师发表意见。截至目前，公司累计被冻结资金合计1200.85亿元，占最近一期（2020年12月31日经审计）净资产比例为1.29%，货币资金比例为6.67%，占比很小。涉及被冻结事项的集团及子公司全部账户数量共计98个，其中冻结账户39个，未被冻结59个，可供使用账户占比60.2％。子公司除现被冻结银行账户外，其他银行账户仍可正常使用，不影响公司的支付结算业务和正常的生产经营活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzqtyt2573720.d.html</link>
-            <guid>2294980</guid>
-            <pubDate>Fri, 27 Aug 2021 15:23:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【豫能控股：拟投建屋顶分布式光伏项目5.99MWp】豫能控股公告，公司子公司天益发电与镇平县晁陂镇人民政府签订《项目建设协议书》，与河南言石商业运营管理有限公司签订光伏电站项目相关合同，拟投资建设镇平言石小镇一期南区屋顶分布式光伏发电项目，建设规模为5.99MWp，采用BIPV光伏板直接代替传统彩钢瓦作为屋顶，投资2533.89万元；同时，为开拓配电业务，落实综合能源服务布局，拟在园区加装配电设施，投资301.5万元。项目动态总投资2853.39万元。根据当地政府要求，天益发电拟100%出资设立镇平天益新能源公司，注册资本为800万元，主要负责投资、建设、运营、维护镇平言石小镇屋顶分布式光伏发电项目及园区配电设施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzqtyt2573687.d.html</link>
-            <guid>2294979</guid>
-            <pubDate>Fri, 27 Aug 2021 15:23:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
