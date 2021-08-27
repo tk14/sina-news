@@ -4,11 +4,107 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 27 Aug 2021 15:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 16:35:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国证券交易委员会（SEC）针对在线券商类似于游戏功能的交易软件征求意见，SEC主席Gensler称：证券交易软件的功能游戏化，加重（监管部门）对于投资者保护责任的担忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0808151.d.html</link>
+            <guid>2295019</guid>
+            <pubDate>Fri, 27 Aug 2021 16:31:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【C罗重返曼联】北京时间8月27日深夜，英超豪门曼联官方宣布C罗加盟。这也是C罗在2009年离开“红魔”之后再度回归，此前他曾为曼联效力6个赛季。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2579358.d.html</link>
+            <guid>2295018</guid>
+            <pubDate>Fri, 27 Aug 2021 16:29:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  SpaceX官方称，2021年的火箭发射总量将超过2020年。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2579238.d.html</link>
+            <guid>2295016</guid>
+            <pubDate>Fri, 27 Aug 2021 16:28:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛：没有改变正式宣布缩减量化宽松的可能性预测，11月（45%）仍然是我们的基准，12月（35%）或2022年（20%）也有可能。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2578879.d.html</link>
+            <guid>2295015</guid>
+            <pubDate>Fri, 27 Aug 2021 16:24:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股白银板块走高，Endeavour Silver(EXK.O)涨5.83%，Fortuna Silver(FSM.N)涨4.96%，First Majestic(AG.O)涨4.89%，泛美白银(PAAS.O)涨3.92%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2578798.d.html</link>
+            <guid>2295013</guid>
+            <pubDate>Fri, 27 Aug 2021 16:23:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【易方达、汇添富等7家赚超10亿，7家净利增速超100%】整体来看，公募基金头部效应进一步加剧，易方达基金以上半年18.41亿元的净利润和10657.68亿元的非货管理规模排在行业第一，净利润同比增长75.67%。此外，还有汇添富基金、兴证全球基金、广发基金、富国基金、华夏基金等6家头部基金公司上半年净利润超10亿。浙商基金、东吴基金、汇添富基金、兴证全球基金、东方基金、国海富兰克林、景顺长城等7家基金净利增速超过100%，其中，浙商基金成为绝对黑马，净利增速达4760%。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2578262.d.html</link>
+            <guid>2295012</guid>
+            <pubDate>Fri, 27 Aug 2021 16:20:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  雪佛龙(CVX.N)：为应对飓风艾达，公司暂停墨西哥湾平台的生产活动，正在疏散墨西哥湾平台的所有相关人员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0805499.d.html</link>
+            <guid>2295009</guid>
+            <pubDate>Fri, 27 Aug 2021 16:07:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：正在讨论确保伊朗永远不发展核武器的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2576773.d.html</link>
+            <guid>2295008</guid>
+            <pubDate>Fri, 27 Aug 2021 16:05:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽元兑美元NZD/USD涨幅扩大至1.00%，现报0.7013。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0805136.d.html</link>
+            <guid>2295005</guid>
+            <pubDate>Fri, 27 Aug 2021 16:03:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  曼联(MANU.N)涨幅扩大，现涨7.1%，此前宣布C罗回归曼联。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0805121.d.html</link>
+            <guid>2295004</guid>
+            <pubDate>Fri, 27 Aug 2021 16:03:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【快狗打车母公司58 Freight向香港交易所提交IPO申请】据香港交易所网站上发布的公告，经营GogoX和快狗打车品牌的物流初创公司58 Freight向港交所提交上市前文件。文件显示，中金公司、瑞银、交银国际和农银国际任联席保荐人。香港物流独角兽GogoX据悉考虑进行规模4亿美元的IPO。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzqtyt2575783.d.html</link>
+            <guid>2295001</guid>
+            <pubDate>Fri, 27 Aug 2021 15:52:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[部分中概股跌幅扩大，万国数据跌9.57%，金山云跌超8%，爱奇艺、每日优鲜、老虎证券跌超5%，叮咚买菜跌4.63%，富途控股跌3.67%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzscyx0804044.d.html</link>
+            <guid>2294999</guid>
+            <pubDate>Fri, 27 Aug 2021 15:49:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【五角大楼更正：喀布尔机场外只发生一起自杀式炸弹袭击】五角大楼刚刚更正了关于喀布尔机场外发生的爆炸事件次数的说法。法新社消息，五角大楼8月27日表示，26日当天在喀布尔机场外只发生了一起自杀式炸弹袭击。美国国防部负责地区行动的联合参谋部副主任威廉·汉克·泰勒少将说：“我们不相信在巴龙宾馆或宾馆附近发生了第二起爆炸。”此前，五角大楼发言人称，喀布尔机场外发生的是一次“复合型攻击”，一起爆炸发生在前往机场的主要通道阿比门附近，另一起发生在不远处的巴龙宾馆附近。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzqtyt2574563.d.html</link>
+            <guid>2294988</guid>
+            <pubDate>Fri, 27 Aug 2021 15:35:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【商汤科技提交赴港IPO申请，软银持股14.88%】据港交所披露，人工智能独角兽商汤科技已向港交所递交上市申请，中金、海通国际、汇丰为联席保荐人。招股书显示，商汤科技2021年上半年营收16.52亿元，去年同期为8.61亿元，同比增长91.87%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzscyx0802879.d.html</link>
+            <guid>2294987</guid>
+            <pubDate>Fri, 27 Aug 2021 15:33:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【邮储银行：增设数字人民币部为总行一级部门】今日，中国邮政储蓄银行发布2021年半年度报告，财报显示，邮储银行上半年实现净利润412.44亿元，同比增长22.48%；上半年银行资产总额和管理零售客户资产（AUM）双双突破12万亿元；在总行增设一级部门数字人民币部。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzqtyt2574007.d.html</link>
+            <guid>2294982</guid>
+            <pubDate>Fri, 27 Aug 2021 15:27:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股3D打印板块普涨，3D系统(DDD.N)涨超4%，Nano Dimension(NNDM.O)涨3.7%，Stratasys(SSYS.O)涨2.32%，ExOne(XONE.O)涨1.54%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzscyx0802416.d.html</link>
+            <guid>2294981</guid>
+            <pubDate>Fri, 27 Aug 2021 15:27:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【恒泰艾普回复关注函：银行账户被冻结事项不影响支付结算业务和正常的生产经营活动】恒泰艾普回复关注函，公司监事会认为本次监事会决议召集召开程序、决策过程、会议决议内容符合相关规定，合法合规，真实有效。但公司断然拒绝监事会的要求，使得监事会无法聘请律师发表意见。截至目前，公司累计被冻结资金合计1200.85亿元，占最近一期（2020年12月31日经审计）净资产比例为1.29%，货币资金比例为6.67%，占比很小。涉及被冻结事项的集团及子公司全部账户数量共计98个，其中冻结账户39个，未被冻结59个，可供使用账户占比60.2％。子公司除现被冻结银行账户外，其他银行账户仍可正常使用，不影响公司的支付结算业务和正常的生产经营活动。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzqtyt2573720.d.html</link>
@@ -32,12 +128,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzqtyt2572615.d.html</link>
             <guid>2294972</guid>
             <pubDate>Fri, 27 Aug 2021 15:10:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  商汤集团：收入由2020年上半年的人民币8.612亿元增至2021年上半年的人民币16.518亿元。毛利率由2020年上半年的72.1%增至2021年上半年的73.0%。2018年、2019年、2020年及2021年上半年亏损净额分别为人民币34.327亿元、人民币49.677亿元、人民币121.583亿元及人民币37.129亿元。我们历史期内的亏损净额主要源于优先股的公允价值亏损。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzscyx0800522.d.html</link>
-            <guid>2294968</guid>
-            <pubDate>Fri, 27 Aug 2021 15:06:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[商汤集团：截至2021年6月30日，我们软件平台的客户数量合计已超过2400家，其中包括超过250家《财富》500强企业及上市公司，119个城市以及超过30余家汽车企业，同时我们还赋能了超过4.5亿部手机及200多款手机应用程序。]]></title>
@@ -274,96 +364,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-27/detail-ikqciyzm4029889.d.html</link>
             <guid>2294916</guid>
             <pubDate>Fri, 27 Aug 2021 14:26:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【嘉凯城半年报：上半年净亏损4.27亿元 亏损缩窄】嘉凯城发布半年报，上半年归属于母公司所有者的净利润亏损4.27亿元，上年同期净亏损6.12亿元，亏损缩窄；营业收入6.83亿元，同比增长116.59%；基本每股收益-0.24元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzqtyt2567872.d.html</link>
-            <guid>2294914</guid>
-            <pubDate>Fri, 27 Aug 2021 14:25:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国轩高科：上半年净利4817万元 同比增长33.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-ikqciyzm4029718.d.html</link>
-            <guid>2294913</guid>
-            <pubDate>Fri, 27 Aug 2021 14:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【电广传媒半年报：上半年净利润4.71亿元 扭亏为盈】电广传媒发布半年报，上半年归属于母公司所有者的净利润4.71亿元，上年同期净亏损2.67亿元，扭亏为盈；营业收入21.83亿元，同比减少11.17%；基本每股收益0.33元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzqtyt2567600.d.html</link>
-            <guid>2294910</guid>
-            <pubDate>Fri, 27 Aug 2021 14:23:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【ST八菱半年报：上半年净利润1.83亿元 扭亏为盈】ST八菱发布半年报，上半年归属于母公司所有者的净利润1.83亿元，上年同期净亏损583.63万元，扭亏为盈；营业收入3.04亿元，同比增长19.4%；基本每股收益0.69元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzqtyt2567488.d.html</link>
-            <guid>2294909</guid>
-            <pubDate>Fri, 27 Aug 2021 14:22:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：Rivian据悉在上周已经秘密提交了文件，计划在感恩节前后上市，正在等待美国证券交易委员会(SEC)的批准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-ikqciyzm4029383.d.html</link>
-            <guid>2294908</guid>
-            <pubDate>Fri, 27 Aug 2021 14:22:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【合众思壮半年报：上半年净亏损1.2亿元 亏损缩窄】合众思壮发布半年报，上半年归属于母公司所有者的净利润亏损1.2亿元，上年同期净亏损1.97亿元，亏损缩窄；营业收入9.07亿元，同比增长30.96%；基本每股收益-0.1619元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-ikqciyzm4029158.d.html</link>
-            <guid>2294907</guid>
-            <pubDate>Fri, 27 Aug 2021 14:21:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【东鹏控股半年报：上半年净利润3.87亿元 同比增长79.26%】东鹏控股发布半年报，上半年归属于母公司所有者的净利润3.87亿元，同比增长79.26%；营业收入36.25亿元，同比增长39.02%；基本每股收益0.33元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzqtyt2567201.d.html</link>
-            <guid>2294906</guid>
-            <pubDate>Fri, 27 Aug 2021 14:20:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【新乳业半年报：上半年净利润1.46亿元 同比增长90.58%】新乳业发布半年报，上半年归属于母公司所有者的净利润1.46亿元，同比增长90.58%；营业收入43.16亿元，同比增长68.85%；基本每股收益0.17元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-ikqciyzm4028941.d.html</link>
-            <guid>2294904</guid>
-            <pubDate>Fri, 27 Aug 2021 14:20:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：亚马逊支持的Rivian电动汽车公司据悉将提交IPO文件，寻求800亿美元的估值。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-ikqciyzm4028919.d.html</link>
-            <guid>2294903</guid>
-            <pubDate>Fri, 27 Aug 2021 14:19:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【科陆电子半年报：上半年净亏损1.56亿元 由盈转亏】科陆电子发布半年报，上半年归属于母公司所有者的净利润亏损1.56亿元，上年同期净利润942.57万元，由盈转亏；营业收入13.71亿元，同比减少17.88%；基本每股收益-0.1109元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzqtyt2566150.d.html</link>
-            <guid>2294894</guid>
-            <pubDate>Fri, 27 Aug 2021 14:13:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【众生药业半年报：上半年净利润2.88亿元 同比增长50.16%】众生药业发布半年报，上半年归属于母公司所有者的净利润2.88亿元，同比增长50.16%；营业收入12.1亿元，同比增长54.09%；基本每股收益0.36元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-ikqciyzm4028048.d.html</link>
-            <guid>2294892</guid>
-            <pubDate>Fri, 27 Aug 2021 14:12:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【神州高铁半年报：上半年净亏损1.49亿元 亏损缩窄】神州高铁发布半年报，上半年归属于母公司所有者的净利润亏损1.49亿元，上年同期净亏损2.92亿元，亏损缩窄；营业收入5.28亿元，同比增长23.99%；基本每股收益-0.0548元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzqtyt2565818.d.html</link>
-            <guid>2294891</guid>
-            <pubDate>Fri, 27 Aug 2021 14:10:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【索菲亚半年报：上半年净利润4.46亿元 同比增长30.12%】索菲亚发布半年报，上半年营业收入43亿元，同比增长68.3%；净利润4.46亿元，同比增长30.12%；基本每股收益0.4887元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzqtyt2565502.d.html</link>
-            <guid>2294889</guid>
-            <pubDate>Fri, 27 Aug 2021 14:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：拜登政府官员将在当地时间下午1点（北京时间次日凌晨1点）就阿富汗问题向美国参议员做简报。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-ikqciyzm4027348.d.html</link>
-            <guid>2294887</guid>
-            <pubDate>Fri, 27 Aug 2021 14:07:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【创世纪半年报：上半年净利润2.45亿元 同比增长70.82%】创世纪发布半年报，上半年营业收入23.49亿元，同比增长51.8%；净利润2.45亿元，同比增长70.82%；基本每股收益0.17元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-27/detail-iktzqtyt2565294.d.html</link>
-            <guid>2294886</guid>
-            <pubDate>Fri, 27 Aug 2021 14:07:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
