@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 28 Aug 2021 15:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 16:34:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【证监会副主席最新发声，证券业发展方向明确】8月28日，在中国证券业协会成立30周年座谈会上，证监会副主席李超就证券业发展指出了方向。李超提出了“五个坚持”，坚持回归本源，提升服务实体经济能力；坚持严守底线，强化合规风控意识和实施；坚持行稳致远，加强行业文化和声誉建设；坚持强基固本，努力提升专业服务能力；坚持担当使命，发挥好自律服务传导作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx0967874.d.html</link>
+            <guid>2295592</guid>
+            <pubDate>Sat, 28 Aug 2021 16:03:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国总统马克龙：只要伊拉克政府提出要求，法国作为反恐行动的一份子，将会继续在伊拉克驻军。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0967503.d.html</link>
+            <guid>2295591</guid>
+            <pubDate>Sat, 28 Aug 2021 15:58:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【五角大楼：两名IS“高级别成员”在空袭中被击毙】法新社刚刚消息，五角大楼称，两名IS“高级别成员”在空袭中被击毙。据美联社此前消息，五角大楼当地时间27日称，美国在阿富汗对极端组织“伊斯兰国”（ISIS）分支“ISIS-K”的一名“策划者”实施了空袭打击，目标人物被击毙。报道称，据称此人参与了在喀布尔对美国发动袭击的计划。英国《卫报》称，一位不愿透露姓名的美国防部官员说，拜登授权了空袭行动，是国防部长奥斯汀下令进行的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0966011.d.html</link>
+            <guid>2295590</guid>
+            <pubDate>Sat, 28 Aug 2021 15:34:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国陆军少将泰勒：美国目前已从阿富汗喀布尔撤离5400人。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0964273.d.html</link>
@@ -391,24 +409,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0902770.d.html</link>
             <guid>2295361</guid>
             <pubDate>Sat, 28 Aug 2021 06:46:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加拿大帝国商业银行：预计美国8月非农就业人口将增加90万人 失业率或降至5.2%】8月招聘活动似乎继续保持活跃，失业金申请人数进一步下降表明了这一点。更高的工资和招聘方面的努力可能推动非农就业人口增长90万人，市场共识预期为66.5万人。预计就业机会的增加将再次集中在重新开放的服务领域，而州和地方政府本可能利用近期的联邦资金，进一步增加员工人数。就业岗位的大幅增加可能会导致失业率降至5.2%，尽管劳动力参与率势将上升。平均每小时工资月率可能会降至0.3%，但这仍是一个强劲的水平，反映出劳动力持续短缺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0902044.d.html</link>
-            <guid>2295360</guid>
-            <pubDate>Sat, 28 Aug 2021 06:42:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大帝国商业银行：预计下周五公布的美国8月非农就业人口将录得90万人，高于市场共识预期的66.5万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2671487.d.html</link>
-            <guid>2295358</guid>
-            <pubDate>Sat, 28 Aug 2021 06:33:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【万兴科技：上半年SaaS化转型升级成果显著】27日，万兴科技在机构调研时表示，公司SaaS化转型升级是一个逐步实施推进的过程。自2018年开始尝试在个别产品实施SaaS化转型升级，去年下半年开始进入快速推进阶段，今年上半年成果显著，订阅用户数已超Lisence用户数，订阅收入占比已达近60%。在做好新用户订阅推广的同时，通过产品竞争力持续提升、订阅用户的运营维护，实现订阅续费率持续快速提升，截止2021年6月，公司订阅用户续费率已超43%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2670327.d.html</link>
-            <guid>2295357</guid>
-            <pubDate>Sat, 28 Aug 2021 06:25:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
