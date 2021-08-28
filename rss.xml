@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 28 Aug 2021 22:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 23:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【临港新片区条例草案开始征求意见】日前，上海市司法局就《中国（上海）自由贸易试验区临港新片区条例（草案）》在上海市政协征求委员意见建议。部分政协委员通过“政协直通车”等履职平台参与《条例（草案）》立法协商，提出意见建议。根据国家规定，临港新片区参照经济特区管理。《条例（草案）》明确，将根据全国人大常委会相关授权和临港新片区发展需要，通过制定浦东新区地方法规，对法律、行政法规、部门规章等作变通性规定，支持临港新片区自主发展、自主改革和自主创新。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2760578.d.html</link>
+            <guid>2295712</guid>
+            <pubDate>Sat, 28 Aug 2021 23:17:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【英国首相府：英最后一批军队和外交人员已撤离阿富汗】当地时间8月28日，英国媒体报道称，英国首相府已证实，最后一批英国军队和外交人员28日晚已撤离阿富汗首都喀布尔。报道指出，伴随英国皇家空军最后一次从喀布尔返英飞行，英国在阿富汗长达20年的军事介入结束。报道称，英国驻阿富汗大使劳里·布里斯托将暂时前往卡塔尔，远程负责英国在阿的外交、安全和其他事务。据悉，8月14日以来，英国已从阿富汗撤离了1.5万余人。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2754709.d.html</link>
@@ -408,12 +414,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0921937.d.html</link>
             <guid>2295390</guid>
             <pubDate>Sat, 28 Aug 2021 08:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国首个海上二氧化碳捕获与封存全流程工程启动】中国海油宣布，在珠江口盆地启动我国首个海上二氧化碳封存示范工程，每年可封存二氧化碳约30万吨。海上二氧化碳封存项目距深圳东南约200公里，所在海域平均水深80多米，是恩平15-1油田群开发的环保配套项目。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2687595.d.html</link>
-            <guid>2295384</guid>
-            <pubDate>Sat, 28 Aug 2021 08:19:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
