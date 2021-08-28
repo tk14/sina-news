@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 28 Aug 2021 20:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 21:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国国家飓风中心：飓风“艾达”（Ida）在墨西哥湾迅速增强，将带来威胁生命的风暴潮，预计将在周日开始对墨西哥湾沿岸地区造成雨水泛滥，甚至造成洪灾。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx0982290.d.html</link>
+            <guid>2295703</guid>
+            <pubDate>Sat, 28 Aug 2021 20:57:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克反对英伟达的ARM收购计划】特斯拉CEO埃隆·马斯克最近据悉将加入到反对英伟达收购英国芯片巨头ARM计划的阵营中。今年早些时候，美国反垄断监管机构联邦贸易委员已经开始对这笔交易展开调查，预计将在未来数周内公布调查结果。亚马逊与三星均已经向美国当局表达的反对意见。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2752752.d.html</link>
+            <guid>2295702</guid>
+            <pubDate>Sat, 28 Aug 2021 20:48:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：特斯拉CEO埃隆·马斯克将反对NVIDIA对英国芯片制造商ARM的收购计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2752751.d.html</link>
+            <guid>2295701</guid>
+            <pubDate>Sat, 28 Aug 2021 20:48:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  埃克森石油公司：部分位于巴吞鲁日的化工厂将进入闲置阶段，因货车无法正常抵达工厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx0981571.d.html</link>
+            <guid>2295700</guid>
+            <pubDate>Sat, 28 Aug 2021 20:28:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  受飓风“艾达”（Ida） 的影响，埃克森石油公司正在降低美国路易斯安那州巴吞鲁日炼厂的产能。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2752225.d.html</link>
+            <guid>2295699</guid>
+            <pubDate>Sat, 28 Aug 2021 20:28:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  跨国能源公司菲利普斯66：已经关闭了位于路易斯安那州炼油厂的闲置设备，相关工作人员将撤离。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx0980374.d.html</link>
@@ -384,30 +414,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2687237.d.html</link>
             <guid>2295382</guid>
             <pubDate>Sat, 28 Aug 2021 08:16:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【自然资源部：将铁矿列为战略性矿产国内找矿行动主攻矿种】日前，自然资源部回复了政协委员的提案，明确支持国内铁矿石资源的开发。答复函称，下一步，我部将继续强化基础地质工作，将铁矿列为战略性矿产国内找矿行动主攻矿种，以规模大、易采选的“鞍山式”沉积变质型铁矿、“攀枝花式”钒钛磁铁矿以及品位较高的矽卡岩型铁矿为重点突破方向，提升基础地质工作程度，优选可供出让的勘查区块，加大探矿权出让力度。同时，指导督促矿业权人增加投入、依靠科技创新，加快实现铁矿找矿突破，促进增储上产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0914206.d.html</link>
-            <guid>2295380</guid>
-            <pubDate>Sat, 28 Aug 2021 08:03:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【我国高价值发明专利审查周期压减至13.3个月】国家知识产权局局长申长雨在日前举行的专利审查工作座谈会上表示，我国高价值发明专利审查周期压减至13.3个月，发明专利平均审查周期压减至19.1个月，未来要以国家需求和用户体验为导向，更好推进专利审查工作提质增效。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2684901.d.html</link>
-            <guid>2295379</guid>
-            <pubDate>Sat, 28 Aug 2021 08:01:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【马斯克认可 特斯拉Model 3美国试水磷酸铁锂电池】近日，美国预订标准续航增强版特斯拉Model 3的用户收到邮件，如果想要提前拿到车，可以选择磷酸铁锂电池。特斯拉官网资料显示，磷酸铁锂电池车型续航从263英里下降为253英里，价格保持39990美元不变。有车主在社交平台上询问两个车型差别，马斯克回复称：“磷酸铁锂和三元电池的体验大致相同，自己更喜欢磷酸铁锂电池，可充电到100%，三元锂电池只到90%。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0912769.d.html</link>
-            <guid>2295377</guid>
-            <pubDate>Sat, 28 Aug 2021 07:53:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【我国首个二氧化碳捕获与封存全流程工程启动】中国海油今天（8月28日）宣布，在珠江口盆地启动我国首个海上二氧化碳封存示范工程，每年可封存二氧化碳约30万吨。 (央视)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0912157.d.html</link>
-            <guid>2295375</guid>
-            <pubDate>Sat, 28 Aug 2021 07:50:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
