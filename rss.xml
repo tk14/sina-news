@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 28 Aug 2021 18:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 19:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国总统拜登：绝对不是最后一次打击“伊斯兰国”极端组织。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2748812.d.html</link>
+            <guid>2295693</guid>
+            <pubDate>Sat, 28 Aug 2021 18:52:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：阿富汗的地缘局势仍然极度危险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2748806.d.html</link>
+            <guid>2295692</guid>
+            <pubDate>Sat, 28 Aug 2021 18:52:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国路易斯安那州海上石油港（LOOP）因飓风“艾达”（Ida）而暂停原油运输。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2748021.d.html</link>
+            <guid>2295691</guid>
+            <pubDate>Sat, 28 Aug 2021 18:31:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国总统拜登：飓风“艾达”（Ida）正在向路易斯安那州移动，已经与地方州长进行过沟通，将提供所需的帮助。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2746417.d.html</link>
@@ -396,30 +414,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0908454.d.html</link>
             <guid>2295371</guid>
             <pubDate>Sat, 28 Aug 2021 07:25:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【济南市监局通报：大润发门店卖发臭隔夜肉被罚近139万】济南市市场监管局28日发布情况通报。经调查，该公司销售腐败变质的猪肉及其制品等行为影响极坏，严重危害人民群众生命健康，违反《食品安全法》第三十四条等规定。在经营活动中存在虚假宣传行为，违反《反不正当竞争法》第八条规定。对该公司予以警告，没收违法所得17944.18元，没收相关肉品，罚款1371486.8元，罚没款合计1389430.98元，责令改正违法行为。对5名相关经营管理人员罚款合计926552.95元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0907388.d.html</link>
-            <guid>2295370</guid>
-            <pubDate>Sat, 28 Aug 2021 07:18:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国国防参谋长：英国将于今天结束在阿富汗的民众撤离行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2677744.d.html</link>
-            <guid>2295369</guid>
-            <pubDate>Sat, 28 Aug 2021 07:14:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【江苏南通发布“双减”措施 确保学生在校内学足学好】江苏省南通市27日发布《关于进一步减轻义务教育阶段学生作业负担和校外培训负担的实施意见》。南通市将“双减”工作细化为三个时间段实施，从今年秋季学期开始，全面推行课后服务，全面压减作业总量和时长，全面禁止在国家法定节假日、休息日及寒暑假组织学科类校外培训；一年内全面优化学校课后服务，提升服务质量；通过三年时间，学生过重作业负担和校外培训负担、家庭教育支出和家长相应精力负担显著减轻，社会教育焦虑明显缓解。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2677707.d.html</link>
-            <guid>2295368</guid>
-            <pubDate>Sat, 28 Aug 2021 07:14:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【郑州机场：离郑旅客不再查验个人核酸证明和离郑证明】郑州机场消息，按照地方政府的通知，自2021年8月28日12时起，离郑旅客不再查验个人核酸证明和离郑证明，对于健康码为“绿码”的旅客，经体温检测正常后予以通行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0906127.d.html</link>
-            <guid>2295367</guid>
-            <pubDate>Sat, 28 Aug 2021 07:10:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
