@@ -4,11 +4,76 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 28 Aug 2021 01:05:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 01:58:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美军空袭杀死一名ISIS-K的“策划者”，美媒：其参与计划在喀布尔对美发动袭击】据美联社刚刚消息，五角大楼称，美国在阿富汗对极端组织“伊斯兰国”（ISIS）分支“ISIS-K”的一名“策划者”实施了空袭打击。报道称，据称此人参与了在喀布尔对美国发动袭击的计划。报道称，美国中央司令部发言人比尔说，美国在阿富汗楠格哈尔省对一名“伊斯兰国”成员发动了无人机袭击，“我们杀死了目标”。报道称，据称此人参与了在喀布尔对美国发动袭击的计划，尚不清楚此人是否具体参与了喀布尔机场外的自杀式炸弹袭击。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0854108.d.html</link>
+            <guid>2295294</guid>
+            <pubDate>Sat, 28 Aug 2021 01:55:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【菲律宾首都地区将维持“改进版强化社区隔离”措施】8月28日，菲律宾总统发言人哈里·洛克宣布了新一轮的社区隔离措施。从9月1日至7日，菲律宾首都大马尼拉地区将继续维持现在的“改进版强化社区隔离”措施。哈里·洛克称，同时执行这一措施的还有多个省市，但首都大马尼拉地区和附近的巴丹省、内湖省将在这一基础上对餐饮、个人护理服务和宗教活动等实行更严格的限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0853668.d.html</link>
+            <guid>2295293</guid>
+            <pubDate>Sat, 28 Aug 2021 01:53:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息，科威特军方否认有三枚导弹越过领空袭击美国驻伊拉克基地的报道。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2624467.d.html</link>
+            <guid>2295292</guid>
+            <pubDate>Sat, 28 Aug 2021 01:53:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【祥源新材：生物材料发泡研究目前处于样品制备阶段】祥源新材在互动平台表示，公司一直很重视环境保护，因此也一直关注可降解类型的产品前沿技术发展趋势，也有致力于可降解、生物质材料的可发泡性项目研究，生物材料发泡研究目前处于样品制备阶段，该项目研发成功后，将有助于使用绿色资源进行发泡产品的开发。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0851146.d.html</link>
+            <guid>2295289</guid>
+            <pubDate>Sat, 28 Aug 2021 01:39:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[为应对飓风艾达，美国联邦紧急事务管理局在墨西哥湾沿岸地区预先安置了食物、水和发电机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2621972.d.html</link>
+            <guid>2295288</guid>
+            <pubDate>Sat, 28 Aug 2021 01:38:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：拜登和州长们讨论了飓风艾达的潜在影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0850901.d.html</link>
+            <guid>2295287</guid>
+            <pubDate>Sat, 28 Aug 2021 01:37:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登与以色列总理贝内特进行了会谈。 拜登和贝内特重申与美国和以色列的伙伴关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0849866.d.html</link>
+            <guid>2295286</guid>
+            <pubDate>Sat, 28 Aug 2021 01:31:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国声明称，美国军方在阿富汗南哈尔省针对极端组织“伊斯兰国呼罗珊省”（ISIS-K）策划者执行反恐行动，初步迹象显示，行动已击毙目标，无平民伤亡。]]></title>
+            <guid>2295285</guid>
+            <pubDate>Sat, 28 Aug 2021 01:31:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海南自贸港跨境服务贸易负面清单管理办法出台】 海南省政府办公厅近日印发《海南自由贸易港跨境服务贸易负面清单管理办法（试行）》，保障《海南自由贸易港跨境服务贸易特别管理措施（负面清单）（2021年版）》顺利实施。《管理办法》已于8月26日起施行。在清单内管理方面，境外服务提供者不得以跨境方式提供《负面清单》中禁止的服务，各有关部门严格禁止准入；以跨境方式提供《负面清单》之内的非禁止性领域服务，由各有关部门按照相应规定实施管理。（海南日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2620222.d.html</link>
+            <guid>2295284</guid>
+            <pubDate>Sat, 28 Aug 2021 01:28:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【江苏昨日无新增本土确诊病例 新增治愈出院病例50例】8月27日0到24时，江苏无新增本土确诊病例。新增治愈出院病例50例（均为本土确诊病例）。解除医学观察的境外输入无症状感染者1例。7月20日至今，江苏省累计报告本土确诊病例820例（南京市235例，淮安市12例，扬州市570例，宿迁市3例）。累计出院本土确诊病例455例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0848283.d.html</link>
+            <guid>2295282</guid>
+            <pubDate>Sat, 28 Aug 2021 01:21:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息，日本将考虑延长5G减税措施至2021财年之后。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2617336.d.html</link>
+            <guid>2295280</guid>
+            <pubDate>Sat, 28 Aug 2021 01:10:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[国家卫健委：8月27日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增无症状感染者10例（均为境外输入）；当日转为确诊病例4例（均为境外输入）；当日解除医学观察16例（境外输入14例）；尚在医学观察的无症状感染者453例（境外输入380例）。]]></title>
             <guid>2295277</guid>
@@ -260,78 +325,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2592048.d.html</link>
             <guid>2295192</guid>
             <pubDate>Fri, 27 Aug 2021 19:49:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至8月月17日当周，NYMEX、ICE市场的天然气期货投机性净多头持仓减少32697手至228775手。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0820484.d.html</link>
-            <guid>2295188</guid>
-            <pubDate>Fri, 27 Aug 2021 19:37:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至8月24日当周，美元投机性净多头押注跳升至85亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2591559.d.html</link>
-            <guid>2295187</guid>
-            <pubDate>Fri, 27 Aug 2021 19:35:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至8月24日当周，投机者将CBOT美国10年期国债期货合约净多头头寸减少31904手至113312手。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0820403.d.html</link>
-            <guid>2295186</guid>
-            <pubDate>Fri, 27 Aug 2021 19:35:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至8月24日当周，COMEX铜期货投机性净多头头寸减少6987手至12956手。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0820301.d.html</link>
-            <guid>2295185</guid>
-            <pubDate>Fri, 27 Aug 2021 19:32:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至8月17日当周，COMEX白银期货投机性净多头头寸增加419手至10176手。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2591461.d.html</link>
-            <guid>2295184</guid>
-            <pubDate>Fri, 27 Aug 2021 19:32:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至8月24日当周，COMEX黄金期货投机性净多头头寸增加16942手至94592手。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0820293.d.html</link>
-            <guid>2295183</guid>
-            <pubDate>Fri, 27 Aug 2021 19:32:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至8月24日当周，WTI原油期货投机性净多头头寸增加5102手至280069手。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2591326.d.html</link>
-            <guid>2295181</guid>
-            <pubDate>Fri, 27 Aug 2021 19:30:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  在线赞助公司Support.com(SPRT.O)再度触发熔断，熔断前涨超52%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2591079.d.html</link>
-            <guid>2295180</guid>
-            <pubDate>Fri, 27 Aug 2021 19:25:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【业界预计今年小微企业专项金融债发行规模达5000亿元】近年来，小微企业专项金融债正成为各家商业银行定向“滴灌”小微企业的重要工具。根据同花顺iFinD数据统计显示，今年以来，截至8月27日，已有多家银行合计发行39只小微企业专项金融债，规模达2842亿元。中信证券研究所副所长、首席FICC分析师明明表示，按照目前小微企业专项金融债的发行节奏及中央的支持力度来看，今年小微企业专项金融债发行规模有望达到5000亿元左右，较2020年的3708亿元和2019年的1753亿元实现进一步增长。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0819821.d.html</link>
-            <guid>2295179</guid>
-            <pubDate>Fri, 27 Aug 2021 19:23:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院发言人Price：塔利班已经向美国明确表示，他们希望看到美国在阿富汗继续保持外交存在。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2590773.d.html</link>
-            <guid>2295178</guid>
-            <pubDate>Fri, 27 Aug 2021 19:17:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【证券日报：明星商业化之路千万不能走偏】中国娱乐产业要发展，必须是在健康、阳光的环境中。中国故事要输出，必须是在踏实、积极的价值观下。笔者认为，应严防明星资本化，针对明星股东应增加披露条款与细则，建立透明的薪酬评分体系，对劣迹艺人“零容忍”。启用终身负责制，一旦明星出现劣迹行为，其代言的产品出现问题，消费者、参演作品的投资方等相关受害者均可追偿。同时，要促进行业健康发展，不能仅停留在“倡议自律”的层面，而是应该上升到制度高度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2590463.d.html</link>
-            <guid>2295177</guid>
-            <pubDate>Fri, 27 Aug 2021 19:10:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  迪士尼短线上扬约1.20美元，使得日内整体涨幅扩大至将近1.4%，刷新日高至179.00美元，据道琼斯新闻报道，ESPN探索价值至少30亿美元的体育博彩类交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0818001.d.html</link>
-            <guid>2295175</guid>
-            <pubDate>Fri, 27 Aug 2021 18:51:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
