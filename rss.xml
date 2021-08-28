@@ -4,11 +4,22 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 28 Aug 2021 16:34:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 17:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国墨西哥湾地区油气平台和炼化设施停产备战Ida飓风】美国墨西哥湾的石油天然气勘探开采企业和沿岸的炼化工厂纷纷停产，准备迎接飓风Ida。根据美国国家飓风中心的最新预测，飓风Ida将于下周初在新奥尔良附近登陆。根据安全与环境执法局的数据，截至周五，已有59%的原油产能（相当于大约106万桶/日）和49%的天然气产能关闭。密西西比河沿岸的炼化工厂，大约125万桶/日的炼化产能已经关闭或降低开工率。关闭油气产能的石油公司包括：英国石油、壳牌、挪威国家石油、必和必拓、墨菲石油、雪佛龙、埃克森美孚。炼化工厂停产或减产的公司包括：Phillips 66、埃克森美孚、壳牌、Marathon。另外，新奥尔良港预计将在周六关闭。]]></title>
+            <guid>2295639</guid>
+            <pubDate>Sat, 28 Aug 2021 17:21:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：荷兰皇家壳牌开始关闭位于美国路易斯安那州的Norco炼厂与化工厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2741824.d.html</link>
+            <guid>2295604</guid>
+            <pubDate>Sat, 28 Aug 2021 16:41:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【证监会副主席最新发声，证券业发展方向明确】8月28日，在中国证券业协会成立30周年座谈会上，证监会副主席李超就证券业发展指出了方向。李超提出了“五个坚持”，坚持回归本源，提升服务实体经济能力；坚持严守底线，强化合规风控意识和实施；坚持行稳致远，加强行业文化和声誉建设；坚持强基固本，努力提升专业服务能力；坚持担当使命，发挥好自律服务传导作用。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx0967874.d.html</link>
@@ -403,12 +414,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0903336.d.html</link>
             <guid>2295363</guid>
             <pubDate>Sat, 28 Aug 2021 06:50:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【2021中国国际数字经济博览会9月6日至8日举行】据“雄安发布”微信公众号消息，9月6日-9月8日，由工业和信息化部、河北省人民政府主办的2021中国国际数字经济博览会将在河北省石家庄市开幕。数博会期间，雄安新区将在正定国际会展中心举办专题展，集中展示雄安新区在智能城市建设中的示范应用和建设成果。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0902770.d.html</link>
-            <guid>2295361</guid>
-            <pubDate>Sat, 28 Aug 2021 06:46:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
