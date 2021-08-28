@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 28 Aug 2021 19:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 20:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  跨国能源公司菲利普斯66：已经关闭了位于路易斯安那州炼油厂的闲置设备，相关工作人员将撤离。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx0980374.d.html</link>
+            <guid>2295697</guid>
+            <pubDate>Sat, 28 Aug 2021 19:50:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国路易斯安那州州长：飓风“艾达”（Ida） 可能是1850年以来袭击本州的最强劲飓风之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx0979862.d.html</link>
+            <guid>2295695</guid>
+            <pubDate>Sat, 28 Aug 2021 19:35:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国总统拜登：绝对不是最后一次打击“伊斯兰国”极端组织。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2748812.d.html</link>
@@ -396,24 +408,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0912157.d.html</link>
             <guid>2295375</guid>
             <pubDate>Sat, 28 Aug 2021 07:50:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【合肥网友建议限购区域增加肥西部分区域 官方回应称将向上级反映加快政策出台】合肥网友建议限购区域增加肥西县部分区域获官方回复。 肥西县政府回应称，肥西县住建局严禁各种炒作挂牌房价，扰乱市场秩序，影响市场预期的行为。对参与哄抬房价的房地产经纪机构，肥西县住房和城乡建设局将取消其网签权限，并列入行业“黑名单”。肥西县住房和城乡建设局将持续关注肥西县房地产市场的运行变化，会同有关部门，采取针对性措施，重点打击各类炒作行为，稳定市场预期，促进房地产市场平稳健康发展。肥西县住建局也将向上级主管部门反映，加快政策的出台。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2681015.d.html</link>
-            <guid>2295373</guid>
-            <pubDate>Sat, 28 Aug 2021 07:35:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国政府：不着急承认阿富汗塔利班政权】美国政府27日说，美方不急于以任何形式承认阿富汗塔利班政权。美国国务院同日称，塔利班请美方继续向阿富汗派驻外交人员。白宫发言人珍·普萨基当天回答记者提问时说：“我想说清楚：美国和我们对话过的任何国际伙伴都不着急以任何形式承认（塔利班政权）。”（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0909413.d.html</link>
-            <guid>2295372</guid>
-            <pubDate>Sat, 28 Aug 2021 07:31:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【稳健医疗：棉柔巾的市场规模相比纸巾还很小，希望把这个品类做大】稳健医疗在机构电话会议上表示，棉柔巾的市场规模相比纸巾还很小，未来增长空间潜力无限希望把这个品类做大。同时在使用场景上，棉柔巾在生产端和使用端与纸巾比都有特殊的优势，生产工艺相比纸巾更环保（使用棉花可以减少更多树木被砍伐）、产品相比纸巾也更安全（棉花是天然纤维，棉花处理过程多为物理加工）、舒适（棉花含水率8%，能自动调节肌肤干湿度）。因此公司不希望通过低价去和纸巾竞争，也不希望压低价格伤害棉农的积极性。因此公司的策略还是在于产品宣传，而不是一味价格竞争。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0908454.d.html</link>
-            <guid>2295371</guid>
-            <pubDate>Sat, 28 Aug 2021 07:25:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
