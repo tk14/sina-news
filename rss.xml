@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 29 Aug 2021 12:34:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Aug 2021 13:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[初步报告显示，喀布尔爆炸已造成2死3伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1109504.d.html</link>
+            <guid>2295941</guid>
+            <pubDate>Sun, 29 Aug 2021 13:11:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯敦促伊朗恢复在维也纳的伊核协议谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2878951.d.html</link>
+            <guid>2295937</guid>
+            <pubDate>Sun, 29 Aug 2021 13:06:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据央视：当地时间8月29日下午，总台报道员在首都喀布尔再次听到爆炸声。据阿富汗当地媒体报道，一枚火箭弹击中喀布尔11区的一栋民居，目前还没有人员伤亡报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2877879.d.html</link>
+            <guid>2295935</guid>
+            <pubDate>Sun, 29 Aug 2021 12:56:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【快讯！俄媒：喀布尔又发生爆炸】俄罗斯卫星通讯社刚刚消息称，阿富汗首都喀布尔29日发生爆炸。喀布尔机场外26日发生自杀式炸弹袭击事件，造成美军13人死亡、18人受伤，另有至少170名阿富汗平民死亡。美国认为极端组织“伊斯兰国”阿富汗分支实施了此次袭击。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2877392.d.html</link>
+            <guid>2295934</guid>
+            <pubDate>Sun, 29 Aug 2021 12:52:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿富汗部分地方势力组建联盟 有意与塔利班进行集体谈判】据阿富汗当地媒体8月29日报道，阿富汗部分反塔利班势力组成联盟，有意与阿富汗塔利班就组建未来政府进行谈判。报道称，这个联盟由多名反对塔利班的阿富汗政界人士和地方势力领导人组成，包括阿富汗前副总统阿卜杜勒·拉希德·杜斯塔姆、巴尔赫省前省长阿塔·穆罕默德·努尔等人。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1106272.d.html</link>
+            <guid>2295931</guid>
+            <pubDate>Sun, 29 Aug 2021 12:42:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【吉尔吉斯斯坦议会选举将于11月28日举行】吉尔吉斯斯坦总统新闻局29日说，总统扎帕罗夫已签署法令，将议会选举日期定在今年11月28日。按照这一法令，新一届议会将由90名议员组成，任期5年。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1105913.d.html</link>
+            <guid>2295929</guid>
+            <pubDate>Sun, 29 Aug 2021 12:39:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【君实生物：美国恢复分发埃特司韦单抗及巴尼韦单抗双抗体疗法】今日晚间，君实生物在港交所公告，美国食品药品监督管理局（FDA）连同应急准备与反应助理部长办公室（ASPR）已恢复埃特司韦单抗及巴尼韦单抗双抗体疗法的运输及分发。美国已获授权的州将可以立即直接订购。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2875955.d.html</link>
+            <guid>2295928</guid>
+            <pubDate>Sun, 29 Aug 2021 12:38:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国国家安全顾问沙利文：仅有不足300名美国公民留在阿富汗。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1103494.d.html</link>
@@ -385,12 +427,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2836122.d.html</link>
             <guid>2295836</guid>
             <pubDate>Sun, 29 Aug 2021 08:06:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【安徽216个重大项目集中开工 投资额超千亿元】昨日，扎实推进长三角一体化发展暨2021年安徽省第八批重大项目集中开工动员会在安庆市举行，216个重大项目在该省同步集中开工，总投资1037亿元。据悉，216个重大项目涉及战略性新兴产业、传统产业升级改造等多个行业领域，覆盖全省16市，今年计划投资213.36亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2831227.d.html</link>
-            <guid>2295830</guid>
-            <pubDate>Sun, 29 Aug 2021 07:38:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
