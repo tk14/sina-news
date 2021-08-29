@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 29 Aug 2021 13:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Aug 2021 14:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【俄媒：塔利班称美国空袭了企图袭击喀布尔机场的自杀式炸弹袭击者】据俄罗斯卫星通讯社8月29日报道，塔利班方面称，美国空袭的目标是企图袭击喀布尔机场的自杀式炸弹袭击者。路透社此前援引2名美国官员的话报道称，初步信息显示，美国对喀布尔发动了军事打击。（界面）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2884823.d.html</link>
+            <guid>2295986</guid>
+            <pubDate>Sun, 29 Aug 2021 14:02:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[初步报告显示，喀布尔爆炸已造成2死3伤。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1109504.d.html</link>
@@ -397,36 +403,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1067412.d.html</link>
             <guid>2295843</guid>
             <pubDate>Sun, 29 Aug 2021 08:15:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【海能达：上半年净亏损1.22亿元 由盈转亏】海能达发布半年报，上半年归属于母公司所有者的净利润亏损1.22亿元，上年同期净利润2.62亿元，由盈转亏；营业收入21.65亿元，同比减少28.94%；基本每股收益-0.07元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1067118.d.html</link>
-            <guid>2295841</guid>
-            <pubDate>Sun, 29 Aug 2021 08:13:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【华联控股：上半年净利润1.37亿元 同比减少69%】华联控股发布半年报，上半年归属于母公司所有者的净利润1.37亿元，同比减少69.1%；营业收入6.64亿元，同比减少68.41%；基本每股收益0.09元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2837182.d.html</link>
-            <guid>2295840</guid>
-            <pubDate>Sun, 29 Aug 2021 08:12:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【雅化集团：上半年净利3.3亿元 同比增长151%】雅化集团发布半年报，实现营业收入21.24亿元，同比增长64.35%；归属于上市公司股东的净利润3.3亿元，同比增长151.01%。基本每股收益0.2884元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1066752.d.html</link>
-            <guid>2295839</guid>
-            <pubDate>Sun, 29 Aug 2021 08:11:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：飓风“艾达”（Ida）预计在今天晚些时候登陆路易斯安那州东南部。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1065935.d.html</link>
-            <guid>2295838</guid>
-            <pubDate>Sun, 29 Aug 2021 08:06:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：也门拉赫省一军事基地遭胡塞武装袭击，至少2死16伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2836122.d.html</link>
-            <guid>2295836</guid>
-            <pubDate>Sun, 29 Aug 2021 08:06:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
