@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 29 Aug 2021 02:31:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Aug 2021 03:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【字节跳动收购Pico 加码VR业务】VR创业公司Pico发出全员信，披露该公司被字节跳动收购。内部信称，用户在享受原有服务的基础上，未来将获得更多内容支持和技术升级服务。据悉，Pico将并入字节跳动的VR相关业务，整合字节的内容资源和技术能力，将在产品研发和开发者生态上加大投入。 (界面)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1024527.d.html</link>
+            <guid>2295776</guid>
+            <pubDate>Sun, 29 Aug 2021 03:18:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场数据显示，截至8月27日晚间，有44艘集装箱船停泊在洛杉矶和加利福尼亚长滩两个港口外，打破了今年2月初创下的40艘的记录。目前，船只平均等待时间正在从8月中旬的6.2天上升至7.6天。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2793655.d.html</link>
+            <guid>2295773</guid>
+            <pubDate>Sun, 29 Aug 2021 03:06:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[塔利班官员：塔利班的技术专家团队、高素质工程师已经准备好接手塔利班机场的工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2792893.d.html</link>
+            <guid>2295772</guid>
+            <pubDate>Sun, 29 Aug 2021 03:01:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带风暴“诺拉”（Nora）在贾利斯科和纳亚里特海岸造成大量降雨，暴雨和强风将向北蔓延。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2792814.d.html</link>
+            <guid>2295771</guid>
+            <pubDate>Sun, 29 Aug 2021 03:01:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克对英伟达收购英国芯片商Arm的计划表示担忧】据英国《每日电讯报》报道，多个消息来源称，特斯拉CEO马斯克对英伟达收购英国芯片设计商Arm的计划表达了竞争方面的担忧。据报道，亚马逊和三星电子也向美国当局提出反对这笔交易。知情人士表示，英伟达很可能在下月初为540亿美元收购Arm的交易寻求欧盟的反垄断批准，预计监管机构将在初步审查后启动全面调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2792754.d.html</link>
+            <guid>2295770</guid>
+            <pubDate>Sun, 29 Aug 2021 03:00:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[塔利班官员：塔利班和美国希望迅速移交喀布尔机场。 正在等待美国方面的最后同意，以确保完全控制喀布尔机场。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1021807.d.html</link>
+            <guid>2295769</guid>
+            <pubDate>Sun, 29 Aug 2021 02:58:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【塔利班谴责美国发动无人机袭击：这是对阿富汗领土的明确攻击】美军周六对参与策划喀布尔机场袭击的“伊斯兰国”极端组织激进分子进行空袭，塔利班对此谴责，并表示袭击之前美国并未通知塔利班。塔利班发言人称，此次行动是“对阿富汗领土的明显袭击”。该名发言人补充称，袭击造成两人死亡，两名妇女和一名儿童受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1021704.d.html</link>
+            <guid>2295768</guid>
+            <pubDate>Sun, 29 Aug 2021 02:57:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息，美国官员透露，美国总统拜登计划在下周二之前从喀布尔撤出美国大使和外交官。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2789099.d.html</link>
+            <guid>2295767</guid>
+            <pubDate>Sun, 29 Aug 2021 02:37:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息，七国集团、土耳其以及卡塔尔将于下周一讨论喀布尔机场的未来运作。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2786258.d.html</link>
@@ -317,47 +365,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0961830.d.html</link>
             <guid>2295508</guid>
             <pubDate>Sat, 28 Aug 2021 14:41:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[郑州市气象台2021年08月28日20时50分发布暴雨蓝色预警信号：预计未来12小时内，郑州市区及巩义、登封、荥阳、新密、新郑、中牟降水量将达50毫米以上。请注意防范。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0961784.d.html</link>
-            <guid>2295507</guid>
-            <pubDate>Sat, 28 Aug 2021 14:41:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[云南瑞丽市主城区大型超市农贸市场暂停现场采购14天。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2732132.d.html</link>
-            <guid>2295499</guid>
-            <pubDate>Sat, 28 Aug 2021 14:35:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本核污水预计持续排放20至30年】福岛核电站已产生125吨核污水#受2011年发生的大地震及海啸影响，日本福岛第一核电站1至3号机组堆芯熔毁。截至今年3月，该核电站内已产生125万吨核污染水，且数量仍在增加。日本政府今年4月决定，将核污染水经过滤、稀释后排放入海，排放将于约两年后开始，预计将持续20年至30年，直至废堆工作完成。（央视网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2732045.d.html</link>
-            <guid>2295498</guid>
-            <pubDate>Sat, 28 Aug 2021 14:34:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[禹洲集团：上半年营收120.81亿元，同比增长494.86%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2731430.d.html</link>
-            <guid>2295497</guid>
-            <pubDate>Sat, 28 Aug 2021 14:26:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【仲景食品：年产1200吨调味配料项目预计明年上半年投产】仲景食品8月28日在投资者互动平台表示，年产1200吨调味配料生产线建设项目，预计2022年上半年投产，年产6000万瓶调味酱生产线项目，目前处于征地、设计规划阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2729044.d.html</link>
-            <guid>2295471</guid>
-            <pubDate>Sat, 28 Aug 2021 13:59:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【五家券商上半年净利增速翻倍】据不完全统计，截至8月27日晚间，已有45家券商发布2021年半年报。其中，7家券商上半年净利润超50亿元，5家券商净利增速超100%，八成券商业绩报喜，表现十分亮眼。截至发稿，中信证券上半年净利润达121.98亿元，是唯一一家净利润超百亿元的券商，已逼近2020全年的收入水平。从净利润增速来看，中原证券、太平洋、国盛金控、东方财富、财达证券等5家净利润同比增速超100%，表现亮眼。（中国证券网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0957402.d.html</link>
-            <guid>2295462</guid>
-            <pubDate>Sat, 28 Aug 2021 13:48:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗议会安全委员会主席：伊朗与“4+1”集团（俄罗斯、中国、法国、德国和英国）将以新的计划和方法开展新一轮核谈判。]]></title>
-            <guid>2295446</guid>
-            <pubDate>Sat, 28 Aug 2021 13:22:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
