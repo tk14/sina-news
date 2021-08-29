@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 29 Aug 2021 18:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Aug 2021 19:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国路易斯安那州州长：预计大新奥尔良地区的堤坝系统不会遭遇洪水漫顶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzqtyt2906507.d.html</link>
+            <guid>2296188</guid>
+            <pubDate>Sun, 29 Aug 2021 19:14:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国殖民管道公司：在飓风“艾达”（Ida）登陆后，自得克萨斯州休斯顿至北卡罗来纳州格林斯伯勒的输油管道将临时关闭。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzqtyt2905906.d.html</link>
+            <guid>2296187</guid>
+            <pubDate>Sun, 29 Aug 2021 19:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：飓风“艾达”（Ida）登陆后，美国总统拜登从多佛空军基地返回华盛顿，在联邦应急管理局总部停留。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzqtyt2905091.d.html</link>
+            <guid>2296186</guid>
+            <pubDate>Sun, 29 Aug 2021 18:45:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国国家飓风中心：飓风“艾达”（Ida）的风眼正在朝着路易斯安那州东南部移动，该州部分地区将出现灾难性风暴潮与山洪爆发。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzqtyt2902130.d.html</link>
@@ -372,18 +390,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2849620.d.html</link>
             <guid>2295873</guid>
             <pubDate>Sun, 29 Aug 2021 09:21:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【强降雨致陕西安康88050人受灾】据陕西安康市官方消息，受强降水影响，该市10县区116个镇办不同程度出现洪涝灾害。截至29日12时40分，此次洪涝灾害造成88050人受灾，紧急避险转移19400人，紧急转移安置15925人，需紧急生活救助1251人。农作物受灾1287公顷，成灾面积778公顷，绝收面积335公顷，因灾死亡大牲畜370头；倒塌房屋22户53间，严重损坏房屋42户120间，一般损坏房屋339户866间。 (中国新闻网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2848606.d.html</link>
-            <guid>2295871</guid>
-            <pubDate>Sun, 29 Aug 2021 09:15:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：汤加Neiafu以东86公里处发生5.3级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1077790.d.html</link>
-            <guid>2295870</guid>
-            <pubDate>Sun, 29 Aug 2021 09:12:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
