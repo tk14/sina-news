@@ -4,21 +4,105 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 30 Aug 2021 17:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 18:26:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[  据美国证券交易委员会文件：SaaS投资会计和分析解决方案提供商Clearwater Analytics递交IPO申请。]]></title>
-            <guid>2297533</guid>
-            <pubDate>Mon, 30 Aug 2021 17:25:00 GMT</pubDate>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：拜登预计将在未来几天就阿富汗问题发表讲话。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3110384.d.html</link>
+            <guid>2297561</guid>
+            <pubDate>Mon, 30 Aug 2021 18:24:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：约有6000名美国公民离开阿富汗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3110255.d.html</link>
+            <guid>2297558</guid>
+            <pubDate>Mon, 30 Aug 2021 18:21:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  西南航空(LUV.N)：第四季度的客运量将低于2019年同期，此前预计与2019年同期持平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3110253.d.html</link>
+            <guid>2297557</guid>
+            <pubDate>Mon, 30 Aug 2021 18:21:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国火车司机工会：将举行新一轮的罢工】德国火车司机工会当地时间30日宣布，由于劳资纠纷，工会即将进行新一轮的罢工。从9月1日凌晨2时开始，铁路货运将率先开始罢工；2日至7日，客运司机也将进行罢工。工会主席威塞尔斯基表示，德国铁路到目前为止仍然没有给出一份符合“事实”的谈判协议。目前，德国铁路方面已经同意劳方的工资涨幅，但双方还未就具体涨薪时间达成一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1340885.d.html</link>
+            <guid>2297556</guid>
+            <pubDate>Mon, 30 Aug 2021 18:21:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  西南航空(LUV.N)：计划在11月底前招聘更多员工，招聘目标从4500人上升至5200人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3110228.d.html</link>
+            <guid>2297555</guid>
+            <pubDate>Mon, 30 Aug 2021 18:21:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【飓风“艾达”威胁美国粮食出口】飓风“伊达”正在威胁美国最繁忙的农业港口的粮食出口，随着美国即将在未来几周迎来收获季的高峰，这个问题可能会加剧。中西部地区的农民将很快开始收割玉米和大豆，其中很大一部分将流向密西西比河，然后通过墨西哥湾运往世界各地。美国是世界上最大的玉米供应国。如果谷物升降机和港口码头停电和损坏，那么可能会威胁出口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1340632.d.html</link>
+            <guid>2297553</guid>
+            <pubDate>Mon, 30 Aug 2021 18:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国工会和运输组织致函美国议员，敦促他们支持提供至少100亿美元的额外公共交通资金和新的高速铁路资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3110015.d.html</link>
+            <guid>2297552</guid>
+            <pubDate>Mon, 30 Aug 2021 18:15:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【匈牙利与俄罗斯就长期天然气供应协议相关细节达成一致】当地时间8月30日，匈牙利外交与对外经济部部长西亚尔托在社交媒体上宣布，匈牙利已经与俄罗斯就长期天然气输送协议的“所有细节”和“所有问题”达成一致，新协议的最终文本将于今年9月敲定，9月底签署，10月1日正式生效。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1340609.d.html</link>
+            <guid>2297551</guid>
+            <pubDate>Mon, 30 Aug 2021 18:15:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华尔街资管公司科文：将礼来(LLY.N)目标价从250美元上调至300美元】华尔街资管公司科文分析师Steve Scala将礼来的目标价从250美元上调至300美元，维持跑赢大市评级。分析师表示，欧洲心脏病学会(ESC)大会上公布的数据表明，礼来的SGLT2抑制剂类降糖药物Jardiance将在心衰治疗中获得“有意义的应用”。另外，该分析师还提高了礼来的盈利和销售额预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1340405.d.html</link>
+            <guid>2297550</guid>
+            <pubDate>Mon, 30 Aug 2021 18:09:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国安全和环境执法局（BSEE）：由于热带风暴“艾达”的影响，墨西哥湾共有288个石油和天然气生产平台的人员撤离。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3109750.d.html</link>
+            <guid>2297549</guid>
+            <pubDate>Mon, 30 Aug 2021 18:08:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带风暴“艾达”越过密西西比西部，正向东北偏北移动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1339739.d.html</link>
+            <guid>2297544</guid>
+            <pubDate>Mon, 30 Aug 2021 17:56:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国推迟对测试加密货币征税的诉讼。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3108394.d.html</link>
+            <guid>2297541</guid>
+            <pubDate>Mon, 30 Aug 2021 17:43:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西7月中央政府赤字198亿雷亚尔预期赤字267亿雷亚尔。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3108322.d.html</link>
+            <guid>2297540</guid>
+            <pubDate>Mon, 30 Aug 2021 17:41:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥国家石油公司：公司的E-KU-A2平台已经恢复了42.1万桶/日的石油产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1338635.d.html</link>
+            <guid>2297538</guid>
+            <pubDate>Mon, 30 Aug 2021 17:38:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[  据美国证券交易委员会文件：Clearwater Analytics寻求在纽交所上市，代码为“CWAN”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1337797.d.html</link>
-            <guid>2297532</guid>
-            <pubDate>Mon, 30 Aug 2021 17:24:55 GMT</pubDate>
+            <guid>2297534</guid>
+            <pubDate>Mon, 30 Aug 2021 17:25:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据美国证券交易委员会文件：SaaS投资会计和分析解决方案提供商Clearwater Analytics递交IPO申请。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3107362.d.html</link>
+            <guid>2297533</guid>
+            <pubDate>Mon, 30 Aug 2021 17:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[  市场消息：Facebook(FB.O)首席创意官D'ARCY已经离职。]]></title>
@@ -309,143 +393,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzscyx1329174.d.html</link>
             <guid>2297462</guid>
             <pubDate>Mon, 30 Aug 2021 15:40:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[综合能源公司ENTERGY：预计路易斯安那州的断电情况将进一步扩大。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzqtyt3098478.d.html</link>
-            <guid>2297459</guid>
-            <pubDate>Mon, 30 Aug 2021 15:38:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【入学人数增加 成实外教育中期收益同比增长31%至11.6亿元】成实外教育(01565)发布2021年中期业绩，收益同比增长31%至11.6亿元人民币(单位下同)；毛利约为3.69亿元;股东应占溢利约为1.79亿元；每股收益0.06元。公告显示，收益的增加主要是由于学费的收益增加，学费的增加是由于学生入学人数因2020/2021学年的招生人数增加以及成都外国语学校高新校区自2020年9月以来综合入账所致。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzscyx1328919.d.html</link>
-            <guid>2297458</guid>
-            <pubDate>Mon, 30 Aug 2021 15:37:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【协鑫新能源提前半年完成出售2GW光伏电站目标 负债率降至71%】8月30日，协鑫新能源（00451）发布公告，欣然宣布公司2021年中业绩。报告期内，协鑫新能源提早达成光伏电站资产出售约2吉瓦的全年目标，加上完成净额约港币8.95亿元的配售工作和债务重组，公司的流动资金状况得到显著改善，企业负债率亦恢复至约71%的更稳健水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzqtyt3098378.d.html</link>
-            <guid>2297457</guid>
-            <pubDate>Mon, 30 Aug 2021 15:36:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【优点互动涨7% 宣布收购VIA Motors全部股份】优点互动(IDEX.US)股价高位震荡，现报2.45美元，涨幅7%。公司宣布收购VIA Motors全部股份，VIA公司总部位于犹他州Orem，未来将生产电动商务车，包括2级到5级货车、卡车和公共汽车。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzscyx1328725.d.html</link>
-            <guid>2297456</guid>
-            <pubDate>Mon, 30 Aug 2021 15:34:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：08月30日23时28分在四川凉山州宁南县（北纬27.03度，东经102.78度）发生3.1级地震，震源深度15千米。]]></title>
-            <guid>2297455</guid>
-            <pubDate>Mon, 30 Aug 2021 15:34:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【明华科技中期净亏损同比扩大230%至153.8万元】明华科技(08301)发布截至2021年6月30日止六个月业绩，收益为零元（人民币，下同）；公司拥有人应占亏损153.8万元，同比扩大230%；每股基本亏损0.19分。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzscyx1328687.d.html</link>
-            <guid>2297454</guid>
-            <pubDate>Mon, 30 Aug 2021 15:34:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国有色矿业上半年纯利激增914.9%至2.39亿美元】中国有色矿业(01258.HK)公告，2021年上半年，集团实现收益21.096亿美元，同比增加123.8%。集团实现公司拥有人应占利润2.39亿美元，同比增加914.9%。2021年上半年，集团实现本公司拥有人应占每股基本盈利约为6.70美仙(折算约为0.52港元)，较2020年上半年的0.67美仙(折算约为0.05港元)增加约900.0%。董事会不建议派发截至2021年6月30日止6个月中期股息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzqtyt3098183.d.html</link>
-            <guid>2297453</guid>
-            <pubDate>Mon, 30 Aug 2021 15:33:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联亚集团上半年亏损收窄75.23%至3359.1万港元】联亚集团(00458.HK)公布中期业绩，截至2021年6月30日止6个月，实现收入12.30亿港元，同比增长37.85%；公司权益股东应占亏损3359.1万港元，同比收窄75.23%；每股基本亏损0.12港元；不派息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzqtyt3098162.d.html</link>
-            <guid>2297452</guid>
-            <pubDate>Mon, 30 Aug 2021 15:33:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【顺风清洁能源中期股东应占亏损同比减少85.6%至7077.6万元】顺风清洁能源(01165)发布截至2021年6月30日止6个月业绩，该集团取得持续经营业务收入人民币3.64亿元(单位下同)，同比减少37.18%；公司拥有人应占期内亏损7077.6万元，同比减少85.6%；持续及已终止经营业务每股亏损1.42分。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzscyx1328587.d.html</link>
-            <guid>2297451</guid>
-            <pubDate>Mon, 30 Aug 2021 15:33:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际天食中期股东应占亏损575.3万元 同比减少约95.29%】国际天食(03666)公布2021年中期业绩，收益约人民币3.86亿元(单位下同)，同比增长53.1%；毛利约2.57亿元，同比增长52.3%；母公司拥有人应占亏损575.3万元，同比减少约95.29%;每股亏损0.27分。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzscyx1328557.d.html</link>
-            <guid>2297450</guid>
-            <pubDate>Mon, 30 Aug 2021 15:32:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  必和必拓(BHP.N)：正在评估热带风暴“艾达”对美国墨西哥湾基础设施的潜在影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzqtyt3098065.d.html</link>
-            <guid>2297449</guid>
-            <pubDate>Mon, 30 Aug 2021 15:31:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【冠城钟表珠宝中期股东应占亏损同比收窄73%至2739.6万港元】冠城钟表珠宝(00256)发布2021年中期业绩，收入同比增长24.9%至9.95亿港元；股东应占亏损同比收窄73%至2739.6万港元；每股亏损0.63港仙。此外，非银行及金融业务产生的毛利约为4.61亿港元，较去年同期增加50.0%。银行及金融业务产生的毛利约为1.7亿港元，较去年同期减少14.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzscyx1328495.d.html</link>
-            <guid>2297448</guid>
-            <pubDate>Mon, 30 Aug 2021 15:31:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三巽集团中期业绩：营收同比增长97.0%，"三道红线"全面达标可期】三巽集团(06611.HK)公布中期业绩，截至2021年6月30日止6个月，公司收入约为人民币21.66亿元，同比增长约97.0%；溢利约为人民币1.94亿元，同比增长约135.4%；毛利约为人民币5.08亿元，毛利率约为23.4%；母公司拥有人应占溢利约为人民币6200万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzqtyt3097986.d.html</link>
-            <guid>2297446</guid>
-            <pubDate>Mon, 30 Aug 2021 15:30:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世界最大的综合矿业公司必和必拓集团发言人：正在评估热带风暴“艾达”对美国海湾基础设施的潜在影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzqtyt3097788.d.html</link>
-            <guid>2297445</guid>
-            <pubDate>Mon, 30 Aug 2021 15:28:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  加拿大皇家银行：将Affirm Holdings(AFRM.O)目标价从87美元上调至124美元，评级跑赢大市。与亚马逊(AMZN.O)的合作证明了公司的实力，市场下一步应将论调从“合理估值”转向“潜力巨大”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzqtyt3097650.d.html</link>
-            <guid>2297442</guid>
-            <pubDate>Mon, 30 Aug 2021 15:26:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【未名医药：拟出售重组抗TNFα全人源单克隆抗体注射液或以其对外投资】未名医药公告，公司拟将其拥有的重组抗TNFα全人源单克隆抗体注射液进行出售或拟以该项资产对外出资（包括但不限于拟设立独资公司、合资公司等方式运营）。交易标的重组抗TNFα全人源单克隆抗体注射液，本项目获批启动临床试验的适应症是类风湿性关节炎（RA）和强直性脊柱炎（AS）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzqtyt3097348.d.html</link>
-            <guid>2297441</guid>
-            <pubDate>Mon, 30 Aug 2021 15:23:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新明中国中期股东应占亏损同比扩大300.3%至2.865亿元】新明中国(02699)发布截至2021年6月30日止六个月业绩，收益3108.6万元(人民币，下同)，同比下降67.3%；股东应占亏损2.865亿元，同比扩大300.3%；每股基本亏损0.153元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzscyx1327526.d.html</link>
-            <guid>2297440</guid>
-            <pubDate>Mon, 30 Aug 2021 15:20:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【绿新亲水胶体中期股东应占溢利同比下滑5.8%至3408.6万港元 每股派1.5港仙】绿新亲水胶体(01084)公布2021年中期业绩，收益约4.95亿港元，同比增加15.4%。毛利约1.07亿港元，同比增长10.9%。公司拥有人应占溢利3408.6万港元，同比轻微下降了5.8%。每股盈利0.042港元，中期股息每股 1.5港仙。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzscyx1327435.d.html</link>
-            <guid>2297439</guid>
-            <pubDate>Mon, 30 Aug 2021 15:20:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  东方证券：首予特步国际(01368.HK)买入评级，目标价16.63港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzscyx1327403.d.html</link>
-            <guid>2297438</guid>
-            <pubDate>Mon, 30 Aug 2021 15:19:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国公共采购中期股东应占亏损同比收窄46.29%至407.2万港元】中国公共采购(01094)发布公告，截至2021年6月30日止6个月中期，公司实现收入2020万港元，同比增加45.70%，股东应占亏损407.2万港元，同比收窄46.29%，基本每股亏损人民币1.67港仙。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzscyx1327396.d.html</link>
-            <guid>2297437</guid>
-            <pubDate>Mon, 30 Aug 2021 15:19:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[挪威国家石油公司表示，需要几天时间才能清楚地了解飓风可能对其位于美国墨西哥湾石油平台造成的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzscyx1327345.d.html</link>
-            <guid>2297436</guid>
-            <pubDate>Mon, 30 Aug 2021 15:18:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国交通建设：中国路桥巴基斯坦拉沙卡伊园区项目融资担保条款变更】中国交通建设(01800)发布公告，巴基斯坦拉沙卡伊区项目(简称项目)由中国路桥及巴基斯坦开普省园区开发管理公司(简称巴基斯坦方)共同开发，是中巴经济走廊产业与园区合作框架下的重点项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzqtyt3096922.d.html</link>
-            <guid>2297435</guid>
-            <pubDate>Mon, 30 Aug 2021 15:18:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【青岛控股上半年拥有人应占利润352万元 同比增长138%】青岛控股(00499)发布公告，2021年上半年，公司收益2475万元人民币(单位下同)，同比增长19.2%；拥有人应占利润352万元，同比增长138%；基本每股收益0.57分。公告称，净利增长是由于投资性房地产公平值及其他收入增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzscyx1327212.d.html</link>
-            <guid>2297434</guid>
-            <pubDate>Mon, 30 Aug 2021 15:17:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
