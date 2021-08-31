@@ -4,11 +4,46 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 31 Aug 2021 17:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 18:26:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国安全和环境执法局（BSEE）：由于热带风暴“艾达”的影响，墨西哥湾共有278个石油和天然气生产平台的人员撤离。]]></title>
+            <guid>2298803</guid>
+            <pubDate>Tue, 31 Aug 2021 18:07:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国安全和环境执法局（BSEE）：美国墨西哥湾地区关闭了93.69%的原油产量（或171万桶/日）及94.47%的天然气产量（或2107百万立方英尺/日）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3314652.d.html</link>
+            <guid>2298802</guid>
+            <pubDate>Tue, 31 Aug 2021 18:01:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧佩克+联合技术委员会（JTC）此前认为经合组织的原油库存低于2015-2019年，直到2022年1月。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1545807.d.html</link>
+            <guid>2298801</guid>
+            <pubDate>Tue, 31 Aug 2021 18:00:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美银美林：将Zoom(ZM.O)目标价从480美元下调至385美元，维持买入评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3314479.d.html</link>
+            <guid>2298800</guid>
+            <pubDate>Tue, 31 Aug 2021 17:58:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧佩克+消息人士称，欧佩克+联合技术委员会（JTC）修正了数据，现在认为经合组织原油库存在2022年5月之前都将低于2015-2019年的平均水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1545654.d.html</link>
+            <guid>2298799</guid>
+            <pubDate>Tue, 31 Aug 2021 17:57:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[近日从2021首都金融媒体联盟工作会上获悉，北京市地方金融监督管理局正在高标准编制金融业“十四五”规划，推动出台绿色金融等政策措施。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3314425.d.html</link>
+            <guid>2298798</guid>
+            <pubDate>Tue, 31 Aug 2021 17:57:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【净利同比大增43%，研发支出达4861亿元，A股半年报凸显中国经济新动能】 A股上市公司半年报已披露完毕。数据显示，上半年A股上市公司整体延续了一季度的复苏态势，两市净利润同比大增43.29%，相比2019年同期也增长超过18.35%，非金融企业业绩表现尤其显著。值得注意的是，今年以来，A股上市公司研发投入进一步增加，相比去年同期增超31%，相比2019年同期增超48%，多项关键技术领域重大进展也随之落地，科技创新正在成为A股上市公司业绩增长的“新引擎”。（经参）]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3312434.d.html</link>
@@ -270,77 +305,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3298840.d.html</link>
             <guid>2298707</guid>
             <pubDate>Tue, 31 Aug 2021 14:36:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中信证券：首予理想汽车(02015.HK)买入评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3298500.d.html</link>
-            <guid>2298706</guid>
-            <pubDate>Tue, 31 Aug 2021 14:32:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  大和：将大全新能源(DQ.O)评级从买入下调至跑赢大市，目标价从145美元下调至76美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3298484.d.html</link>
-            <guid>2298705</guid>
-            <pubDate>Tue, 31 Aug 2021 14:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【三连板川恒股份：拟新建的磷酸铁项目立项备案已完成】三连板川恒股份发布股价异动公告，公司拟新建的磷酸铁项目立项备案已完成，目前正在进行环评及能评等相关工作。公司与当地政府及磷酸铁产业链相关企业的合作洽谈尚处于筹划阶段，存在重大不确定性。上述事项预计不会对公司2021年经营情况形成重大影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3298464.d.html</link>
-            <guid>2298704</guid>
-            <pubDate>Tue, 31 Aug 2021 14:31:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  苹果(AAPL.O)今日宣布，将额外增资3亿美元，投入到种族平等与公正促进项目中，包括建设拉丁裔创新中心和黑人教育大学等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1529552.d.html</link>
-            <guid>2298703</guid>
-            <pubDate>Tue, 31 Aug 2021 14:31:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧佩克预计，石油供应缺口到今年12月将从2021年9月的100万桶/日降至40万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3298167.d.html</link>
-            <guid>2298702</guid>
-            <pubDate>Tue, 31 Aug 2021 14:29:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯天然气公司Gazprom：西伯利亚火灾对生产没有显著影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3297809.d.html</link>
-            <guid>2298701</guid>
-            <pubDate>Tue, 31 Aug 2021 14:25:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿富汗领导委员会会议闭幕 重点讨论政府组建问题】当地时间8月31日，阿富汗塔利班发言人扎比乌拉·穆贾希德和高级官员艾哈迈杜拉·瓦西克分别在社交媒体上表示，为期三天的“阿富汗伊斯兰酋长国”领导委员会会议于本月30日在坎大哈闭幕，该会议由塔利班最高领导人海巴图拉·阿洪扎达主持。据悉，此次会议不仅讨论了未来新政府组建的问题，还涉及当前阿富汗面对的政治、社会和安全等问题。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1528715.d.html</link>
-            <guid>2298700</guid>
-            <pubDate>Tue, 31 Aug 2021 14:23:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：美国6月份总石油需求同比增长16.8%，即295.9万桶/日，达到2053.7万桶/日。(5月份同比增长25%)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1528692.d.html</link>
-            <guid>2298699</guid>
-            <pubDate>Tue, 31 Aug 2021 14:23:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国6月份液化天然气产量增加1.3万桶/日，至547.4万桶/日。（5月份为546.1万桶/日）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3297255.d.html</link>
-            <guid>2298696</guid>
-            <pubDate>Tue, 31 Aug 2021 14:20:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  道指短线拉升，现转涨；纳指跌幅小幅扩大至0.36%。]]></title>
-            <guid>2298695</guid>
-            <pubDate>Tue, 31 Aug 2021 14:18:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄媒：阿富汗新政府关键职位将由塔利班成员担任】据俄新社刚刚报道，塔利班消息人士称，塔利班关于组建阿富汗新政府的磋商已完成，塔利班成员将担任新政府中的关键职位。俄新社称，阿富汗塔利班分管政治事务的领导人阿卜杜勒•加尼•巴拉达尔将担任“外交部长”，塔利班军事负责人毛拉维•雅库布将担任“国防部长”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3296898.d.html</link>
-            <guid>2298693</guid>
-            <pubDate>Tue, 31 Aug 2021 14:16:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  克班资本：维持Zoom(ZM.O)跑赢大市评级，因增长率下降，将目标价从428美元下调至398美元。公司2022财年全年营收增长预期低于此前公布，预计高端市场增长会被小型企业及个人用户疲软抵消。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3296729.d.html</link>
-            <guid>2298691</guid>
-            <pubDate>Tue, 31 Aug 2021 14:14:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
