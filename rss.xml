@@ -4,11 +4,100 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 31 Aug 2021 15:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 16:35:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  百世集团(BEST.N)盘中直线拉涨，现涨超10%，报1.27美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1539389.d.html</link>
+            <guid>2298773</guid>
+            <pubDate>Tue, 31 Aug 2021 16:30:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股激光雷达概念板块今日反弹。Luminar(LAZR.O)涨4.15%，维视图像(MVIS.O)涨2.35%，Velodyne(VLDR.O)涨0.53%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1538964.d.html</link>
+            <guid>2298771</guid>
+            <pubDate>Tue, 31 Aug 2021 16:25:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【丁磊：网易游戏中未成年用户财务贡献占比不到1%】在网易(NTES.O)2021年第二季度财报电话会上，分析师问及最新出台的未成年人网游防沉迷新规对网易的影响，网易CEO丁磊表示，通知出台后，会让未成年人最大程度地远离对游戏的依赖，网易也期待行业内所有公司都能够积极地落实这项决定，让中国的未成年人在一个更加健康的环境下成长，这是一个非常好的措施。丁磊同时表示，根据目前测算，该监管对网易的财务影响不到1%。网易高管表示，这是指18岁以下未成年用户的财务贡献占网易游戏总收入不到1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3306108.d.html</link>
+            <guid>2298763</guid>
+            <pubDate>Tue, 31 Aug 2021 16:10:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源信息署（EIA）：北达科他州6月份石油产量比5月份增加了3000桶/日；得州减少22000桶/日；墨西哥湾增加1.8万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3305385.d.html</link>
+            <guid>2298761</guid>
+            <pubDate>Tue, 31 Aug 2021 16:03:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股钢铁股走弱。纽柯钢铁(NUE.N)跌近3%，克里夫斯天然资源公司(CLF.N)跌2.5%，美国钢铁(X.N)跌1.7%。]]></title>
+            <guid>2298760</guid>
+            <pubDate>Tue, 31 Aug 2021 16:03:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【苹果手表Apple Watch 7的生产被推迟】日经新闻援引多位知情人士的话报道称，新一代苹果手表生产已被推迟，主要因设计复杂。苹果手表Apple Watch7的制造商上周开始小规模生产，但在达到令人满意的生产性能方面遇到关键挑战。三位知情人士表示，当前生产质量令人失望可能是由于设计复杂，新一代苹果手表与前几代的设计存在显著差异。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3305312.d.html</link>
+            <guid>2298759</guid>
+            <pubDate>Tue, 31 Aug 2021 16:02:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会专员：欧盟委员会将于9月召开特别高层会议，讨论阿富汗难民的安置问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1536018.d.html</link>
+            <guid>2298758</guid>
+            <pubDate>Tue, 31 Aug 2021 15:59:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【也门胡塞武装否认袭击沙特南部】当地时间31日，沙特南部地区以及艾卜哈国际机场遭无人机袭击，沙特方面指责为也门胡塞武装所为，胡塞武装对此进行了否认。胡塞武装“士气鼓动局”（军队宣传机构）副局长阿比德接受了本台电话采访，阿比德表示该袭击事件并非胡塞武装所为，任何成功的袭击事件，他们都会在第一时间对外宣布“战果”的。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1535758.d.html</link>
+            <guid>2298757</guid>
+            <pubDate>Tue, 31 Aug 2021 15:52:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国平方公里阵列射电望远镜（SKA）正式启动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3304275.d.html</link>
+            <guid>2298756</guid>
+            <pubDate>Tue, 31 Aug 2021 15:47:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[由于美元反弹，欧元兑美元EUR/USD抹去涨幅，现跌至1.1799。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3304202.d.html</link>
+            <guid>2298755</guid>
+            <pubDate>Tue, 31 Aug 2021 15:46:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据日经新闻：因新款苹果手表设计复杂，苹果将推迟生产苹果手表。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1534756.d.html</link>
+            <guid>2298754</guid>
+            <pubDate>Tue, 31 Aug 2021 15:37:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【“双减”实施一个多月，体育类培训迅速升温】“双减”政策实施一个多月以来，学科类校外培训全面压减，有了更多时间的孩子们开始参与到体育运动当中，而这也带火了体育培训。随着这几年家长对素质教育的重视程度不断提升，体育培训行业一直呈逐年上升的趋势，此次“双减”政策发布后，不仅学生的空闲时间增多了，不少学科类培训释放出来的家庭资金，也投入到了体育项目上。清华大学体育产业发展研究中心主任王雪莉认为，现在是比最早期更加规范的一个阶段，“双减”政策之后，体育培训就有更多的时间和空间，随着整个社会的发展，对健康的高度重视，体育培训行业还会有一个非常好的发展。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3303032.d.html</link>
+            <guid>2298749</guid>
+            <pubDate>Tue, 31 Aug 2021 15:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北向资金8月净流入269亿：加仓中国资本市场的趋势在继续】 A股市场8月交易正式收官，北向资金尽管月中出现连续两日的大幅净流出，8月仍有269.05亿元的净流入。瑞银证券A股策略分析师孟磊表示，未来4到5个月的时间还会有超过1000亿元人民币的海外资金净流入。“不管是从北向或者QFII资金的净流入来看，还是我们看到的总体交易量上面，投资中国和加仓中国资本市场的趋势仍然在继续。”瑞银全球金融市场部中国主管房东明说。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3303012.d.html</link>
+            <guid>2298748</guid>
+            <pubDate>Tue, 31 Aug 2021 15:27:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  印度中央统计局今日公布的数据显示，印度今年第二季度经济同比增长20.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3302998.d.html</link>
+            <guid>2298747</guid>
+            <pubDate>Tue, 31 Aug 2021 15:27:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  生物制药公司AC Immune(ACIU.O)涨超35%，现报9.5美元，此前一度涨超70%，公司与罗氏共同研发的单抗Semorinemab在试验中显示对轻中度阿尔茨海默病患者认知能力有改善作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1534106.d.html</link>
+            <guid>2298746</guid>
+            <pubDate>Tue, 31 Aug 2021 15:27:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[雪佛龙：墨西哥湾平台的生产仍处于关闭状态。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3302612.d.html</link>
@@ -287,126 +376,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3293996.d.html</link>
             <guid>2298674</guid>
             <pubDate>Tue, 31 Aug 2021 13:49:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月芝加哥PMI 66.8 ，前值 73.4，预期 68。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3293526.d.html</link>
-            <guid>2298672</guid>
-            <pubDate>Tue, 31 Aug 2021 13:45:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：美国最大的燃油管道公司ColonialPipeline在热带低气压“艾达”影响减弱后重新启动了主要的汽油和馏分管道。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3293405.d.html</link>
-            <guid>2298671</guid>
-            <pubDate>Tue, 31 Aug 2021 13:44:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据港交所文件：新加坡工程公司AP&P Holdings Limited向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1524118.d.html</link>
-            <guid>2298669</guid>
-            <pubDate>Tue, 31 Aug 2021 13:40:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：瓦努阿图发生5.3级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1523934.d.html</link>
-            <guid>2298668</guid>
-            <pubDate>Tue, 31 Aug 2021 13:39:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯网络巨头Yandex(YNDX.O)涨近4%，公司今日宣布将以10亿美元收购Uber(UBER.N)外卖业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3292783.d.html</link>
-            <guid>2298666</guid>
-            <pubDate>Tue, 31 Aug 2021 13:39:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：08月31日21时28分在新疆阿克苏地区沙雅县发生3.0级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1523879.d.html</link>
-            <guid>2298665</guid>
-            <pubDate>Tue, 31 Aug 2021 13:38:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据微软(MSFT.O)官方博客：Windows 11正式版将在10月5日发布。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3292555.d.html</link>
-            <guid>2298664</guid>
-            <pubDate>Tue, 31 Aug 2021 13:37:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据日本《每日新闻》：日本首相菅义伟计划在9月中旬举行临时选举。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3292504.d.html</link>
-            <guid>2298663</guid>
-            <pubDate>Tue, 31 Aug 2021 13:36:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据Axios：Facebook(FB.O)将减少新闻播报中政治新闻的数量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1523424.d.html</link>
-            <guid>2298662</guid>
-            <pubDate>Tue, 31 Aug 2021 13:34:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[基准欧洲天然气价格上涨至创纪录的49.85欧元/兆瓦时。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1523219.d.html</link>
-            <guid>2298660</guid>
-            <pubDate>Tue, 31 Aug 2021 13:32:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  腾讯音乐(TME.N)盘初涨超5%，今日腾讯宣布放弃将放弃音乐版权独家授权权利。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1523158.d.html</link>
-            <guid>2298658</guid>
-            <pubDate>Tue, 31 Aug 2021 13:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[能源情报集团记者Amena Bakr：欧佩克+联合技术委员会（JTC）评估的数据显示，该组织可能需要在10月继续增加产量恢复。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1522810.d.html</link>
-            <guid>2298654</guid>
-            <pubDate>Tue, 31 Aug 2021 13:29:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【华能国际：子公司拟6亿元参设岱山风电公司 以建设岱山1号海上风电场项目】华能国际公告，公司全资子公司浙江公司将与香港财资公司、岱山交投、中交三航、上海电气风电共同出资设立岱山风电公司。浙江公司将以6亿元出资。此次交易完成后，浙江公司将持有岱山风电公司40%的权益。岱山风电公司拟开发建设岱山1号海上风电场项目，并负责项目后续生产运营管理。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1522660.d.html</link>
-            <guid>2298653</guid>
-            <pubDate>Tue, 31 Aug 2021 13:28:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度首席经济顾问：印度本财政年增长将在10.5％-11％区间内。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3291474.d.html</link>
-            <guid>2298652</guid>
-            <pubDate>Tue, 31 Aug 2021 13:27:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【万隆回应高价进口冻猪肉损害上市公司利益：当时国产和进口一吨相差1.6万元】日前，有媒体称万隆不顾反对，高价进口冻猪肉10万吨，给双汇造成多达8亿元的损失，损害了上市公司双汇发展的利益。对此，万隆表示，今年2月，国内生猪养殖出栏量出现大幅下降，猪少价高，国内生猪价格是4.2万元每吨，当时双汇以2.58万元每吨的价格从美国进口， 国产和进口一吨相差1.6万元。“这么大的价差，一是有利于双汇参与市场竞争，二是利于公司降低成本。”万隆介绍说，基于当时的市场行情，公司作出进口猪肉的决策。 (上证报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1522498.d.html</link>
-            <guid>2298651</guid>
-            <pubDate>Tue, 31 Aug 2021 13:26:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧佩克+联合技术委员会（JTC）认为经合组织的库存将在2022年1月以前低于2015-2019年的均值水平，然后从2022年2-12月开始超过该水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1522283.d.html</link>
-            <guid>2298650</guid>
-            <pubDate>Tue, 31 Aug 2021 13:24:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧佩克+联合技术委员会（JTC）预计2022年石油市场将出现250万桶/日的盈余。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3291098.d.html</link>
-            <guid>2298649</guid>
-            <pubDate>Tue, 31 Aug 2021 13:23:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧佩克+联合技术委员会（JTC）预计2021年石油需求增长稳定在600万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3291007.d.html</link>
-            <guid>2298647</guid>
-            <pubDate>Tue, 31 Aug 2021 13:22:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统洛佩斯：墨西哥2021年经济增长预期在6％左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1521806.d.html</link>
-            <guid>2298645</guid>
-            <pubDate>Tue, 31 Aug 2021 13:20:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广州市住房和城乡建设局：首批发布热点区域成交活跃的小区楼盘，下一步将继续加强对二手住房市场运行的监测分析，按照调控要求结合市场运行情况适时发布其他热点区域小区的交易参考价格。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1521417.d.html</link>
-            <guid>2298643</guid>
-            <pubDate>Tue, 31 Aug 2021 13:17:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
