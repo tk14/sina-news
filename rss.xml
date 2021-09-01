@@ -4,11 +4,71 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 01 Sep 2021 19:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 20:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  C3.ai(AI.N)盘后跌超7%，第一财季净亏损3745.9万美元，同比扭盈为亏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3532417.d.html</link>
+            <guid>2299816</guid>
+            <pubDate>Wed, 01 Sep 2021 20:23:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：09月02日04时09分在四川凉山州会东县发生3.0级地震，震源深度24千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3532305.d.html</link>
+            <guid>2299815</guid>
+            <pubDate>Wed, 01 Sep 2021 20:20:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  宠物用品网络零售商Chewy(CHWY.N)盘后跌近12%，该公司Q2调整后未计利息、税项、折旧及摊销前的利润(EBITDA)不及市场预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3532096.d.html</link>
+            <guid>2299814</guid>
+            <pubDate>Wed, 01 Sep 2021 20:14:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道指成分股中，卡特彼勒收跌将近1.4%，雪佛龙跌1.1%，AMGN、美国运通、WBA、霍尼韦尔均跌超0.9%，可口可乐则涨约0.7%，宝洁、CRM、迪士尼均涨超1.0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3532072.d.html</link>
+            <guid>2299812</guid>
+            <pubDate>Wed, 01 Sep 2021 20:13:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特斯拉Model Y成为8月份挪威最畅销的电动汽车】据挪威公路联合会(OFV)的数据显示，8月份挪威新车注册量为16427辆，其中71.9%是电动汽车。在此期间，有11811辆新电动汽车已经上路，其中1309辆是特斯拉的Model Y。再加上售出774辆的Model 3，特斯拉在8月占据了挪威汽车市场12.7%的份额。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3530783.d.html</link>
+            <guid>2299808</guid>
+            <pubDate>Wed, 01 Sep 2021 19:43:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：为结束欧盟在钢铁关税问题上的争端，美国考虑实行配额制度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3530509.d.html</link>
+            <guid>2299807</guid>
+            <pubDate>Wed, 01 Sep 2021 19:36:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务院：8月17日至31日期间，已有31107人抵达美国，其中14%是美国公民，约77%是处于危险中的阿富汗人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1761642.d.html</link>
+            <guid>2299806</guid>
+            <pubDate>Wed, 01 Sep 2021 19:35:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大管道公司Enbridge：将在10月份把加拿大阿尔伯塔省到美国威斯康星州的3号线输油管道的运输能力提高至62万桶/天。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3530064.d.html</link>
+            <guid>2299804</guid>
+            <pubDate>Wed, 01 Sep 2021 19:28:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[热门中概股尾盘维持涨幅。富途控股涨15.7%，贝壳涨14.3%，爱奇艺、知乎涨超10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3530061.d.html</link>
+            <guid>2299803</guid>
+            <pubDate>Wed, 01 Sep 2021 19:28:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：阿尔及利亚石油部长表示，阿尔及利亚9月份的石油产量将达到93.2万桶/天，10月份将达到94.2万桶/天。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1760719.d.html</link>
+            <guid>2299802</guid>
+            <pubDate>Wed, 01 Sep 2021 19:16:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：阿尔及利亚石油部长表示，八月份欧佩克+协议的总体执行率达到了110%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3529299.d.html</link>
@@ -272,60 +332,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3512234.d.html</link>
             <guid>2299716</guid>
             <pubDate>Wed, 01 Sep 2021 15:22:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国制定75亿美元基础设施计划，以推广电动汽车的充电服务】根据路透社9月1日的报道，拜登政府制定了一项75亿美元的计划，准备将先进的电动汽车充电基础设施推广至服务不足的地区。大多数私营充电桩公司对此表示，政府应准确地将电动汽车充电服务扩展到被忽视的社区，并考虑为安装相关设施的企业主或房东创造激励措施。负责美国六个州电动汽车基础设施计划的可持续能源中心高级主管约翰·加特纳（John Gartner）认为 ，目前电动汽车的普及程度仍然相对较低，因此推广更多使用率不高的电动汽车充电器可能无法收回成本。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3511897.d.html</link>
-            <guid>2299715</guid>
-            <pubDate>Wed, 01 Sep 2021 15:18:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗石油记者Reza Zandi：沙特和俄罗斯的基准产量已经达到1150万桶/日。 这一数字对俄罗斯来说绝对是前所未有的，而沙特在2020年4月达到这一水平。 现在看来，伊拉克、阿联酋和科威特也在朝着同样的方向努力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1742637.d.html</link>
-            <guid>2299713</guid>
-            <pubDate>Wed, 01 Sep 2021 15:10:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑美元EUR/USD一度上涨0.4％至1.1857，创近4周以来的新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1742205.d.html</link>
-            <guid>2299711</guid>
-            <pubDate>Wed, 01 Sep 2021 15:04:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银行股市值占A股总市值比重降至10.49%】2019年9月1日至2021年9月1日，银行股市值小幅增加，由9.1万亿元增长至9.6万亿元。但银行股市值占A股总市值比重却由2019年9月1日的15.63%下降至目前的10.49%。半导体板块市值接近3万亿元，较2019年9月1日增长近400%，占比从1.04%增至3.24%，与新能源相关的电池行业市值增长约15倍，至3.2万亿元，市值占比也从0.92%猛增至3.64%。分析人士指出，科技创新将成为未来五年我国经济发展的核心主线，支持科技创新型企业的政策体系，包括财税激励、政府采购、融资支持等有望渐次出台。 (中证报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1741920.d.html</link>
-            <guid>2299709</guid>
-            <pubDate>Wed, 01 Sep 2021 15:01:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[金融博客零对冲评美国EIA数据：飓风“艾达”造成的影响要在下周的报告中才能看到。此外，欧佩克+虚拟会议目前正在幕后举行，不过似乎不会有什么重大惊喜，此前的欧佩克+联合部长级监督委员会（JMMC）会议建议坚持增加40万桶/日的供应计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1741005.d.html</link>
-            <guid>2299706</guid>
-            <pubDate>Wed, 01 Sep 2021 14:52:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[金融博客零对冲评美国EIA数据：美国能源部最新的原油库存数据显示，高于预期的原油和馏分油库存被高于预期的汽油库存抵消，而库欣原油库存也有所增加，油价在昨日大幅下跌后小幅反弹。  更重要的是，尽管钻井平台数量和油价都在上升，但美国原油产量目前仍受到控制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3509661.d.html</link>
-            <guid>2299705</guid>
-            <pubDate>Wed, 01 Sep 2021 14:52:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【协鑫能科签约10城170座换电站】协鑫能科今日在苏州集中与苏州、南京、无锡、成都等10座城市就110座乘用车换电站、60座重卡换电站达成项目合作。协鑫能科总裁费智表示，本次签约是推动新能源换电站发展的起点，协鑫能科“十四五”目标是6000座换电站，服务50万台车辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3509253.d.html</link>
-            <guid>2299704</guid>
-            <pubDate>Wed, 01 Sep 2021 14:48:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【德国大众汽车对美国俄亥俄州的裁决结果提出上诉】当地时间9月1日，德国大众汽车就俄亥俄州对“排放门”丑闻的裁决向美国最高法院提起上诉。舆论普遍认为，该州的判决让已经结案的诉讼案件又重新有了索赔的可能性。大众汽车在上诉文件中表示，根据判决，新的索赔可能将“超过每年1270亿美元”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3508787.d.html</link>
-            <guid>2299702</guid>
-            <pubDate>Wed, 01 Sep 2021 14:43:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  艾伯维（ABBV）跌2.7%，创7月份以来最大盘中跌幅，美国食品药品管理局（FDA）在一份评估报告中表示，关节炎和溃疡性结肠炎药品Xeljanz和Xeljanz XR诱发心脏病或中风、癌症、血栓、死亡的风险越来越高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1740067.d.html</link>
-            <guid>2299701</guid>
-            <pubDate>Wed, 01 Sep 2021 14:41:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
