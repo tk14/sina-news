@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 01 Sep 2021 18:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 19:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：阿尔及利亚石油部长表示，八月份欧佩克+协议的总体执行率达到了110%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3529299.d.html</link>
+            <guid>2299800</guid>
+            <pubDate>Wed, 01 Sep 2021 19:13:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧特克(ADSK.O)跌1%，此前一度涨约1.6%，该公司今日召开投资者日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3529292.d.html</link>
+            <guid>2299799</guid>
+            <pubDate>Wed, 01 Sep 2021 19:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【证券时报：银行信贷投放料加码，房贷政策难获松】 自7月以来，种种政策信号表明，下半年货币政策将向宽信用转向，推动银行加码信贷投放，近日市场就有传闻称部分银行接到窗口指导加大8月末的信贷投放。多位银行人士表示，其所在银行目前尚未收到加大贷款投放额度的指导，但预计今年下半年贷款额度会比往年同期更为充足。不过，贷款额度仍将延续有压有降的结构性调整，房地产贷款在房贷集中度管理的紧箍咒下依然会严控，难有松绑；信贷资源会继续向普惠小微贷款、绿色信贷等实体经济领域加大倾斜力度。不少分析认为，在信贷需求不足的大背景下，短期内宽信用效果的显现难以仅靠增加信贷额度供给来支撑，宽信用至少需要一个季度甚至更长时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3529143.d.html</link>
+            <guid>2299798</guid>
+            <pubDate>Wed, 01 Sep 2021 19:09:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：正在努力在美国军事基地为多达5万名阿富汗难民提供庇护。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3528725.d.html</link>
+            <guid>2299797</guid>
+            <pubDate>Wed, 01 Sep 2021 19:01:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国国家公路交通安全管理局要求特斯拉在10月22日前交出Autopilot的详细数据。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3527705.d.html</link>
+            <guid>2299794</guid>
+            <pubDate>Wed, 01 Sep 2021 18:42:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国地学研究中心GFZ：智利北部海岸附近发生6.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3527690.d.html</link>
+            <guid>2299793</guid>
+            <pubDate>Wed, 01 Sep 2021 18:42:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊拉克油长发布声明表示，欧佩克+逐步提高石油产量的政策将有助于稳定石油市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3526985.d.html</link>
+            <guid>2299789</guid>
+            <pubDate>Wed, 01 Sep 2021 18:29:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[伊朗油长：尽管美国对伊朗实施制裁，但德黑兰决心增加石油出口。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1757646.d.html</link>
@@ -284,60 +326,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1740067.d.html</link>
             <guid>2299701</guid>
             <pubDate>Wed, 01 Sep 2021 14:41:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：美国供应的石油产品总量创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1740018.d.html</link>
-            <guid>2299700</guid>
-            <pubDate>Wed, 01 Sep 2021 14:41:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【淘宝、拼多多回应非法销售烟草专卖品：消费者举报成立再处理】针对淘宝、拼多多等平台上有商家涉嫌非法出售烟丝、烟卷纸等烟草专卖品，淘宝和拼多多的客服回应称需要消费者举报商品或店铺再进行处理。淘宝客服称：“淘宝网对于禁限售商品的处理非常严格，平台会配合消费者妥善处理。小二将帮助您反馈商品问题，相关信息已做登记和记录，一旦核实商家售卖禁限售商品，淘宝将进行处置和下架。拼多多客服回复称：“对于国家明令禁止销售的商品，平台也是不允许销售的，若核实是违禁品，我们会第一时间根据规则对商家和商品进行严肃处理。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1739679.d.html</link>
-            <guid>2299698</guid>
-            <pubDate>Wed, 01 Sep 2021 14:39:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  苹果涨幅扩大至2%，刷新盘中历史高位至154.86美元，带动标普500指数和纳指上涨，道指跌幅也有所收窄。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1739399.d.html</link>
-            <guid>2299697</guid>
-            <pubDate>Wed, 01 Sep 2021 14:35:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月ISM制造业指数意外小幅反弹至59.9，但两个最受关注的分项指数——就业和支付价格指数——出现下降，就业指数实际上今年首次陷入收缩（49.9），加剧了早些时候惨淡ADP就业数据的担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1739310.d.html</link>
-            <guid>2299695</guid>
-            <pubDate>Wed, 01 Sep 2021 14:34:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国墨西哥湾沿岸原油库存上周跌至2020年2月以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1739244.d.html</link>
-            <guid>2299693</guid>
-            <pubDate>Wed, 01 Sep 2021 14:33:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至8月27日当周除却战略储备的商业原油库存为2019年9月27日当周以来最低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3507574.d.html</link>
-            <guid>2299691</guid>
-            <pubDate>Wed, 01 Sep 2021 14:31:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国原油产品四周平均供应量为2140.3万桶/日，较去年同期增加17.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3507518.d.html</link>
-            <guid>2299690</guid>
-            <pubDate>Wed, 01 Sep 2021 14:31:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：除却战略储备的商业原油上周进口634万桶/日，较前一周增加18.3万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3507506.d.html</link>
-            <guid>2299689</guid>
-            <pubDate>Wed, 01 Sep 2021 14:31:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：上周美国国内原油产量增加10万桶至1150万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1738893.d.html</link>
-            <guid>2299688</guid>
-            <pubDate>Wed, 01 Sep 2021 14:31:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
