@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 01 Sep 2021 20:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 21:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：美国联邦航空管理局（FAA）局调查维珍银河在七月的飞行失误。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1765155.d.html</link>
+            <guid>2299826</guid>
+            <pubDate>Wed, 01 Sep 2021 21:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞幸咖啡：把重组支持协议（RSA）里的两项里程碑，即向开曼法院提交请愿书批准RSA计划，以及就该计划召开相关债权人的会议指示的最后期限延长至9月22日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1764782.d.html</link>
+            <guid>2299824</guid>
+            <pubDate>Wed, 01 Sep 2021 20:56:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国司法部针对谷歌公司广告科技业务的反垄断诉状准备就绪】这将是谷歌在美国本土面临的第二宗反垄断指控。司法部一直在审查谷歌与Facebook的协议，谷歌目前正与司法部围绕网页搜索对簿公堂。谷歌A美股盘后跌超0.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3533323.d.html</link>
+            <guid>2299823</guid>
+            <pubDate>Wed, 01 Sep 2021 20:47:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据产业数据公司WARDS INTELLIGENCE：美国8月份轻型汽车销量为110万辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1764358.d.html</link>
+            <guid>2299822</guid>
+            <pubDate>Wed, 01 Sep 2021 20:45:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国芝加哥商业交易所（CME）：降低木材、玉米、豆油和豆粕期货的保证金，周四收盘后生效。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1764347.d.html</link>
+            <guid>2299821</guid>
+            <pubDate>Wed, 01 Sep 2021 20:44:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：风暴“拉里”正在迅速增强，预计将在今晚发展成为飓风。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3533002.d.html</link>
+            <guid>2299820</guid>
+            <pubDate>Wed, 01 Sep 2021 20:38:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股行业ETF涨跌各异，能源业ETF跌超1.4%，银行业ETF跌超0.7%，区域银行ETF跌超0.6%，金融业ETF跌超0.5%，公用事业ETF涨超1.3%，日常消费品ETF涨超0.5%，网络股指数ETF涨约0.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3532654.d.html</link>
+            <guid>2299818</guid>
+            <pubDate>Wed, 01 Sep 2021 20:30:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国考虑实行配额制度以结束欧盟在钢铁关税问题上的争端。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1763615.d.html</link>
+            <guid>2299817</guid>
+            <pubDate>Wed, 01 Sep 2021 20:25:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  C3.ai(AI.N)盘后跌超7%，第一财季净亏损3745.9万美元，同比扭盈为亏。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3532417.d.html</link>
@@ -290,48 +338,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1745404.d.html</link>
             <guid>2299729</guid>
             <pubDate>Wed, 01 Sep 2021 15:51:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅应约视频会见美国总统气候问题特使克里】2021年9月1日，国务委员兼外长王毅应约视频会见正在天津进行中美气候变化磋商的美国总统气候问题特使克里。王毅表示，中美作为两个大国，合作是唯一正确的选择，也是国际社会的殷切期待。中美曾在双边领域以及气候变化等重要国际和地区问题上开展了富有成果的对话合作，给两国和两国人民带来实实在在的利益，也带来一个重要启示，即双方应相互尊重、求同存异、互利共赢。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1744482.d.html</link>
-            <guid>2299726</guid>
-            <pubDate>Wed, 01 Sep 2021 15:38:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克+代表：大会讨论了于10月初举行下届会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3513170.d.html</link>
-            <guid>2299725</guid>
-            <pubDate>Wed, 01 Sep 2021 15:38:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北向资金、腾讯系、国家队基金纷纷加仓，银行板块终于发威】邮储银行半年报显示，2021年二季度，邮政集团共加仓该行380万股，陆股通（北向资金）也加仓该行1.10亿股，由第八大流通股股东晋升为第五大流通股股东。此外，还有四家机构加仓邮储银行，成为新进股东，中欧时代先锋、腾讯网域计算机网络（经营项目包括计算机软件技术开发、销售等，该公司还是腾安基金销售、微众银行的大股东）、央企贫困地区基金、上港集团持股占该行流通A股比例分别为2.183%、1.140%、1.101%、0.998%。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1744319.d.html</link>
-            <guid>2299723</guid>
-            <pubDate>Wed, 01 Sep 2021 15:35:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲STOXX 600指数初步收涨0.45%，报473.02点。 德国DAX 30指数初步收跌0.16%，报15809.06点。 法国股指初步收涨1.17%，英国股指初步收涨0.35%，意大利股指初步收涨0.68%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1744078.d.html</link>
-            <guid>2299721</guid>
-            <pubDate>Wed, 01 Sep 2021 15:30:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿富汗塔利班称未来政权组建磋商“几乎已经完成”】据阿富汗黎明电视台，阿富汗塔利班方面表示，关于组建阿富汗未来政权的谈判“几乎已经完成”，他们将很快宣布新政府组建结果。阿富汗塔利班文化委员会的一名成员表示，塔利班宣布的伊斯兰政府将“成为人民的榜样”，阿富汗塔利班最高领导人海巴图拉·阿洪扎达将同时作为阿富汗政权领导人和塔利班领导人。报道称，塔利班为阿富汗境内各省区任命了行政官员，包括省长、区长和警察局长等，并已开始工作。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3512641.d.html</link>
-            <guid>2299720</guid>
-            <pubDate>Wed, 01 Sep 2021 15:29:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统洛佩斯：墨西哥的贸易、旅游、工业活动正在复苏。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3512509.d.html</link>
-            <guid>2299718</guid>
-            <pubDate>Wed, 01 Sep 2021 15:27:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[房地产数据公司Apartment List数据显示，其全美租金指数在7月到8月间上涨了2.1%，较前一个月的2.5%略有降温，但自年初以来的租金增长仍在继续。自今年1月以来，全美租金中位数增长了惊人的13.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3512234.d.html</link>
-            <guid>2299716</guid>
-            <pubDate>Wed, 01 Sep 2021 15:22:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
