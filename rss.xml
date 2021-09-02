@@ -4,11 +4,65 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 02 Sep 2021 19:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 20:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：知情人士透露，Reddit正为其美股IPO聘请顾问。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx1974626.d.html</link>
+            <guid>2301292</guid>
+            <pubDate>Thu, 02 Sep 2021 20:18:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[博通(AVGO.O)：2021财年Q3每股盈利4.2美元，市场预期3.73美元，去年同期1.45美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3743499.d.html</link>
+            <guid>2301291</guid>
+            <pubDate>Thu, 02 Sep 2021 20:18:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标普500指数的11个板块普遍收涨，能源板块涨超2.5%，医疗保健和工业板块也涨超1.0%，通信板块则跌0.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3743185.d.html</link>
+            <guid>2301290</guid>
+            <pubDate>Thu, 02 Sep 2021 20:10:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据不完全统计，当前已有韶钢、本钢、鞍钢、永钢、淮钢特钢、巨能特钢、中天钢铁等多家钢厂发布计划，将在9月份进行停产检修。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3742185.d.html</link>
+            <guid>2301258</guid>
+            <pubDate>Thu, 02 Sep 2021 19:50:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【分析师Javier Blas：美国释放战略石油储备的作用有限】机构分析师Javier Blas表示，美国没有从卡特里娜飓风危机中吸取教训，该国拥有巨大的原油储备，但精炼石油产品的储备几乎为零。这和欧洲国家不同，欧洲会储备石油产品。因此，当炼油厂受飓风影响停产时，战略石油储备几乎是毫无用处的。美国现在面临着双重问题，一是墨西哥湾的原油供应能力减少了150万桶/日，二是失去了类似数量的炼油能力，因为炼油厂没电可用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3741574.d.html</link>
+            <guid>2301203</guid>
+            <pubDate>Thu, 02 Sep 2021 19:37:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  天津证监局党委书记、局长兼天津稽查局局长毛寒松：建议把召开业绩说明会的情况纳入信息披露质量评价工作。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx1972525.d.html</link>
+            <guid>2301182</guid>
+            <pubDate>Thu, 02 Sep 2021 19:33:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国家过敏症和传染病研究所所长福奇：已经意识到“Mu”变种毒株的存在，但其不占主导地位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3741238.d.html</link>
+            <guid>2301172</guid>
+            <pubDate>Thu, 02 Sep 2021 19:29:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：苹果新系列手表像素将增加16%，有新表盘。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx1972346.d.html</link>
+            <guid>2301170</guid>
+            <pubDate>Thu, 02 Sep 2021 19:29:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：苹果Apple Watch 7系列将拥有1.9英寸的屏幕。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx1972342.d.html</link>
+            <guid>2301169</guid>
+            <pubDate>Thu, 02 Sep 2021 19:29:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：必和必拓的escondida铜矿7月份产量同比下降17%，至8.63万吨。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx1971760.d.html</link>
@@ -265,78 +319,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1949421.d.html</link>
             <guid>2300707</guid>
             <pubDate>Thu, 02 Sep 2021 14:30:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广发证券：北交所设立给券商带来更多的业务机会】对于北交所的设立，广发证券认为，资本市场重大扩容给券商带来更多的业务机会，包括投行业务、一级市场投资业务、经纪业务、两融业务等。而证券行业的两大核心催化剂是成交量和监管政策，前者侧重提升业绩，后者侧重提升估值。当前，成交量活跃与监管创新共振，再有资管业务长坡厚雪的助阵，广发证券表示看好券商板块。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1949207.d.html</link>
-            <guid>2300706</guid>
-            <pubDate>Thu, 02 Sep 2021 14:28:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据德国电视一台（ARD）最新民调：德国总理默克尔所在的保守党支持率为20%，社民党支持率为25%，绿党支持率为16%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1949124.d.html</link>
-            <guid>2300705</guid>
-            <pubDate>Thu, 02 Sep 2021 14:27:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国平安：拟使用50-100亿元人民币、以每股不超过82.56元回购本公司A股股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1949041.d.html</link>
-            <guid>2300704</guid>
-            <pubDate>Thu, 02 Sep 2021 14:26:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【银行理财子公司最新排名出炉，最猛暴赚近20亿，多家规模突破万亿大关】上市银行中报披露落下帷幕，多家控股银行理财子公司上半年营收情况浮出水面。上半年管理规模突破万亿的兴银理财以19.83亿元净利润位列已披露经营数据的理财子公司榜首，此外，招商理财上半年净利润也突破15亿元大关。随着业务全面铺开，多家银行理财子公司净利润同比实现大幅增长，光大理财、杭银理财上半年净利润相比去年同期增长均在30倍以上，兴银理财净利润同比涨幅也高达18倍。新产品创设也有不少亮点，兴银理财近期推出了名为兴银理财指数新动力1号商品及金融衍生品的理财产品，这也是银行理财子公司推出的首只商品及金融衍生品类的产品，贝莱德建信理财近期开售的A股新机遇私行专项理财产品，是第一家开业就推出主打权益投资理财产品的银行理财子公司。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3717263.d.html</link>
-            <guid>2300703</guid>
-            <pubDate>Thu, 02 Sep 2021 14:23:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[怡安保险数据显示，过去十年中，风暴、洪水、干旱和野火等气候事件造成的全球经济损失变得更加昂贵。21世纪头十年，只有两年气候灾害造成的损失超过2000亿美元（包括2010年）。在第二个十年中，每年2000亿美元的损失似乎变得更加正常，十年中有七年因气候事件造成的全球损失总额超过2000亿美元。有记录以来损失最惨重的一年出现在2017年，损失总额超过4700亿美元，其中包括飓风哈维、玛丽亚和艾尔玛造成的损失。总而言之，2011年至2020年期间，全球气候损失总额约为2.5万亿美元，较2001年至2010年的数额增加了近50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1948013.d.html</link>
-            <guid>2300702</guid>
-            <pubDate>Thu, 02 Sep 2021 14:19:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  旭辉控股集团(00884.HK)：八月本集团合同销售金额约人民币200.2亿元，合同销售面积约1,128,400平方米。一月至八月，本集团累计合同销售金额约人民币1,770.5亿元，合同销售面积约10,107,800平方米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3716543.d.html</link>
-            <guid>2300701</guid>
-            <pubDate>Thu, 02 Sep 2021 14:19:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：意大利总理德拉基将与法国总统马克龙讨论利比亚和阿富汗的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1947965.d.html</link>
-            <guid>2300700</guid>
-            <pubDate>Thu, 02 Sep 2021 14:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧洲ARA中心的汽油库存从上周的68.8万吨降至66.5万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3716469.d.html</link>
-            <guid>2300699</guid>
-            <pubDate>Thu, 02 Sep 2021 14:18:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利总理德拉基：2022年上半年将是考察经济是否能够转型以及经济结构是否更为坚固的关键。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1947774.d.html</link>
-            <guid>2300698</guid>
-            <pubDate>Thu, 02 Sep 2021 14:17:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利总理德拉基：尽管现在经济增长很快，但在2020年经济也曾大幅下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1947646.d.html</link>
-            <guid>2300696</guid>
-            <pubDate>Thu, 02 Sep 2021 14:16:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：飓风“艾达”过后，美国新奥尔良港重新开放。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3716023.d.html</link>
-            <guid>2300695</guid>
-            <pubDate>Thu, 02 Sep 2021 14:14:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  维视图像(MVIS.O)与丰田汽车(TM.N)正在推特直播搭载于丰田汽车上的L3级自动驾驶雷达的测试。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3716008.d.html</link>
-            <guid>2300694</guid>
-            <pubDate>Thu, 02 Sep 2021 14:14:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
