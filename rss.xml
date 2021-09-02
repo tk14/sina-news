@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 02 Sep 2021 18:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 19:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：必和必拓的escondida铜矿7月份产量同比下降17%，至8.63万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx1971760.d.html</link>
+            <guid>2301115</guid>
+            <pubDate>Thu, 02 Sep 2021 19:16:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Spotify(SPOT.N)涨7%，此前苹果表示，将放宽对Netflix和Spotify等应用开发者的严格支付规则。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx1969864.d.html</link>
+            <guid>2301001</guid>
+            <pubDate>Thu, 02 Sep 2021 18:40:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海黄金交易所黄金T+D 9月3日（周五）晚盘收盘下跌0.29%报376.31元/克；上海黄金交易所白银T+D 9月3日（周五）晚盘收盘下跌0.72%报5087.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx1969232.d.html</link>
+            <guid>2300959</guid>
+            <pubDate>Thu, 02 Sep 2021 18:30:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[基金分析公司理柏（Lipper）：美国贷款基金本周流入7.22亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3737098.d.html</link>
@@ -319,36 +337,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3716008.d.html</link>
             <guid>2300694</guid>
             <pubDate>Thu, 02 Sep 2021 14:14:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利总理德拉基：经济增长远远超过预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1947446.d.html</link>
-            <guid>2300692</guid>
-            <pubDate>Thu, 02 Sep 2021 14:13:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据阿富汗黎明新闻电视台（Tolo News）报道，塔利班计划于当地时间2日晚或3日凌晨对阿富汗潘杰希尔省作出“最后一击”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3715940.d.html</link>
-            <guid>2300691</guid>
-            <pubDate>Thu, 02 Sep 2021 14:13:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  索尼(SONY.N)互娱SIE宣布将在北京时间9月10日（下周五）凌晨四点举行PlayStation Showcase直播活动，介绍第一方、第三方今年年底及未来发售的PS5游戏作品，持续40分钟。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1947332.d.html</link>
-            <guid>2300688</guid>
-            <pubDate>Thu, 02 Sep 2021 14:12:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：飓风“艾达”过后，大巴吞鲁日港重新开放。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3715767.d.html</link>
-            <guid>2300686</guid>
-            <pubDate>Thu, 02 Sep 2021 14:12:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿富汗塔利班计划集结精锐部队对潘杰希尔省发起最后进攻】据阿富汗黎明电视台当地时间9月2日报道，来自潘杰希尔省的消息称，阿富汗塔利班计划集结各省精锐部队，并使用大量军事装备，于当地时间2日晚对潘杰希尔省发起最后进攻。潘杰希尔省位于阿富汗首都喀布尔东北部，目前是塔利班唯一未占领的省份。9月1日，据阿富汗帕杰瓦克通讯社报道，塔利班武装方面表示，已夺取了该省6个前哨基地。不过，“民族抵抗阵线”方面称，已经击退了对方多次进攻。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1946458.d.html</link>
-            <guid>2300682</guid>
-            <pubDate>Thu, 02 Sep 2021 14:06:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
