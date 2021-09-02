@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 02 Sep 2021 17:27:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 18:26:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：美国贷款基金本周流入7.22亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3737098.d.html</link>
+            <guid>2300892</guid>
+            <pubDate>Thu, 02 Sep 2021 18:16:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会预算办公室（CBO）：增加美国国税局拨款有望使美国政府在10年内增加2000亿美元的收入。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3736936.d.html</link>
+            <guid>2300874</guid>
+            <pubDate>Thu, 02 Sep 2021 18:13:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国安全和环境执法局（BSEE）：美国墨西哥湾地区关闭了93.55%的原油产量（或170万桶/日）及91.29%的天然气产量（或2035百万立方英尺/日）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3735823.d.html</link>
+            <guid>2300813</guid>
+            <pubDate>Thu, 02 Sep 2021 18:02:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  太空探索公司维珍银河（SPCE）短线跳水大约1.50美元，刷新日低至26.02美元，日内整体上从涨约4.3%转变为下跌约1.1%。美国联邦航空管理局（FAA）表示，在FAA调查期间，不允许维珍银河举行航天飞行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx1966687.d.html</link>
+            <guid>2300783</guid>
+            <pubDate>Thu, 02 Sep 2021 17:55:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：美国高收益基金本周资金流入10.5亿美元，投资级基金本周资金流入20.3亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx1966528.d.html</link>
+            <guid>2300779</guid>
+            <pubDate>Thu, 02 Sep 2021 17:52:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[高盛：美国联邦公开市场委员会（FOMC） 7月会议纪要显示，缩减资产购买规模最早可能于12月开始，会议的缩减规模为150亿美元。尽管可能近在眼前，但目前宽松的金融环境为市场提供了充足的空间以消化收紧的货币政策。我们认为，这可能是一场没有恐慌的缩减。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx1964568.d.html</link>
@@ -319,30 +349,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1946458.d.html</link>
             <guid>2300682</guid>
             <pubDate>Thu, 02 Sep 2021 14:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7月工厂订单月率 0.4%，前值 1.50%，预期 0.30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3714151.d.html</link>
-            <guid>2300677</guid>
-            <pubDate>Thu, 02 Sep 2021 14:00:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  油价走高，美股油气板块普涨，西方石油(OXY.N)涨3.1%，埃克森美孚石油(XOM.N)涨2.3%，荷兰皇家壳牌(RDS.A.N)涨2%，英国石油(BP.N)涨1.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1945389.d.html</link>
-            <guid>2300676</guid>
-            <pubDate>Thu, 02 Sep 2021 13:57:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  字节跳动出售证券业务续集：部分员工接分流通知，或获赔“N+2”于10月8日离职。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3713501.d.html</link>
-            <guid>2300675</guid>
-            <pubDate>Thu, 02 Sep 2021 13:53:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Chewy(CHWY.N)盘初下挫近10%，公司第二季度EBITDA不及市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1944410.d.html</link>
-            <guid>2300673</guid>
-            <pubDate>Thu, 02 Sep 2021 13:49:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
