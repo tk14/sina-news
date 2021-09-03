@@ -6,6 +6,41 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 2302277,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2178090.d.html",
+            "title": "美国国家公路交通安全管理局：已经成立了特别事故调查小组来调查特斯拉的事故。",
+            "date_modified": "2021-09-03T19:13:13.000Z"
+        },
+        {
+            "id": 2302276,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2178078.d.html",
+            "title": "美国国家公路交通安全管理局：正在调查7月26日发生在纽约的特斯拉致命车祸，一名行人在事故中丧生。",
+            "date_modified": "2021-09-03T19:12:56.000Z"
+        },
+        {
+            "id": 2302273,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3945634.d.html",
+            "title": "洲际交易所（ICE）：上周布伦特原油期货投机性净多头头寸增加27930手合约至273894手合约。",
+            "date_modified": "2021-09-03T18:59:47.000Z"
+        },
+        {
+            "id": 2302268,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3944643.d.html",
+            "title": "  Peloton(PTON.O)盘中跳水，现跌超3%，刷新日低。",
+            "date_modified": "2021-09-03T18:35:23.000Z"
+        },
+        {
+            "id": 2302265,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3944422.d.html",
+            "title": "市场消息：过去四个月，Peloton(PTON.O)应用程序的使用率下降了42%。",
+            "date_modified": "2021-09-03T18:29:27.000Z"
+        },
+        {
             "id": 2302264,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3944293.d.html",
@@ -107,7 +142,7 @@
             "id": 2302241,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2173412.d.html",
-            "title": "  金融服务控股公司斯蒂费尔：将京东(JD.O)目标价从85美元上调至90美元，维持买入评级。",
+            "title": "【斯蒂费尔：上调京东(JD.O)目标价至90美元 维持买入评级】金融服务控股公司斯蒂费尔分析师Scott Devitt将京东美股的目标价从85美元上调至90美元，维持买入评级，此前京东宣布以约40亿港元的价格收购中国物流资产约37.02%股份。分析师认为，此次收购将加强京东的物流业务和长期增长势头。分析师表示，新的目标价反映了他对京东在新的监管环境下的竞争地位更有信心。",
             "date_modified": "2021-09-03T17:38:56.000Z"
         },
         {
@@ -345,20 +380,6 @@
             "url": "https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2162507.d.html",
             "title": "WhatsApp爱尔兰分公司周四因未能达到欧盟通用数据保护条例（GDPR）标准而面临2.67亿美元的巨额罚款，但这并不是GDPR历史的最大一笔罚金。数据显示，在最高罚款名单上排名第一的是亚马逊，该公司欧洲分支机构于今年7月份因“不遵守一般数据处理原则”遭罚8.86亿美元，第三名是谷歌，其次是瑞典时装公司H&M和意大利电信提供商TIM。",
             "date_modified": "2021-09-03T15:15:34.000Z"
-        },
-        {
-            "id": 2302171,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3930642.d.html",
-            "title": "市场消息：美国总统拜登助手对停止失业救济的影响感到担忧。",
-            "date_modified": "2021-09-03T15:15:18.000Z"
-        },
-        {
-            "id": 2302167,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3930176.d.html",
-            "title": "市场消息：美国军事基地可以容纳36000名阿富汗难民。",
-            "date_modified": "2021-09-03T15:09:57.000Z"
         }
     ]
 }
