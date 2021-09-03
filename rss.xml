@@ -4,11 +4,77 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 03 Sep 2021 04:30:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 05:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[鸿蒙概念拉升，润和软件涨近5%，九联科技、科蓝软件、拓维信息等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3829545.d.html</link>
+            <guid>2301602</guid>
+            <pubDate>Fri, 03 Sep 2021 05:19:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特斯拉计划在 2023 年发布价值25000美元的电动汽车，可能不会有方向盘。 (Electrek)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3828936.d.html</link>
+            <guid>2301601</guid>
+            <pubDate>Fri, 03 Sep 2021 05:14:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【硅宝科技：9月1日起所有产品价格上调10%至15% 未来或以“一单一议”形式接单】硅宝科技近日发布调价通知函：由于近期硅胶原材料价格持续上涨，导致公司成本增加。公司产品的原有价格已不能支撑原材料上涨带来的成本压力。为确保能继续为广大客户提供保质保量的产品和服务，公司综合了市场情况研究决定如下：自2021年9月1日起，所有产品价格上调10%至15%，具体价格详情咨询当地区域经理。同时，如果原材料价格持续上涨,届时将不再发调价通知函，以“一单一议”形式接单。订单系统下的订单，待公司确认后生效。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3828908.d.html</link>
+            <guid>2301600</guid>
+            <pubDate>Fri, 03 Sep 2021 05:14:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞幸咖啡宣布：正式签约自由式滑雪世界冠军谷爱凌为品牌代言人】9月3日，瑞幸咖啡宣布签约自由式滑雪世界冠军谷爱凌（Eileen Gu）为品牌代言人。谷爱凌被誉为 18 岁的天才滑雪少女，曾获得 X Games 金牌以及在自由式滑雪世锦赛中夺得“双冠王”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3828600.d.html</link>
+            <guid>2301598</guid>
+            <pubDate>Fri, 03 Sep 2021 05:12:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[腾讯78万股大宗交易以每股486港元成交。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2060315.d.html</link>
+            <guid>2301597</guid>
+            <pubDate>Fri, 03 Sep 2021 05:12:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[半导体板块午后，中富电路直线拉升涨超12%，南大光电、广信材料、容大感光、中芯国际等跟涨，消息上，中芯国际将在临港自贸区规划建设产能为10万片/月的12英吋晶圆代工生产线项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3826946.d.html</link>
+            <guid>2301595</guid>
+            <pubDate>Fri, 03 Sep 2021 05:01:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IHS Markit印度8月服务业PMI报56.7，7月为45.4。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3826864.d.html</link>
+            <guid>2301594</guid>
+            <pubDate>Fri, 03 Sep 2021 05:01:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【LG电子股价上涨5.7%，为超过20周以来最大】LG电子株式会社上涨5.7%，股价从13.95万韩元上涨至14.75万韩元。韩国KOSPI指数上涨0.7%，MSCI AC 亚太指数上涨0.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3825569.d.html</link>
+            <guid>2301590</guid>
+            <pubDate>Fri, 03 Sep 2021 04:51:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【商务部推广北京市国家服务业扩大开放综合示范区建设经验做法】商务部会同北京市和有关部门认真研究，于近日印发了《北京市国家服务业扩大开放综合示范区建设最佳实践案例》，优中选优，向全国推广一批创新强、实用性好、具备示范意义的经验做法，为各地服务业开放、现代服务业发展提供借鉴。其中，金融服务创新方面，有推动股权投资和创业投资转让份额转让模式创新、构建金融纠纷“一站式、一体化、全链条”多元化解机制等2个案例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3823780.d.html</link>
+            <guid>2301588</guid>
+            <pubDate>Fri, 03 Sep 2021 04:40:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【外交部与塔利班通话 塔利班称决不允许任何势力利用阿领土威胁中国利益】9月2日，外交部部长助理吴江浩同阿富汗塔利班驻多哈政治办事处副主任哈纳菲通电话。吴江浩表示，中国一贯尊重阿富汗主权独立和领土完整，奉行面向全体阿富汗人民的友好政策。希望阿尽快实现和平稳定，重建美好家园。哈纳菲表示，中国是阿富汗值得信赖的朋友。阿富汗塔利班愿继续致力于发展阿中友好关系，决不允许任何势力利用阿领土威胁中国利益，将采取有效措施，确保在阿中国机构和人员安全。 中国倡导的“一带一路”合作有利于阿和本地区发展繁荣，阿富汗希继续积极支持和参与。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3823717.d.html</link>
+            <guid>2301587</guid>
+            <pubDate>Fri, 03 Sep 2021 04:40:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美媒：全球芯片短缺加剧 多家美国车企暂时关厂】据美联社底特律9月2日报道，全球电脑芯片短缺持续加剧，正迫使美国一些车企暂时关闭工厂。 通用汽车公司当地时间9月2日宣布，未来两周将暂停8家北美装配厂的生产。通用在北美共有15家装配厂。 福特汽车公司未来两周将停止在堪萨斯城装配厂生产皮卡。设在密歇根州迪尔伯恩和肯塔基州路易斯维尔的另外两家卡车工厂将削减轮班班次。 报道称，此次减产将加剧全美各地汽车、卡车和SUV供应短缺的局面。全美车价已经升至创纪录水平。（参考消息）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3823140.d.html</link>
+            <guid>2301586</guid>
+            <pubDate>Fri, 03 Sep 2021 04:36:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【商务部副部长王炳南：将会同有关部门出台支持国家数字服务出口基地的政策措施】商务部副部长王炳南在3日举行的2021服贸会“数字贸易发展趋势和前沿高峰论坛”上表示，将通过五方面措施促进数字贸易创新发展。包括加快构建顶层设计、积极建设数字贸易发展试验田等内容。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2051796.d.html</link>
@@ -289,78 +355,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3794695.d.html</link>
             <guid>2301500</guid>
             <pubDate>Fri, 03 Sep 2021 02:29:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本财务大臣麻生太郎：目前没有必要在9月或10月编制额外预算。 需要政府支持来提高资本支出和经济生产力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2025856.d.html</link>
-            <guid>2301498</guid>
-            <pubDate>Fri, 03 Sep 2021 02:27:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【国产首家！华东医药递交利拉鲁肽注射液上市申请】9月2日，据CDE官网显示，华东医药递交了利拉鲁肽注射液的上市申请并获承办。这是首款报产的国产利拉鲁肽生物类似药。资料显示，利拉鲁肽(liraglutide，1)是人胰高血糖素样肽1(glucagon-likepeptide-1，GLP-1)的类似物，是糖尿病治疗的重要靶点，具有多种生理功能：血糖依赖性促进胰岛素分泌、保护胰岛β细胞、延迟胃排空降低食欲等。在全球糖尿病市场上，GLP-1仅次于胰岛素位居第二，2020年的市场总规模达到124亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2025789.d.html</link>
-            <guid>2301497</guid>
-            <pubDate>Fri, 03 Sep 2021 02:27:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本财务大臣麻生太郎：日元伦敦银行间同业拆借利率(libor)向其他基准利率的转变正在取得进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2025038.d.html</link>
-            <guid>2301496</guid>
-            <pubDate>Fri, 03 Sep 2021 02:24:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[稀土永磁板块走弱，中国宝安、五矿稀土跌超8%，北方稀土、盛和资源、广晟有色等跟跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2024893.d.html</link>
-            <guid>2301494</guid>
-            <pubDate>Fri, 03 Sep 2021 02:23:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  锂电锂矿股早盘大幅回落，西藏矿业、西藏城投跌近9%，赣锋锂业、西藏珠峰、江特电机、天齐锂业、石大胜华、恩捷股份等跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2023958.d.html</link>
-            <guid>2301493</guid>
-            <pubDate>Fri, 03 Sep 2021 02:19:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息，韩国可能会在10月份放宽社交距离规定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2022986.d.html</link>
-            <guid>2301491</guid>
-            <pubDate>Fri, 03 Sep 2021 02:15:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本财务大臣麻生太郎当被问及是否会支持菅义伟竞选自民党领导人时，麻生太郎拒绝置评。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3791330.d.html</link>
-            <guid>2301490</guid>
-            <pubDate>Fri, 03 Sep 2021 02:15:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  泰国政府表示，债务重组激励措施将于周五生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3790737.d.html</link>
-            <guid>2301489</guid>
-            <pubDate>Fri, 03 Sep 2021 02:13:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【教育部：将健康教育将贯穿教育教学全过程 增加学生体育锻炼时间】据教育部新闻发布会消息，《关于全面加强和改进新时代学校卫生与健康教育工作的意见》近日印发。意见要求，落实课程课时要求，确保各级各类学校将健康教育贯穿教育全过程。增加体育锻炼时间，提倡中小学生到校后先进行20分钟左右的身体活动，保障学生每天校内、校外各1个小时体育活动时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2021603.d.html</link>
-            <guid>2301485</guid>
-            <pubDate>Fri, 03 Sep 2021 02:10:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本财务大臣麻生太郎：菅义伟首相还没有指示政府制定经济计划和额外预算。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2021363.d.html</link>
-            <guid>2301484</guid>
-            <pubDate>Fri, 03 Sep 2021 02:10:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，新西兰的互联网网络大面积中断。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2021108.d.html</link>
-            <guid>2301482</guid>
-            <pubDate>Fri, 03 Sep 2021 02:09:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阎庆民：投资者保护工作仍需不断加强】今日，证监会副主席阎庆民在“第四届中小投资者服务论坛”上表示，截至7月底，我国参与资本市场的投资者已达到1.9亿，投资者结构逐步改善，但占市场97%以上的中小投资者还处在成长成熟的过程当中，投资者保护工作仍需不断加强。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3788768.d.html</link>
-            <guid>2301480</guid>
-            <pubDate>Fri, 03 Sep 2021 02:06:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
