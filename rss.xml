@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 04 Sep 2021 08:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 09:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据日本《每日新闻》：日本政府将延长紧急状态期限，决定将在下周中作出。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2278570.d.html</link>
+            <guid>2302486</guid>
+            <pubDate>Sat, 04 Sep 2021 09:01:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：飓风“拉里”在未来数天内仍将维持大型飓风的强度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt4042085.d.html</link>
+            <guid>2302483</guid>
+            <pubDate>Sat, 04 Sep 2021 08:34:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【广汽集团：力争2025年新能源汽车销量在自主品牌占比50%】2021中国汽车产业发展（泰达）国际论坛于9月3-5日举办，广汽集团总经理冯兴亚在9月4日的开幕大会上表示，广汽集团计划在2025年实现整车销量达350万辆，新能源车销量占比超25%；其中自主品牌销量达到100万辆，全面实现电气化，力争新能源汽车占自主品牌达到50%，新能源汽车搭载车联网比例达到100%。此外，广汽正积极探讨在更多车型甚至全车型上采用换电模式，推动并参与智慧城市和能源生态的建设。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt4036822.d.html</link>
@@ -397,24 +409,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3966557.d.html</link>
             <guid>2302374</guid>
             <pubDate>Sat, 04 Sep 2021 00:27:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国国务卿布林肯将前往卡塔尔和德国 讨论阿富汗问题】美国国务卿布林肯当地时间9月3日表示，将于当地时间5日前往卡塔尔首都多哈，与该国领导人会晤，感谢他们帮助美国从阿富汗撤离人员。随后，布林肯将前往德国，和20余个与撤离或安置阿富汗人员工作有关的国家举行部长级会议，继续讨论阿富汗问题。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2198146.d.html</link>
-            <guid>2302373</guid>
-            <pubDate>Sat, 04 Sep 2021 00:24:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：韩国金融监管委员会（FSS）对9家经纪商处以总计480亿韩元的罚款。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3965913.d.html</link>
-            <guid>2302372</guid>
-            <pubDate>Sat, 04 Sep 2021 00:22:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  菲律宾航空公司表示与主要利益相关者达成协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2196953.d.html</link>
-            <guid>2302370</guid>
-            <pubDate>Sat, 04 Sep 2021 00:16:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
