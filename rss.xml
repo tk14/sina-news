@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 04 Sep 2021 12:34:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 13:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【海南计划3年投入10亿元建设50个省级临床医学中心】记者从海南省卫健委9月3日召开的省级临床医学中心新闻发布会上获悉，海南计划3年投入10亿元建设50个省级临床医学中心，资金主要用于学科带头人的引进以及医疗科研设备的购买，以进一步提升海南省整体医疗服务水平，促进卫生健康事业发展。（海南日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt4078392.d.html</link>
+            <guid>2302509</guid>
+            <pubDate>Sat, 04 Sep 2021 13:06:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄气CEO：中俄飞机往返两国加油费用将用人民币和卢比结算，放弃使用美元】据“今日俄罗斯”（RT）4日报道，俄罗斯天然气工业股份公司（俄气）首席执行官亚历山大·久科夫表示是，“我们将从9月开始（推行），到今年年底前，我们几乎可以实现用人民币结算在中国境内的飞机加油费用。”他补充说，在俄罗斯机场为中国客机加油的费用也将用卢布来结算。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2310547.d.html</link>
+            <guid>2302508</guid>
+            <pubDate>Sat, 04 Sep 2021 13:05:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：埃及、塞浦路斯与希腊将在9月签署能源连通协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2309128.d.html</link>
+            <guid>2302507</guid>
+            <pubDate>Sat, 04 Sep 2021 12:52:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【浙江温岭菜场轿车撞人事件犯罪嫌疑人已被抓获】9月4日6时许，一辆本田轿车在浙江省温岭市横峰菜场碰撞行人，造成人员受伤。温岭市公安局9月4日晚发布警情通报称，9月4日下午，经公安机关全力搜捕，犯罪嫌疑人已被抓获。受伤人员均已接受治疗，伤情稳定。目前，案件正在进一步侦办中。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2306090.d.html</link>
@@ -379,24 +397,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3983773.d.html</link>
             <guid>2302402</guid>
             <pubDate>Sat, 04 Sep 2021 02:15:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日媒：菅义伟有意支持河野太郎竞选日本自民党总裁】据日本NNN电视网9月4日报道，围绕将在月底进行的日本自民党总裁选举，日本首相菅义伟向周围人士透露了他支持行政改革担当大臣河野太郎的意向。河野太郎已于9月3日表明了他准备出马参选。据悉，他已得到他所在派阀领袖麻生太郎的认可。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2214882.d.html</link>
-            <guid>2302400</guid>
-            <pubDate>Sat, 04 Sep 2021 02:10:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【在新疆和田地区皮山县发生5.1级地震】中国地震台网正式测定：09月04日09时54分在新疆和田地区皮山县（北纬37.87度，东经77.96度）发生5.1级地震，震源深度7千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2213996.d.html</link>
-            <guid>2302399</guid>
-            <pubDate>Sat, 04 Sep 2021 02:06:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【汉堡港上半年对华集装箱吞吐量增长14.2%】3日从德国最大港口汉堡港获悉，2021年上半年，汉堡港的海运货物吞吐量总体上呈现出积极的发展趋势。其中，汉堡港同其最大贸易伙伴中国的海运集装箱吞吐量实现了14.2%的同比增长，达到130万标准箱。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3976490.d.html</link>
-            <guid>2302394</guid>
-            <pubDate>Sat, 04 Sep 2021 01:35:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
