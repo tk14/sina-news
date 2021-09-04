@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 04 Sep 2021 18:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 19:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：沙特阿美位于宰赫兰的设施因附近发生爆炸而被封锁，爆炸据称是由于胡塞武装发射的导弹或无人机引起。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2337599.d.html</link>
+            <guid>2302580</guid>
+            <pubDate>Sat, 04 Sep 2021 19:17:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国加州的消防员表示，临近南太浩湖地区的森林火灾的形势正在好转。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2337469.d.html</link>
+            <guid>2302579</guid>
+            <pubDate>Sat, 04 Sep 2021 19:13:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯卫星网：巴基斯坦总理与联合国秘书长古特雷斯讨论了阿富汗局势。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2336979.d.html</link>
+            <guid>2302578</guid>
+            <pubDate>Sat, 04 Sep 2021 19:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：巴布亚新几内亚的布干维尔地区发生5.6级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4105212.d.html</link>
+            <guid>2302577</guid>
+            <pubDate>Sat, 04 Sep 2021 19:01:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  中国地震台网正式测定：09月05日01时55分在新疆喀什地区叶城县（北纬37.79度，东经77.83度）发生4.2级地震，震源深度10千米。]]></title>
             <guid>2302574</guid>
@@ -312,18 +336,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt4036822.d.html</link>
             <guid>2302478</guid>
             <pubDate>Sat, 04 Sep 2021 08:01:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国一汽王国强：红旗品牌到2030年全面实现电动化】中国第一汽车集团有限公司董事、党委副书记王国强表示，除个别国家特殊需要车辆以外，红旗品牌全系产品到2030年将全面实现电动化。到2025年，红旗品牌将累计投放28款新产品，总体销量将超100万辆。其中，新能源汽车产品将推出15款，新能源智能汽车销量将占红旗品牌总体销量的40%，超过40万辆。 (每日经济新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt4035915.d.html</link>
-            <guid>2302476</guid>
-            <pubDate>Sat, 04 Sep 2021 07:54:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【远信工业：成功开拓“一带一路”沿线国家市场】远信工业在互动平台表示，公司是专精特新小巨人企业，在稳定和开发国内市场的基础上，紧跟国家“一带一路”倡议，把握纺织行业全球产业转移的机遇，成功开拓越南、印度、马来西亚、印度尼西亚、孟加拉国、斯里兰卡等“一带一路”沿线国家市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt4035116.d.html</link>
-            <guid>2302474</guid>
-            <pubDate>Sat, 04 Sep 2021 07:49:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
