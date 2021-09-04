@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 04 Sep 2021 09:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 10:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【菏泽回应“小学入学要求房产套内面积超60平方米”】山东省菏泽市第一实验小学负责人表示，该学区服务面积大、人口多，学位紧张，设置这个条件是无奈之举。菏泽市教育局表示，已妥善解决学区内所有适龄儿童的入学问题，但工作中还有不到位的地方，下一步将继续加大城区学校建设力度，优化教育布局，更好地满足人民群众的教育需求。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2282704.d.html</link>
+            <guid>2302489</guid>
+            <pubDate>Sat, 04 Sep 2021 09:28:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据日本《每日新闻》：日本政府将延长紧急状态期限，决定将在下周中作出。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2278570.d.html</link>
@@ -397,18 +403,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3970855.d.html</link>
             <guid>2302380</guid>
             <pubDate>Sat, 04 Sep 2021 00:57:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[扬州：全市转为全域低风险前，主城区人员和车辆原则上不出城。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2200723.d.html</link>
-            <guid>2302378</guid>
-            <pubDate>Sat, 04 Sep 2021 00:42:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙江嘉善海绵厂火灾致6死 涉事企业负责人已被警方控制】昨天，浙江省嘉善县惠民街道嘉善双杰海绵有限公司车间起火。目前现场搜救结束，确认6名失联人员已死亡，涉事企业负责人已被警方控制。事故原因正在进一步调查中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3966557.d.html</link>
-            <guid>2302374</guid>
-            <pubDate>Sat, 04 Sep 2021 00:27:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
