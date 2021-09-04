@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 04 Sep 2021 20:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 21:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【伊朗总统：过去二十年美国在阿富汗的存在侵犯了阿富汗人民的权利】当地时间9月4日晚，伊朗总统莱希表示，阿富汗问题说明美国在其他国家和地区的存在不仅不会带来安全，反而破坏了该地区的安全。过去二十年来阿富汗的情况清楚地表明，美国的存在侵犯了阿富汗人民的权利，美国的一些行为违反人权。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2341843.d.html</link>
+            <guid>2302597</guid>
+            <pubDate>Sat, 04 Sep 2021 21:17:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：飓风“拉里”目前位于背风群岛以东约970英里处（1560公里）；最大持续风速125英里/小时（205公里/小时）。]]></title>
+            <guid>2302596</guid>
+            <pubDate>Sat, 04 Sep 2021 20:55:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【飓风“艾达”过境墨西哥湾后，清理船只出动清理油污】据媒体消息，美国海岸警卫队表示，清理人员正在对飓风“艾达”造成的墨西哥湾大规模石油泄漏作出反应。目前发生泄漏的源头可能来自于美国路易斯安那州Fourchon港以南约3公里的海上钻井平台的下方，航拍照片显示，该海域附近有棕色和黑色的浮油，长达数英里。海岸警卫队发言人称，污染源来自塔洛斯能源公司（Talos）的海底管道的原油。该公司称，已经派出了2艘应急船前往现场回收石油，另一艘船也将前往现场确定泄漏的源头。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4108990.d.html</link>
+            <guid>2302595</guid>
+            <pubDate>Sat, 04 Sep 2021 20:42:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国内政部长：有犯罪分子通过撤离行动来到德国】据德国媒体当地时间9月4日报道，德国内政部长泽霍费尔证实，多名在警方留有记录的阿富汗人通过喀布尔撤离行动来到德国。按照泽霍费尔的说法，其中有20人此前就受到了德国安全部门的关注。这20人涉及的案件包括强奸和伪造文件，其中4人在多年前被德国遣返阿富汗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4108796.d.html</link>
+            <guid>2302594</guid>
+            <pubDate>Sat, 04 Sep 2021 20:36:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国路易斯安那州州长：飓风“艾达”造成的死亡人数已经增至12人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2340380.d.html</link>
+            <guid>2302593</guid>
+            <pubDate>Sat, 04 Sep 2021 20:31:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【内华达州的特斯拉超级工厂生产了第100万个电池组】据Drive Tesla，美国社交论坛Reddit上的一张照片显示，内华达州的超级工厂生产了第100万个电池组，考虑到该工厂面临的挑战，这对特斯拉和松下来说都是一个重大时刻。虽然这家工厂不生产汽车，但它对特斯拉扩张计划的成功是不可或缺的。内华达超级工厂的设立是一场赌注，当时有很多人持保留态度，因电池价格昂贵。然而，特斯拉通过内部电池供应，继续以创纪录的速度推出Model 3和Model Y。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2340130.d.html</link>
@@ -352,24 +381,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2299440.d.html</link>
             <guid>2302500</guid>
             <pubDate>Sat, 04 Sep 2021 11:28:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【工信部辛国斌：将深入新能源汽车产业发展规划 启动公共领域全面电动化试点】在第十七届中国汽车产业发展（泰达）国际论坛上，工业和信息化部副部长辛国斌表示，国家碳达峰碳中和目标对汽车产业发展提出新的要求，将组织行业机构编制发布汽车产业低碳发展的技术路线图。辛国斌称工信部将深入新能源汽车产业发展规划，一是统筹加快新能源汽车发展系列政策举措，进一步提高锂钴镍保障体系；二是立足电动化、网络化、智能化发展趋势，同步推动基础设施、数据平台和标准法规完善，协同推进电车智能、智慧道路、通讯网络、云控技术发展。启动公共领域车辆全面电动化城市试点，组织行业机构编制发布汽车产业低碳发展的技术路线图。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt4061637.d.html</link>
-            <guid>2302497</guid>
-            <pubDate>Sat, 04 Sep 2021 10:45:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[云南新增本土确诊病例详情公布：8月份以来11次核酸检测均为阴性，最后一次检测阴性时间为9月1日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt4059161.d.html</link>
-            <guid>2302495</guid>
-            <pubDate>Sat, 04 Sep 2021 10:28:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家电投与中信集团签署战略合作协议】9月3日，国家电投与中信集团签署战略合作协议。根据协议，双方将在前期良好的合作基础上，充分发挥国家电投清洁能源领域开发和经营优势以及中信集团金融和产业制造优势，进一步建立长期稳固的合作关系，在金融业务、智能制造、清洁能源开发及其他领域开展全方位战略合作，共同实现高质量发展，为中国“3060”目标作出更多贡献。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt4058907.d.html</link>
-            <guid>2302494</guid>
-            <pubDate>Sat, 04 Sep 2021 10:26:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
