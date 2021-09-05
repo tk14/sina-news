@@ -4,11 +4,71 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 05 Sep 2021 13:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 14:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[欧盟经济委员真蒂洛尼：预计2021年欧盟经济增速可能会更高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2472316.d.html</link>
+            <guid>2302804</guid>
+            <pubDate>Sun, 05 Sep 2021 14:17:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【数据揭秘“最牛”基金经理：有人“躺赢”，有人换手率超700%】数据显示，上半年净值涨幅前20名的主动偏股型基金，换手率居然大不相同，最低换手率仅有0.77倍（即77%），最高却达到了7.04倍（即704%）。主动偏股型公募基金中，换手率超过1倍的主动偏股型基金接近七成，这意味这些基金上半年将持有的股票至少“洗牌”了一遍。其中1倍至4倍的占比最高，达到近六成。至于换手率低于1倍的中信建投医药健康、南方医保则是医药主题类基金，这类赛道型基金的投资方向较为明确，相对换手率就显得较低。上半年医药在调整后出现反弹，坚持持有也能获得不错的回报。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4239705.d.html</link>
+            <guid>2302803</guid>
+            <pubDate>Sun, 05 Sep 2021 14:15:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高通中国董事长孟樸：5G的发展无论从基站数还是用户数 中国都是全球领先】9月5日，高通中国董事长孟樸做客直播。孟樸表示，中国作为第一批发放5G牌照的国家，经过这两年的发展，中国在5G发展上取得了非常好的成绩。3大运营商共建约100万个5G基站，5G终端连接数近4亿，这是非常了不起的成绩。无论从基站数，还是用户数，中国绝对是全球第一。（贝壳财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4239304.d.html</link>
+            <guid>2302802</guid>
+            <pubDate>Sun, 05 Sep 2021 14:10:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国总理默克尔：与塔利班的对话是不可避免的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4239205.d.html</link>
+            <guid>2302801</guid>
+            <pubDate>Sun, 05 Sep 2021 14:09:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【消息混乱！法媒：几内亚反对派宣布总统“被抓”政府解散，孔戴政府则称袭击已被“击退”】法新社刚刚消息称，在发给法新社的一段视频中，几内亚“叛军”5日表示，他们已“逮捕”了总统孔戴，并解散了该国政府。与此同时，报道还称，孔戴政府也发布一份声明称，特种部队对总统府的袭击已被“击退”。法新社称，几内亚局势目前仍不明朗。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2471473.d.html</link>
+            <guid>2302800</guid>
+            <pubDate>Sun, 05 Sep 2021 14:07:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克持有的SpaceX股票数已降低至43.61%，但仍有绝对控制权】SpaceX公司近日向美国FCC提交的文件显示，截至2021年8月，埃隆·马斯克持有的公司股票占已发行股票的份额是43.16%，是近3年来的最低值。这一文件还提到了该公司Starlink星链第二代卫星的更新计划，此外还包含星际飞船（Starship）的有关消息。尽管马斯克的股票占比较低，但是他所拥有的投票权达到了77.97%，仍对SpaceX公司有着绝对的控制权。(36氪)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4238908.d.html</link>
+            <guid>2302799</guid>
+            <pubDate>Sun, 05 Sep 2021 14:06:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【最佳补库时节到来，煤炭交割保持活跃】① “迎峰度夏”用煤高峰期已基本结束，煤炭需求逐步回落，全国重点电厂和统调电厂存煤双双回升，存煤可用天数略有增加。而我国华东、华南地区天气依然炎热，民用电负荷偏高，沿海电厂日耗为夏季高日耗时的90%。中旬，随着江浙沪等地气温下降回落，电厂日耗下降，煤炭需求逐渐转淡；② 随着部分优质产能逐步释放，全国煤炭产量稳步提升，大秦线、朔黄线运量恢复至中高位水平。环渤海各大运煤港口响应上级保供增运相关要求，提高装卸效率，满足下游用煤需求，促使电厂供煤已持续近两周大于耗煤数量，紧张局面有所缓解；③ 九月份，部分电厂机组检修，是传统的电厂耗煤淡季，但却是存煤的好时节。终端很多用户既要补充夏季过后的损耗，还要在入冬之前补库，更需要为“金九银十”工业用电发力做准备。下游采购拉运压力不小，需求不弱；④ 新增产量释放仍需一段时间，进入九月下中旬之后，南方天气转凉后，动力煤消费将进入淡季，供需缺口有望边际收窄，煤炭价格会出现高位回落。一旦煤价回落之后，电厂加快补库节奏，将促使电厂库存得到提升。后续需关注产地端新增产能和下游旺季结束后的采购节奏。（鄂尔多斯煤炭网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2471218.d.html</link>
+            <guid>2302798</guid>
+            <pubDate>Sun, 05 Sep 2021 14:04:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿富汗塔利班说将很快成立新政府】阿富汗塔利班文化委员会成员阿纳穆拉·萨曼贾尼5日表示，塔利班将很快成立新政府。萨曼贾尼当天表示，外国军队已撤离阿富汗，在组建新政府的道路上已经没有障碍。“我们现在生活在完全独立的国家，新政府将很快成立。”萨曼贾尼没有透露新政府的组织形式，但他表示，新政府将会是包容性的，代表全体阿富汗人民。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2470703.d.html</link>
+            <guid>2302796</guid>
+            <pubDate>Sun, 05 Sep 2021 13:58:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据环球网：路透社最新消息爆料，几内亚总统府附近发生激烈枪战，已有两人受伤，该国总统孔戴没有受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2468784.d.html</link>
+            <guid>2302795</guid>
+            <pubDate>Sun, 05 Sep 2021 13:39:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯卫星网：几内亚政变领导人宣布解散政府、取消宪法、关闭边境。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4236221.d.html</link>
+            <guid>2302794</guid>
+            <pubDate>Sun, 05 Sep 2021 13:36:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[欧洲地中海地震中心：瓦努阿图发生5.1级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4233263.d.html</link>
@@ -377,18 +437,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4193803.d.html</link>
             <guid>2302704</guid>
             <pubDate>Sun, 05 Sep 2021 08:08:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科华控股：公司董事周宏峰逝世】科华控股(603161)9月5日晚间公告，公司董事周宏峰于9月4日不幸逝世。目前公司董事会成员为6人，未低于最低法定人数5人，但低于公司章程规定的董事会成员人数。公司将按照相关法律法规和公司章程的规定尽快完成董事的补选工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4190203.d.html</link>
-            <guid>2302693</guid>
-            <pubDate>Sun, 05 Sep 2021 07:45:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【苏农银行：公司董事长徐晓军计划增持不少于100万元】苏农银行公告，公司董事长徐晓军计划通过上海证券交易所交易系统集中竞价交易方式增持不少于100万元公司股份。此次增持计划不设价格区间，实施期限为9月7日起6个月。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4189895.d.html</link>
-            <guid>2302691</guid>
-            <pubDate>Sun, 05 Sep 2021 07:43:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
