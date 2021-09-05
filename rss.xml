@@ -4,11 +4,65 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 05 Sep 2021 17:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 18:25:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[大众汽车首席执行官：到2030年，我们85%的业务仍将是汽车，15%为出行服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzqtyt4257650.d.html</link>
+            <guid>2302868</guid>
+            <pubDate>Sun, 05 Sep 2021 18:23:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[大众汽车首席执行官：没有什么比自动驾驶更能改变汽车行业，软件改变了行业规则。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzqtyt4257486.d.html</link>
+            <guid>2302867</guid>
+            <pubDate>Sun, 05 Sep 2021 18:20:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：09月06日01时51分在汤加群岛附近（南纬21.78度，西经174.48度）发生6.5级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzqtyt4256558.d.html</link>
+            <guid>2302865</guid>
+            <pubDate>Sun, 05 Sep 2021 18:04:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国安全和环境执法局（BSEE）：飓风“艾达”过后，共有104个石油、天然气生产平台仍处于撤离状态；昨日为119个。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzqtyt4256550.d.html</link>
+            <guid>2302864</guid>
+            <pubDate>Sun, 05 Sep 2021 18:04:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国安全和环境执法局（BSEE）：美国海湾地区关闭了161万桶/天的石油产量，占该地区石油产量的88.32%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzscyx2489035.d.html</link>
+            <guid>2302863</guid>
+            <pubDate>Sun, 05 Sep 2021 18:04:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国安全和环境执法局（BSEE）：美国海湾地区关闭了1844.65百万立方英尺/天的天然气产量，占该地区天然气产量的82.72%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzscyx2489031.d.html</link>
+            <guid>2302862</guid>
+            <pubDate>Sun, 05 Sep 2021 18:04:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【以色列中央统计局：以色列人口总数已超过939万】当地时间9月5日，以色列中央统计局发布的年度报告显示，以色列人口已超过9391000人，到2024年，该国人口有望达到1000万。在以色列人口中，约74%（694.3万人）为犹太人，约21%（198.2万人）为阿拉伯人，约5%（46万人）为其他民族。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzqtyt4256022.d.html</link>
+            <guid>2302860</guid>
+            <pubDate>Sun, 05 Sep 2021 17:54:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：根据一项重启旅游的探索计划，以色列将从9月19日开始允许一些国家的小型旅游团来以色列旅游。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzscyx2487937.d.html</link>
+            <guid>2302858</guid>
+            <pubDate>Sun, 05 Sep 2021 17:44:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国内在建最长湖底隧道——苏锡常南部高速公路太湖隧道工程南泉段主体完工】9月5日，国内在建最长湖底隧道——苏锡常南部高速公路太湖隧道南泉段最后一节顶板顺利浇筑完成，标志着太湖隧道南泉段主体工程施工全部完成。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzqtyt4254541.d.html</link>
+            <guid>2302855</guid>
+            <pubDate>Sun, 05 Sep 2021 17:29:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【农业农村部： 推动金融保险体制创新强化金融支农】农业农村部日前出台文件，开展2021年度金融支农创新试点。通过聚焦新型农业经营主体信用体系建设和农业保险精准承保理赔，探索开展农村金融保险体制机制创新，更好地撬动和引导金融社会资本投向农业农村。（经参）]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzqtyt4254022.d.html</link>
@@ -361,71 +415,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4219507.d.html</link>
             <guid>2302761</guid>
             <pubDate>Sun, 05 Sep 2021 11:01:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中共中央、国务院：对在合作区工作的境内外高端人才和紧缺人才，其个人所得税负超过15%的部分予以免征。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2451334.d.html</link>
-            <guid>2302759</guid>
-            <pubDate>Sun, 05 Sep 2021 10:58:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫发言人佩斯科夫：俄罗斯总统普京表示愿意与乌克兰总统泽连斯基会面，因为两国关系需要改善，但乌克兰方面没意愿。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4218258.d.html</link>
-            <guid>2302756</guid>
-            <pubDate>Sun, 05 Sep 2021 10:50:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【首届中国数字碳中和高峰论坛将于9月7日在成都举行】首届中国数字碳中和高峰论坛将于9月7日在成都举行，活动由国家网信办、国家发展改革委、生态环境部、四川省人民政府指导，国家网信办信息化发展局、中国互联网发展基金会、中华环保联合会、四川省成都市人民政府、四川省委网信办、中国信息通信研究院主办。本届论坛以“数字助力，绿色发展”为主题，分为开幕式暨主论坛和三场平行分论坛。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4218237.d.html</link>
-            <guid>2302755</guid>
-            <pubDate>Sun, 05 Sep 2021 10:50:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据德国《每日镜报》：特斯拉将从德国获得11.4亿欧元的国家补贴。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2449854.d.html</link>
-            <guid>2302754</guid>
-            <pubDate>Sun, 05 Sep 2021 10:46:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【十九届中央第七轮巡视反馈工作全部完成】根据党中央部署，十九届中央第七轮巡视向教育部党组和31所中管高校党委反馈工作近日全部完成。本轮巡视反馈采取召开集中反馈会议和各中央巡视组“一对一”反馈相结合的方式进行。 (新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2448825.d.html</link>
-            <guid>2302753</guid>
-            <pubDate>Sun, 05 Sep 2021 10:38:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特阿美将10月销往地中海地区的石油价格下调0.1美元/桶，并维持销往美国和西北欧地区的石油价格不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2448797.d.html</link>
-            <guid>2302752</guid>
-            <pubDate>Sun, 05 Sep 2021 10:38:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[理想汽车：在扣除我们与行使超额配售权有关的估计应付发售费用后，本公司将就发行超额配售股份收取额外所得款项净额约16亿港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4216090.d.html</link>
-            <guid>2302751</guid>
-            <pubDate>Sun, 05 Sep 2021 10:34:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[理想汽车：于2021年9月3日（交易时段后），联席全球协调人（代表国际包销商）已部分行使超额配售权，涉及总计13,869,700股A类普通股（「超额配售股份」），占于任何超额配售权获行使前全球发售项下初步可提呈发售股份约13.87%。]]></title>
-            <guid>2302750</guid>
-            <pubDate>Sun, 05 Sep 2021 10:34:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特阿美将10月销往亚洲的极轻质原油价格下调1.2美元/桶，将超轻质原油价格下调1.3美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4214583.d.html</link>
-            <guid>2302749</guid>
-            <pubDate>Sun, 05 Sep 2021 10:24:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特阿美将10月销往亚洲的轻质原油价格下调1.3美元/桶，将中质原油、重质原油价格下调1美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4214016.d.html</link>
-            <guid>2302748</guid>
-            <pubDate>Sun, 05 Sep 2021 10:21:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特阿美下调所有10月销往亚洲的石油价格。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4213688.d.html</link>
-            <guid>2302747</guid>
-            <pubDate>Sun, 05 Sep 2021 10:19:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
