@@ -4,7 +4,7 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 05 Sep 2021 04:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 05:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -319,24 +319,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4100902.d.html</link>
             <guid>2302565</guid>
             <pubDate>Sat, 04 Sep 2021 17:38:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉CEO埃隆·马斯克：特斯拉在车载音乐系统的声音编解码器和音频软件上做了很多不错的工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4099891.d.html</link>
-            <guid>2302562</guid>
-            <pubDate>Sat, 04 Sep 2021 17:22:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川凉山喜德县突发强降雨致1736人受灾 当地紧急撤离群众171户】四川凉山州喜德县光明镇9月4日突发强降雨，光明镇19个村(社区)1736人受到不同程度灾害。喜德县共调动民兵应急连、蓝天救援队以及广大干部群众等465人参与救援工作，紧急避险撤离群众171户764人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2331481.d.html</link>
-            <guid>2302561</guid>
-            <pubDate>Sat, 04 Sep 2021 17:19:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据沙特通讯社：沙特领导的联军拦截了向沙特发射的3架无人机，沙特方面称是胡塞武装发射了无人机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2330529.d.html</link>
-            <guid>2302559</guid>
-            <pubDate>Sat, 04 Sep 2021 17:05:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
