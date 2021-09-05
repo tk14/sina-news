@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 05 Sep 2021 06:26:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 07:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[西班牙经济大臣卡尔维尼奥：西班牙仍然致力于提高最低薪资水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2418275.d.html</link>
+            <guid>2302684</guid>
+            <pubDate>Sun, 05 Sep 2021 07:17:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国首都华盛顿发生枪击事件致3死3伤】据美国首都华盛顿警方4日通报，华盛顿市区当晚发生一起枪击事件，造成3人死亡、3人受伤。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2414920.d.html</link>
+            <guid>2302680</guid>
+            <pubDate>Sun, 05 Sep 2021 06:55:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【安徽拟试行季节性尖峰电价 再次向社会公开征求意见】安徽省发展改革委、省能源局出台《关于试行季节性尖峰电价和需求响应补偿电价的通知（征求意见稿）》，目前该方案再一次向社会公开征求意见。《征求意见稿》提出了“试行季节性尖峰电价”，即在冬季日最低气温≤-5℃、夏季日最高气温≥36℃时（以中央电视台一套每晚天气预报中发布的合肥温度为准），对全省执行峰谷分时电价的工商业电力用户试行尖峰电价政策，用电价格在当日高峰时段电价基础上每千瓦时上浮0.072元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4180815.d.html</link>
+            <guid>2302676</guid>
+            <pubDate>Sun, 05 Sep 2021 06:40:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据日本放送协会NHK：日本前总务大臣高市早苗计划竞选自民党党魁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2411912.d.html</link>
+            <guid>2302675</guid>
+            <pubDate>Sun, 05 Sep 2021 06:33:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【2060年实现碳中和共需投资约136万亿元】在本届服贸会上，由中国贸促会主办的碳中和经济发展论坛今天在北京举行。中国国际贸易促进委员会副会长张少刚表示，从发展前景看，2060年实现碳中和共需要约136万亿人民币投资，除政府出资外，需要引入大量社会资本，更多地依靠市场来发挥作用。全国碳交易市场规模预计将达3000亿元人民币，无疑是一片广阔的蓝海。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2409753.d.html</link>
@@ -309,35 +333,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4105212.d.html</link>
             <guid>2302577</guid>
             <pubDate>Sat, 04 Sep 2021 19:01:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：09月05日01时55分在新疆喀什地区叶城县（北纬37.79度，东经77.83度）发生4.2级地震，震源深度10千米。]]></title>
-            <guid>2302574</guid>
-            <pubDate>Sat, 04 Sep 2021 18:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国安全和环境执法局（BSEE）：飓风“艾达”过后，共有119个石油、天然气生产平台仍处于撤离状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4102670.d.html</link>
-            <guid>2302573</guid>
-            <pubDate>Sat, 04 Sep 2021 18:08:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国安全和环境执法局（BSEE）：美国海湾地区关闭了168万桶/天的石油产量，占该地区石油产量的92.51%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2334099.d.html</link>
-            <guid>2302572</guid>
-            <pubDate>Sat, 04 Sep 2021 18:01:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国安全和环境执法局（BSEE）：美国海湾地区关闭了1915.38万立方英尺/天的天然气产量，占该地区天然气产量的85.89%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4102257.d.html</link>
-            <guid>2302571</guid>
-            <pubDate>Sat, 04 Sep 2021 18:01:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗总统莱希：伊朗准备举行核谈判，但不会在西方的压力下举行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4102146.d.html</link>
-            <guid>2302570</guid>
-            <pubDate>Sat, 04 Sep 2021 18:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
