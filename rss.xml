@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 05 Sep 2021 02:32:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 03:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【2021年太原能源低碳发展论坛签约491.5亿元】记者从2021年太原能源低碳发展论坛上获悉，本届论坛共签约项目23个，总金额达491.5亿元人民币。这23个项目包括框架合作协议4项、投资合作类项目19项，总投资额491.5亿元。项目主要涉及先进装备制造、新一代信息技术、新能源、节能环保、生物医药等产业领域。其中包括，山西省生态环境厅与中国环境科学研究院签署战略合作协议、山西焦煤集团有限责任公司与中国长江三峡集团有限公司签署战略合作框架协议、太原重型机械集团有限公司与中国长江三峡集团有限公司签署合作框架协议等内容。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2377886.d.html</link>
+            <guid>2302644</guid>
+            <pubDate>Sun, 05 Sep 2021 02:40:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴西发现疯牛病病例 暂停对华牛肉出口】巴西政府9月4日发布公告，确认发现两例非典型疯牛病病例，即日起暂停对华牛肉出口。基于巴西与中国国家市场监督管理总局签署的卫生协议，巴西农业部决定自4日起暂停对华牛肉出口，直至中国有关部门完成相关评估。中国是巴西牛肉重要出口市场。巴西冷冻行业企业协会对暂停对华牛肉出口表示担忧。据该协会7月统计数据，2021年上半年，巴西牛肉对华出口量和销售额均占总量六成左右。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2377308.d.html</link>
+            <guid>2302643</guid>
+            <pubDate>Sun, 05 Sep 2021 02:37:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中华全国总工会：授予第32届奥运会优秀运动队和运动员全国五一劳动奖】为表彰我国体育健儿在第32届奥林匹克运动会上取得的优异成绩，中华全国总工会日前决定授予国家乒乓球队、国家跳水队、国家举重队、国家步枪射击队4支运动队全国工人先锋号，授予获得奥运金牌的杨倩等45名运动员，以及取得历史性突破的国家田径队运动员苏炳添全国五一劳动奖章。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4143577.d.html</link>
@@ -343,30 +355,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2325892.d.html</link>
             <guid>2302546</guid>
             <pubDate>Sat, 04 Sep 2021 16:10:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：利比亚国家石油公司将吸收东部分支的员工。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt4092446.d.html</link>
-            <guid>2302543</guid>
-            <pubDate>Sat, 04 Sep 2021 15:53:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州：小学教材有异味 整批次回收更换】近日，广州有部分学生家长在网络上表示孩子新学期发的英语课本有刺鼻的味道，还有家长发出晾晒英语课本的照片。广州市教育局4日做出回应称，相关英语教材将全部回收更换，原版数字教材同步上线。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2324408.d.html</link>
-            <guid>2302542</guid>
-            <pubDate>Sat, 04 Sep 2021 15:51:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[媒体消息：飓风“艾达”过后，美国路易斯安那州附近的海岸发现大面积原油油污。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt4092027.d.html</link>
-            <guid>2302541</guid>
-            <pubDate>Sat, 04 Sep 2021 15:45:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国总统拜登将于9月7日前往纽约州和新泽西州，调查飓风“艾达”造成的破坏情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt4091558.d.html</link>
-            <guid>2302540</guid>
-            <pubDate>Sat, 04 Sep 2021 15:38:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
