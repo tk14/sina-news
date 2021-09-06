@@ -4,11 +4,65 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 06 Sep 2021 17:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 18:26:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【铝价一度升至逾十年最高水平】① 铝价攀升至十多年来最高水平, 因几内亚政变加剧了对原材料供应的担忧，尽管军政府领导人敦促矿商保持运营，但期货价格仍在上涨。几内亚是铝土矿（铝生产所需原料）的主要供应国，占中国进口量的一半以上。虽然动荡增加了铝供应中断的可能性，但到目前为止，没有迹象表明出货量或矿山受到影响；② 俄铝联合创始人Oleg Deripaska警告说，市场可能因为局势受到真正动摇。周一交易员们仍然在等待有关潜在供应被削减的线索。伦敦金属交易所铝价一度上涨2％，至2782美元/吨，为2011年5月以来的最高水平，最终收于2773美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-07/detail-iktzqtyt4462004.d.html</link>
+            <guid>2303785</guid>
+            <pubDate>Mon, 06 Sep 2021 18:18:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际风险管理公司RMS：估计墨西哥湾海上平台、钻井平台和管道因风力、波浪造成的损失在7亿至15亿美元之间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-07/detail-iktzqtyt4461790.d.html</link>
+            <guid>2303784</guid>
+            <pubDate>Mon, 06 Sep 2021 18:13:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际风险管理公司RMS：估计飓风“艾达”给墨西哥湾造成的陆上和海上保险损失为250-350亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-07/detail-iktzqtyt4461784.d.html</link>
+            <guid>2303783</guid>
+            <pubDate>Mon, 06 Sep 2021 18:13:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国安全和环境执法局（BSEE）：飓风“艾达”过后，共有99个石油、天然气生产平台仍处于撤离状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-07/detail-iktzqtyt4461201.d.html</link>
+            <guid>2303782</guid>
+            <pubDate>Mon, 06 Sep 2021 18:06:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国安全和环境执法局（BSEE）：美国墨西哥湾地区关闭了83.87%的原油产量（或153万桶/日）及80.78%的天然气产量（或1801.42百万立方英尺/日）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-07/detail-iktzscyx2694096.d.html</link>
+            <guid>2303781</guid>
+            <pubDate>Mon, 06 Sep 2021 18:05:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧盟委员会表示，我们的重点仍然是确定长期的、灵活的和实际的解决方案，以解决与北爱尔兰公民和企业正在经历的与协议实际实施相关的问题。目前不会同意就脱欧协议进行重新协商。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-07/detail-iktzscyx2693299.d.html</link>
+            <guid>2303780</guid>
+            <pubDate>Mon, 06 Sep 2021 17:57:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【增加值占GDP近四分之一，广东新经济动能强劲】今年上半年，广东地区生产总值超过5.7万亿元，同比增速高出全国平均水平，复苏势头稳定，显示出广东经济的韧劲和活力。值得注意的是，广东经济新动能不断壮大，上半年，新经济增加值1.42万亿元，同比增长10.5%，占地区生产总值比重24.8%。其中，战略性产业集群成为新经济增长的重要支撑，新型消费、跨境电商等经济新模式新业态持续向好。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-07/detail-iktzscyx2693008.d.html</link>
+            <guid>2303779</guid>
+            <pubDate>Mon, 06 Sep 2021 17:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会：我们注意到英国部长级声明关于在现有基础上继续执行北爱尔兰议定书，包括延长现有的宽限期的消息。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-07/detail-iktzqtyt4459485.d.html</link>
+            <guid>2303776</guid>
+            <pubDate>Mon, 06 Sep 2021 17:43:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【券商受益北交所“产业链”，申万宏源推荐挂牌数量及储备项目夺“双冠”】从新三板推荐挂牌主办券商统计来看，据数据统计，共有99家券商为超7000家新三板企业提供推荐挂牌服务，申万宏源推荐挂牌家数最多，为455家。从上市券商新三板储备项目来看，申万宏源证券的储备项目最多，为30家。中信建投非银金融团队表示，无论持续督导、做市的新三板挂牌公司数量来看，还是从主办券商的执业质量评价来看，申万宏源都是排行上市券商第一，可从北交所的设立中受益最多。此外，多家中小券商拥有较为丰富的新三板项目储备，且执业质量上佳，可从北交所的设立中受益。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-07/detail-iktzscyx2692139.d.html</link>
+            <guid>2303775</guid>
+            <pubDate>Mon, 06 Sep 2021 17:39:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  布伦特11月原油期货收报72.22美元/桶。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-07/detail-iktzqtyt4457561.d.html</link>
@@ -307,54 +361,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzscyx2669103.d.html</link>
             <guid>2303686</guid>
             <pubDate>Mon, 06 Sep 2021 13:17:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度外长JAISHANKAR：印澳自贸协定谈判正在取得进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzscyx2668972.d.html</link>
-            <guid>2303684</guid>
-            <pubDate>Mon, 06 Sep 2021 13:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【服贸会签约87个文化融合重点项目 总金额近240亿元】作为2021年服贸会文旅服务专题活动之一，第八届北京市文化融合发展项目合作推介会于今日举行，本次推介会共促成了87个文化融合发展签约项目，签约额总计238.94亿元，今天到现场签约的项目有44个。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzscyx2668858.d.html</link>
-            <guid>2303682</guid>
-            <pubDate>Mon, 06 Sep 2021 13:15:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全运会第四阶段门票开售 包含田径游泳等13个项目】今日，十四运会第四阶段体育比赛门票上线销售，共有13个项目、146个场次，具体项目包括乒乓球、游泳、田径、马术、小轮车、滑板、跆拳道、攀岩、皮划艇（静水）、赛艇、沙滩排球、男篮U19组以及女篮成年组。据了解，8月19日上午10时，十四运会比赛门票正式面向公众销售。十四运会其他比赛项目门票于9月初集中上线。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzqtyt4436049.d.html</link>
-            <guid>2303681</guid>
-            <pubDate>Mon, 06 Sep 2021 13:14:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统洛佩斯：墨西哥国家石油公司的债务不应该比墨西哥债务更糟糕。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzscyx2668708.d.html</link>
-            <guid>2303680</guid>
-            <pubDate>Mon, 06 Sep 2021 13:13:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据北京国际电影节官微，第十一届北京国际电影节重启，将于2021年9月21日至9月29日正式举办。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzqtyt4435918.d.html</link>
-            <guid>2303679</guid>
-            <pubDate>Mon, 06 Sep 2021 13:12:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：丹麦下调未来5年原油和天然气的产量预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzscyx2668547.d.html</link>
-            <guid>2303678</guid>
-            <pubDate>Mon, 06 Sep 2021 13:12:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[INSD民调显示，德国社民党支持率增加1%％至26％，基民盟/基民盟支持率增加0.5%至20.5％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzscyx2668481.d.html</link>
-            <guid>2303677</guid>
-            <pubDate>Mon, 06 Sep 2021 13:11:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【几内亚政变领导人承诺成立民族团结政府】当地时间9月6日，几内亚政变领导人马马迪·敦布亚在科纳克里人民宫与总统孔戴政府的前任部长会谈后发表讲话。敦布亚承诺，将在未来几周成立民族团结政府；对于孔戴政府的前任部长成员不会进行政治迫害，但需要上交护照等旅行证件，要求其不得离开几内亚；同时，敦布亚要求矿业公司恢复生产，并表示取消矿区的宵禁。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzscyx2668453.d.html</link>
-            <guid>2303676</guid>
-            <pubDate>Mon, 06 Sep 2021 13:11:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
