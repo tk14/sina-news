@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 08 Sep 2021 17:26:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 19:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国白宫预计国会将解决债务上限问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzqtyt4878859.d.html</link>
+            <guid>2306133</guid>
+            <pubDate>Wed, 08 Sep 2021 18:52:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国劳工部长马蒂·沃尔什：没有看到各州延长失业救济福利的必要性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzscyx3111611.d.html</link>
+            <guid>2306128</guid>
+            <pubDate>Wed, 08 Sep 2021 18:35:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国劳工部长马蒂·沃尔什：劳动力流动性的增加能够帮助扩大中层阶级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzqtyt4878067.d.html</link>
+            <guid>2306127</guid>
+            <pubDate>Wed, 08 Sep 2021 18:33:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国议会投票通过了首相约翰逊用税收资助医疗保健的提案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzscyx3111220.d.html</link>
+            <guid>2306124</guid>
+            <pubDate>Wed, 08 Sep 2021 18:29:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗总统：国际原子能机构对伊核协议采取非建设性做法会破坏谈判】据伊朗伊斯兰共和国通讯社报道，伊朗总统莱希当地时间8日同欧洲理事会主席夏尔·米歇尔通电话时表示，国际原子能机构在伊朗核协议上采取的“非建设性”做法将会破坏相关的谈判工作，既然国际原子能机构已采取了“非建设性”的做法，那就不要期望伊朗采取“建设性”的回应措施。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzscyx3110991.d.html</link>
+            <guid>2306123</guid>
+            <pubDate>Wed, 08 Sep 2021 18:23:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫：食品杂货价格上涨的驱动因素是肉类价格较高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzscyx3110880.d.html</link>
+            <guid>2306122</guid>
+            <pubDate>Wed, 08 Sep 2021 18:21:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国安全和环境执法局（BSEE）：美国墨西哥湾地区关闭了76.88%的原油产量（或140万桶/日）及77.25%的天然气产量（或1722.70百万立方英尺/日）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzqtyt4876274.d.html</link>
+            <guid>2306114</guid>
+            <pubDate>Wed, 08 Sep 2021 18:01:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  沃尔玛将出售70亿美元债务，包括第一笔绿色债券。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzqtyt4874301.d.html</link>
@@ -175,72 +217,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-08/detail-iktzscyx3097809.d.html</link>
             <guid>2306042</guid>
             <pubDate>Wed, 08 Sep 2021 15:13:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股持续下行，纳指跌幅扩大至1%，迦南科技跌超10%，哔哩哔哩跌超6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-08/detail-iktzscyx3096076.d.html</link>
-            <guid>2306030</guid>
-            <pubDate>Wed, 08 Sep 2021 14:54:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：“拉里”仍然是一个强大的飓风，本周在大西洋西部海岸造成了危险的海浪。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-08/detail-iktzqtyt4862485.d.html</link>
-            <guid>2306029</guid>
-            <pubDate>Wed, 08 Sep 2021 14:52:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【金陵体育成为杭州亚运会官方球类和田径项目赛事器材供应商】据江苏金陵体育器材股份有限公司9月8日消息，第19届亚运会官方供应商授牌仪式在杭州隆重举行，经大赛组委会综合审定，正式授予金陵体育“杭州2022年第19届亚运会官方球类和田径项目赛事器材供应商”的荣誉，这标志着金陵体育正式成为了杭州亚运会、亚残运会的官方球类和田径项目赛事器材供应商。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-08/detail-iktzscyx3095567.d.html</link>
-            <guid>2306027</guid>
-            <pubDate>Wed, 08 Sep 2021 14:49:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国民主党参议员桑德斯：不希望（预算法案中的）医疗保险扩张被延长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-08/detail-iktzscyx3094946.d.html</link>
-            <guid>2306024</guid>
-            <pubDate>Wed, 08 Sep 2021 14:44:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7月份职位空缺数量连续第五个月创下历史新高，经季节性调整后达到1093.4万；当前职位空缺数量较失业工人多出223万，亦创历史新高。2021年每个月的职位空缺人数都在增加，为历史上最长的周期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-08/detail-iktzscyx3094819.d.html</link>
-            <guid>2306022</guid>
-            <pubDate>Wed, 08 Sep 2021 14:43:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：热带低气压增强为热带风暴“奥拉夫”（OLAF）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-08/detail-iktzscyx3094702.d.html</link>
-            <guid>2306021</guid>
-            <pubDate>Wed, 08 Sep 2021 14:41:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Allensbach民意调查中，德国社民党的支持率为27％，联盟党的支持率为25％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-08/detail-iktzscyx3094442.d.html</link>
-            <guid>2306020</guid>
-            <pubDate>Wed, 08 Sep 2021 14:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国能源部：2035年太阳能有望提供该国40%电能】当地时间9月8日，美国能源部发布了有关太阳能的研究报告，展现了这一技术在发电行业减少碳排放过程中的重要作用。研究显示到2035年，太阳能有潜力供应美国40%的电力，提供近150万个就业岗位，且不会造成电费上涨。该报告呼吁大幅增加光伏发电装机量，根据美国能源部的愿景蓝图，该国光伏发电量需要从2020年的76GW（约全国供电量3%）上升至2035年的1600GW，并在2050年达到3000GW。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-08/detail-iktzqtyt4861068.d.html</link>
-            <guid>2306018</guid>
-            <pubDate>Wed, 08 Sep 2021 14:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【盈峰环境：联合发起成立低速无人驾驶产业联盟】盈峰环境消息，9月8日，功能型低速无人车产业技术发展峰会在深圳举办。会上，盈峰环境联合中国低速无人驾驶各产业链主流企业，发起成立低速无人驾驶产业联盟，共同打造国内首家低速场景无人驾驶解决方案综合性服务平台。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-08/detail-iktzqtyt4861043.d.html</link>
-            <guid>2306017</guid>
-            <pubDate>Wed, 08 Sep 2021 14:39:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦存款保险公司：由于信用卡和汽车贷款增加，2021年第二季度贷款余额增长了0.3%，为2020年第二季度以来首次增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-08/detail-iktzscyx3093857.d.html</link>
-            <guid>2306011</guid>
-            <pubDate>Wed, 08 Sep 2021 14:34:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际金融协会：8月全球新兴市场股票吸引了8亿美元的外国资金流入，债券方面的资金流入为35亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-08/detail-iktzqtyt4860343.d.html</link>
-            <guid>2306007</guid>
-            <pubDate>Wed, 08 Sep 2021 14:31:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
