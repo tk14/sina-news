@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 08 Sep 2021 20:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 21:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[金融博客零对冲评API原油库存数据：周三油价进一步反弹，WTI原油回升至69美元上方，因墨西哥湾地区石油生产恢复进程缓慢。预计飓风导致的炼厂关闭将维持数周，分析师预计飓风“艾达”可能会造成美国今年总产量至多减少3000万桶。本周的API库存数据可能开始显示飓风“艾达”造成的部分影响，数据显示原油库存下降，降幅低于预期，数据公布后WTI原油油价在69.4美元附近波动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzqtyt4883836.d.html</link>
+            <guid>2306168</guid>
+            <pubDate>Wed, 08 Sep 2021 21:00:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际奥委会：北京冬奥会将执行与东京奥运会相同的防疫原则】当地时间8日，国际奥委会主席巴赫在瑞士洛桑举行的发布会上表示，北京冬奥会将执行与东京奥运会相同的防疫原则。巴赫表示，在未来几周，国际奥委会和北京冬奥组委将讨论北京冬奥会所应采取的防疫措施，并听取国际专家和世界卫生组织的建议。巴赫表示，实际上，双方已在原则上取得了共识，那就是北京冬奥会将执行与东京奥运会相同的防疫原则。巴赫表示，具体措施会借鉴东京奥运会的成功先例，也会根据中国的具体情况进行调整。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzscyx3116919.d.html</link>
+            <guid>2306165</guid>
+            <pubDate>Wed, 08 Sep 2021 20:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【投资不是虚拟游戏 盲目追捧元宇宙不可取】近日，元宇宙概念股集体爆发，股价飙升。“互联网进化的下一代形态”“真实世界和虚拟世界的交界”等炫酷定义，更为其蒙上科幻与神秘色彩，带来预期和炒作的空间。在某一概念盛行之时，分清是真风口，还是“旧瓶装新酒”，抑或是美丽的“泡沫”，对投资者而言尤为重要。毕竟投资不是虚拟世界的游戏，而是真金白银的投入，盲目追捧元宇宙这种宏大而虚幻的概念，最终受伤的可能是自己的钱袋子。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzscyx3116888.d.html</link>
+            <guid>2306164</guid>
+            <pubDate>Wed, 08 Sep 2021 20:49:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中概教育股高途教育收跌12.8%，一起教育跌约9.1%，好未来跌超7.3%，新东方跌约6.2%，尚德机构跌超6.0%，流利说则涨约6.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzscyx3116632.d.html</link>
+            <guid>2306163</guid>
+            <pubDate>Wed, 08 Sep 2021 20:42:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国9月3日当周API馏分油库存 -374.8万桶，前值 -196.1万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzqtyt4882863.d.html</link>
+            <guid>2306162</guid>
+            <pubDate>Wed, 08 Sep 2021 20:34:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国9月3日当周API汽油库存 +641.4万桶，前值 +271.1万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzqtyt4882857.d.html</link>
+            <guid>2306161</guid>
+            <pubDate>Wed, 08 Sep 2021 20:33:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国9月3日当周API库欣原油库存 +179.4万桶，前值 +212.8万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzscyx3116250.d.html</link>
+            <guid>2306160</guid>
+            <pubDate>Wed, 08 Sep 2021 20:33:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[墨西哥外长埃布拉德：与美国的高级别经济会谈还将讨论半导体、墨西哥电动汽车等问题。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzscyx3115884.d.html</link>
@@ -211,54 +253,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzqtyt4867551.d.html</link>
             <guid>2306071</guid>
             <pubDate>Wed, 08 Sep 2021 16:02:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA短期能源展望报告：2022年全球原油需求增速预期为363万桶/日，此前为362万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzqtyt4867537.d.html</link>
-            <guid>2306070</guid>
-            <pubDate>Wed, 08 Sep 2021 16:02:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA短期能源展望报告：预计2022年WTI原油价格维持在62.37美元/桶不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzqtyt4867519.d.html</link>
-            <guid>2306069</guid>
-            <pubDate>Wed, 08 Sep 2021 16:02:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国9月EIA当年短期前景美国原油产量预期(万桶/日)公布 1108，前值 1112。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzqtyt4867467.d.html</link>
-            <guid>2306067</guid>
-            <pubDate>Wed, 08 Sep 2021 16:02:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【墨西哥7.1级地震致多地电力供应中断 目前已恢复98%】当地时间9月8日墨西哥民防部通报，7日晚发生的7.1级强震死亡人数仍为1人。地震后造成了包括首都墨西哥城、墨西哥州、格雷罗州在内多地区电力供应中断。据当地媒体报道，地震过后，有超过100万户墨西哥民众家中处于停电状态。墨西哥国家电力公司在震后连夜投入大量力量进行抢修，截止到墨西哥当地时间9月8日上午9时，已经恢复了受影响地区98%的电力供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzscyx3100848.d.html</link>
-            <guid>2306065</guid>
-            <pubDate>Wed, 08 Sep 2021 16:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  太平洋投资管理公司（PIMCO）正将其在美国的全面重返办公室工作规定推迟到1月份，并收紧防疫措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-08/detail-iktzscyx3100763.d.html</link>
-            <guid>2306064</guid>
-            <pubDate>Wed, 08 Sep 2021 15:59:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【明天起江苏扬州部分商业综合体有序恢复营业】记者了解到，明天（9月9日）起江苏省扬州市部分商业综合体开始有序恢复营业。据了解，明日恢复营业的商业综合体有：万象汇、京华城Living Mall、京华城Rmall全生活广场、三盛国际广场、五彩世界生活广场、扬州万家福、昌建广场等。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-08/detail-iktzqtyt4867020.d.html</link>
-            <guid>2306063</guid>
-            <pubDate>Wed, 08 Sep 2021 15:53:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国联邦贸易委员会（FTC）将就是否撤回《纵向并购指南》进行投票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-08/detail-iktzqtyt4866798.d.html</link>
-            <guid>2306061</guid>
-            <pubDate>Wed, 08 Sep 2021 15:49:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国联邦贸易委员会表示将在美东时间9月15日上午11点举行公开会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-08/detail-iktzscyx3100100.d.html</link>
-            <guid>2306059</guid>
-            <pubDate>Wed, 08 Sep 2021 15:46:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
