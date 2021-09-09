@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 09 Sep 2021 16:35:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 17:25:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WTI原油期货短线走低0.6美元，现报67.9美元/桶，日内跌幅扩大至2.06%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-10/detail-iktzqtyt5085005.d.html</link>
+            <guid>2307169</guid>
+            <pubDate>Thu, 09 Sep 2021 17:22:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[自美国30年期国债标售结果公布后，现货黄金累涨近4美元，报1797美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-10/detail-iktzqtyt5084536.d.html</link>
+            <guid>2307167</guid>
+            <pubDate>Thu, 09 Sep 2021 17:13:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加元持续走强，美元兑加元USD/CAD日内跌幅达0.50%，现报1.2625。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-10/detail-iktzscyx3316510.d.html</link>
+            <guid>2307166</guid>
+            <pubDate>Thu, 09 Sep 2021 17:12:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国10年期国债收益短线下跌1个基点，现报1.302%，刷新日低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-10/detail-iktzscyx3315768.d.html</link>
+            <guid>2307163</guid>
+            <pubDate>Thu, 09 Sep 2021 17:03:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑瑞郎USD/CHF日内跌超0.50%，现报0.9165。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-10/detail-iktzscyx3314204.d.html</link>
+            <guid>2307158</guid>
+            <pubDate>Thu, 09 Sep 2021 16:45:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据美国证券交易委员会文件：喜马拉雅申请撤回在美国的IPO计划。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-10/detail-iktzscyx3312917.d.html</link>
@@ -217,54 +247,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzscyx3299407.d.html</link>
             <guid>2307070</guid>
             <pubDate>Thu, 09 Sep 2021 13:54:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【建发股份：旗下纸浆期货交割仓库核定库容增至5万吨】建发股份(600153)消息，上海期货交易所批复同意建发股份全资子公司建发物流集团有限公司位于青岛市黄岛区的纸浆期货交割仓库核定库容由2万吨增加至3.5万吨。截至目前，公司旗下纸浆期货交割库的总库容增加至5万吨。建发股份表示，此次期货交割库扩容获批，是上期所对建发物流在纸浆期货交割业务中管理体系和管理能力的肯定，有助于公司进一步增强纸浆业务综合服务能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzqtyt5066836.d.html</link>
-            <guid>2307068</guid>
-            <pubDate>Thu, 09 Sep 2021 13:51:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【习近平就推动金砖务实合作提出中方倡议】习近平指出，为推动金砖务实合作，中方倡议举办金砖国家工业互联网与数字制造发展论坛、金砖国家应对气候变化高级别会议、金砖国家可持续发展大数据论坛、金砖国家治国理政研讨会和人文交流论坛，开设五国媒体线上培训班，建立金砖国家职业教育联盟，举办职业技能大赛。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzqtyt5066135.d.html</link>
-            <guid>2307066</guid>
-            <pubDate>Thu, 09 Sep 2021 13:46:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  通用汽车（GM）将把美国密歇根州雪佛龙Bolt工厂停产时间延长两周，因为火灾调查造成Bolt电池包供应短缺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzscyx3298211.d.html</link>
-            <guid>2307064</guid>
-            <pubDate>Thu, 09 Sep 2021 13:45:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统洛佩斯：预计墨西哥明年的经济增长率为5％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzqtyt5065631.d.html</link>
-            <guid>2307062</guid>
-            <pubDate>Thu, 09 Sep 2021 13:42:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【安德利：拟24亿元购买亚锦科技36%股权】安德利公告，公司拟24亿元购买宁波亚丰电器有限公司（以下简称“宁波亚丰”）持有的宁波亚锦电子科技股份有限公司（“亚锦科技”）36%的股权，将由公司大股东陈学高先生收购安德利现有的全部资产和业务（为避免疑问，不包含安德利控制的拟参与收购标的股份的企业），包括商业零售业务、其他任何现有业务及与该等业务相关的全部负债。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzqtyt5065611.d.html</link>
-            <guid>2307061</guid>
-            <pubDate>Thu, 09 Sep 2021 13:42:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥部长：墨西哥外长埃布拉德周四将与美国国家安全顾问沙利文会面。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzqtyt5065221.d.html</link>
-            <guid>2307060</guid>
-            <pubDate>Thu, 09 Sep 2021 13:40:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Rocket Lab(RKLB.N)涨14.25%，第二季度营收同比增加237%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzscyx3296335.d.html</link>
-            <guid>2307054</guid>
-            <pubDate>Thu, 09 Sep 2021 13:31:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Lululemon(LULU.O)涨超13%，第二季度净利润同比增长140%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-09/detail-iktzscyx3296293.d.html</link>
-            <guid>2307052</guid>
-            <pubDate>Thu, 09 Sep 2021 13:31:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
