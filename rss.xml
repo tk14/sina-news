@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 11 Sep 2021 17:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 18:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国总统拜登：尽管民调下滑，但经济计划仍广受欢迎。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-12/detail-iktzqtyt5455348.d.html</link>
+            <guid>2309087</guid>
+            <pubDate>Sat, 11 Sep 2021 18:03:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国安全和环境执法局（BSEE）：美国墨西哥湾地区关闭了61.6%的原油产量（或112万桶/日）及60.7%的天然气产量（或1353百万立方英尺/日）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-12/detail-iktzqtyt5455202.d.html</link>
+            <guid>2309086</guid>
+            <pubDate>Sat, 11 Sep 2021 18:01:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[希腊总理米佐塔基斯：2021年希腊经济将增长5.9%，好于此前预测的3.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-12/detail-iktzqtyt5453527.d.html</link>
+            <guid>2309083</guid>
+            <pubDate>Sat, 11 Sep 2021 17:33:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济观察报：房地产进入青铜时代】过去一年来，“三道红线”成为房地产行业出现频率最高的词汇，也是每一家房企经营围绕的重心。近期陷入负债风险的房企，已经明显感受到了完全不同的监管决心——政府不再像往常一样，会因为宏观经济的低迷，放松对房地产市场的全面调控。大而不倒的故事，正在走下神坛。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-12/detail-iktzscyx3686863.d.html</link>
+            <guid>2309082</guid>
+            <pubDate>Sat, 11 Sep 2021 17:31:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西安火车站、西安北站实行“落地安检”】为做好十四运会期间铁路运输安全工作，确保旅客运输安全有序，自2021年9月11日0时起至2021年9月27日24时止，西安火车站、西安北站实行“落地安检”，即在出站后再次接受安检。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-12/detail-iktzscyx3686528.d.html</link>
+            <guid>2309081</guid>
+            <pubDate>Sat, 11 Sep 2021 17:27:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国监管层考虑启动正式评估 确定稳定币是否威胁金融稳定】美国官员正在商讨是否启动正式评估，确定Tether等稳定币是否威胁金融稳定，该监管行动有可能令稳定币这一加密货币市场迅速扩张的领域面临严格地多的监管。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-12/detail-iktzqtyt5452893.d.html</link>
+            <guid>2309080</guid>
+            <pubDate>Sat, 11 Sep 2021 17:23:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：萨尔瓦多铜矿工人下周一将投票表决智利国家铜业公司（Codelco）的加薪提议。]]></title>
             <guid>2309078</guid>
@@ -330,36 +366,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-11/detail-iktzqtyt5401187.d.html</link>
             <guid>2308376</guid>
             <pubDate>Sat, 11 Sep 2021 09:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄罗斯卫星网：土耳其国防部报告称，叙利亚伊德利卜省发生袭击，造成2名士兵死亡，3人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-11/detail-iktzqtyt5399384.d.html</link>
-            <guid>2308374</guid>
-            <pubDate>Sat, 11 Sep 2021 08:57:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科特迪瓦国防部：该国一军用直升机坠毁，机上5人全部遇难】路透社刚刚消息，科特迪瓦国防部当地时间10日表示，该国一架军用直升机在该国北部坠毁，5名机组人员全部遇难。报道称，事发时，该军用直升机正在科特迪瓦与布基纳法索接壤的边境附近执行侦察任务。报道称，科特迪瓦国防部在一份声明中说，已经开始进行调查，以确定坠机原因。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-11/detail-iktzqtyt5396283.d.html</link>
-            <guid>2308372</guid>
-            <pubDate>Sat, 11 Sep 2021 08:38:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【能源局提出千乡万村驭风计划】在9月10日举行的的第四届风能开发企业领导人座谈会上，国家能源局新能源和可再生能源司副司长王大鹏表示，下一步将在“三北”地区着力提升外送和就地消纳能力，优化风电基地化、规范化开发；在西南地区结合水电的开发，统筹推进水、风、光综合基地开发；在中东南地区重点推进风电就地就近开发，特别在广大农村实施“千乡万村驭风计划”等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-11/detail-iktzqtyt5396215.d.html</link>
-            <guid>2308371</guid>
-            <pubDate>Sat, 11 Sep 2021 08:38:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：热带风暴”奥拉夫“减弱为热带气压。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-11/detail-iktzscyx3629415.d.html</link>
-            <guid>2308370</guid>
-            <pubDate>Sat, 11 Sep 2021 08:37:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：热带气旋“拉里”正在远离纽芬兰，预计很快将会发展为后热带气旋。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-11/detail-iktzscyx3628653.d.html</link>
-            <guid>2308369</guid>
-            <pubDate>Sat, 11 Sep 2021 08:33:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
