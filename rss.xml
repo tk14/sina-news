@@ -4,16 +4,70 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 14 Sep 2021 21:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 22:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[市场消息：日本证券业协会将重新审视设定IPO价格区间的做法。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4272085.d.html</link>
+            <guid>2313678</guid>
+            <pubDate>Tue, 14 Sep 2021 22:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[资深能源分析师Henik Fung：经济复苏迟滞、缩减刺激计划和德尔塔毒株组等因素为油价带来了新的风险，经济增长前景被下调，交易员削减看涨原油的押注，美元仓位被大规模平仓。尽管近期供应紧张状况有所缓解，但欧佩克的产量策略仍引发了对明年第一季度供应过剩的担忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4271596.d.html</link>
+            <guid>2313677</guid>
+            <pubDate>Tue, 14 Sep 2021 22:15:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【多家锂电正极材料生产商登陆科创板 行业打响“扩产”抢位赛】锂电正极材料生产商正扎堆聚集科创板。伴随着新能源产业的快速发展，电池产业作为新能源的上游供应链，正处于重要的发展机遇期，当前大量正极材料企业竞相上市，实际上与整个产业的高景气度密切相关。在资金加持下，正极材料行业“扩产”抢位赛也再次提速，密集扩产成为行业内的主要布局点。 (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4271279.d.html</link>
+            <guid>2313674</guid>
+            <pubDate>Tue, 14 Sep 2021 22:12:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：普利司通轮胎将翻修多个工厂，以促进电动汽车轮胎销售。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6037430.d.html</link>
+            <guid>2313673</guid>
+            <pubDate>Tue, 14 Sep 2021 22:11:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【又有5名阿富汗赴美人员抵达美国弗吉尼亚州后确诊麻疹】当地时间9月14日，美国弗吉尼亚州卫生部门官员表示，在从阿富汗飞抵该州的撤离人员中检测出5名麻疹阳性患者。弗吉尼亚州卫生部门表示，这5人通过美国政府的阿富汗紧急疏散程序来到该州，期间曾到访华盛顿杜勒斯国际机场、位于里士满市的一家医院以及皮特克堡军事基地三处地点，有关部门正在确认和联系曾出入以上地点的民众。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4269926.d.html</link>
+            <guid>2313668</guid>
+            <pubDate>Tue, 14 Sep 2021 21:50:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【人工关节告别高毛利率： 集采最高降价达80%，百亿元市场大洗牌】 国家组织高值医用耗材联合采购办公室集中采购组组长高雪表示，此次拟中选的人工关节产品价格从平均3万元降到1万块以内，降幅达到80%以上。业内人士表示，集采相当于打破了原有的利益格局，市场蛋糕被重新划分。随着集采常态化进行，骨科行业发展进入新阶段，对创新发展也提出了更高要求。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4269263.d.html</link>
+            <guid>2313667</guid>
+            <pubDate>Tue, 14 Sep 2021 21:39:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：今年极端天气事件将使美国损失“远远超过1000亿美元”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4269217.d.html</link>
+            <guid>2313666</guid>
+            <pubDate>Tue, 14 Sep 2021 21:38:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SpaceX：风险分析证明龙飞船在距地球575千米的轨道上是安全的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6034415.d.html</link>
+            <guid>2313663</guid>
+            <pubDate>Tue, 14 Sep 2021 21:20:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[土耳其官方公报显示，土耳其修改了外币存款准备金率。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6033873.d.html</link>
             <guid>2313660</guid>
             <pubDate>Tue, 14 Sep 2021 21:06:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【监管强化“看门人”职责，多家中介机构吃罚单】近期，又有多家中介机构涉事，或被证监会立案调查，或收到证监会罚单，涉及券商、会计师事务所等，均和所负责项目未能勤勉尽责相关。川财证券首席经济学家陈雳表示，中介机构所负责的项目关系到企业质量的好坏、投资者的切身利益和资本市场服务实体经济的水平，只有勤勉尽责，严格筛选项目，厘清各方责任，才能在注册制的大背景下获得市场尊重。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4267762.d.html</link>
+            <guid>2313659</guid>
+            <pubDate>Tue, 14 Sep 2021 21:05:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国国家飓风中心：“尼古拉斯”正缓慢地向东北偏东方向移动，预计未来几天，美国南部部分地区或将遭遇山洪暴发。]]></title>
@@ -67,6 +121,12 @@
             <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6032739.d.html</link>
             <guid>2313624</guid>
             <pubDate>Tue, 14 Sep 2021 20:42:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫国家经济委员会主任布赖恩·迪斯：共和党和民主党在特朗普执政期间三次暂停债务上限。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4266723.d.html</link>
+            <guid>2313623</guid>
+            <pubDate>Tue, 14 Sep 2021 20:42:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[白宫国家经济委员会主任布赖恩·迪斯：就业市场目前正处于正确路径上，将持续关注德尔塔毒株对此造成的影响。]]></title>
@@ -270,90 +330,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4259760.d.html</link>
             <guid>2313360</guid>
             <pubDate>Tue, 14 Sep 2021 18:21:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根士丹利：预计2022年底布伦特原油价格将在70多美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6025795.d.html</link>
-            <guid>2313359</guid>
-            <pubDate>Tue, 14 Sep 2021 18:20:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国电信运营商AT&T计划促销iPhone 13 Pro。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4259686.d.html</link>
-            <guid>2313358</guid>
-            <pubDate>Tue, 14 Sep 2021 18:20:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果跌幅持续扩大，现跌1.35%，报1473.38美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6025751.d.html</link>
-            <guid>2313357</guid>
-            <pubDate>Tue, 14 Sep 2021 18:19:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果秋季新品发布会结束，未发布新款无线耳机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4259624.d.html</link>
-            <guid>2313356</guid>
-            <pubDate>Tue, 14 Sep 2021 18:18:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果：iPhone 13系列手机将于9月17日开始预售，9月24日正式发售。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4259611.d.html</link>
-            <guid>2313355</guid>
-            <pubDate>Tue, 14 Sep 2021 18:17:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果：iPhone 13 Pro将支持1TB容量内存。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4259570.d.html</link>
-            <guid>2313354</guid>
-            <pubDate>Tue, 14 Sep 2021 18:16:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果：iPhone 13 Pro电池续航比上代长1.5小时，Pro Max续航比上代长2.5小时。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4259504.d.html</link>
-            <guid>2313352</guid>
-            <pubDate>Tue, 14 Sep 2021 18:15:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[移动内容创作者商业平台ironSource维持超过5.8%的涨幅，暂报11.90美元，苹果公司秋季新品发布会开始前曾涨至12.44美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4259434.d.html</link>
-            <guid>2313350</guid>
-            <pubDate>Tue, 14 Sep 2021 18:13:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美情报部门：“基地”组织可能在1到2年内在阿富汗完成重建】当地时间9月14日，据美国媒体报道，美国情报部门高级官员表示，“基地”组织有可能在未来1到2年内在阿富汗完成重建，并指出该组织的一些成员目前已经返回阿富汗境内。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4259394.d.html</link>
-            <guid>2313349</guid>
-            <pubDate>Tue, 14 Sep 2021 18:11:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国宣布向阿富汗人道主义援助1亿欧元】据法国媒体9月14日报道，法国外交部长勒德里昂13日宣布，法国将向联合国为应对阿富汗人道主义紧急情况而制定的计划捐款1亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6025447.d.html</link>
-            <guid>2313348</guid>
-            <pubDate>Tue, 14 Sep 2021 18:11:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果跌幅扩大至1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6025330.d.html</link>
-            <guid>2313347</guid>
-            <pubDate>Tue, 14 Sep 2021 18:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  苹果跌幅扩大至超过0.8%，该公司秋季新品发布会正在进行之中，媒体称并无惊艳之处。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6025279.d.html</link>
-            <guid>2313346</guid>
-            <pubDate>Tue, 14 Sep 2021 18:07:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：09月15日01时52分在新疆阿克苏地区温宿县发生3.2级地震，震源深度9千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6024978.d.html</link>
-            <guid>2313343</guid>
-            <pubDate>Tue, 14 Sep 2021 18:03:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果：iPhone 13 Pro系列“刘海”面积缩小20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6024874.d.html</link>
-            <guid>2313341</guid>
-            <pubDate>Tue, 14 Sep 2021 18:01:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
