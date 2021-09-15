@@ -4,332 +4,435 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 14 Sep 2021 22:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 04:29:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[市场消息：日本证券业协会将重新审视设定IPO价格区间的做法。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4272085.d.html</link>
-            <guid>2313678</guid>
-            <pubDate>Tue, 14 Sep 2021 22:21:00 GMT</pubDate>
+            <title><![CDATA[【外媒：富士康和PTT签署协议成立合资企业 生产电动汽车】据国外媒体报道，周二，泰国石油和天然气集团PTT与富士康签署了一项合资企业协议，以生产电动汽车。该合资企业将在未来5至6年内投资10亿至20亿美元在泰国东部经济走廊特区建造一座工厂，该工厂将采用富士康的先进技术生产完整的电动汽车。据报道，该工厂的建设将需要2-3年左右的时间，第一阶段的初步生产目标是每年5万辆汽车，未来将扩大到每年15万辆汽车。（Techweb）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6113123.d.html</link>
+            <guid>2313982</guid>
+            <pubDate>Wed, 15 Sep 2021 04:27:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[资深能源分析师Henik Fung：经济复苏迟滞、缩减刺激计划和德尔塔毒株组等因素为油价带来了新的风险，经济增长前景被下调，交易员削减看涨原油的押注，美元仓位被大规模平仓。尽管近期供应紧张状况有所缓解，但欧佩克的产量策略仍引发了对明年第一季度供应过剩的担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4271596.d.html</link>
-            <guid>2313677</guid>
-            <pubDate>Tue, 14 Sep 2021 22:15:59 GMT</pubDate>
+            <title><![CDATA[【贵州醇完成对蔺郎酒业的并购 酿酒总产能将突破2万吨】9月15日，贵州醇董事长、总经理朱伟宣布：贵州醇完成对四川古蔺三大酿酒企业之一泸州蔺郎酒业集团有限公司的并购，顺利进军赤水河谷。叠加蔺郎酒业的万吨酱酒产能，并购后的贵州醇酿酒总产能将突破2万吨，顺利进入酱酒行业前三。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6112995.d.html</link>
+            <guid>2313981</guid>
+            <pubDate>Wed, 15 Sep 2021 04:26:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【多家锂电正极材料生产商登陆科创板 行业打响“扩产”抢位赛】锂电正极材料生产商正扎堆聚集科创板。伴随着新能源产业的快速发展，电池产业作为新能源的上游供应链，正处于重要的发展机遇期，当前大量正极材料企业竞相上市，实际上与整个产业的高景气度密切相关。在资金加持下，正极材料行业“扩产”抢位赛也再次提速，密集扩产成为行业内的主要布局点。 (证券日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4271279.d.html</link>
-            <guid>2313674</guid>
-            <pubDate>Tue, 14 Sep 2021 22:12:09 GMT</pubDate>
+            <title><![CDATA[【俄罗斯停止超重型探月用途火箭技术设计工作】当地时间15日，俄新社报道称，俄罗斯“进步”火箭航天中心总经理德米特里·巴拉诺夫向媒体表示，该中心已停止用于探月项目的超重型运载火箭的技术设计，但不排除在对相关方案进行调整后重启设计工作。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4345819.d.html</link>
+            <guid>2313980</guid>
+            <pubDate>Wed, 15 Sep 2021 04:22:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：普利司通轮胎将翻修多个工厂，以促进电动汽车轮胎销售。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6037430.d.html</link>
-            <guid>2313673</guid>
-            <pubDate>Tue, 14 Sep 2021 22:11:58 GMT</pubDate>
+            <title><![CDATA[【最高法：依法保障进城落户农民宅基地使用权 促进在城镇稳定就业生活的农民自愿有序进城落户】最高人民法院今天(15日)召开新闻发布会，对外发布《关于推动新时代人民法庭工作高质量发展的意见》。最高法要求，妥善处理涉“三农”领域传统纠纷以及休闲农业、乡村旅游、民宿经济、健康养老等新业态纠纷，促进农村产业融合发展，依法保障进城落户农民农村土地承包权、宅基地使用权、集体收益分配权，促进在城镇稳定就业生活的农民自愿有序进城落户。推动落实城乡劳动者平等就业、同工同酬，依法保障农民工工资支付和其他劳动权益。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4345668.d.html</link>
+            <guid>2313979</guid>
+            <pubDate>Wed, 15 Sep 2021 04:22:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【又有5名阿富汗赴美人员抵达美国弗吉尼亚州后确诊麻疹】当地时间9月14日，美国弗吉尼亚州卫生部门官员表示，在从阿富汗飞抵该州的撤离人员中检测出5名麻疹阳性患者。弗吉尼亚州卫生部门表示，这5人通过美国政府的阿富汗紧急疏散程序来到该州，期间曾到访华盛顿杜勒斯国际机场、位于里士满市的一家医院以及皮特克堡军事基地三处地点，有关部门正在确认和联系曾出入以上地点的民众。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4269926.d.html</link>
-            <guid>2313668</guid>
-            <pubDate>Tue, 14 Sep 2021 21:50:54 GMT</pubDate>
+            <title><![CDATA[  【SEMI：明年晶圆厂设备支出可望创近千亿美元新高】SEMI（国际半导体产业协会）今日公布最新一季全球晶圆厂预测报告指出，在数位转型与其他新兴科技趋势驱动下，2022年全球前端晶圆厂半导体设备投资总额将创近1000亿美元的新高，以满足对于电子产品不断提升的需求，也刷新2021年才创下的900亿美元历史纪录。SEMI全球行销长暨台湾区总裁曹世纶表示，晶圆厂设备支出将连三年创新高，全球正在见证半导体产业有史以来的罕见纪录。数位转型是半导体技术主要驱动力之一，市场将不断提升对晶片的倚赖，进而大幅推升半导体设备之需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6111607.d.html</link>
+            <guid>2313978</guid>
+            <pubDate>Wed, 15 Sep 2021 04:19:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【人工关节告别高毛利率： 集采最高降价达80%，百亿元市场大洗牌】 国家组织高值医用耗材联合采购办公室集中采购组组长高雪表示，此次拟中选的人工关节产品价格从平均3万元降到1万块以内，降幅达到80%以上。业内人士表示，集采相当于打破了原有的利益格局，市场蛋糕被重新划分。随着集采常态化进行，骨科行业发展进入新阶段，对创新发展也提出了更高要求。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4269263.d.html</link>
-            <guid>2313667</guid>
-            <pubDate>Tue, 14 Sep 2021 21:39:36 GMT</pubDate>
+            <title><![CDATA[【日本自民党谷垣派称在总裁选举中原则上支持岸田文雄】据时事社报道，日本自民党谷垣派当地时间15日召开会议，决定了在自民党总裁选举中原则上支持前政调会长岸田文雄的方针，但同时也容许本派成员支持岸田文雄之外的其他候选者。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4345160.d.html</link>
+            <guid>2313977</guid>
+            <pubDate>Wed, 15 Sep 2021 04:19:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国总统拜登：今年极端天气事件将使美国损失“远远超过1000亿美元”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4269217.d.html</link>
-            <guid>2313666</guid>
-            <pubDate>Tue, 14 Sep 2021 21:38:58 GMT</pubDate>
+            <title><![CDATA[【江苏扬州明起恢复机场、长途客运、火车站运营】9月16日零时起，扬州地区扬州、扬州东、江都、高邮、高邮北、宝应火车站将恢复办理客运业务。9月15日12时起，将恢复9月16日零时后以上车站各次出发和到达列车售票；同步取消以上车站控制发售进京车票措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6110112.d.html</link>
+            <guid>2313976</guid>
+            <pubDate>Wed, 15 Sep 2021 04:11:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SpaceX：风险分析证明龙飞船在距地球575千米的轨道上是安全的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6034415.d.html</link>
-            <guid>2313663</guid>
-            <pubDate>Tue, 14 Sep 2021 21:20:30 GMT</pubDate>
+            <title><![CDATA[【长三角铁路中秋小长假运输方案出台 预计发送旅客超700万人次】9月15日从中国铁路上海局集团有限公司获悉，近日，长三角铁路中秋小长假运输方案出台，中秋小长假运输期间预计发送旅客超700万人次，铁路部门在启用图定高峰线的基础上，计划增开多方向旅客列车满足旅客出行需要。据悉，今年中秋小长假运输期限为9月18日至21日，共计4天，客流最高峰日将出现在9月19日，预计当天发送旅客230万人次左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4343094.d.html</link>
+            <guid>2313974</guid>
+            <pubDate>Wed, 15 Sep 2021 04:09:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[土耳其官方公报显示，土耳其修改了外币存款准备金率。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6033873.d.html</link>
-            <guid>2313660</guid>
-            <pubDate>Tue, 14 Sep 2021 21:06:09 GMT</pubDate>
+            <title><![CDATA[  【证监会：加强证券公司发布证券研究报告业务监管】证监会9月14日回复人民网网友“关于加强证券公司研究报告管理的建议”的留言时表示，后续将持续加强证券公司发布证券研究报告业务监管，规范从业人员执业行为，保护投资者合法权益，维护证券市场良好秩序。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6109411.d.html</link>
+            <guid>2313973</guid>
+            <pubDate>Wed, 15 Sep 2021 04:08:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【监管强化“看门人”职责，多家中介机构吃罚单】近期，又有多家中介机构涉事，或被证监会立案调查，或收到证监会罚单，涉及券商、会计师事务所等，均和所负责项目未能勤勉尽责相关。川财证券首席经济学家陈雳表示，中介机构所负责的项目关系到企业质量的好坏、投资者的切身利益和资本市场服务实体经济的水平，只有勤勉尽责，严格筛选项目，厘清各方责任，才能在注册制的大背景下获得市场尊重。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4267762.d.html</link>
-            <guid>2313659</guid>
-            <pubDate>Tue, 14 Sep 2021 21:05:47 GMT</pubDate>
+            <title><![CDATA[【关于转板上市是否需要符合分拆要求 证监会回应：将适时向市场公开相关制度规则】证监会9月14日表示，鉴于《上市公司分拆所属子公司境内上市试点若干规定》制定时尚无转板上市，因此，转板上市是否需要符合分拆要求，是《关于全国中小企业股份转让系统挂牌公司转板上市的指导意见》以及具体转板规则发布后的新问题。对此，市场较为关切，证监会已进行了深入研究，将适时向市场公开相关制度规则，以保障投资者特别是中小投资者合法权益。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4342252.d.html</link>
+            <guid>2313972</guid>
+            <pubDate>Wed, 15 Sep 2021 04:05:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国家飓风中心：“尼古拉斯”正缓慢地向东北偏东方向移动，预计未来几天，美国南部部分地区或将遭遇山洪暴发。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4267135.d.html</link>
-            <guid>2313658</guid>
-            <pubDate>Tue, 14 Sep 2021 20:52:27 GMT</pubDate>
+            <title><![CDATA[  万向集团洽购贝恩资本的Apex，交易估值不超过25亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6108442.d.html</link>
+            <guid>2313971</guid>
+            <pubDate>Wed, 15 Sep 2021 04:04:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【苹果发布会后iPhone 12价格大降】苹果官网显示，在苹果上架新款iPhone 13系列产品后，苹果下调了部分iPhone的售价，其中iPhone 12 64GB版本目前的价格为5199元，较发售价下降1100元，iPhone 12 mini起售价为4499元，较发售价下降1000元。iPhone 12 Pro系列处于未上架状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4266843.d.html</link>
-            <guid>2313641</guid>
-            <pubDate>Tue, 14 Sep 2021 20:45:27 GMT</pubDate>
+            <title><![CDATA[【临港新片区集成电路产业联盟和司南半导体超级加速器签约】9月15日，第二届中国（上海）自贸区临港新片区半导体产业发展高峰论坛在上海临港举行。在本次论坛上，临港新片区集成电路产业联盟和司南半导体超级加速器举行了签约仪式。据介绍，司南孵化器是临港科投公司自建的科技企业孵化器、加速器品牌，是临港集团科创服务载体的主力军。司南半导体加速器是侧重于半导体产业的加速器，将聚集半导体产业链上下游企业，与行业领军企业、专业投资机构、科创服务机构形成紧密合作，助力入驻的半导体企业蓬勃发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4341968.d.html</link>
+            <guid>2313970</guid>
+            <pubDate>Wed, 15 Sep 2021 04:04:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【专家：煤炭储备工作正提速，煤价不具持续上涨动力】今年2月份以来，受供应紧张形势影响，煤炭系品种价格不断上涨。对此，相关部门多次出手保供稳价，特别是在近日，国家发展改革委办公厅向各地方和有关企业发出通知，就抓紧做好发电供热企业直保煤炭中长期合同全覆盖工作做出安排。多位专家表示，相关政策出台后，煤炭价格趋于稳定，这也体现了国家对保障基础民生产业的决心。据悉，除了中长期合同以外，相关部门正在加快储备工作。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4266802.d.html</link>
-            <guid>2313634</guid>
-            <pubDate>Tue, 14 Sep 2021 20:44:16 GMT</pubDate>
+            <title><![CDATA[【北京学科类培训机构年底前完成营转非】15日，北京市教委会等多部门联合发布《关于做好义务教育学科类培训机构登记为非营利性机构相关工作的通知》，明确本市义务教育学科类培训机构登记为非营利性机构工作将在2021年底前完成，即日起，营利性机构不得组织开展义务教育学科培训的招生收费活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6107593.d.html</link>
+            <guid>2313968</guid>
+            <pubDate>Wed, 15 Sep 2021 04:00:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[白宫国家经济委员会主任布赖恩·迪斯：需要鼓励企业在国内投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4266783.d.html</link>
-            <guid>2313632</guid>
-            <pubDate>Tue, 14 Sep 2021 20:43:33 GMT</pubDate>
+            <title><![CDATA[【国台办：近期解放军采取的所有行动都是为了捍卫国家主权和领土完整】国台办今天（15日）举办例行新闻发布会。会上，有记者提问，据我们了解，台湾防务部门日前提交了“2022年防务预算”，4717亿新台币创历史新高。对此，国台办发言人朱凤莲表示，最近民进党当局这方面的动向挺多。我要强调两点。第一，台湾是中国的一部分，近期解放军采取的所有行动都是为了捍卫国家主权和领土完整，针对的是外部势力和“台独”分裂活动，绝非针对台湾同胞。第二，民进党当局和“台独”势力勾连外部势力，不断进行“台独”挑衅，是造成当前台海地区紧张动荡的根源。这一点两岸民众都是非常清楚的。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6107505.d.html</link>
+            <guid>2313967</guid>
+            <pubDate>Wed, 15 Sep 2021 04:00:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[白宫国家经济委员会主任布赖恩·迪斯：企业税改革可能会改变游戏规则。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4266779.d.html</link>
-            <guid>2313631</guid>
-            <pubDate>Tue, 14 Sep 2021 20:43:26 GMT</pubDate>
+            <title><![CDATA[【福州航空：对10月30日前从福州、厦门、三明进出港航班免费退票】福州航空今天（15日）发布关于福建相关城市（福州、厦门、三明）进出港航班机票免费退改政策，中秋、国庆机票均可免费退改。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4340941.d.html</link>
+            <guid>2313966</guid>
+            <pubDate>Wed, 15 Sep 2021 03:59:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【年内私募产品备案近2万只，量化类约占三成】据私募排排网最新数据统计，2021年以来，截至目前，合计有19969只私募证券基金完成备案。其中，量化产品有5681只，占比28.45%。与此同时，20家百亿元级量化私募备案了1930只私募证券基金，占到量化类总量的33.97%。多位私募人士表示，今年以来，私募业维持较快发展态势的原因一方面在于全市场管理规模再上新台阶；另一方面在于基金数量得到了较大扩容。值得注意的是，量化私募发展势头明显。可以预期，未来将诞生更多百亿元级私募和更加优秀的基金经理。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4266773.d.html</link>
-            <guid>2313630</guid>
-            <pubDate>Tue, 14 Sep 2021 20:43:19 GMT</pubDate>
+            <title><![CDATA[天茂集团：控股子公司国华人寿1至8月累计原保险保费收入236.55亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6106092.d.html</link>
+            <guid>2313965</guid>
+            <pubDate>Wed, 15 Sep 2021 03:52:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国地震台网正式测定：09月15日04时13分在印尼苏门答腊岛北部海域（北纬3.05度，东经95.60度）发生5.5级地震，震源深度10千米。]]></title>
-            <guid>2313629</guid>
-            <pubDate>Tue, 14 Sep 2021 20:42:50 GMT</pubDate>
+            <title><![CDATA[安科生物：注射用人生长激素新增特发性矮小适应症申请获得批准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4339619.d.html</link>
+            <guid>2313964</guid>
+            <pubDate>Wed, 15 Sep 2021 03:52:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[白宫国家经济委员会主任布赖恩·迪斯被问及税收争端时表示，过去几天取得了主要进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6032751.d.html</link>
-            <guid>2313628</guid>
-            <pubDate>Tue, 14 Sep 2021 20:42:36 GMT</pubDate>
+            <title><![CDATA[节能铁汉：联合预中标云南省姚安县洋派水库提质增效工程EPC项目，项目估算投资2.98亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4339604.d.html</link>
+            <guid>2313963</guid>
+            <pubDate>Wed, 15 Sep 2021 03:52:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[白宫国家经济委员会主任布赖恩·迪斯：特朗普时代在债务上限方面树立了正确的先例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6032739.d.html</link>
-            <guid>2313624</guid>
-            <pubDate>Tue, 14 Sep 2021 20:42:08 GMT</pubDate>
+            <title><![CDATA[美联新材：获第三批专精特新小巨人企业称号。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4339577.d.html</link>
+            <guid>2313962</guid>
+            <pubDate>Wed, 15 Sep 2021 03:52:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[白宫国家经济委员会主任布赖恩·迪斯：共和党和民主党在特朗普执政期间三次暂停债务上限。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4266723.d.html</link>
-            <guid>2313623</guid>
-            <pubDate>Tue, 14 Sep 2021 20:42:02 GMT</pubDate>
+            <title><![CDATA[【金浦钛业上调钛白粉售价】金浦钛业午间公告，锐钛型和金红石型钛白粉销售价格对国内客户上调1000元人民币/吨，对国际各类客户上调150美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4339552.d.html</link>
+            <guid>2313961</guid>
+            <pubDate>Wed, 15 Sep 2021 03:52:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[白宫国家经济委员会主任布赖恩·迪斯：就业市场目前正处于正确路径上，将持续关注德尔塔毒株对此造成的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4266720.d.html</link>
-            <guid>2313622</guid>
-            <pubDate>Tue, 14 Sep 2021 20:41:55 GMT</pubDate>
+            <title><![CDATA[【首届中国（宁夏）国际葡萄酒文化旅游博览会即将开幕】由农业农村部、文化和旅游部、全国对外友协、宁夏回族自治区人民政府共同主办的首届中国（宁夏）国际葡萄酒文化旅游博览会将于2021年9月25日—27日在宁夏银川举办。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4338358.d.html</link>
+            <guid>2313957</guid>
+            <pubDate>Wed, 15 Sep 2021 03:47:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[白宫国家经济委员会主任布赖恩·迪斯：德尔塔毒株对就业造成短期影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4266718.d.html</link>
-            <guid>2313621</guid>
-            <pubDate>Tue, 14 Sep 2021 20:41:49 GMT</pubDate>
+            <title><![CDATA[  【福建省累计报告本土确诊病例152例】记者从福建省卫生健康委员会获悉，自9月10日以来，福建省累计报告本土确诊病例152例，目前住院152例（厦门市45例、泉州市16例、莆田市91例），无死亡病例；现有本土无症状感染者尚在接受集中隔离医学观察13例（厦门市1例、莆田市12例）  。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4336742.d.html</link>
+            <guid>2313955</guid>
+            <pubDate>Wed, 15 Sep 2021 03:40:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[白宫国家经济委员会主任布赖恩·迪斯：数据显示出“历史性的就业复苏”，薪资也有所上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4266714.d.html</link>
-            <guid>2313620</guid>
-            <pubDate>Tue, 14 Sep 2021 20:41:42 GMT</pubDate>
+            <title><![CDATA[【小米投资汽车科技公司 后者为乘用车电控悬架系统供应商】天眼查App显示，近日，浙江孔辉汽车科技有限公司发生工商变更，新增股东湖北小米长江产业基金合伙企业（有限合伙），同时企业注册资本由约1329.95万元人民币增至约1399.95万元人民币。官网数据显示，浙江孔辉是一家具备乘用车电控悬架系统全流程开发能力与系统供货能力供应商。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4335787.d.html</link>
+            <guid>2313954</guid>
+            <pubDate>Wed, 15 Sep 2021 03:36:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【石油股和光伏类股普跌】美国石油类股普跌，卡隆石油收跌将近4.4%，APA跌约4.0%，Murphy石油跌约3.2%，Hess跌超3.1%，Phillips 66跌3.0%，马拉松石油跌2.9%，Devon能源和Valero能源跌超2.2%，哈里波多、雪佛龙、Cimarex能源、斯伦贝谢、英国石油ADR、埃克森美孚、西方石油公司CLR、康菲石油至少跌超1.1%。ETF中，用于追踪国际油价的美国原油基金（USO）跌超0.3%、美国布伦特原油基金也跌超0.1%，用于追踪石油类股的XLE跌超1.4%、VDE跌约1.7%、PXE和IEO跌约2.0%、XOP跌2.5%。 太阳能类股普跌，iSun跌7.7%，JKS跌超2.9%，SunPower跌2.7%Array跌超2.6%，Azure Power跌约2.1%，阿特斯太阳能（CSIQ）跌1.7%，第一太阳能跌超0.9%。ETF中，TAN跌超0.8%，清洁能源SMOG跌约0.2%、PBW跌超1.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4266525.d.html</link>
-            <guid>2313613</guid>
-            <pubDate>Tue, 14 Sep 2021 20:37:44 GMT</pubDate>
+            <title><![CDATA[上证综指午盘收涨0.31%，报3673.86点。中国石油对指数上涨贡献最大，上涨6.3%。 海航科技涨幅最大，上涨10.1%。午盘交易中，1,674支股票中1,025支上涨，596支下跌；5个类股中4个类股走高，以工业股为首。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6101278.d.html</link>
+            <guid>2313952</guid>
+            <pubDate>Wed, 15 Sep 2021 03:30:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[雪佛龙：墨西哥湾的钻井平台并没有因飓风“艾达”遭受严重破坏，目前该平台的重要人员已复工。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6032526.d.html</link>
-            <guid>2313609</guid>
-            <pubDate>Tue, 14 Sep 2021 20:36:52 GMT</pubDate>
+            <title><![CDATA[  【城市公共安全感调查报告：信息安全感连续3年垫底】中国应急管理学会、中国矿业大学、社会科学文献出版社15日共同发布的《公共安全感蓝皮书：中国城市公共安全感调查报告（2020）》显示，各分项指数中信息安全感连续3年垫底，数字经济背景下信息安全成隐忧。本轮调查结果表明，数字经济发达城市多数居于信息安全感排名中下游，如深圳、上海、杭州、广州、重庆、西安等。超大特大城市在信息安全感方面表现不尽如人意，数字经济发达的超大城市中仅北京在近3年有明显进步。信息安全问题主要表现在个人隐私信息被盗取和被非法商用、个人账户密码被盗取、信息犯罪猖獗等方面。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4334321.d.html</link>
+            <guid>2313951</guid>
+            <pubDate>Wed, 15 Sep 2021 03:29:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲地中海地震中心：印尼锡默卢县发生5.5级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6031980.d.html</link>
-            <guid>2313580</guid>
-            <pubDate>Tue, 14 Sep 2021 20:24:58 GMT</pubDate>
+            <title><![CDATA[据日本时事通讯社：日本自民党谷垣祯一所在阵营支持岸田文雄竞选党魁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6100634.d.html</link>
+            <guid>2313948</guid>
+            <pubDate>Wed, 15 Sep 2021 03:28:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【全力备战北交所开市，服务企业全生命周期】北京证券交易所第二批业务规则近日亮相，发行上市、再融资、重大资产重组三方面的基本业务规则向社会公开征求意见。这意味着北交所开市又向前迈出了一步。而作为中介机构的券商，将迎来新的展业空间。目前不少券商已快速反应并积极布局北交所相关业务，加大投入构筑新三板产业链，助力中小企业发展。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6031889.d.html</link>
-            <guid>2313574</guid>
-            <pubDate>Tue, 14 Sep 2021 20:22:52 GMT</pubDate>
+            <title><![CDATA[【统计局：“十四五”规划重大项目陆续开工建设 基建方面投资会逐步改善】国家统计局新闻发言人付凌晖9月15日表示，从投资来看，随着企业效益的改善，支持实体经济发展的政策显效，投资活力在增强。1-8月份，制造业投资两年平均增长3.3%，比上个月加快0.2个百分点，保持了持续回升的态势。从下一步看，今年是“十四五”规划的第一年，随着“十四五”规划重大项目陆续开工建设，相关基建方面的投资也会逐步改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4333882.d.html</link>
+            <guid>2313947</guid>
+            <pubDate>Wed, 15 Sep 2021 03:27:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美股大类资产ETF涨跌各异，恐慌指数做多涨约1.4%，美国国债20+年ETF涨超1.2%，黄金ETF涨超0.6%，日元做多涨0.4%，罗素2000指数ETF跌约1.3%，标普500价值指数ETF跌超0.9%，新兴市场ETF跌0.8%，道指ETF跌约0.8%，标普500ETF跌超0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4265824.d.html</link>
-            <guid>2313572</guid>
-            <pubDate>Tue, 14 Sep 2021 20:22:27 GMT</pubDate>
+            <title><![CDATA[小米集团副总裁卢伟冰：小米11T系列全球发布，今晚北京时间8点！]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4333435.d.html</link>
+            <guid>2313946</guid>
+            <pubDate>Wed, 15 Sep 2021 03:25:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  标普500指数的11个板块悉数下跌，能源板块收跌逾1.5%，金融板块跌超1.4%，工业板块和原材料板块跌约1.2%，科技信息和医疗保健板块跌幅最小，均跌超0.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4265764.d.html</link>
-            <guid>2313571</guid>
-            <pubDate>Tue, 14 Sep 2021 20:22:11 GMT</pubDate>
+            <title><![CDATA[港股苹果概念股扩大跌幅，高伟电子跌5.25%，比亚迪电子跌4.8%，丘钛科技跌2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4333153.d.html</link>
+            <guid>2313945</guid>
+            <pubDate>Wed, 15 Sep 2021 03:23:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美股行业ETF几乎全线收跌，银行业ETF跌超2.1%，区域银行ETF跌2%，能源业ETF跌超1.4%，金融业ETF跌超1.3%，全球航空业ETF跌超1.2%，日常消费品ETF跌约0.4%，只有半导体ETF涨约0.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4265754.d.html</link>
-            <guid>2313570</guid>
-            <pubDate>Tue, 14 Sep 2021 20:22:02 GMT</pubDate>
+            <title><![CDATA[据日经新闻：鸿海科技集团与拜腾的电动汽车项目暂停。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4331816.d.html</link>
+            <guid>2313943</guid>
+            <pubDate>Wed, 15 Sep 2021 03:19:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴西经济部长盖德斯：V型复苏并不意味着经济增速很快。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4265703.d.html</link>
-            <guid>2313566</guid>
-            <pubDate>Tue, 14 Sep 2021 20:20:46 GMT</pubDate>
+            <title><![CDATA[风电板块异动拉升，节能风电涨停，新强联、大金重工、金风科技、电气风电等跟随走高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6098237.d.html</link>
+            <guid>2313942</guid>
+            <pubDate>Wed, 15 Sep 2021 03:17:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  据Business Insider：Uber(UBER.N)技术主管将辞职。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4265693.d.html</link>
-            <guid>2313565</guid>
-            <pubDate>Tue, 14 Sep 2021 20:20:33 GMT</pubDate>
+            <title><![CDATA[【统计局：货物进出口贸易保持较快增长还有不少有利因素】今年以来，货物进出口运行状况还是保持良好的态势，前8个月货物进出口总额同比增长23.7%，保持较快增长。从下阶段来看，货物进出口贸易保持较快增长还有不少有利因素。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6097900.d.html</link>
+            <guid>2313941</guid>
+            <pubDate>Wed, 15 Sep 2021 03:16:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  动视暴雪(ATVI.O)任命Julie Hodge为首席人力官，任命Sandeep Dube为首席商务官。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6031164.d.html</link>
-            <guid>2313532</guid>
-            <pubDate>Tue, 14 Sep 2021 20:07:14 GMT</pubDate>
+            <title><![CDATA[国家统计局新闻发言人付凌晖：今年以来，从累计增速来看，进口增速实际是快于出口增速。中国的外贸发展及国际合作，不仅对于中国经济增长起到很重要的作用，同时也助力了全球经济的复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4331060.d.html</link>
+            <guid>2313940</guid>
+            <pubDate>Wed, 15 Sep 2021 03:15:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  花旗集团(C.N)CFO Mason：商业银行部门有“巨大的机会”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6030299.d.html</link>
-            <guid>2313518</guid>
-            <pubDate>Tue, 14 Sep 2021 19:50:02 GMT</pubDate>
+            <title><![CDATA[【东莞市住建局发文要求商品房预收款全部存入专用账户】9月14日，东莞市住建局发布《关于加强商品房预售款收存管理的通知》。通知要求，各房地产开发企业要在项目销售现场明显位置张贴购房支付提示牌，标注“为保证专款专用，维护买卖双方权益，请预购人将商品房预售款存入预售许可登记的预售款专用账户”的提示信息。各房地产开发企业要按照有关规定，将商品房预售资金，包括购房人按照认购协议、合同等约定支付的全部房价款（含定金、首付款、分期款、全款及按揭贷款等所有预售款）全部存入预售款专用账户。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6097699.d.html</link>
+            <guid>2313939</guid>
+            <pubDate>Wed, 15 Sep 2021 03:14:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[花旗集团(C.N)CFO Mason：预计到年底，信用卡总额度和贷款总量都有增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6030295.d.html</link>
-            <guid>2313517</guid>
-            <pubDate>Tue, 14 Sep 2021 19:49:55 GMT</pubDate>
+            <title><![CDATA[【凤凰光学发布全国首款1亿像素机器视觉镜头】据凤凰光学消息，公司新品首发，为全国首款1亿像素机器视觉镜头。该产品应用场景丰富，适用于显示面板、锂电、印刷、太阳能等行业，尤其是针对产品缺陷检测，也可应用于单反相机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6096392.d.html</link>
+            <guid>2313937</guid>
+            <pubDate>Wed, 15 Sep 2021 03:09:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【专家：“金九银十”消费旺季到来，内需复苏动力充沛】中国贸促会研究院副院长赵萍表示，“金九银十”是传统消费旺季，商家促销活动密集，居民消费意愿较强，预计今年9月、10月会保持传统消费旺季的特点，整体消费市场会稳定恢复。植信投资研究院首席经济学家连平表示，在宏观政策跨周期调节的有力支持下，后4个月投资和消费将企稳并提速。经济运行将延续稳定恢复态势，为明年一季度的经济增长打好坚实基础。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6030279.d.html</link>
-            <guid>2313516</guid>
-            <pubDate>Tue, 14 Sep 2021 19:49:24 GMT</pubDate>
+            <title><![CDATA[【黑龙江省结束防汛Ⅳ级应急响应】9月14日19时，随着黑龙江干流东极站水位回落至警戒水位以下，黑龙江干流全线均低于警戒水位，至此黑龙江省再无河流超警。黑龙江省人民政府防汛抗旱指挥部决定于今天（9月15日）10时结束黑龙江省防汛Ⅳ级应急响应。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6096006.d.html</link>
+            <guid>2313936</guid>
+            <pubDate>Wed, 15 Sep 2021 03:08:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：美国和欧盟寻求所有国家都承诺在2030年前减少甲烷排放。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6030122.d.html</link>
-            <guid>2313509</guid>
-            <pubDate>Tue, 14 Sep 2021 19:45:41 GMT</pubDate>
+            <title><![CDATA[  【女股神又出售特斯拉6600万美元股票】凯茜-伍德旗下基金周二又出售了88924股特斯拉股票，价值约6620万美元，是本月第三次出售，加上上周的两次，本月总计出售了272,572股特斯拉股票，套现约2亿美元。这并不意味着伍德对特斯拉缺乏信心，目前方舟基金仍持有特斯拉约424万股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6095111.d.html</link>
+            <guid>2313935</guid>
+            <pubDate>Wed, 15 Sep 2021 03:04:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[花旗集团(C.N)CFO Mason：预计全年营业支出将同比增加5%-6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4264005.d.html</link>
-            <guid>2313504</guid>
-            <pubDate>Tue, 14 Sep 2021 19:45:14 GMT</pubDate>
+            <title><![CDATA[【云南恢复跨省游】9月15日，云南省文化和旅游厅发布恢复跨省游通知，即日起恢复旅行社及在线旅游企业经营跨省团队旅游及“机票+酒店”业务。通知要求，各地要振奋精神、抢抓机遇，抓紧推出丰富多彩的文旅新产品，高密度、多渠道加大线上线下产品宣传推广，推动云南省文旅市场快速恢复。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6094659.d.html</link>
+            <guid>2313933</guid>
+            <pubDate>Wed, 15 Sep 2021 03:02:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[花旗集团(C.N)CFO Mason：用户信贷支出大幅增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4263997.d.html</link>
-            <guid>2313503</guid>
-            <pubDate>Tue, 14 Sep 2021 19:45:03 GMT</pubDate>
+            <title><![CDATA[港股石油板块走高，中国石油股份涨近3%，中海油田服务涨近2%，中国石油化工股份、中国海洋石油跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6094606.d.html</link>
+            <guid>2313932</guid>
+            <pubDate>Wed, 15 Sep 2021 03:02:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[花旗集团(C.N)CFO Mason：固定收益部门在“正常化”过程中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4263993.d.html</link>
-            <guid>2313501</guid>
-            <pubDate>Tue, 14 Sep 2021 19:44:57 GMT</pubDate>
+            <title><![CDATA[  【华为AR眼镜相关专利获授权】据天眼查App显示，9月14日，华为技术有限公司获得“增强现实AR眼镜”专利授权，公告号CN110579878B，申请日期为2019年7月。专利摘要显示，本申请实施例提供一种增强现实AR眼镜，包括两镜框和调节组件，该调节组件与两镜框相连，且通过该调节组件，两镜框能够相互靠近或相互远离。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4327620.d.html</link>
+            <guid>2313930</guid>
+            <pubDate>Wed, 15 Sep 2021 03:01:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[花旗集团(C.N)CFO Mason：投行部门有突出的表现。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4263985.d.html</link>
-            <guid>2313500</guid>
-            <pubDate>Tue, 14 Sep 2021 19:44:52 GMT</pubDate>
+            <title><![CDATA[日本石油协会PAJ：截至9月11日当周，日本炼油厂平均开采率为76.5%，9月4日当周为78.0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6094279.d.html</link>
+            <guid>2313929</guid>
+            <pubDate>Wed, 15 Sep 2021 03:00:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  市场消息：美国证交会主席根斯勒表示，将在不久后发布年初游戏驿站(GME.N)挤空事件的复盘报告。]]></title>
-            <guid>2313455</guid>
-            <pubDate>Tue, 14 Sep 2021 19:28:18 GMT</pubDate>
+            <title><![CDATA[券商板块异动拉升，中原证券涨近8%，国海证券、东吴证券、太平洋跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4327046.d.html</link>
+            <guid>2313927</guid>
+            <pubDate>Wed, 15 Sep 2021 02:58:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[加密货币交易所Coinbase：狗狗币发送和接收有延迟。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4262932.d.html</link>
-            <guid>2313439</guid>
-            <pubDate>Tue, 14 Sep 2021 19:22:46 GMT</pubDate>
+            <title><![CDATA[【统计局：消费规模扩大、结构升级、新动能成长的趋势没有改变】国家统计局新闻发言人付凌晖表示，从结构上来看，8月份社零当中与居民日常生活相关的商品零售增势保持了总体稳定。升级类商品消费保持了较快增长，8月份体育娱乐用品类、文化办公用品类零售额同比增长22.7%和20.4%，均比上月有所加快。同时，线上消费持续活跃，1-8月份，实物商品网上零售额同比增长15.9%。这些情况表明，消费规模扩大、结构升级、新动能成长的趋势没有发生改变。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4326995.d.html</link>
+            <guid>2313926</guid>
+            <pubDate>Wed, 15 Sep 2021 02:58:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【公募养老FOF“七剑齐发”，多路资金聚焦养老理财】公开信息显示，继上周4家银行理财子公司获批开展养老理财产品试点之后，本周有7只公募养老FOF新品步入发行期。9月以来发行的养老FOF已达11只。 业内人士表示，经过3年多的运作，投资者对于公募养老FOF的认可程度和需求正快速提升，基金公司加紧补齐养老FOF产品线，除了迎合投资者需求，还期待分享未来养老第三支柱政策带来的红利。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6028951.d.html</link>
-            <guid>2313432</guid>
-            <pubDate>Tue, 14 Sep 2021 19:20:53 GMT</pubDate>
+            <title><![CDATA[【发改委运行局召开发电供热企业直保煤炭中长期合同全覆盖工作视频会议】9月13日，运行局组织各省（区、市）发展改革委、工信厅、能源局、有关中央企业、有关行业协会等召开视频会议，专题部署发电供热企业直保煤炭中长期合同全覆盖有关工作。会议要求各地方和有关企业要充分认识实行电热直保的重要意义，抓紧梳理发电供热企业煤炭中长期合同签订情况，尽快组织协调煤源，补签一批中长期合同，将发电供热企业中长期合同占年度用煤量的比重提高到100%，保障发电供热用煤稳定供应，守好守牢民生刚性用煤底线。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4326447.d.html</link>
+            <guid>2313924</guid>
+            <pubDate>Wed, 15 Sep 2021 02:56:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  摩根士丹利(MS.N)COO Purzan：仍维持二季度给出的净利息收入指引。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6028853.d.html</link>
-            <guid>2313427</guid>
-            <pubDate>Tue, 14 Sep 2021 19:18:27 GMT</pubDate>
+            <title><![CDATA[【国台办：民进党当局干扰、阻碍两岸经贸合作不智也不可行】国台办发言人朱凤莲指出，事实充分证明，大陆始终是广大台湾同胞、台资企业投资兴业的最佳选择。两岸加强经贸合作，台湾经济才能有更好发展，台湾同胞才能更多获益受惠。民进党当局一再干扰、阻碍两岸经贸合作是不智的，也不可行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4325905.d.html</link>
+            <guid>2313922</guid>
+            <pubDate>Wed, 15 Sep 2021 02:54:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【荣耀CEO赵明评苹果新品发布会：强大而令人尊敬的对手】苹果秋季新品发布会15日凌晨举行，iPhone 13系列产品正式发布。在发布会结束后，荣耀CEO赵明在微博发表评论表示，强大而令人尊敬的对手，行业需要不断的创新和超越，作为科技企业，要用产品和创新来赢得消费者和市场的尊重。同时赵明还透露，9月22日荣耀Magic3系列将发布全新融合计算摄影技术，也是一次突破性的迈进，请大家拭目以待。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4262717.d.html</link>
-            <guid>2313424</guid>
-            <pubDate>Tue, 14 Sep 2021 19:17:49 GMT</pubDate>
+            <title><![CDATA[  氟化工概念股全线大涨，巨化股份、永和股份、龙星化工涨停，三美股份、滨化股份、联创股份、亿利洁能等全线大涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4325613.d.html</link>
+            <guid>2313921</guid>
+            <pubDate>Wed, 15 Sep 2021 02:53:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  Rivian创始人RJ Scaringe在推特表示，今日第一辆Rivian量产车正式下线，并将很快交付给客户。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6027682.d.html</link>
-            <guid>2313378</guid>
-            <pubDate>Tue, 14 Sep 2021 18:59:40 GMT</pubDate>
+            <title><![CDATA[【国台办：积极为两岸交流合作创造有利条件】在今天（15日）的国台办例行新闻发布会上，发言人朱凤莲强调，两岸关系向前发展的内在动力来自民间和基层。我们鼓励两岸各界不断扩大深化交流，将积极为两岸交流合作创造有利条件，促进两岸同胞加深理解、增进互信，凝心聚力，共同推动两岸关系和平发展，同心实现中华民族伟大复兴。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6091358.d.html</link>
+            <guid>2313918</guid>
+            <pubDate>Wed, 15 Sep 2021 02:50:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【63名非法移民在土耳其伊兹密尔海域获救】土耳其海岸警卫队9月14日在该国西部伊兹密尔省切什梅县附近海域，营救了63名非法移民，同时抓获38名试图乘船出国的非法移民。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6027557.d.html</link>
-            <guid>2313377</guid>
-            <pubDate>Tue, 14 Sep 2021 18:57:27 GMT</pubDate>
+            <title><![CDATA[【国台办：美方试图“以台制华” 遏制中国发展都是徒劳】国台办今天（15日）举行例行新闻发布会。会上，有记者问，近期美国一方面重申无意改变一个中国政策，一方面却频打“台湾牌”，酝酿把“台湾经济文化代表处”更名为“台湾代表处”，并怂恿日本、澳大利亚和一些欧洲国家利用台湾问题滋事，与此同时，民进党当局极力鼓噪，挟洋自重，请问发言人对此有何评论。对此，国台办发言人朱凤莲表示，我们坚决反对包藏祸心的“更名”图谋。中美建交时美方在台湾问题上对中方作出了严肃的政治承诺，美方和台湾只保持文化、商务和其他非官方关系。搞冷战思维、零和博弈，拿台湾问题做文章，试图“以台制华”，遏制中国发展，这些都是徒劳的。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6091072.d.html</link>
+            <guid>2313916</guid>
+            <pubDate>Wed, 15 Sep 2021 02:49:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国证券交易委员会指控移动应用分析平台App Annie及其创始人涉及证券欺诈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6027379.d.html</link>
-            <guid>2313375</guid>
-            <pubDate>Tue, 14 Sep 2021 18:54:00 GMT</pubDate>
+            <title><![CDATA[  【国家统计局：1-8月份市场紧缺的集成电路、金属集装箱产量分别增长48.2%和1.7倍】国家统计局新闻发言人付凌晖今日表示，1-8月份，产业链、供应链的短板加快弥补，市场紧缺的集成电路、金属集装箱产量分别增长48.2%和1.7倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4324084.d.html</link>
+            <guid>2313915</guid>
+            <pubDate>Wed, 15 Sep 2021 02:48:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WTI 10月原油期货收涨0.01美元，涨幅0.01%，报70.46美元/桶。 布伦特11月原油期货收涨0.09美元，涨幅0.12%，报73.60美元/桶。 NYMEX 10月天然气期货收涨0.55%，报5.2600美元/百万英热单位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4261172.d.html</link>
-            <guid>2313373</guid>
-            <pubDate>Tue, 14 Sep 2021 18:51:50 GMT</pubDate>
+            <title><![CDATA[  CRO板块拉升走强，阳光诺和涨超10%，昭衍新药、美迪西、皓元医药、药石科技、康龙化成等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6090421.d.html</link>
+            <guid>2313913</guid>
+            <pubDate>Wed, 15 Sep 2021 02:46:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【俄搭载34颗通讯卫星运载火箭成功发射】当地时间9月14日，俄罗斯国家航天集团直播信号显示，携带34颗英国OneWeb公司卫星的俄罗斯“联盟2.1b”号运载火箭在哈萨克斯坦拜科努尔发射场成功发射。目前OneWeb公司运行在近地轨道的卫星数量为288颗，本次发射之后，卫星数量将达到322颗。“联盟-2”系列运载火箭是俄罗斯目前使用的主要运载火箭类型之一，于2004年11月8日首次发射成功。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6026991.d.html</link>
-            <guid>2313370</guid>
-            <pubDate>Tue, 14 Sep 2021 18:45:45 GMT</pubDate>
+            <title><![CDATA[统计局：新产品快速增长，1-8月份，新能源汽车、工业机器人产量同比分别增长1.7倍和63.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6090103.d.html</link>
+            <guid>2313912</guid>
+            <pubDate>Wed, 15 Sep 2021 02:45:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【被指侵犯公民权利 美国弗洛伊德案的4名涉事前警察拒不认罪】当地时间9月14日，据美国当地媒体报道，因涉嫌“以法律的名义”，故意剥夺美国宪法赋予弗洛伊德的公民权利并导致其死亡而遭到起诉的4名涉事前警察在联邦法庭上拒不认罪。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4260037.d.html</link>
-            <guid>2313363</guid>
-            <pubDate>Tue, 14 Sep 2021 18:28:36 GMT</pubDate>
+            <title><![CDATA[鸿蒙概念持续走弱，科蓝软件跌超6%，传智教育、芯海科技、诚迈科技跟跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4323096.d.html</link>
+            <guid>2313911</guid>
+            <pubDate>Wed, 15 Sep 2021 02:44:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  CoinDesk：法国农业信贷银行与Santander成立合资公司，计划提供加密数字货币托管服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6025913.d.html</link>
-            <guid>2313361</guid>
-            <pubDate>Tue, 14 Sep 2021 18:23:33 GMT</pubDate>
+            <title><![CDATA[国家统计局新闻发言人付凌晖：上半年，国内需求对经济增长的贡献率超过了80%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4322968.d.html</link>
+            <guid>2313909</guid>
+            <pubDate>Wed, 15 Sep 2021 02:43:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[加密货币交易所Coinbase将垃圾债发行规模扩大至20亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4259760.d.html</link>
-            <guid>2313360</guid>
-            <pubDate>Tue, 14 Sep 2021 18:21:47 GMT</pubDate>
+            <title><![CDATA[【统计局：实现全年丰收还是有较好的条件】国家统计局新闻发言人付凌晖：今年以来，夏粮和早稻都实现了增产，夏粮、早稻分别增产2.1%和2.7%。从目前秋粮生产来看，今年秋粮播种面积在扩大，自秋粮播种以来，整体生产形势和气候条件相对有利，尽管部分地区前期由于汛情使粮食生产受到一定影响，但从全国来看，实现全年丰收还是有较好的条件。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6089209.d.html</link>
+            <guid>2313908</guid>
+            <pubDate>Wed, 15 Sep 2021 02:41:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：预计热带低气压“尼古拉斯”将于当地时间星期三晚上或星期四早些时候减弱为残余气压。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6088228.d.html</link>
+            <guid>2313905</guid>
+            <pubDate>Wed, 15 Sep 2021 02:38:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【郑煤机：在示范工作面参与“矿山鸿蒙”系统适配和功能验证】郑煤机官微消息，9月14日下午，国家能源集团和华为携手举办“鸿蒙”工业领域首次商用暨“矿山鸿蒙”发布会，郑煤机作为煤机行业龙头企业受邀参会，并积极在示范工作面参与系统适配和功能验证。未来依托在成套装备和智能化系统领域的技术优势，郑煤机将继续加大研发投入，为煤炭行业真正实现综采智能化提供更大帮助。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4321453.d.html</link>
+            <guid>2313904</guid>
+            <pubDate>Wed, 15 Sep 2021 02:38:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东鹏控股：目前电力安排对公司没有明显影响】东鹏控股9月15日在互动平台表示，昨日有上市公司披露广西基地限电停生产线的公告，东鹏没有在广西设厂，因此不受广西限电的影响。目前，虽然广东有错峰用电安排，但是为降低用电成本，公司采用阶梯用电方式，把抛光等用电负荷较大的工序安排在夜间，目前的电力安排对东鹏没有明显影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6087955.d.html</link>
+            <guid>2313903</guid>
+            <pubDate>Wed, 15 Sep 2021 02:37:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华为在郑州成立超聚变公司 注册资本超7亿】据天眼查App显示，近日，超聚变数字技术有限公司成立，法定代表人为郑丽英，注册资本7.27亿人民币，注册地址在河南自贸试验区郑州片区（郑东），经营范围包括计算机信息系统安全专用产品销售；信息系统集成服务；人工智能双创服务平台；大数据服务等。股东信息显示，该公司由华为技术有限公司全资控股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4320856.d.html</link>
+            <guid>2313902</guid>
+            <pubDate>Wed, 15 Sep 2021 02:35:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金净流入达10亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6086846.d.html</link>
+            <guid>2313900</guid>
+            <pubDate>Wed, 15 Sep 2021 02:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼总统Jokowi：印尼庞大的镍储备支撑着工业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6085767.d.html</link>
+            <guid>2313897</guid>
+            <pubDate>Wed, 15 Sep 2021 02:28:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  港股碳中和概念走强，东岳集团涨逾4%，赣锋锂业涨近4%，福莱特玻璃涨逾2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4318723.d.html</link>
+            <guid>2313896</guid>
+            <pubDate>Wed, 15 Sep 2021 02:27:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【两部门：到2025年电商快件基本实现不再二次包装】日前，国家发展改革委、生态环境部印发《“十四五”塑料污染治理行动方案》。《方案》提出，到2025年，塑料污染治理机制运行更加有效，塑料制品生产、流通、消费、回收利用、末端处置全链条治理成效更加显著，白色污染得到有效遏制。在源头减量方面，商品零售、电子商务、外卖、快递、住宿等重点领域不合理使用一次性塑料制品的现象大幅减少，电商快件基本实现不再二次包装，可循环快递包装应用规模达到1000万个。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4318685.d.html</link>
+            <guid>2313895</guid>
+            <pubDate>Wed, 15 Sep 2021 02:27:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【8月份规模以上工业原煤生产由降转升 天然气增长有所加快】据国家统计局9月15日消息，8月份，规模以上工业原煤生产由降转升，原油生产平稳增长，天然气增长有所加快，电力增幅回落较大。以2019年8月份为基期，原煤生产两年平均增速由负转正，原油生产保持平稳，天然气、电力生产增长较快。8月份，生产原煤3.4亿吨，同比增速由上月下降3.3%转为增长0.8%，比2019年同期增长0.7%，两年平均增长0.3%，日均产量1081万吨。进口煤炭2805万吨，同比增长35.8%。8月份，生产天然气159亿立方米，同比增长11.3%，增速比上月加快1.5个百分点，比2019年同期增长15.5%，两年平均增长7.5%，日均产量5.1亿立方米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6084850.d.html</link>
+            <guid>2313893</guid>
+            <pubDate>Wed, 15 Sep 2021 02:25:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广州市住房城乡建设行业监测与研究中心正式印发《广州市智慧城市基础设施与智能网联汽车协同发展试点工作方案》。]]></title>
+            <guid>2313892</guid>
+            <pubDate>Wed, 15 Sep 2021 02:23:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联化科技：航运运力紧张和运费涨价对公司经营影响不大】联化科技在互动平台表示，公司目前发货情况正常，同时，公司产品采用成本加成的定价模式，合同报价会考虑运费的因素，因此航运运力紧张和运费涨价对经营影响不大。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6083358.d.html</link>
+            <guid>2313890</guid>
+            <pubDate>Wed, 15 Sep 2021 02:20:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒大债券走低，“20恒大02”跌逾7%，“20恒大01”、“15恒大03”跌超6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4316403.d.html</link>
+            <guid>2313889</guid>
+            <pubDate>Wed, 15 Sep 2021 02:19:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沪深两市成交额突破5000亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzscyx4315735.d.html</link>
+            <guid>2313888</guid>
+            <pubDate>Wed, 15 Sep 2021 02:16:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【扬州泰州国际机场16日复航】据@扬州发布 ，关于恢复扬州泰州国际机场航班运营的通告（第93号） 为满足广大旅客出行需求，经研究，决定于2021年9月16日零时起，恢复扬州泰州国际机场客运航班运行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6082288.d.html</link>
+            <guid>2313887</guid>
+            <pubDate>Wed, 15 Sep 2021 02:16:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马来西亚宣布10月15日起高等学府学生将分阶段返校上课】马来西亚高等教育部长诺莱妮当地时间9月14日宣布，从10月15日起，马来西亚国内高等学府学生将分阶段返校上课。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6082191.d.html</link>
+            <guid>2313886</guid>
+            <pubDate>Wed, 15 Sep 2021 02:15:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【蔚蓝锂芯：张家港锂电池二期项目近期即将投产】蔚蓝锂芯在互动平台表示，淮安锂电池一期项目预计明年投产，近期张家港锂电池二期项目即将投产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6082072.d.html</link>
+            <guid>2313885</guid>
+            <pubDate>Wed, 15 Sep 2021 02:15:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【8月份服务业继续恢复，信息传输、软件和信息技术等现代服务业较快增长】据统计局15日公布，8月份，全国服务业生产指数同比增长4.8%，两年平均增长4.4%，比7月份回落1.2个百分点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-15/detail-iktzqtyt6080906.d.html</link>
+            <guid>2313882</guid>
+            <pubDate>Wed, 15 Sep 2021 02:10:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
