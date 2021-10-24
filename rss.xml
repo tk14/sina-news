@@ -4,11 +4,58 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 24 Oct 2021 00:57:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 02:04:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【合肥中欧班列今年开行突破500列 累计发运超1800列】从合肥国际内陆港获悉，2021年，合肥中欧班列开行已突破500列，自2014年开通运营至今，累计发运超过1800列。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-24/detail-iktzqtyu3215192.d.html</link>
+            <guid>2363033</guid>
+            <pubDate>Sun, 24 Oct 2021 01:59:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特斯拉上调多款车型售价 Model S/X长续航版分别上调5000美元】特斯拉美国官网显示，特斯拉将Model S长续航版、Model X长续航版车型的售价分别上调了5000美元，现分别为94990美元和104990美元。此外，Model 3标准续航升级版、Model Y长续航版售价分别上调了2000美元，现分别为43990美元和56990美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-24/detail-iktzqtyu3212623.d.html</link>
+            <guid>2362979</guid>
+            <pubDate>Sun, 24 Oct 2021 01:41:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京野生动物园有游客擅自下车冲向虎群，园方已报警】10月23日，在北京野生动物园自驾游览区，一名游客突然下车，冲向了虎群。对此，记者联系了北京野生动物园。工作人员回应，昨天下午，园方就已经报警。目前，警方正在调查中，后续情况以警方通报为准。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-24/detail-iktzscyy1446866.d.html</link>
+            <guid>2362972</guid>
+            <pubDate>Sun, 24 Oct 2021 01:40:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯副外长：北约重回冷战模式】俄罗斯外交部副部长格鲁什科23日表示，北约走完“进化之路”后再次回到冷战模式。事实上，北约今天依旧生活在冷战模式，其主要精力都用于抵御所谓的“东方威胁”。本月6日，北约宣布已撤销8名俄驻北约代表团成员的常驻资格，并再次削减俄代表团人员数量，从20人减至10人。作为对北约行动的回应，俄外长拉夫罗夫18日宣布，俄将从11月1日起暂停其常驻北约代表团的工作。（新华社）]]></title>
+            <guid>2362951</guid>
+            <pubDate>Sun, 24 Oct 2021 01:34:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国铁集团：铁路直供电厂存煤平均可耗天数达16.6天】从中国国家铁路集团有限公司获悉，10月份以来，铁路部门充分发挥全国铁路一张网、一盘棋的运输组织优势，精准对接运输需求，开辟绿色通道快装快运，扎实推进今冬明春发电供暖用煤运输保供专项行动，全力保障群众温暖过冬和经济社会正常运行。10月1至20日，国家铁路电煤日均装车52357车，同比增长17%。截至10月20日，全国363家铁路直供电厂存煤3504万吨，较9月底增长18%，平均可耗天数达到16.6天，较9月底增长2.6天。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-24/detail-iktzscyy1444255.d.html</link>
+            <guid>2362887</guid>
+            <pubDate>Sun, 24 Oct 2021 01:21:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【第四届进博会正式进入布展阶段】第四届进博会首批展品23日正式进入国家会展中心（上海），这标志着第四届进博会正式进入布展阶段。截至10月23日，上海口岸暂时进口展品已达150批次，第四届进博会98%的展品已在境内。接下来，所有展区将全面开始布展，预计到11月2日左右完成展台搭建和展品布置。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-24/detail-iktzscyy1442838.d.html</link>
+            <guid>2362884</guid>
+            <pubDate>Sun, 24 Oct 2021 01:12:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10月23日0时-10月24日7时，陕西新增报告2例本土确诊病例，均在西安市高陵区。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-24/detail-iktzscyy1442147.d.html</link>
+            <guid>2362873</guid>
+            <pubDate>Sun, 24 Oct 2021 01:08:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河北石家庄新增1例确诊】10月23日0—24时，河北省新增新型冠状病毒肺炎确诊病例1例（石家庄市），无新增无症状感染者。截至10月23日24时，河北省现有确诊病例2例（含境外输入1例）；尚在医学观察无症状感染者4例。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-24/detail-iktzqtyu3206868.d.html</link>
+            <guid>2362850</guid>
+            <pubDate>Sun, 24 Oct 2021 01:04:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【乌干达首都发生爆炸 造成至少2人死亡】当地时间10月23日，乌干达首都坎帕拉发生爆炸，造成至少2人死亡。乌干达警方发言人阿桑·卡辛格耶在社交媒体上确认了这一消息。目前爆炸原因尚不清楚，警方表示将尽快发布官方声明，呼吁民众保持冷静。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-24/detail-iktzqtyu3204403.d.html</link>
@@ -322,53 +369,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3145657.d.html</link>
             <guid>2362292</guid>
             <pubDate>Sat, 23 Oct 2021 11:48:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【家庭教育促进法：父母合理安排未成年人学习休息锻炼时间】十三届全国人大常委会第三十一次会议23日表决通过了家庭教育促进法。法律明确，未成年人的父母或者其他监护人负责实施家庭教育。国家和社会为家庭教育提供指导、支持和服务。法律规定，县级以上地方人民政府应当加强监督管理，减轻义务教育阶段学生作业负担和校外培训负担，畅通学校家庭沟通渠道，推进学校教育和家庭教育相互配合。未成年人的父母或者其他监护人应当合理安排未成年人学习、休息、娱乐和体育锻炼的时间，避免加重未成年人学习负担，预防未成年人沉迷网络。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzscyy1380571.d.html</link>
-            <guid>2362291</guid>
-            <pubDate>Sat, 23 Oct 2021 11:46:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小米15.5亿竞得徐汇地块建上海总部】10月21日，上海规土局网站公示上海徐汇一幅价值15.5亿元的地块由由谧空间（上海）信息科技有限公司竞得。市场推测此地块或许会建成小米汽车业务上海研发中心。事实上，该幅地块确实将建小米上海总部，但聚合的是小米手机研发、互联网业务、中国区业务和金融业务四板块业务团队，并非如外界猜测的那样，将成为小米汽车业务研发上海中心所在地。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3144733.d.html</link>
-            <guid>2362288</guid>
-            <pubDate>Sat, 23 Oct 2021 11:40:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[宁夏银川：自10月23日0时起，银川市金凤区森林半岛小区、兴庆区太阳都市花园小区、西夏区物华兴洲苑小区调整为中风险等级地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3143848.d.html</link>
-            <guid>2362286</guid>
-            <pubDate>Sat, 23 Oct 2021 11:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【茅台集团：全力支持仁怀市打造世界酱香白酒核心产区】10月22日，茅台集团与仁怀市在茅台会议中心举行座谈，共商厂市高质量发展有关事宜。茅台集团党委书记、董事长丁雄军主持座谈会并表示，茅台集团将全力支持仁怀市实现“十四五”发展目标，全力支持仁怀市打造世界酱香白酒核心产区，建设全省高质量发展示范市和建设西部地区共同富裕示范市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzscyy1377321.d.html</link>
-            <guid>2362285</guid>
-            <pubDate>Sat, 23 Oct 2021 11:18:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广东疾控：北京高风险区来（返）粤人员须集中隔离14天。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3141673.d.html</link>
-            <guid>2362284</guid>
-            <pubDate>Sat, 23 Oct 2021 11:14:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中电联：2021年底非化石能源发电装机规模及比重将有望首次超过煤电】中国电力企业联合会：预计全年全国基建新增发电装机容量1.8亿千瓦左右，其中非化石能源发电装机投产1.4亿千瓦左右。预计年底全国发电装机容量23.7亿千瓦，同比增长7.7%左右；其中，煤电装机容量11.1亿千瓦、水电3.9亿千瓦、并网风电3.3亿千瓦、并网太阳能发电3.1亿千瓦、核电5441万千瓦、生物质发电3600万千瓦左右。非化石能源发电装机合计达到11.2亿千瓦左右，占总装机容量比重上升至47.3%，比2020年底提高2.5个百分点左右，非化石能源发电装机规模及比重预计将首次超过煤电。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzscyy1373409.d.html</link>
-            <guid>2362282</guid>
-            <pubDate>Sat, 23 Oct 2021 10:46:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特当局表示，到2030年前，首都利雅电动汽车比例必须达到30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzscyy1372370.d.html</link>
-            <guid>2362279</guid>
-            <pubDate>Sat, 23 Oct 2021 10:39:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[科威特油长：科威特将为沙特的净零排放计划提供帮助。]]></title>
-            <guid>2362278</guid>
-            <pubDate>Sat, 23 Oct 2021 10:39:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
