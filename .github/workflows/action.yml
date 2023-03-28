@@ -1,4 +1,4 @@
-name: 'Sina News Feed Bot'
+name: 'Sina News nFeed Bot'
 
 on:
   push:
