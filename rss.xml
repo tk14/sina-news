@@ -4,261 +4,351 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 31 Jan 2024 01:43:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 00:56:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【欧舒丹涨超5% 第三财季销售净额同比增超20%】截至发稿，欧舒丹(00973.HK)涨5.19%。根据公告，该公司第三财季销售净额达8.4亿欧元，按固定汇率计算同比增长24.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkseh1794185.d.html</link>
-            <guid>3474212</guid>
-            <pubDate>Wed, 31 Jan 2024 01:43:28 GMT</pubDate>
+            <title><![CDATA[【全国多地因降雪大雾关闭千余个收费站】 截至2月1日7时，受降雪及路面结冰影响，河北、山西、内蒙古、辽宁、黑龙江、安徽、山东、河南、湖北、陕西、甘肃、宁夏共封闭路段80个（涉及58条高速公路、3条普通国道、3条普通省道），关闭收费站1133个（涉及94条高速公路），恢复通行时间待定。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnvch0802581.d.html</link>
+            <guid>3476010</guid>
+            <pubDate>Thu, 01 Feb 2024 00:55:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A股传媒板块走强，名臣健康、时代出版等多股涨停，龙版传媒、三人行、奥飞娱乐等跟涨。]]></title>
-            <guid>3474209</guid>
-            <pubDate>Wed, 31 Jan 2024 01:41:49 GMT</pubDate>
+            <title><![CDATA[【看图：韩国1月份出口上升 显示2024年增长势头的积极迹象】韩国1月份出口增长，显示今年开局良好，也增强了对于全球贸易前景的信心。韩国政府周四公布的数据显示，1月份经工作日调整后的出口同比增长5.7%。总体出口增长18%，略高于经济学家预测的17.6%增幅，得益于今年1月份的工作天数多于去年同期。总体进口下降7.8%，贸易顺差收窄至3亿美元。韩国出口在去年年尾摆脱了长达一年的下滑，帮助韩国经济在去年最后三个月稳步增长0.6%，部分抵消了围绕建筑业信贷风险的负面影响。推动韩国出口复苏的最大动力是存储芯片。韩国存储芯片产量居世界前列，因此全球存储芯片需求复苏对韩国整体经济而言是一个好兆头。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnvch0802444.d.html</link>
+            <guid>3476009</guid>
+            <pubDate>Thu, 01 Feb 2024 00:54:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【A股证券板块盘初走强】国联证券涨近6%，东兴证券涨超3%，首创证券、财达证券等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkseh1790192.d.html</link>
-            <guid>3474195</guid>
-            <pubDate>Wed, 31 Jan 2024 01:33:45 GMT</pubDate>
+            <title><![CDATA[【美国防官员：美国在也门西部袭击10架准备发射的无人机】 据路透社援引哥伦比亚广播公司消息报道，当地时间1月31日，一名在巴林的美国高级国防官员表示，当天美国使用F-18战斗机在也门西部袭击了10架准备发射的无人机。(央视新闻)]]></title>
+            <guid>3476008</guid>
+            <pubDate>Thu, 01 Feb 2024 00:51:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国家统计局：非制造业商务活动扩张加快】从非制造业情况看，今天公布的1月份非制造业商务活动指数，在上月基础上，继续小幅上升，非制造业扩张加快。1月份中国非制造业商务活动指数为50.7%，较上月上升0.3个百分点，连续2个月小幅上升，显示非制造业延续去年四季度以来的趋稳恢复趋势。从预期看，非制造业业务活动预期指数虽较上月下降0.6个百分点，但仍在59.7%的较高水平，反映出企业对后期市场预期稳定，整体乐观。（国家统计局）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafksek6347464.d.html</link>
-            <guid>3474194</guid>
-            <pubDate>Wed, 31 Jan 2024 01:33:20 GMT</pubDate>
+            <title><![CDATA[【马斯克发起投票 87%用户支持特斯拉将公司注册地迁往得克萨斯州】马斯克就特斯拉是否应该将其注册地更改为得克萨斯州的投票结束，约87%的人投票赞成，逾110万人参与了投票。特斯拉目前在美国特拉华州注册成立，实际总部位于得克萨斯州。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnvcm8273356.d.html</link>
+            <guid>3476006</guid>
+            <pubDate>Thu, 01 Feb 2024 00:48:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A股景点旅游板块走弱，宋城演艺跌近8%，云南旅游跌超6%，峨眉山A、张家界、西藏旅游等多股跟跌。]]></title>
-            <guid>3474192</guid>
-            <pubDate>Wed, 31 Jan 2024 01:32:09 GMT</pubDate>
+            <title><![CDATA[【看图：美国地区性银行阴云再现 纽约社区银行股价暴跌38%】去年从Signature Bank购买存款的地区性银行纽约社区银行周三盘中一度重挫46%，收盘时跌幅为38%。此前该行报告第四季度意外亏损并削减派息。KBW地区银行指数下跌6%，为自去年3月硅谷银行因储户挤兑而倒闭以来表现最差。该银行将向股东发放的季度股息降至每股5美分。分析师曾预计股息将保持在每股17美分。信用前景恶化导致了意外亏损，该行计提的贷款损失准备金超出预期。穆迪可能将纽约社区银行评级降为垃圾级。周三穆迪将对改行的所有评级，包括其Baa3的长期发行人评级（最低的投资级评级）列入可能下调的观察名单。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnvck5358322.d.html</link>
+            <guid>3476005</guid>
+            <pubDate>Thu, 01 Feb 2024 00:48:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中证转债指数开盘跌0.06%，红相转债跌超3%，声讯转债、通光转债跌超1.5%；花王转债涨近4%，家联转债涨超2%。]]></title>
-            <guid>3474187</guid>
-            <pubDate>Wed, 31 Jan 2024 01:29:55 GMT</pubDate>
+            <title><![CDATA[【今日全国铁路预计发送旅客1220万人次】从国铁集团获悉，1月31日，全国铁路发送旅客1149.4万人次；2月1日，全国铁路客流保持高位运行，预计发送旅客1220万人次。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnvch0796231.d.html</link>
+            <guid>3475999</guid>
+            <pubDate>Thu, 01 Feb 2024 00:31:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【君实生物H股涨超3% 预计2023年净亏损同比收窄5.78%】截至发稿，君实生物(01877.HK)涨3.23%。根据公告，该公司预计2023年净亏损同比收窄5.78%至22.5亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkseh1788027.d.html</link>
-            <guid>3474182</guid>
-            <pubDate>Wed, 31 Jan 2024 01:27:18 GMT</pubDate>
+            <title><![CDATA[澳大利亚12月季调营建许可月率 -9.5%，预期1.1%，前值1.60%。澳大利亚12月季调私营营建许可月率 -0.5%，前值-1.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnvcp5045168.d.html</link>
+            <guid>3475998</guid>
+            <pubDate>Thu, 01 Feb 2024 00:30:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【AMD：预计2024年数据中心GPU产品收入将超35亿美元】1月31日消息，AMD首席执行官苏姿丰表示，预计该公司数据中心GPU产品的收入将在2024年超过35亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwk1914577.d.html</link>
-            <guid>3474170</guid>
-            <pubDate>Wed, 31 Jan 2024 01:13:52 GMT</pubDate>
+            <title><![CDATA[澳大利亚第四季度进口物价指数季率 1.1%，预期0.60%，前值0.80%。澳大利亚第四季度出口物价指数季率 5.6%，预期3.50%，前值-3.10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnvcm8267973.d.html</link>
+            <guid>3475997</guid>
+            <pubDate>Thu, 01 Feb 2024 00:30:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【联创电子：一季度公司高清广角镜头的需求逐步复苏】联创电子在路演活动中表示，随着消费电子产业的复苏，2024年一季度，公司高清广角镜头的需求也逐步复苏。另外，公司车载光学业务目前在手订单饱满，未来展望乐观。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwn6471912.d.html</link>
-            <guid>3474169</guid>
-            <pubDate>Wed, 31 Jan 2024 01:13:37 GMT</pubDate>
+            <title><![CDATA[越南1月标普全球越南制造业PMI 50.3，前值48.9。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnvcp5045135.d.html</link>
+            <guid>3475996</guid>
+            <pubDate>Thu, 01 Feb 2024 00:30:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【新纶新材：软包电池铝塑膜产品可用于半固态电池 已小批量供货】 新纶新材(002341)在互动平台表示，公司的软包电池铝塑膜产品可以运用于半固态电池，目前已有小批量供货。公司高度重视固态电池市场潜力，公司与该领域多家厂商保持良好合作关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwn6470438.d.html</link>
-            <guid>3474167</guid>
-            <pubDate>Wed, 31 Jan 2024 01:09:19 GMT</pubDate>
+            <title><![CDATA[韩国1月汇丰制造业PMI 51.2，前值49.9。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnvcp5045078.d.html</link>
+            <guid>3475995</guid>
+            <pubDate>Thu, 01 Feb 2024 00:30:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【原广东省卫生和计划生育委员会主任陈元胜被开除党籍】据广东省纪委监委消息： 日前，经广东省委批准，广东省纪委监委对原广东省卫生和计划生育委员会主任陈元胜严重违纪违法问题进行了立案审查调查。
-
-经查，陈元胜丧失理想信念，背弃初心使命，无视中央八项规定精神，违规收受礼金；违背组织原则，在组织函询时不如实说明问题，利用职权在干部选拔任用方面为他人谋取利益并收受财物；廉洁底线失守，默许亲属利用本人职务上的影响谋取私利，利用职权为亲属在企业经营方面谋取利益；公器私用，利用职务上的便利以及职权或者地位形成的便利条件，为他人在药品认证、审批许可、职务提拔等方面谋取利益，并非法收受巨额财物。
-
-陈元胜严重违反党的组织纪律和廉洁纪律，构成严重职务违法并涉嫌受贿犯罪，且在党的十八大后不收敛、不收手，性质严重，影响恶劣，应予严肃处理。依据《中国共产党纪律处分条例》《中华人民共和国监察法》《中华人民共和国公职人员政务处分法》等有关规定，经广东省纪委常委会会议研究并报广东省委批准，决定给予陈元胜开除党籍处分；按规定取消其相应的退休待遇；收缴其违纪违法所得；将其涉嫌犯罪问题移送检察机关依法审查起诉，所涉财物一并移送。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwp9382201.d.html</link>
-            <guid>3474164</guid>
-            <pubDate>Wed, 31 Jan 2024 01:06:32 GMT</pubDate>
+            <title><![CDATA[澳大利亚第四季度NAB季度商业景气指数 -6，前值-1。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnvck5353265.d.html</link>
+            <guid>3475994</guid>
+            <pubDate>Thu, 01 Feb 2024 00:30:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国民航局局长宋志勇会见新加坡交通部部长徐芳达：支持双方航空公司进一步增加航班】据中国民航局网站消息，1月30日，中国民用航空局局长宋志勇在京会见新加坡交通部部长徐芳达，双方就进一步增强两国航空联通性、深化民航多领域合作等议题交换意见。宋志勇表示，中新两国长期友好，多年来两国民航保持良好合作交流。两国近期已签署互免签证的协定，这将进一步促进双方人员经贸往来。中国民航局高度重视中新民航合作，愿继续与新方保持沟通、加强交流，落实好两国领导人重要共识，支持双方航空公司进一步增加航班，推动两国民航关系持续健康发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwn6468973.d.html</link>
-            <guid>3474162</guid>
-            <pubDate>Wed, 31 Jan 2024 01:04:02 GMT</pubDate>
+            <title><![CDATA[日本1月制造业PMI终值 48，前值48。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnvcp5044964.d.html</link>
+            <guid>3475993</guid>
+            <pubDate>Thu, 01 Feb 2024 00:30:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【维信诺：全球首发中尺寸20—640Hz+宽频LTPS技术】 据维信诺消息，1月31日，维信诺全球首发中尺寸宽频LTPS技术，该技术支持中尺寸AMOLED屏幕在20—640Hz+超大区间范围的宽频驱动，能带来可观的功耗收益。这是继维信诺率先推出适用于小尺寸的低频LTPS低功耗解决方案后，在技术和应用上实现双突破。]]></title>
-            <guid>3474161</guid>
-            <pubDate>Wed, 31 Jan 2024 01:03:42 GMT</pubDate>
+            <title><![CDATA[【多地房产项目白名单出炉  推动房企与金融机构精准对接】近日，备受市场关注的房地产项目“白名单”有新进展。截至1月31日，已有南宁、重庆、昆明等多地的房地产项目“白名单”落地。业内人士认为，随着更多房地产项目贷款支持落地，支持项目融资的政策效果将逐步显现，有助于改善房地产企业流动性，缓解房地产贷款的紧缩情况及扩大房地产投资，促进房地产与金融良性循环。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnvck5353044.d.html</link>
+            <guid>3475992</guid>
+            <pubDate>Thu, 01 Feb 2024 00:29:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国家邮政局与河北省政府签署战略合作协议】 1月30日上午，国家邮政局和河北省政府签署《加快推进河北邮政快递业高质量发展 助力全国现代商贸物流重要基地建设战略合作协议》。国家邮政局局长赵冲久表示，国家邮政局将以签署战略合作协议为新起点，积极支持雄安、廊坊、石家庄等城市布局建设国际邮政快递枢纽，推动行业积极服务河北建设全国现代商贸物流重要基地。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwk1910890.d.html</link>
-            <guid>3474160</guid>
-            <pubDate>Wed, 31 Jan 2024 01:01:41 GMT</pubDate>
+            <title><![CDATA[【视源股份：MAXHUB首款与微软合作的产品已量产出货】 视源股份1月31日在电话会议上表示，海外业务自2023年下半年情况明显好转，一方面因为海外品牌商累积库存的影响已消除，另一方面公司也在持续拓展海外客户，主要品牌商出货量不断提升，因此海外业务收入下半年实现大幅增长，预计2024年将延续良好的增长势头。此外，公司表示，目前，MAXHUB首款与微软合作的产品已量产出货。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnvcp5044649.d.html</link>
+            <guid>3475991</guid>
+            <pubDate>Thu, 01 Feb 2024 00:28:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【小鹏汽车：AI研发每年投入35亿元】 1月30日，小鹏汽车创始人、董事长何小鹏透露，小鹏汽车以自动驾驶为核心的AI研发数据运营团队超过3000人，每年研发投入35亿元。同时，小鹏汽车立下新目标，2024年内，XNGP全国主要城市路网全覆盖；2024年内面向全球开始研发高速NGP，2025年面向全球开始研发XNGP。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwr6157866.d.html</link>
-            <guid>3474159</guid>
-            <pubDate>Wed, 31 Jan 2024 01:01:33 GMT</pubDate>
+            <title><![CDATA[韩国1月芯片出口同比增长56.2%，为73个月来最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnvch0793906.d.html</link>
+            <guid>3475988</guid>
+            <pubDate>Thu, 01 Feb 2024 00:22:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【联合国安理会对加沙地带人道主义形势表达关切】 近日，联合国近东巴勒斯坦难民救济和工程处多名员工被指控参与去年10月哈马斯针对以色列的袭击，多个国家宣布暂停向近东救济工程处提供资金。当地时间30日，联合国安理会就巴以局势等问题举行闭门会议。会议结束后，安理会轮值主席国法国的代表在发布会上表示，安理会对加沙地带严峻的人道主义形势表达关切。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwn6467304.d.html</link>
-            <guid>3474155</guid>
-            <pubDate>Wed, 31 Jan 2024 00:58:13 GMT</pubDate>
+            <title><![CDATA[【波音预计737 MAX 7型飞机的关键设计修改将在9个月内完成】 波音公司首席执行官卡尔霍恩当地时间1月31日表示，该公司正抓紧完成其737 MAX 7型飞机所需认证的关键工程修改，MAX 7型飞机发动机进气口除冰功能的重新设计可能会在9个月内完成，波音将投入额外的工程师和资源以加快进度。]]></title>
+            <guid>3475984</guid>
+            <pubDate>Thu, 01 Feb 2024 00:14:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【维信诺：全球首发中尺寸20—640Hz+宽频LTPS技术】 维信诺消息，1月31日，维信诺全球首发中尺寸宽频LTPS技术，该技术支持中尺寸AMOLED屏幕在20Hz—640Hz+超大区间范围的宽频驱动，能带来可观的功耗收益。这是继维信诺率先推出适用于小尺寸的低频LTPS低功耗解决方案后，在技术和应用上实现双突破。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwn6464389.d.html</link>
-            <guid>3474149</guid>
-            <pubDate>Wed, 31 Jan 2024 00:48:10 GMT</pubDate>
+            <title><![CDATA[【萨尔瓦多沿太平洋海域发生4.6级地震】 根据欧洲-地中海地震中心报告，当地时间1月31日17时43分，萨尔瓦多沿太平洋海域发生4.6级地震，震源深度41.3公里。目前暂无海啸预警。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnvch0791145.d.html</link>
+            <guid>3475983</guid>
+            <pubDate>Thu, 01 Feb 2024 00:10:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【看图：苹果连跌5日 分析师预计今年iPhone出货量可能下降15%】苹果周二下跌近2%，连跌5个交易日。分析师郭明錤在报告中引述他最新的供应链调查指出，苹果已将上游关键半导体零部件的2024年iPhone出货预估下调至约2亿部，同比下降15%。2024年上半年和下半年iPhone 15系列和新iPhone 16系列的出货量分别与2023年上半年的iPhone 14系列和2023年下半年的iPhone 15系列相比，将同比下降10-15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwr6152145.d.html</link>
-            <guid>3474147</guid>
-            <pubDate>Wed, 31 Jan 2024 00:44:14 GMT</pubDate>
+            <title><![CDATA[穆迪可能将纽约社区银行评级降为垃圾级。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnvck5348404.d.html</link>
+            <guid>3475982</guid>
+            <pubDate>Thu, 01 Feb 2024 00:10:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[马斯克在社交媒体平台“X”上就特斯拉是否应该将其注册地更改为得克萨斯州发起投票。此前马斯克550亿美元薪酬计划遭特拉华州法官推翻。]]></title>
-            <guid>3474146</guid>
-            <pubDate>Wed, 31 Jan 2024 00:42:52 GMT</pubDate>
+            <title><![CDATA[【美国联邦贸易委员会：对亚马逊与iRobot放弃拟议交易感到“高兴”】 美国联邦贸易委员会（FTC）当地时间1月31日发布声明称，对亚马逊和iRobot放弃拟议交易感到“高兴”，并认为调查显示该交易存在潜在竞争影响的重大担忧。1月29日，亚马逊宣布终止14亿美元收购扫地机器人制造商iRobot的计划，称该收购计划没有获得欧盟监管机构批准。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnvch0790216.d.html</link>
+            <guid>3475978</guid>
+            <pubDate>Thu, 01 Feb 2024 00:07:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【外媒：拜登称已决定如何回应约旦美军基地遇袭，同时称不希望发生“更广泛冲突”】据美国有线电视新闻网（CNN）、英国《卫报》等媒体报道，美国总统拜登当地时间周二（30日）表示，他已对如何回应此前约旦美军基地遇袭一事作出决定，同时表示不希望该地区发生“更广泛冲突”。  （环球网）]]></title>
-            <guid>3474143</guid>
-            <pubDate>Wed, 31 Jan 2024 00:37:09 GMT</pubDate>
+            <title><![CDATA[  据猫眼专业版数据，电影《热辣滚烫》映前9天 ，预售总票房破2000万。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvk0919882.d.html</link>
+            <guid>3475976</guid>
+            <pubDate>Thu, 01 Feb 2024 00:02:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【看图：UPS收盘大跌逾8% 公司将裁员12000人】UPS周二收盘大跌逾8%，为标普指数中表现最差的股票之一，公司预计2024年销售将仅微弱增加1.1%。欧洲和美国的需求疲软导致该公司第四季度交付量整体下降7.5%。UPS计划裁减12000个管理职位，并考虑出售Coyote卡车经纪业务。首席执行官Carol Tomé希望以此抵消需求疲软和工会劳动力成本上升的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwk1904214.d.html</link>
-            <guid>3474142</guid>
-            <pubDate>Wed, 31 Jan 2024 00:36:51 GMT</pubDate>
+            <title><![CDATA[【法媒揭知名“天然矿泉水”欺诈：30%在法销售瓶装水由污染水“制造”】据法兰西电台1月31日报道，媒体最新调查发现，包括雀巢在内的多家瓶装水品牌存在欺诈行为，所谓“天然矿泉水”其实是用“污染水”按照自来水工艺“制造”出来的。按规定，“天然矿泉水”指的是天然纯净的水，可直接饮用，矿泉水厂家们也长期如此自我标榜。但调查记者玛丽·杜平透露，实际上在法销售的多家“天然矿泉水”采用自来水工艺，通过活性炭和紫外线处理掩盖水源被污染的事实。“消费者花更多的钱，买到的却并非真正的纯净水。人们都被骗了”。（环球时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvn5477072.d.html</link>
+            <guid>3475975</guid>
+            <pubDate>Thu, 01 Feb 2024 00:01:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【今天全国铁路预计发送旅客1140万人次】 从国铁集团获悉：1月30日，全国铁路发送旅客1098.7万人次；1月31日全国铁路客流保持高位运行，预计发送旅客1140万人次。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwp9372143.d.html</link>
-            <guid>3474141</guid>
-            <pubDate>Wed, 31 Jan 2024 00:34:03 GMT</pubDate>
+            <title><![CDATA[韩国1月出口年率 18%，预期17.8%，前值5%。韩国1月进口年率 -7.8%，预期-7.6%，前值-10.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvk0919094.d.html</link>
+            <guid>3475972</guid>
+            <pubDate>Thu, 01 Feb 2024 00:00:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国中央司令部称也门胡塞武装向红海发射导弹】 也门时间1月31日，美国中央司令部发表声明称，30日23时30分左右，也门胡塞武装向红海发射了一枚反舰巡航导弹，导弹被美军“格雷夫利”号驱逐舰击落，没有造成人员伤亡或财物损失。胡塞武装目前暂无回应。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwn6459140.d.html</link>
-            <guid>3474137</guid>
-            <pubDate>Wed, 31 Jan 2024 00:27:55 GMT</pubDate>
+            <title><![CDATA[【古巴暂缓上调燃油价格】古巴经济计划部副部长米尔德里·格拉纳迪洛（MildreyGranadillo）1月31日公开表示，由于受到网络安全问题的影响，原定于2月1日开始执行的燃油价格调整和在指定服务网点使用外币结算的计划被推迟。格拉纳迪洛说，网络安全事件是由国外的计算机病毒引起的，相关调查目前仍在继续，但燃油价格调整计划不会停止。2023年12月，古巴提出“宏观经济稳定计划”，其中包括大幅上调古巴燃油价格，以此来抑制民众需求、鼓励储蓄、将资源进行更有效分配。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvk0918767.d.html</link>
+            <guid>3475971</guid>
+            <pubDate>Wed, 31 Jan 2024 23:58:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【Jack Dorsey旗下Block据悉将裁员1000人】Block据悉将裁员1000人。该公司首席执行官Jack Dorsey已在周二表示将解雇“一大批”员工。去年12月，该公司从Tidal团队中裁掉了大约40人。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwk1900904.d.html</link>
-            <guid>3474135</guid>
-            <pubDate>Wed, 31 Jan 2024 00:24:44 GMT</pubDate>
+            <title><![CDATA[【波音CEO称门塞问题“已完全得到控制”】 波音CEO卡尔霍恩（Dave Calhoun）当地时间1月31日在接受媒体采访时表示，他确信引发波音质量危机的“门塞”问题“已完全得到控制”。此外，在采访中卡尔霍恩还向美联航CEO斯科特·柯比（Scott Kirby）表达了歉意，此前柯比曾表示，对波音的制造问题感到失望，并称MAX 9的停飞是“压垮骆驼的最后一根稻草”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvk0918420.d.html</link>
+            <guid>3475968</guid>
+            <pubDate>Wed, 31 Jan 2024 23:56:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【女作家谈特朗普需支付8300万美元赔偿金：要把钱花在让他痛苦的事情上】美国一个联邦陪审团日前裁决，因诽谤女作家琼·卡罗尔，美国前总统特朗普需向其支付8300多万美元的赔偿金。美国商业内幕网站30日报道称，卡罗尔事后接受媒体采访时表示，将会把一部分赔偿金用在“特朗普讨厌的事情上”。卡罗尔称：“我的想法就是，要把钱花在让他感到痛苦的事情上。”（环球时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwn6457895.d.html</link>
-            <guid>3474134</guid>
-            <pubDate>Wed, 31 Jan 2024 00:22:59 GMT</pubDate>
+            <title><![CDATA[【亚玛芬体育通过美国IPO融资13亿美元，创9月以来最大规模IPO】 安踏旗下亚玛芬体育通过美国IPO募资13亿美元，创2023年9月份德国制鞋公司Birkenstock Holdings Plc.美国IPO以来最大规模的IPO——当时募资14.8亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvp8389535.d.html</link>
+            <guid>3475966</guid>
+            <pubDate>Wed, 31 Jan 2024 23:54:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【马斯克继续回应550亿美元薪酬方案被推翻】马斯克刚刚发帖称：“如果你想让股东来决定事情，我建议你在内华达州或德克萨斯州注册公司。”此前在特拉华州一位法官推翻特斯拉2018年为马斯克制定的550亿美元薪酬方案后，马斯克发帖称：“永远不要在特拉华州注册你的公司。”]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwk1900335.d.html</link>
-            <guid>3474133</guid>
-            <pubDate>Wed, 31 Jan 2024 00:22:18 GMT</pubDate>
+            <title><![CDATA[【迄今最高能效量子点太阳能电池面世】韩国蔚山科学技术院科学家借助新配体交换技术，合成出基于有机阳离子的钙钛矿量子点（PQD），开发出迄今能效最高的量子点太阳能电池。这种新型太阳能电池即使储能两年多，效率仍不变，表现出非凡的稳定性。相关论文发表于最新一期《自然·能源》杂志。]]></title>
+            <guid>3475958</guid>
+            <pubDate>Wed, 31 Jan 2024 23:40:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【浙江出台《关于防范遏制矿山领域重特大生产安全事故硬措施的实施意见》】浙江省安全生产委员会办公室日前印发《实施意见》，要求矿山企业主要负责人每月组织开展隐患排查治理，形成以重大事故隐患排查治理为重点的报告，报属地县级矿山安全监管部门。对企业安全管理责任不落实、安全生产投入不足、冒险组织作业等造成事故或者瞒报谎报事故的，依法从严从重处理处罚；要按照“谁投资、谁受益、谁负责”的原则严肃追究主要负责人法律责任。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwn6457272.d.html</link>
-            <guid>3474132</guid>
-            <pubDate>Wed, 31 Jan 2024 00:20:30 GMT</pubDate>
+            <title><![CDATA[国际货币基金组织：阿根廷总贷款金额达到约406亿美元。董事会批准将贷款协议延长至2024年12月31日。]]></title>
+            <guid>3475953</guid>
+            <pubDate>Wed, 31 Jan 2024 23:34:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【朝鲜战略巡航导弹发射训练】据朝中社31日报道，朝鲜30日进行了“箭矢-2”型战略巡航导弹发射训练。报道称，本次发射由朝鲜人民军总参谋部指挥，朝鲜人民军在朝鲜西部海域进行了“箭矢-2”型战略巡航导弹发射训练。相关训练未对周边国家安全造成负面影响。（央视军事）]]></title>
-            <guid>3474130</guid>
-            <pubDate>Wed, 31 Jan 2024 00:19:45 GMT</pubDate>
+            <title><![CDATA[【“深海一号”二期工程综合处理平台陆地建造完工】中国海油今天（2月1日）发布消息，“深海一号”二期工程综合处理平台陆地建造全部完工。这标志着项目建设取得关键进展。]]></title>
+            <guid>3475951</guid>
+            <pubDate>Wed, 31 Jan 2024 23:32:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【法媒：在红海被胡塞武装扣留的货轮，如今成“1美元打卡点”】被扣货轮不但变成观光景点，还成了热门打卡点。据法国国际广播电台29日报道，也门胡塞武装去年11月在红海扣留了一艘名为“银河领袖”号的货轮后，开辟了收费观光业务。该组织宣称这是为了“团结在加沙地带受困的巴勒斯坦人”。 报道称，“银河领袖”号货轮目前每周开放5次，仅限男性观光团乘木舟登船，每人每次收费约1美元。  （环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwk1899284.d.html</link>
-            <guid>3474128</guid>
-            <pubDate>Wed, 31 Jan 2024 00:17:55 GMT</pubDate>
+            <title><![CDATA[【美国联邦航空管理局称将审查Spirit AeroSystem机身生产情况】美国联邦航空管理局（FAA）当地时间1月31日表示，其之前宣布的对波音公司737 MAX制造的审计将涵盖对波音公司所有生产要素和对Spirit AeroSystems机身生产的审查。美国联邦航空管理局称，一个由二十多名航空安全检查员组成的小组将在波音737工厂和Spirit AeroSystems进行审核。审计还将检查波音公司如何将未完成的工作从供应商转移到生产线上。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvp8384810.d.html</link>
+            <guid>3475950</guid>
+            <pubDate>Wed, 31 Jan 2024 23:31:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本政府：由于部分汽车工厂暂停生产，预计一月份的产量指引将会下降。需要关注部分汽车工厂停产对生产情绪的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwn6456294.d.html</link>
-            <guid>3474127</guid>
-            <pubDate>Wed, 31 Jan 2024 00:16:14 GMT</pubDate>
+            <title><![CDATA[【俄罗斯2023年12月工业产出同比增长2.7%】俄罗斯联邦统计局1月31日发布数据，俄罗斯2023年12月工业产出同比增长2.7%，低于市场预期的5.1%，此前一月工业产出同比增长4.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvp8384743.d.html</link>
+            <guid>3475949</guid>
+            <pubDate>Wed, 31 Jan 2024 23:31:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【野村控股将裁员约60人】 野村控股将裁员约60人。据悉，此次裁员包括约30名美国员工。受影响的大多数员工都在投资银行工作。本次裁员不针对某个特定团队或是员工级别。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwk1898495.d.html</link>
-            <guid>3474126</guid>
-            <pubDate>Wed, 31 Jan 2024 00:14:40 GMT</pubDate>
+            <title><![CDATA[国际货币基金组织确认已完成对阿根廷协议的审查，批准向阿根廷贷款47亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvn5470577.d.html</link>
+            <guid>3475948</guid>
+            <pubDate>Wed, 31 Jan 2024 23:30:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国中央司令部：胡塞武装向红海发射反舰巡航导弹，“格雷夫利”号导弹驱逐舰成功击落导弹，没有人员伤亡或财产损失的报告。]]></title>
-            <guid>3474124</guid>
-            <pubDate>Wed, 31 Jan 2024 00:12:51 GMT</pubDate>
+            <title><![CDATA[【英媒：美国AI相关企业总市值一天蒸发1.3万亿元】据英国路透社1月31日报道，美国微软公司、谷歌母公司Alphabet和超威半导体公司（AMD）发布的财报未能“惊艳”投资者，人工智能（AI）相关企业30日收盘总市值蒸发了1900亿美元（约合1.3万亿元人民币）。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvn5469873.d.html</link>
+            <guid>3475947</guid>
+            <pubDate>Wed, 31 Jan 2024 23:26:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【法媒：调查发现，1/5法国中小企业主月收入低于最低工资线】法国《十字架报》28日报道称，一份来自法国中小企业联合会的调查发现，由于商业项目减少、成本飙升和竞争加剧，法国中小企业主的收入总体不乐观，其中1/5的中小企业主月收入低于法国最低工资标准（1400欧元），1/3的中小企业主月收入低于2600欧元。（环球时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwk1897770.d.html</link>
-            <guid>3474123</guid>
-            <pubDate>Wed, 31 Jan 2024 00:11:36 GMT</pubDate>
+            <title><![CDATA[【英媒：美欧未能就关键电池矿物达成贸易协议】欧盟未能与美国就关键电池矿物达成贸易协议。英国路透社1月31日报道称，欧盟最高贸易官员表示，由于欧盟认为美国的《通胀削减法》对外国供应商存在不公平歧视，双方没能在1月30日于美国华盛顿举行的美国—欧盟贸易和技术委员会第五次部长级会议上达成一致。(环球网)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvn5469688.d.html</link>
+            <guid>3475946</guid>
+            <pubDate>Wed, 31 Jan 2024 23:25:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国商飞董事长贺东风赴新疆调研ARJ21飞机运营及保障情况】 据中国商飞官微，1月22至27日，中国商飞公司党委书记、董事长贺东风一行搭乘成都航空5个商业航班和商飞快线5个航线训练航班，飞抵疆内9个机场，实地了解ARJ21飞机在疆运营和保障情况。贺东风强调，中国商飞高度重视与新疆的战略合作，并将其作为推动大飞机规模化发展的重大战略举措。中国商飞公司要以“根据地”思维推进在疆长远布局，以发展的眼光提前谋划能力建设和网络布局。抓住新疆“一带一路”核心区建设、打造我国向西开放的桥头堡和亚欧黄金通道的机遇，用国产飞机进一步织密疆内航线网络，提升新疆各地区间的通达性，服务新疆重大项目的覆盖率，助力新疆高质量发展。要让国产飞机不仅在新疆飞出示范、飞出标杆，飞出志气，更要成为新疆经济社会发展的推进器和加速器。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwk1897732.d.html</link>
-            <guid>3474122</guid>
-            <pubDate>Wed, 31 Jan 2024 00:11:28 GMT</pubDate>
+            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
+1、必须坚持高质量发展和高水平安全良性互动；
+2、“全面推进中国式现代化建设”经济形势系列报告会第五场报告会在京举行；
+3、如何加力提效用好1万亿元国债（政策问答·2024年中国经济这么干）；
+4、今年全力推进中小金融机构改革化险 积极稳妥防控重点领域风险；
+5、“共建‘一带一路’助力我们实现工业现代化”（共创繁荣发展新时代）；
+6、激发经营主体活力 助力经济高质量发展（权威发布）；
+7、首个养老服务人才队伍建设综合性政策文件出台 我国将建立养老护理员“八级工”序列；
+8、2023年我国物流市场实现恢复增长；
+9、2023年全国消协组织 为消费者挽回经济损失13.7亿元；
+10、融入国风元素 线上线下联动 国货潮牌成为消费热点（经济聚焦·培育新的消费增长点）；
+11、中国贸促会发布报告显示 企业对中国营商环境评价总体呈上升趋势；
+12、全国39个铁路物流中心全部挂牌成立 铁路现代物流体系建设获重要进展；
+13、2018年以来 长三角区域协同创新指数年均增幅超11%；
+14、大湾区“跨境理财通”业务试点实施细则修订发布；
+15、强制关注公众号、被迫授权个人信息、日常频繁推送广告，消费者认为——扫码消费不应成为“单选题”（法治聚焦）；
+16、苏州加强产业集群党组织建设；
+17、五部门发布规划 到2030年全面建成国家南繁硅谷；
+18、“马中两国将在更多领域迎来高质量发展”；
+19、中国电动汽车企业扩大在印尼投资；
+20、英国公共投资“赤字”引发关注；
+21、IMF上调今年全球经济增长预期；
+22、直播间里普法忙。]]></title>
+            <guid>3475945</guid>
+            <pubDate>Wed, 31 Jan 2024 23:25:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【刘媛当选廊坊市市长】在1月30日上午闭幕的廊坊市第八届人民代表大会第六次会议上，刘媛当选廊坊市人民政府市长。 刘媛，女，汉族，1969年5月生，在职研究生学历，工商管理硕士学位，中共党员，现任廊坊市委副书记，市政府市长、党组书记。（河北日报）]]></title>
-            <guid>3474121</guid>
-            <pubDate>Wed, 31 Jan 2024 00:11:10 GMT</pubDate>
+            <title><![CDATA[【澳门海关优化车辆边境通行证申办服务】据澳门特区政府消息，为配合第2/2024号法律《汽车登记制度》的实施，澳门海关优化车辆边境通行证申办服务。自2月1日起，以网上方式申请车辆边境通行证时，申请人可授权海关向相关权限部门取得其机动车辆的“汽车所有权登记凭证”资料，无须自行上载；而亲临办理时，申请人可授权海关取得其机动车辆的“汽车所有权登记凭证”资料，免除提交相关纸质文件。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvn5468829.d.html</link>
+            <guid>3475943</guid>
+            <pubDate>Wed, 31 Jan 2024 23:22:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【UPS宣布裁员1.2万人，马斯克锐评：提高生产率才能繁荣】当地时间周二，美国UPS公司宣布将裁员1.2万人，以节省约10亿美元成本。值得注意的是，这家快递巨头去年8月刚刚与其工会员工达成新的劳资协议，其货车司机的平均薪酬（工资加福利）将达到每年约17万美元。这一消息当时引发轰动，很多人对UPS普通司机能享受如此高的薪酬表示羡慕嫉妒恨。一位X用户周二发帖，将这两条消息进行了对比，马斯克评论称：“更高的生产率带来更大的繁荣。别无他途。”（环球市场播报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwk1896303.d.html</link>
-            <guid>3474119</guid>
-            <pubDate>Wed, 31 Jan 2024 00:07:49 GMT</pubDate>
+            <title><![CDATA[周四（2月1日）亚太盘初，纳指期货涨约0.3%，标普股指期货和道指期货涨约0.1%。]]></title>
+            <guid>3475942</guid>
+            <pubDate>Wed, 31 Jan 2024 23:21:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【华勤技术：实际控制人、董事长兼总经理提议以3亿元-4亿元回购公司股份】 华勤技术公告，实际控制人、董事长兼总经理提议以3亿元-4亿元回购公司股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwn6452622.d.html</link>
-            <guid>3474117</guid>
-            <pubDate>Wed, 31 Jan 2024 00:03:34 GMT</pubDate>
+            <title><![CDATA[【夏威夷航空开始安装星链系统，马斯克：乘客将获得惊人的上网体验】在获得美国联邦航空管理局（FAA）批准后，夏威夷航空公司已开始在其空客A321neo机队上安装SpaceX的星链航空机上连接系统。电动汽车分析师索耶·梅里特在X平台上分享了这一消息，马斯克回应称：“星链团队正在努力工作，以确保夏威夷航空的乘客获得惊人的互联网连接体验。（体验）应该是深刻的，感觉你是在地面上，而不是在飞机上。”（环球市场播报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvk0909989.d.html</link>
+            <guid>3475939</guid>
+            <pubDate>Wed, 31 Jan 2024 23:17:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【牛奶涨价引发替代需求，中国豆浆机在韩国销量激增千余倍】目前，中国电商企业在韩国市场的影响力持续扩大，从二十岁左右的手机“拇指族”到四五十岁的中年精英，越来越多的人成为中国跨境电商的长期用户。由于韩国牛奶涨价，人们对植物蛋白饮料的需求增长，中国制造的豆浆机最近在韩国走红。本月1日至25日，韩国某大型购物网站上中国豆浆机的海淘交易额较去年同期激增了一千多倍。预计在韩国零售市场上，今年电子商务的渗透率将增至46.3%。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwr6140597.d.html</link>
-            <guid>3474116</guid>
-            <pubDate>Wed, 31 Jan 2024 00:03:25 GMT</pubDate>
+            <title><![CDATA[【万科A：养猪业务目前无论是资产、收入或利润规模对公司影响都较小】万科A1月31日在互动平台表示，养猪业务作为围绕客户服务开展的一个尝试，目前无论是资产、收入或利润规模对公司影响都较小。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvk0909795.d.html</link>
+            <guid>3475938</guid>
+            <pubDate>Wed, 31 Jan 2024 23:17:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【2380亿美元！美对外军售创纪录，专家：通过“军火外交”大发战争财】美国国务院29日表示，2023财年美国对外出售的军事装备上升到创纪录的2380亿美元。美国国务院在声明中说，“武器销售和转让被视为重要的美国外交政策工具，对地区和全球安全有着潜在的长期影响。” 据美媒报道，外方购买美国军火通常有两种方式：第一，与洛克希德·马丁、雷神等美国军工企业直接谈判商业销售；第二，联络美国驻当地机构的军方官员商谈军购事宜。这两种方式都需要得到美国政府的批准。  （环球时报）]]></title>
-            <guid>3474115</guid>
-            <pubDate>Wed, 31 Jan 2024 00:03:01 GMT</pubDate>
+            <title><![CDATA[【茅台集团丁雄军：全力推动“三创三转变”】茅台集团第七届第二次职工代表大会于1月31日闭幕，茅台集团党委书记、董事长丁雄军指出，2024年是实现“十四五”规划目标任务的关键一年，要全力推动“三创三转变”。一是创业，推动从“卖酒”到“卖生活”转变；二是创新，推动“传统生产力”向“新质生产力”转变；三是创美，推动从“局部业态”到“系统生态”转变。（酒业内参）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvk0909336.d.html</link>
+            <guid>3475937</guid>
+            <pubDate>Wed, 31 Jan 2024 23:16:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【天佑德酒：2023年净利润约8500万元 同比增长约12.93%】 天佑德酒公告，2023年度，公司市场秩序、营销管控持续向好，核心市场销售增长，公司产品结构升级有效推进；加之，团购、宴席、旅游场景促进，公司产品全线复苏。2023年度，公司实现营业总收入约12亿元，同比增长约22.46%；实现归属于上市公司股东的净利润约8500万元，同比增长约12.93%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwk1894987.d.html</link>
-            <guid>3474114</guid>
-            <pubDate>Wed, 31 Jan 2024 00:02:24 GMT</pubDate>
+            <title><![CDATA[【药明合联：预期2023年销售收入同比增长超过100%，净利润增长超过80%】药明合联2月1日在港交所公告，预期截至2023年12月31日止年度销售收入同比增长超过100%，净利润增长超过80%，经调整净利润增长超过100%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvn5465956.d.html</link>
+            <guid>3475936</guid>
+            <pubDate>Wed, 31 Jan 2024 23:13:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[斯伦贝谢(SLB.N)：继续与沙特阿美密切合作，正在进行的石油和天然气项目不受影响。]]></title>
-            <guid>3474112</guid>
-            <pubDate>Wed, 31 Jan 2024 00:02:06 GMT</pubDate>
+            <title><![CDATA[日本经济团体联合会会长：工资上涨超过物价上涨的责任应由企业承担。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvn5464384.d.html</link>
+            <guid>3475933</guid>
+            <pubDate>Wed, 31 Jan 2024 23:08:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【英国媒体集团Sky据悉将在英国裁员约1000人】 1月31日消息，英国媒体集团Sky据悉将在英国裁员约1000人，未来几周将与可能受到裁员影响的团队的员工进行谈判。Sky在英国拥有约2.7万名员工，这意味着裁员预计将影响到约4%的员工。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwp9362658.d.html</link>
-            <guid>3474110</guid>
-            <pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[花样年控股港交所公告，重组支持协议的最后截止日期进一步延长至2月29日，将继续与各利益相关方进行讨论。]]></title>
+            <guid>3475932</guid>
+            <pubDate>Wed, 31 Jan 2024 23:06:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【谷歌高管回应销售业务调整：并非AI要取代相关工作】在今日谷歌业绩会上，谷歌首席商务官Philipp Schindler回应了销售团队重组的问题。Schindler表示，因为该公司全球客户解决方案部业务增长迅猛，所以更多资源将向该团队倾斜。Schindler强调，业务重组的主要原因在于为用户提供更高效、智能的服务，并非因为人工智能正在取代相关工作。（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-31/detail-inafkmwn6451576.d.html</link>
-            <guid>3474109</guid>
-            <pubDate>Tue, 30 Jan 2024 23:58:24 GMT</pubDate>
+            <title><![CDATA[美国货币监理署：对加拿大皇家银行城市国民银行处以6500万美元罚款，原因是未能建立有效的内部控制。]]></title>
+            <guid>3475930</guid>
+            <pubDate>Wed, 31 Jan 2024 23:02:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“深海一号”二期工程综合处理平台陆地建造完工】中国海油今天（2月1日）发布消息，“深海一号”二期工程综合处理平台陆地建造全部完工。这标志着项目建设取得关键进展，为工程按期投产打下了坚实基础。“深海一号”二期工程综合处理平台由水下导管架和水上生产组块组成，总高约136米，相当于约49层居民楼高度，总重量达12215吨，相当于8100余辆小汽车的重量。其中，导管架为8腿12裙桩导管架，于今年1月中旬在深圳建造完工；水上生产组块由东、西两部分组成，其甲板片平面长57.5米，宽36米，投影面积相当于5个标准篮球场大小。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvr5151248.d.html</link>
+            <guid>3475927</guid>
+            <pubDate>Wed, 31 Jan 2024 22:56:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【人民日报：必须坚持高质量发展和高水平安全良性互动】人民日报2月1日刊发《必须坚持高质量发展和高水平安全良性互动》文章。文章指出，发展和安全是关系国家兴衰的两件大事。中央经济工作会议强调，“必须坚持高质量发展和高水平安全良性互动”。这既是对新时代做好经济工作规律性认识的深化，也对当前和今后一个时期更好统筹发展和安全具有重要指导意义。在新时代全面建设社会主义现代化国家的伟大征程上，发展和安全必须并重，下好高质量发展的先手棋，打好高水平安全的主动仗，实现高质量发展和高水平安全良性互动，为推进强国建设、民族复兴伟业提供坚强有力支撑。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvn5460662.d.html</link>
+            <guid>3475925</guid>
+            <pubDate>Wed, 31 Jan 2024 22:54:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军与哈马斯在汗尤尼斯等地冲突持续】以色列军方当地时间1月31日宣布，以军继续在加沙地带多地展开军事行动。巴勒斯坦伊斯兰抵抗运动（哈马斯）同一天表示，在与以军的战斗中摧毁数辆以军战车。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvn5459734.d.html</link>
+            <guid>3475923</guid>
+            <pubDate>Wed, 31 Jan 2024 22:48:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：淡马锡持股的南加州数字科技公司UST考虑美国IPO，寻求通过首次公开上市融资至少5亿美元、从而获得高达100亿美元估值。可能最快将于2024年下半年美国IPO，为此遴选高盛和摩根大通为簿记行。]]></title>
+            <guid>3475922</guid>
+            <pubDate>Wed, 31 Jan 2024 22:48:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【陆道培医疗集团三度向港交所提交IPO上市申请】陆道培医疗集团1月31日向港交所递表申请主板IPO。中信证券、招银国际、麦格理为其联席保荐人。该公司此前曾于2023年1月3日、7月5日两次递表。陆道培医疗集团是血液病医疗服务提供商。此前，其收入从2020年的人民币1,161.6百万元增加至2022年的人民币1,677.3百万元，复合年增长率为20.2%，由截至2022年9月30日止九个月的人民币1,241.0百万元增长14.5%至2023年同期的人民币1,421.0百万元。于2020年、2021年、2022年以及截至2022年及2023年9月30日止九个月，其净亏损分别为人民币121.7百万元、人民币408.3百万元、人民币547.3百万元、人民币511.7百万元及人民币88.0百万元，主要是由于向投资者发行金融工具的账面值变动影响所致。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvk0902190.d.html</link>
+            <guid>3475920</guid>
+            <pubDate>Wed, 31 Jan 2024 22:47:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纽约社区银行股价大跌 去年四季度亏损2.52亿美元】纽约社区银行周三收盘时下跌超37%。由于接盘去年暴雷的“签名银行”，公司的资产水平迈过千亿美元关口，因此需要预留更多资本金和损失拨备。公司报告上一季度的贷款损失拨备高达5.52亿美元，比事前分析师预期高出10倍。受此影响，去年四季度亏损2.52亿美元，分析师的预期则为盈利2.06亿美元。财报同时显示，在去年最后3个月里，银行逾期30-89天的贷款余额猛增接近50%。公司也将分红从每股17美分砍至5美分。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvk0901683.d.html</link>
+            <guid>3475918</guid>
+            <pubDate>Wed, 31 Jan 2024 22:41:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【房地产融资协调机制按下“快进键” 多地向银行推送首批项目“白名单”】城市房地产融资协调机制正在快速运转。截至记者发稿时，南宁、重庆等地第一批房地产项目“白名单”已落地。业内专业人士表示，后续其他城市房地产项目“白名单”将持续落地，支持项目融资的政策效果将逐步显现，有助于改善房地产企业流动性，缓解房地产贷款的紧缩情况及扩大房地产投资，促进房地产与金融良性循环。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvn5457417.d.html</link>
+            <guid>3475916</guid>
+            <pubDate>Wed, 31 Jan 2024 22:27:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国航空管理局（FAA）称，将审查波音公司位于华盛顿Renton的737 MAX生产设施；将审查波音供应大户Spirit AeroSystems位于Wichita的生产设施；将评估波音公司此前所采取的纠正措施。]]></title>
+            <guid>3475915</guid>
+            <pubDate>Wed, 31 Jan 2024 22:23:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【红利基金热度不减，机构青睐“哑铃”策略】A股市场主要指数中，上证红利指数1月表现抢眼。以高股息为代表的红利资产成为震荡市场背景下的“香饽饽”，受到投资者的热捧。据了解，红利资产已成为当前不少公私募机构的重要配置方向。华南多位基金经理表示，当前配置思路还是延续“哑铃”策略，一头是高成长，一头是高股息。”红利资产所具有的防御属性能够一定程度上平缓市场冲击带来的净值调整。鹏华基金认为，当前高股息品种备受关注，或成为市场“避风港”。易方达基金表示，看好港股市场中的高股息资产，在海外市场利率逐步见顶下，此类资产性价比尤为突出。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvn5456888.d.html</link>
+            <guid>3475913</guid>
+            <pubDate>Wed, 31 Jan 2024 22:22:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济日报：切实兜牢基层“三保”底线】经济日报头版文章指出，当前，财政运行特别是基层财政收支总体上呈现紧平衡状态，一些地方“三保”压力较大，必须引起高度重视，在谋划新一年改革发展时，要将其放在重要位置。兜牢基层“三保”底线，要加大财力保障。政府履职、民生保障和改善，都需要一定的财力支撑。我国“三保”财力保障实行分级负责制，由各级政府共同努力完成。兜牢基层“三保”底线，要建设长效机制。缓解财政运行紧平衡状态是一个比较长期的过程，这意味着兜牢基层“三保”底线也是一项长期重要任务。兜牢基层“三保”底线，除了开源，还要节流。中央经济工作会议强调，要严控一般性支出，党政机关要习惯过紧日子。过紧日子不是权宜之计，而是必须长期坚持的方针。基层强则国家强，基层安则天下安。提升基层“三保”能力，基层运行和治理将更加平稳高效，民生福祉也将越来越厚实。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvk0898647.d.html</link>
+            <guid>3475909</guid>
+            <pubDate>Wed, 31 Jan 2024 22:13:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【药明合联：预计净利润同比增长超过80%】药明合联港交所公告，预期本集团将录得较上年同期︰(i)销售收入增长超过100%；(ii)净利润增长超过80%；及(iii)经调整净利润1增长超过100%。本公司认为，有关预期增长主要得益于抗体药物偶联物（「ADC」）行业的持续活跃发展以及本集团在赢得项目方面的独特竞争优势。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvp8368103.d.html</link>
+            <guid>3475908</guid>
+            <pubDate>Wed, 31 Jan 2024 22:11:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“三大工程”渐次落地 金融驰援城中村改造】保障性住房建设、“平急两用”公共基础设施建设、城中村改造等“三大工程”相继落地。近日，长沙、石家庄、济南、成都、广州等地已有一批城中村改造项目获得资金支持。据国家开发银行1月31日消息，该行已向首批近百个城中村改造项目发放专项借款。农业发展银行近日发放首批城中村改造专项借款，积极推动“三大工程”进入实质性落地阶段。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafnqvn5455967.d.html</link>
+            <guid>3475907</guid>
+            <pubDate>Wed, 31 Jan 2024 22:11:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
