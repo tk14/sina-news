@@ -4,11 +4,296 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 29 Mar 2024 00:54:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 01:43:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中国石油成立两家地热开发子公司】 企查查APP显示，近日，大港油田大厂回族自治县地热开发有限公司、大港油田香河地热开发有限公司成立，法定代表人同为高立奎，注册资本均300万元，经营范围均包含：供暖服务；非煤矿山矿产资源开采；矿产资源勘查等。企查查股权穿透显示，二者皆由中国石油全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqy4845460.d.html</link>
+            <guid>3552749</guid>
+            <pubDate>Fri, 29 Mar 2024 01:42:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【氢能板块早盘走强 康普顿涨停】氢能板块早盘走强，康普顿涨停，云内动力冲击涨停，昇辉科技、雄韬股份、致远新能、亿华通等涨幅靠前。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqw2721268.d.html</link>
+            <guid>3552748</guid>
+            <pubDate>Fri, 29 Mar 2024 01:41:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 卫星导航概念股盘初走高，灿勤科技、恒宇信通涨超10%，华体科技、高斯贝尔、华测导航等上扬。]]></title>
+            <guid>3552745</guid>
+            <pubDate>Fri, 29 Mar 2024 01:40:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[油气开采及服务板块走高，潜能恒信涨5%，贝肯能源涨超4%，通源石油、首华燃气、中曼石油、石化油服跟涨。]]></title>
+            <guid>3552744</guid>
+            <pubDate>Fri, 29 Mar 2024 01:40:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中方指出制裁施压和军事对抗无助于解决朝鲜半岛问题】联合国安理会28日表决朝鲜制裁委员会专家小组授权延期决议草案，俄罗斯投了否决票。中国常驻联合国副代表耿爽在表决后作解释性发言，指出制裁施压和军事对抗无助于解决朝鲜半岛问题。耿爽说，他说，当前半岛局势持续紧张，对立对抗日益加剧，这不符合任何一方利益，也不是中方愿意看到的。半岛问题的解决离不开政治互信和良好氛围，一味加大制裁、一味强调施压，无助于问题的解决，只会适得其反。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3723440.d.html</link>
+            <guid>3552743</guid>
+            <pubDate>Fri, 29 Mar 2024 01:39:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新型城镇化板块继续走强，低空基建方向领涨，蕾奥规划大涨18%，新城市、苏交科、山水比德、深圳瑞捷、测绘股份等跟涨。]]></title>
+            <guid>3552742</guid>
+            <pubDate>Fri, 29 Mar 2024 01:39:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【委内瑞拉中部发生5.2级地震】 据哥伦比亚地质局报道，当地时间3月28日18时23分，委内瑞拉中部发生5.2级地震。哥伦比亚与委内瑞拉接壤的库库塔市以及布卡拉曼加市震感明显。 （央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqw2720331.d.html</link>
+            <guid>3552741</guid>
+            <pubDate>Fri, 29 Mar 2024 01:39:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本财务大臣铃木俊一：在利率差异收窄的背景下，日元疲软可能是投机性行为的结果。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqw2720160.d.html</link>
+            <guid>3552740</guid>
+            <pubDate>Fri, 29 Mar 2024 01:39:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黄金股盘初走强 中润资源涨超6%】 黄金股盘初走强，中润资源涨超6%，山东黄金、赤峰黄金、四川黄金、湖南黄金等涨幅居前。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3722969.d.html</link>
+            <guid>3552739</guid>
+            <pubDate>Fri, 29 Mar 2024 01:38:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【AI应用概念股盘初下挫，读客文化跌超6%】 AI应用概念股盘初下挫，读客文化跌超6%，紫天科技、思美传媒跌超5%，中广天择、掌阅科技、华策影视等纷纷下挫。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3722750.d.html</link>
+            <guid>3552738</guid>
+            <pubDate>Fri, 29 Mar 2024 01:38:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[锂电池产业链全线反弹，恩捷股份涨逾4%，鹏辉能源、赣锋锂业、吉翔股份、江特电机、宁德时代等涨逾2%。]]></title>
+            <guid>3552737</guid>
+            <pubDate>Fri, 29 Mar 2024 01:37:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【优必选2023全年财报：全栈式技术布局已形成“护城河”】2023财年，优必选实现全年总收入10.55亿元，同比增长4.7%；经调整EBITDA亏损5.15亿元，相比上一年度进一步收窄。两项业务实现双位数增长：智慧物流全年贡献3.89亿元的收入，同比增长47.9%；消费级机器人及其他硬件贡献了2.53亿元的收入，同比增长91.5%。2023年，优必选研发投入达4.9亿元，同比增长14.5%，占同期总营业收入的46.4%，近四年平均研发投入超50%，长达12年的研发投入形成的全栈式技术布局已经成为优必选人形机器人的“护城河”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqw2719121.d.html</link>
+            <guid>3552736</guid>
+            <pubDate>Fri, 29 Mar 2024 01:36:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【低空经济概念股盘初再度走高，深城交涨超15%】 低空经济概念股盘初再度走高，深城交涨超15%，建新股份涨超10%，中信海直、万丰奥威、烽火电子等涨幅居前。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3721611.d.html</link>
+            <guid>3552735</guid>
+            <pubDate>Fri, 29 Mar 2024 01:35:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[短剧游戏板块下挫。思美传媒下跌5.57%，天娱数科下跌2.79%，唐德影视下跌2.39%，华策影视、中文在线跌超3%。]]></title>
+            <guid>3552734</guid>
+            <pubDate>Fri, 29 Mar 2024 01:35:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【5.5G、通感一体化概念拉升 华体科技3连板】早盘5.5G、通感一体化概念拉升，华体科技3连板，爱克股份、豪尔赛2连板，茂硕电源、高斯贝尔、世嘉科技涨停。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwra1619301.d.html</link>
+            <guid>3552733</guid>
+            <pubDate>Fri, 29 Mar 2024 01:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[汽车产业链上涨，智慧灯杆方向领涨，爱克股份20CM涨停，茂硕电源、华体科技涨停，深城交、格利尔、豪尔赛、纵横通信跟涨。]]></title>
+            <guid>3552732</guid>
+            <pubDate>Fri, 29 Mar 2024 01:34:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贵金属板块盘初走高，中润资源涨超5%】 贵金属板块盘初走高，中润资源涨超5%，晓程科技、山东黄金、赤峰黄金、中金黄金等纷纷上扬。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqw2718194.d.html</link>
+            <guid>3552731</guid>
+            <pubDate>Fri, 29 Mar 2024 01:33:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新股芭薇股份高开，涨超190%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3721080.d.html</link>
+            <guid>3552730</guid>
+            <pubDate>Fri, 29 Mar 2024 01:33:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【雷军：SU7价格临时调低2万多，我是卷王还怕卷？】雷军称，从去年12月底到现在，3个月内（小米汽车）办了两场发布会产品就发布了，发布完立刻交付，这肯定是今天中国车厂里面顶级水平的，周期已经非常短。这么快的效率不知道被谁渲染成，我们拖拖拉拉连价钱都不敢出，被吓死了。我是武大毕业的，不是吓大（厦大）的，这个世界谁怕谁，所以没有那么痛苦。在定价上，我们真正的纠结点在于我们知道自己的盈亏点。谈到造车投入，雷军称，汽车行业价格战有比手机行业更激烈的吗？我们从小卷到大，我们是卷王还怕卷吗？（中国企业家）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqw2717872.d.html</link>
+            <guid>3552728</guid>
+            <pubDate>Fri, 29 Mar 2024 01:32:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【11部电影定档五一档】据灯塔专业版定档日历，当前2024五一档已有11部电影定档： 4月30日 — 《小倩》 — 《间谍过家家 代号：白》 — 《哈尔的移动城堡》 — 《特技狂人》 5月1日 — 《维和防暴队》 — 《穿过月亮的旅行》 — 《没有一顿火锅解决不了的事》 — 《怒海营救》 — 《猪猪侠大电影·星际行动》 — 《末路狂花钱》 —《 九龙城寨之围城》 。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqw2717766.d.html</link>
+            <guid>3552727</guid>
+            <pubDate>Fri, 29 Mar 2024 01:32:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联明股份涨停走出4连板，4天累计涨幅达46.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqw2717354.d.html</link>
+            <guid>3552724</guid>
+            <pubDate>Fri, 29 Mar 2024 01:30:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 宁科生物开盘涨停晋级8连板，成交额超7300万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3720040.d.html</link>
+            <guid>3552723</guid>
+            <pubDate>Fri, 29 Mar 2024 01:30:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[万科A低开超3%，2023年全年净利润121.6亿元人民币，同比下降46%，未来两年削减付息债务1000亿元人民币以上。]]></title>
+            <guid>3552722</guid>
+            <pubDate>Fri, 29 Mar 2024 01:29:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[永吉股份竞价涨停走出2连板，其一季报将于4月9日首先披露。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwra1617118.d.html</link>
+            <guid>3552721</guid>
+            <pubDate>Fri, 29 Mar 2024 01:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【台积电确立2nm制程建厂计划】台积电确立未来5年先进制程推进与扩产计划。以2nm为主的宝山P1厂将开始搬入设备，下半年开始试产，2025年二季度小量生产，月产能将逐步由3000片提升至逾2万片，2025年5月加入P2厂。而P3/4厂则在2027年规划进入A14世代，同时量产A14的还有预计新增的高雄P4/5厂，规划时程落在2028年。（台湾电子时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqy4840199.d.html</link>
+            <guid>3552718</guid>
+            <pubDate>Fri, 29 Mar 2024 01:25:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三大航2023年共营收4148亿元 同比增长122.91%】 3月28日晚间，中国国航、中国东航相继发布2023年年报，至此，三大航2023年年报均已披露完成。2023年，中国国航、中国东航、南方航空共实现营业收入4148亿元，同比增长122.91%，较2019年增长0.82%；净亏损总额134.23亿元，较2022年减亏952.67亿元，同比收窄87.65%。2023年三大航营收大幅增长、净利润大幅减亏主要得益于航空客运需求回暖，但三大航也指出，国际客运航班恢复相对缓慢、国内客运整体供过于求导致竞争加剧，加之油价汇率等要素价格波动，影响了经营业绩。（新京报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3718273.d.html</link>
+            <guid>3552716</guid>
+            <pubDate>Fri, 29 Mar 2024 01:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“中竹未来”宣布完成数百万元天使轮融资】 近日，“中竹未来”宣布完成数百万元天使轮融资。本轮融资投资方为个人投资者——南昌大学发展研究院院长黄细嘉。融资资金将主要用于新产品的开发和市场的推广。中竹未来创办于2011年，是一家专注于竹材料的研发与销售，集竹制品设计、研发和竹文化传播为一体的企业。(36氪)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqw2715063.d.html</link>
+            <guid>3552715</guid>
+            <pubDate>Fri, 29 Mar 2024 01:23:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【最高检：既要严厉打击侵害未成年人犯罪，也要高度重视未成年人犯罪的预防和治理】3月27日至28日，最高人民检察院党组书记、检察长应勇率最高检调研组在内蒙古调研时强调，要全面准确理解未成年人保护工作，既要严厉打击侵害未成年人犯罪，也要高度重视未成年人犯罪的预防和治理。预防就是保护，治理也是挽救。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3717705.d.html</link>
+            <guid>3552714</guid>
+            <pubDate>Fri, 29 Mar 2024 01:22:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【5000辆小米SU7创始版已经全部售罄】小米汽车APP显示，5000辆小米SU7创始版已经全部售罄，创始版的定金为每辆2万元，且不可退，这意味着小米汽车仅创始版的定金就已收到1亿元。（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqy4839085.d.html</link>
+            <guid>3552713</guid>
+            <pubDate>Fri, 29 Mar 2024 01:21:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【人民时评：让就业服务更“智慧”】智慧就业服务，为更好解决就业总量压力和结构性矛盾提供了新路径。2024届高校毕业生规模预计1179万人，当前农民工总量近3亿人，登记在册经营主体数量达到1.84亿户，就业与用工对接需求与日俱增。以数字技术为支撑的智慧就业服务，能有效降低求职招聘的搜寻成本和沟通难度，破解信息不对称难题，提升就业服务质效。今年的《政府工作报告》提出，“优化就业创业指导服务”。着眼未来，要用足用好数字技术，推动智慧就业走深走实，为广大求职者和招聘单位提供更快更准、更高质量的就业公共服务。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqw2714230.d.html</link>
+            <guid>3552710</guid>
+            <pubDate>Fri, 29 Mar 2024 01:20:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国电电力于秦皇岛成立综合能源开发公司】 企查查APP显示，近日，国电电力秦皇岛山海关区综合能源开发有限公司成立，法定代表人为王正虹，注册资本2000万元，经营范围包含：海洋能系统与设备制造；电动汽车充电基础设施运营；人工智能应用软件开发；电池制造等。企查查股权穿透显示，该公司由国电电力全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqw2714081.d.html</link>
+            <guid>3552709</guid>
+            <pubDate>Fri, 29 Mar 2024 01:19:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【实测月之暗面“Kimi”与阶跃星辰“跃问” 两者各有所长】分别来自月之暗面、阶跃星辰两家创业公司的大模型应用Kimi、跃问近日火爆出圈，记者评测结果显示，它们能力各有千秋。Kimi在长文本处理、阅读理解等方面实力较强，但数学、多模态等能力有所欠缺；而跃问在长文处理方面可圈可点，逻辑、数学、多模态等方面的表现则更胜一筹。（科创板日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqw2714025.d.html</link>
+            <guid>3552708</guid>
+            <pubDate>Fri, 29 Mar 2024 01:19:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金财互联与华为鸿蒙合作 打造智能i财税新体验】 近日，金财互联与华为举办鸿蒙合作签约仪式，双方将在鸿蒙生态、技术互补、商业共赢等方向进行深度合作，整合各方优势资源，共同推进鸿蒙在财税行业的深度融合和创新发展。]]></title>
+            <guid>3552707</guid>
+            <pubDate>Fri, 29 Mar 2024 01:16:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【陈吉宁会见来沪参加上海全球投资促进大会的海内外企业家代表】上海市委书记陈吉宁28日下午会见了来沪参加2024上海全球投资促进大会的海内外企业家代表。陈吉宁对各位企业家来沪参会表示欢迎，并表示，企业布局在上海、人才扎根在上海，面向的是国际市场，链接的是全球资源，享受的是开放政策，赢得的是发展先机。欢迎中外企业结合自身战略布局和业务拓展，充分用好上海的龙头带动优势、改革开放优势、科技和人才优势、治理现代化优势，把更多新业务、新技术、新项目、新布局落地上海。我们将持续营造市场化、法治化、国际化一流营商环境，深入实施重点企业“服务包”制度，加强战略对接，提供便利服务，帮助解决困难，支持企业更好把握机遇、投资兴业。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3715475.d.html</link>
+            <guid>3552702</guid>
+            <pubDate>Fri, 29 Mar 2024 01:14:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【叙利亚军方称以色列和“恐怖组织”对叙阿勒颇省发动空袭】 叙利亚军方消息称，当地时间3月29日凌晨1时45分左右，以色列和“恐怖组织”对叙利亚阿勒颇省发动空袭，造成多名军人和平民伤亡。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqw2711804.d.html</link>
+            <guid>3552700</guid>
+            <pubDate>Fri, 29 Mar 2024 01:11:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【陕国投董事长姚卫东带队到访腾讯北京总部】 据陕国投信托消息，3月27日下午，公司党委书记、董事长姚卫东，党委副书记、总裁解志炯一行到访腾讯北京总部，与腾讯云副总裁、北区总经理王前，腾讯云副总裁、金融云总经理胡利明座谈交流。座谈中，双方就腾讯云在金融信托行业中的应用场景，信托业务数字化转型思路等相关事项进行了深度研讨。双方均表示，下一步将重点围绕数字化基建和信创，业务数智化转型及智能化创新等方面开展合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqy4835764.d.html</link>
+            <guid>3552699</guid>
+            <pubDate>Fri, 29 Mar 2024 01:10:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小米汽车一晚收到1亿元定金】3月28日，小米汽车首款新车小米SU7正式上市，新车共有三个版本，标准版售价21.59万起，Pro 版售价24.59万起，Max 版售价29.99万起。此外，小米汽车还推出了小米SU7创始版和小米 SU7 Max创始版，限量5000台。 据第一财经，小米汽车APP显示，5000辆小米SU7创始版已经全部售罄，创始版的定金为每辆2万元，且不可退，这意味着小米汽车仅创始版的定金就已收到1亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqy4835421.d.html</link>
+            <guid>3552698</guid>
+            <pubDate>Fri, 29 Mar 2024 01:09:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家重大水利工程湖南梅山灌区工程动工】今天（29日）上午，国家重大水利工程之一湖南娄底梅山灌区工程将破土动工。项目建成后，可有效解决当地18个乡镇64.99万亩耕地的灌溉，提高55.35万人口的供水保障能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqw2710828.d.html</link>
+            <guid>3552697</guid>
+            <pubDate>Fri, 29 Mar 2024 01:09:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏里南干旱持续8个多月 农作物普遍减产】受厄尔尼诺现象影响，位于南美大陆东北角的国家苏里南目前正在经历近25年来最严重的旱灾，已经有8个多月没有发生规模性降雨，各种农作物生长乏力，普遍面临减产的问题。记者日前在苏里南北部的帕拉省和萨拉玛卡省采访时了解到，已经持续了8个多月的旱情对当地的种植业构成了巨大的冲击，一般农作物的减产都在两成半以上。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqw2710773.d.html</link>
+            <guid>3552696</guid>
+            <pubDate>Fri, 29 Mar 2024 01:09:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国海证券：给予四川天味食品集团股份有限公司增持的初始评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqw2710439.d.html</link>
+            <guid>3552695</guid>
+            <pubDate>Fri, 29 Mar 2024 01:08:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩国2月半导体产量飙升65.3%，创14年最大增幅】韩国统计厅周五公布的工业产出细分数据显示，2月份半导体产量同比增长65.3%，为2009年底以来的最大增幅。半导体发货量也增长了59%，尽管低于1月份的62.7%。库存减少16.2%，连续第二个月下降，这是需求强劲的另一个迹象。（环球市场播报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqy4834677.d.html</link>
+            <guid>3552694</guid>
+            <pubDate>Fri, 29 Mar 2024 01:07:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港天文台与世界气象组织签署更新谅解备忘录】香港天文台3月28日与世界气象组织签署更新谅解备忘录，进一步加强气象合作。香港天文台台长陈栢纬在签署仪式上表示，天文台与世界气象组织的合作关系历史悠久，更新的谅解备忘录可以进一步强化双方的紧密关系。天文台会继续支持世界气象组织的倡议，为落实联合国全民预警倡议作出贡献。仪式上，陈栢纬与世界气象组织秘书长塞莱丝特·绍洛共同见证恶劣天气信息中心（SWIC）3.0网站启动。塞莱丝特·绍洛表示，SWIC3.0网站的推出是一个里程碑，提供一站式平台便利各成员分享及发布预警，对于保护人们免受灾害性天气及相关环境事件的影响至关重要。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3712319.d.html</link>
+            <guid>3552692</guid>
+            <pubDate>Fri, 29 Mar 2024 01:04:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【191股获券商买入评级，石英股份目标涨幅达81.86%】3月28日，共有191只个股获券商买入评级，其中67只个股公布了目标价格。按最高目标价计算，石英股份、天味食品、杭氧股份目标涨幅排名居前，涨幅分别达81.86%、76.92%、57.62%。从评级调整方向来看，182只个股评级维持不变，5只个股评级获调高，4只个股为首次评级。此外，有37只个股获多家券商关注，中国中免、海尔智家、新华保险获评级数量居前，分别有9家、8家、7家券商给予评级。从获买入评级个股所属Wind行业来看，食品、饮料与烟草、资本货物、材料Ⅱ买入评级个股数量最多，分别有25只、23只、20只。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqw2709124.d.html</link>
+            <guid>3552691</guid>
+            <pubDate>Fri, 29 Mar 2024 01:03:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【同比增长5.9%！今年前两个月我国社会物流总额55.4万亿元】中国物流与采购联合会今天（29日）公布今年1—2月份物流运行数据。数据显示，今年以来，物流需求延续恢复态势，市场规模整体保持扩张，物流总额增速进一步加快。今年1—2月份，我国社会物流总额55.4万亿元，同比增长5.9%，比上年同期加快3个百分点，显示当前物流运行整体延续企稳回升态势，物流需求规模稳步扩张。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3712038.d.html</link>
+            <guid>3552690</guid>
+            <pubDate>Fri, 29 Mar 2024 01:03:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【10部电影定档2024五一档】据猫眼专业版上映日历显示，截至当前，共有10部影片定档2024年五一档上映，分别为《九龙城寨之围城》《小倩》《维和防暴队》《特技狂人》《间谍过家家 代号：白》《猪猪侠大电影：星际行动》《哈尔的移动城堡》《末路狂花钱》《没有一顿火锅解决不了的事》《怒海营救》。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqw2709015.d.html</link>
+            <guid>3552689</guid>
+            <pubDate>Fri, 29 Mar 2024 01:02:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【个人电脑需求下降，联想因“业务紧缩”在台裁员92人】台湾劳动部门3月28日证实，联想台湾公司在3月1日向当地地方政府提报解雇计划书，预计解聘92人，理由是“业务紧缩”，并已在4日和20日执行。因劳资双方合意解约，因此不必按大量解雇程序处理。联想在台湾地区登记有两家公司，分别投保901人和106人。戴尔公司近期也证实，在经济大环境和个人电脑需求下降的背景下，公司为降低成本进行裁员，其他措施还包括限制外部招聘，员工也将重组。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3711864.d.html</link>
+            <guid>3552688</guid>
+            <pubDate>Fri, 29 Mar 2024 01:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大多校控告Facebook和TikTok等平台致学生网瘾，TikTok等公司回应】 加拿大多伦多、渥太华和皮尔区的学区当局当地时间3月27日分别提起法律诉讼，控告Facebook、TikTok、Snap等网络平台“正在损害儿童的心理健康和学习”，寻求总计约45亿加元（33亿美元）的赔偿。美国数百个学区此前也提出了类似的指控，要求社交媒体公司为学生沉迷于其平台的现象付出代价。TikTok一位发言人表示，该平台引入了保障措施，如允许家长限制孩子使用时间。Snap发言人也表示，其平台运作方式与其他一些平台不同，不推送内容，并且没有传统的公众点赞或评论。]]></title>
+            <guid>3552687</guid>
+            <pubDate>Fri, 29 Mar 2024 01:02:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【对话雷军：就要比特斯拉便宜3万，反正已经吐血了】雷军在接受新浪科技采访时回应了小米SU7的定价策略。他表示，特斯拉Model 3的盈亏点是22.3万，而小米SU7的配置比特斯拉Model 3高很多，“我知道我们的盈亏点，我也知道我们上来肯定是亏了，但是我到底亏多少，向支持我们的铁杆用户表达真诚，所以我要找到那个点。” 他透露，小米原计划定价22.9万起售，后来讨论决定就比特斯拉Model 3便宜3万；顶配版最早定价是35万，“其实35万也是亏的，这个诚意就做到底，直接定到了29.9万，反正也是吐血了。”]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwra1608988.d.html</link>
+            <guid>3552684</guid>
+            <pubDate>Fri, 29 Mar 2024 01:00:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【雷军：发布会对我来说就像高考】今日清晨，雷军分享了他昨晚发布会后的感受。他表示：“昨晚的发布会，对我来说就像一场高考，我本以为之后可以好好休息一觉。然而，早晨很早就醒了。”]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3710722.d.html</link>
+            <guid>3552682</guid>
+            <pubDate>Fri, 29 Mar 2024 00:58:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【韩国国会选举竞选宣传活动正式启动】韩国第22届国会选举定于4月10日举行投票，本次选举的竞选宣传活动从28日正式启动，韩国各个参选党派开始了激烈选战。]]></title>
             <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3709710.d.html</link>
@@ -75,7 +360,7 @@
             <pubDate>Fri, 29 Mar 2024 00:36:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【万科董监事总裁自愿降薪至每月税前1万元，高峰时曾是千万年薪】3月28日晚间，万科集团发布了2023年度业绩公告。公告内容显示，2023年万科集团营业收入4657.4 亿元，同比下降7.6%；归属于上市公司股东的净利润121.6亿元，同比2022年的226.9亿元下降了105.3亿元，降幅46.4%。在利润大幅减少的情况下，万科集团管理层在2023年集体选择降薪。万科集团8位高管自愿放弃2023年度奖金，另外，自报告披露之日起，董事会主席郁亮、总裁祝九胜、监事会主席解冻自愿领取月薪税前1万元。（第一财经）]]></title>
+            <title><![CDATA[【万科郁亮月薪降至税前1万元】据万科3月28日晚发布的2023年年报，自报告披露之日起，万科董事会主席郁亮、总裁祝九胜、监事会主席解冻自愿领取月薪税前1万元。财报显示，郁亮在2019、2020年的税前报酬总额超1200万元，同期祝九胜税前报酬总额超1100万元，解冻税前报酬总额超800万元。2021年万科归母净利接近腰斩，郁亮自愿放弃年度奖金，实际年度即时现金薪酬（税前）144.9万元；2022年郁亮从其个人年度奖金总额中拨付280万元（税前）专项奖励公司相关获奖员工，实际年度即时现金薪酬（税前）为393.5万元。（蓝鲸财经）]]></title>
             <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqy4825800.d.html</link>
             <guid>3552652</guid>
             <pubDate>Fri, 29 Mar 2024 00:34:40 GMT</pubDate>
@@ -120,300 +405,6 @@
             <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3702629.d.html</link>
             <guid>3552642</guid>
             <pubDate>Fri, 29 Mar 2024 00:29:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广和通发布基于高通高算力芯片的具身智能机器人开发平台Fibot 】记者获悉，3月29日，为助力机器人厂商客户快速复现及验证斯坦福Mobile ALOHA机器人的相关算法，广和通发布具身智能机器人开发平台Fibot。作为首款国产Mobile ALOHA机器人的升级配置版本，开发平台采用全向轮底盘设计、可拆卸式训练臂结构，赋予机械臂更多的自由度及臂展范围，并实现了Andorid/Linux融合系统，方便客户进行软件及算法的开发及验证。值得一提的是，Fibot以广和通高算力智能模组SC171作为主控。SC171基于高通®QCM6490物联网解决方案设计，QCM6490采用8核高性能处理器，具备高达12TOPS算力，可对数据进行高效计算与处理；集成多种AI算法，助力终端实现边缘计算和AI特性。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqy4823574.d.html</link>
-            <guid>3552640</guid>
-            <pubDate>Fri, 29 Mar 2024 00:27:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【博鳌亚洲论坛2024年年会今天闭幕】博鳌亚洲论坛2024年年会今天进入最后一天，将举行多场分论坛和活动，并举行闭幕新闻发布会。今天上午，博鳌亚洲论坛2024年年会将举办4场分论坛。积极应对人口老龄化、构建老年友好型社会是很多国家面临的共同课题。展望老龄友好型社会分论坛，汇聚了国内外健康养老领域的多位业内人士，嘉宾们将围绕如何进一步完善社会保障、养老服务和健康支撑三大体系、健康老龄化理念应该有哪些新的内涵等话题展开智慧和思想的碰撞。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3702130.d.html</link>
-            <guid>3552639</guid>
-            <pubDate>Fri, 29 Mar 2024 00:26:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【李斌与雷军合拍视频祝贺：称小米SU7定价太猛，乐道都不好定价了】昨晚小米SU7正式发布，并且同时开启大定。在发布会后，李斌与雷军合拍视频祝贺小米汽车大卖。同时李斌也稍微诉了下苦，称SU7定价太猛了，后边乐道都不好定价了。雷军笑称，没事的，兄弟们一起努力。据悉，乐道是蔚来的第二品牌，将于5月中上旬发布，首款车型将于三季度上市，四季度交付。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3700663.d.html</link>
-            <guid>3552634</guid>
-            <pubDate>Fri, 29 Mar 2024 00:21:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【致远互联签约鲁商集团，打造一体化法务管理平台】 致远互联官微3月29日消息，近日，致远互联与山东省商业集团有限公司正式签约。双方将依托致远互联COP协同运营平台，打造覆盖全集团及各产业单位，集法务、合同、风险于一体的法务管理平台。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqy4821718.d.html</link>
-            <guid>3552632</guid>
-            <pubDate>Fri, 29 Mar 2024 00:20:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【富达向9家ETF公司发出通知 新的收费标准即将出台】文件显示，富达投资(Fidelity Investments)将对包括Simplify Asset Management Inc.和AXS Investments在内的九家公司发行的EFT征收新的费用，以满足在这家金融巨头的平台上上市产品的成本。根据将于6月3日生效的该计划，投资者在对一系列交易所交易策略下买入指令时，将面临100美元的服务费。该行补充说Day Hagan、Sterling Capital、Cambiar、Regents Park、Rayliant、Adaptive和Running Oak都在所谓的附加费资格ETF名单之列。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3700208.d.html</link>
-            <guid>3552631</guid>
-            <pubDate>Fri, 29 Mar 2024 00:19:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国务院：美国与墨西哥将合作发展半导体供应链】 当地时间3月28日，美国国务院在一份声明中表示将与墨西哥政府合作，在2022年《CHIPS法案》设立的ITSI基金的支持下，共同探索发展半导体供应链的机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3699084.d.html</link>
-            <guid>3552629</guid>
-            <pubDate>Fri, 29 Mar 2024 00:15:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【挽留阿斯麦！荷兰政府将出手25亿欧元改善埃因霍温地区基建并减轻企业税负】 荷兰政府3月28日表示，将斥资25亿欧元（27亿美元）改善阿斯麦总部埃因霍温地区的住房、教育、交通和电力网络等基础设施，以确保荷兰最大的企业阿斯麦不会将业务迁往国外。阿斯麦对这一计划表示欢迎，并称这不仅有利于埃因霍温地区的科技公司，也有利于整个荷兰。该公司表示，“我们需要做的决定不是我们是否（将）留下来，而是我们（将）在哪里发展。”（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwra1596067.d.html</link>
-            <guid>3552628</guid>
-            <pubDate>Fri, 29 Mar 2024 00:14:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅同贝宁外长巴卡里举行会谈】2024年3月28日，中共中央政治局委员、外交部长王毅在北京同贝宁外长巴卡里举行会谈。王毅表示，双方要大力拓展贸易、投资、能源、文化、人力资源等领域的务实合作，欢迎贝方积极参与落实全球发展倡议。中贝同为联合国人权理事会成员国，我们乐见贝方在国际和地区问题上发挥更大作用，共同维护非洲和广大发展中国家利益，推动构建人类命运共同体。（外交部）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqw2695215.d.html</link>
-            <guid>3552627</guid>
-            <pubDate>Fri, 29 Mar 2024 00:12:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【险资现身39只个股前十大流通股东，民生银行、兴业银行、邮储银行持股数量居前】 统计显示，3月29日，险资现身39只个股前十大流通股东，合计持股164.67亿股，合计持股市值达1039.31亿元。民生银行、兴业银行、邮储银行持股数量居前，分别为86.47亿股、27.93亿股、18.90亿股，持股市值分别为323.4亿元、323.40亿元、82.23亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqy4818401.d.html</link>
-            <guid>3552624</guid>
-            <pubDate>Fri, 29 Mar 2024 00:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蓝帆医疗：子公司蓝帆柏盛引入战投完成9亿元增资扩股】 蓝帆医疗(002382)3月29日早间公告，截至公告日，公司的心脑血管业务主体、全资子公司蓝帆柏盛已收到首都大健康产业（北京）基金（有限合伙）、河北临空领航产业股权投资基金合伙企业（有限合伙）、临朐福望壹号股权投资基金合伙企业（有限合伙）合计支付的全部9亿元增资款项。同时，王丹申请辞去公司副总裁、首席研发官一职，Thomas Kenneth Graham申请辞去公司副总裁一职。二人辞任后将专职在蓝帆柏盛及其下属子公司担任职务，专注于蓝帆柏盛及其下属子公司的经营发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqw2694448.d.html</link>
-            <guid>3552623</guid>
-            <pubDate>Fri, 29 Mar 2024 00:10:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【方舟基金增持特斯拉 卖出Uipath】根据最新交易数据，Cathie Wood旗下Ark Investment Management管理的交易所交易基金买入了79,951股特斯拉股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqw2692882.d.html</link>
-            <guid>3552619</guid>
-            <pubDate>Fri, 29 Mar 2024 00:06:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利国家铜业公司预计2024年铜产量为132.5-139万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3694801.d.html</link>
-            <guid>3552618</guid>
-            <pubDate>Fri, 29 Mar 2024 00:02:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【肯尼亚计划首次发行价值5亿美元的熊猫债券】知情人士透露，肯尼亚计划首次在中国发行债券募集5亿美元，该国寻求扩大海外资金来源。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwra1591212.d.html</link>
-            <guid>3552615</guid>
-            <pubDate>Thu, 28 Mar 2024 23:59:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三井物产将在越南Block B天然气田投资7.4亿美元】三井物产表示对开发越南Block B气田项目作出了最终投资决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqy4814837.d.html</link>
-            <guid>3552614</guid>
-            <pubDate>Thu, 28 Mar 2024 23:58:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JR东日本：东北新干线预计将于当地时间上午9点左右恢复运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3693831.d.html</link>
-            <guid>3552613</guid>
-            <pubDate>Thu, 28 Mar 2024 23:58:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今日共13家公司限售股解禁，苏能股份、和林微纳、海通发展解禁市值超10亿元】 数据显示，周五（3月29日），共有13家公司限售股解禁，合计解禁量为11.98亿股，按最新收盘价计算，合计解禁市值为100.68亿元。从解禁量来看，5家公司解禁股数超千万股。苏能股份、海通发展、通业科技解禁量居前，解禁股数分别为9.17亿股、1.15亿股、6709.58万股。从解禁市值来看，5家公司解禁股数超亿元。苏能股份、和林微纳、海通发展解禁市值居前，解禁市值分别为47.05亿元、20.36亿元、16.12亿元。从解禁股数占总股本比例来看，4家公司解禁比例超10%。通业科技、和林微纳、海通发展解禁比例居前，解禁比例分别为65.53%、60.08%、18.76%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3693744.d.html</link>
-            <guid>3552612</guid>
-            <pubDate>Thu, 28 Mar 2024 23:57:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本2月份零售销售环比增长1.5% 预估为增长0.6%】日本经济产业省在东京发布数据显示，日本2月社会消费品零售总额同比增长4.6%，预估增长2.9%。未经调整的零售销售报12.94万亿日元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3693551.d.html</link>
-            <guid>3552611</guid>
-            <pubDate>Thu, 28 Mar 2024 23:56:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【传染性极强！手足口病来袭 家有孩童请注意】手足口病是由多种肠道病毒引起的5岁及以下儿童常见急性传染疾病。全年均可发病，4-7月为春夏季高峰，9-11月为秋季高峰。建议儿童在12月龄前完成全程接种，5岁以上儿童不推荐接种。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqw2690321.d.html</link>
-            <guid>3552610</guid>
-            <pubDate>Thu, 28 Mar 2024 23:54:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本2月份工业产值环比-0.1%，预估为1.3%。日本2月份工业产值环比-0.1%，预估为1.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3692330.d.html</link>
-            <guid>3552606</guid>
-            <pubDate>Thu, 28 Mar 2024 23:50:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【保量、稳价、优结构 今年普惠型贷款增速不低于各项贷款增速】截至今年2月末，全国普惠型小微企业贷款余额30.09万亿元，同比增长22.98%，较各项贷款增速高13.38个百分点。金融监管总局提出，今年全年普惠型小微企业贷款、普惠型涉农贷款增速要不低于各项贷款增速，并推动普惠信贷综合融资成本稳中有降。记者昨天（28日）从金融监管总局了解到，2024年我国普惠信贷的工作目标是保量、稳价、优结构。更好地满足小微企业、涉农经营主体和重点帮扶群体的金融需求。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqy4813137.d.html</link>
-            <guid>3552605</guid>
-            <pubDate>Thu, 28 Mar 2024 23:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【人民日报评樊振东身份证号被恶意传播：应查清谁在控制“黑粉”谁在从中渔利】近日，乒乓球运动员樊振东通过社交媒体发文称：“近几天本人身份证号被一些不法分子在网络上恶意传播造谣，严重侵犯了公民隐私权名誉权。”并警示相关人员，若继续知法犯法，将集中证据报警处理。这已经不是樊振东第一次怒斥“饭圈化”的行为。一些“职业”粉丝非理性追星，刺探运动员隐私，拉踩抹黑知名运动员，甚至做出踩踏法律法规的事。从治理角度看，应顺藤摸瓜，捋清这条黑色利益链上的角色，查清是谁在唆使“粉丝”刺探他人隐私，谁在控制“黑粉”，谁在从中渔利。（人民日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwra1589414.d.html</link>
-            <guid>3552604</guid>
-            <pubDate>Thu, 28 Mar 2024 23:49:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小米辟谣81分钟销售9万台SU7】 3月29日消息，小米SU7昨日发布，小米集团董事长特别助理、中国区市场部副总经理徐洁云在朋友圈辟谣称，小米81分钟销售9万台SU7消息是假的。 根据官方消息，小米汽车SU7 4分钟大定破万，7分钟破2万，27分钟破5万为真。（第一财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3692117.d.html</link>
-            <guid>3552603</guid>
-            <pubDate>Thu, 28 Mar 2024 23:48:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【人民日报整版探讨：加强涉外法治建设】时代新征程，坚持和完善中国特色社会主义法治体系、提高国家治理体系和治理能力现代化水平、推进和拓展中国式现代化，必须加强涉外法治建设，做好涉外法治工作，建设同高质量发展、高水平开放要求相适应的涉外法治体系和能力，为中国式现代化行稳致远营造有利法治条件和外部环境。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3692083.d.html</link>
-            <guid>3552602</guid>
-            <pubDate>Thu, 28 Mar 2024 23:48:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【监管层持续“亮剑”券商研报业务 多家机构受罚】 近年来，监管层对券商研报业务持续保持严监管态势，在全行业开展了研报业务“双随机”现场检查专项工作，并对违规券商和研报作者作出处罚，处罚原因包括内容制度执行不足、研报制作审慎性不足等。值得注意的是，2024年开年以来，已有华安证券、国元证券等多家机构因研报业务违规受罚。（经济参考报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwra1589060.d.html</link>
-            <guid>3552601</guid>
-            <pubDate>Thu, 28 Mar 2024 23:46:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海新天地一楼盘开盘单日收金196亿，刷新全国纪录】 3月28日，中海旗下上海豪宅项目“中海·顺昌玖里”开盘选房，当日劲销196.53亿元。该销售额创下全国商品房单次开盘最高销售额纪录。根据“中海·顺昌玖里”的准售房源公告，该项目位于上海黄浦新天地板块，共计推出512套房源，项目均价约17.2万元/平方米，套均总价约4000万元。户型涵盖建筑面积151平方米、185平方米、220平方米、245平方米以及325平方米。(澎湃新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqv3691792.d.html</link>
-            <guid>3552600</guid>
-            <pubDate>Thu, 28 Mar 2024 23:46:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
-1、团结协作，共迎挑战 携手开创亚洲和世界美好未来——在博鳌亚洲论坛2024年年会开幕式上的主旨演讲（2024年3月28日，海南博鳌）；
-2、上海加快建设“五个中心” 持续提升城市能级和核心竞争力（推动高质量发展·权威发布）；
-3、多部门联合印发行动计划 贯彻实施《国家标准化发展纲要》；
-4、共建和平安宁、繁荣美丽、友好共生的亚洲家园（聚焦博鳌亚洲论坛2024年年会）；
-5、保护知识产权 促进可持续发展；
-6、中荷商务部门负责人就光刻机输华等议题交换意见；
-7、中企投建乌兹别克斯坦储能项目开工建设；
-8、持续改善新能源汽车充电体验（纵横）；
-9、用特色产业激发经济活力（记者手记）；
-10、四部门联合印发方案 推动通用航空产业高质量发展；
-11、第四届消博会首批进境展品顺利通关；
-12、快递服务现代农业加速发展 小快递激发乡村大市场（大数据观察）；
-13、保量、稳价、优结构 金融监管总局要求做好今年普惠信贷工作；
-14、第十一届中国网络视听大会开幕；
-15、2024年广西“33消费节”系列活动启动；
-16、吉林省公主岭市推进玉米全产业链标准化建设——金黄玉米串起“黄金产业”（经济聚焦·农业全产业链标准化）；
-17、助养老事业产业发展 写好养老金融大文章；
-18、国家文化产业示范基地总数达到384家；
-19、商务部等九部门部署 推动餐饮业高质量发展；
-20、市场监管总局印发通知 部署抓好外卖商家营销规范；
-21、海湾国家加大对中小企业的资金支持；
-22、联合国报告：2022年全球食物浪费超10亿吨。]]></title>
-            <guid>3552598</guid>
-            <pubDate>Thu, 28 Mar 2024 23:44:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微软支持的云和数据安全初创公司Rubrik据悉准备在下周提交IPO申请。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxwqy4811921.d.html</link>
-            <guid>3552593</guid>
-            <pubDate>Thu, 28 Mar 2024 23:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【精准发力空间大 结构性货币政策工具将“上新”】 近段时间，结构性货币政策工具精准发力，为经济回升向好营造了适宜的货币金融环境。业内人士认为，从近期政策信号看，科技创新和技术改造再贷款将在今年设立，抵押补充贷款（PSL）额度有望进一步增加，结构性货币政策工具持续发力值得期待。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxshx3821625.d.html</link>
-            <guid>3552590</guid>
-            <pubDate>Thu, 28 Mar 2024 23:40:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海解除大雾黄色预警】上海中心气象台2024年03月29日07时30分解除大雾黄色预警信号：据最新气象资料分析，目前本市能见度已明显好转，本市大雾黄色预警信号解除。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxsie1718402.d.html</link>
-            <guid>3552588</guid>
-            <pubDate>Thu, 28 Mar 2024 23:39:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据NHK报道，针对LINE用户大规模信息泄露事件，雅虎已决定重新审查其对导致此次泄露的韩国Naver的外包，并正在根据相关方的信息做出调整。]]></title>
-            <guid>3552587</guid>
-            <pubDate>Thu, 28 Mar 2024 23:38:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【花样年23年营收158亿元 多项目入围白名单】3月28日晚间，花样年控股集团有限公司（以下简称“花样年”）发布2023年业绩报告。数据显示，2023年，花样年收入158.44亿元，同比增长约62.4%，其中物业开发收入132.46亿元，同比增加79.9%，在建及待建项目土地储备建筑面积约774.5万平方米，期内销售及分销费用以及行政费用约8.1亿元，同比减少约28.9%。有关2024年工作方向及未来发展，花样年内部人士表示，政策刺激一定程度上促进了市场改善需求，但经济增长放缓、人口老龄化等因素仍制约市场整体表现，企业生存压力仍然存在。履行企业保交付责任的同时，拓展经营性物业的双赛道，也是公司本年度的重点之一。据知情人士透露，花样年自今年2月份若干项目入围白名单外，近期或有三项目继续入围白名单，分别是重庆霍克尼的好时光、桂林麓湖国际项目、及佛山广雅院项目，目前处于申报准入阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxshy2818235.d.html</link>
-            <guid>3552586</guid>
-            <pubDate>Thu, 28 Mar 2024 23:37:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加大准入准营支持 金融开放将迎更多利好】 我国金融领域将迎来更高层次的对外开放。近期，金融监管部门频频发声，继续放宽机构准入、拓展外资机构的业务资质和空间有望成为今年金融开放的“重头戏”。记者获悉，下一步，准入前国民待遇加负面清单管理制度将进一步完善，外资进入中国市场展业程序也将得到优化。同时，金融监管部门还将拓展外资金融机构参与国内债券市场业务范围，深入实施合格境外有限合伙人境内投资试点。]]></title>
-            <guid>3552584</guid>
-            <pubDate>Thu, 28 Mar 2024 23:36:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【马克龙参观亚马孙雨林与卢拉热情拥抱，被网民调侃“拍婚纱照”】“是拍婚纱照还是外交访问？”法新社27日报道称，法国总统马克龙和巴西总统卢拉的“兄弟情谊”让网民们兴奋不已。法国总统马克龙本月26日开始对巴西进行为期3天的访问。在参观亚马孙雨林时，46岁的马克龙被拍到微笑并热情拥抱78岁的卢拉，相关照片也在巴西的社交媒体上疯传，引发两国网民的二次创作热潮。 根据卢拉的社交媒体账号发出的照片，有的是两位总统在树下携手而行（如右图）；有的是两人在树下举起双臂，而在网民合成的图中，他们拿着心形的红气球。还有一张照片显示他们站在位于亚马孙河面的船上，“手牵着手、面带微笑地眺望地平线”（如左图）。 对此，有网民开玩笑称，这些照片看起来像是在进行婚礼彩排，“他们可以在亚马孙结婚，在巴黎度蜜月”。 （环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxshx3820892.d.html</link>
-            <guid>3552583</guid>
-            <pubDate>Thu, 28 Mar 2024 23:35:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中铝国际：2023年净亏损26.58亿元，同比转亏】 中铝国际3月28日公告，2023年营收223.37亿元，同比下降5.74%，原因为工程勘察设计及装备制造业务收入占比均实现同比提升；停止新增PPP投融建业务并逐步减少市政、民建等工程施工业务，收入整体规模同比有所减少。2023年净亏损26.58亿元，同比转亏；基本每股收益亏损0.8982元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxshy2817429.d.html</link>
-            <guid>3552581</guid>
-            <pubDate>Thu, 28 Mar 2024 23:33:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【市场消息：京东方可能收购LG Display的广州LCD工厂】韩国Newsis援引未具名知情人士报道称，京东方洽购LG Display广州液晶显示屏(LCD)工厂，谈判已进入最后阶段。 预计京东方管理人员本周将前往LG Display总部以谈妥交易收购价格未知；业内人士已估计价格在1.5万亿韩元左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxshy2817070.d.html</link>
-            <guid>3552579</guid>
-            <pubDate>Thu, 28 Mar 2024 23:31:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东京3月份整体消费物价同比增长2.6%】日本3月东京核心CPI年率 2.4%，预期2.40%，前值2.50%。日本3月东京CPI年率 2.6%，预期2.50%，前值2.60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxshx3819767.d.html</link>
-            <guid>3552578</guid>
-            <pubDate>Thu, 28 Mar 2024 23:30:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本2月失业率 2.6%，预期2.40%，前值2.40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxshx3819714.d.html</link>
-            <guid>3552577</guid>
-            <pubDate>Thu, 28 Mar 2024 23:30:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【清明假期将至 深圳口岸客流峰值或突破87万人次】 据深圳边检总站预测，2024年清明节假期（2024年4月4日至6日），深圳各口岸将迎来出入境客流高峰，预计日均出入境人员将达82万人次，客流峰值或将突破87万人次。清明节假期，深圳陆路口岸入境客流高峰预计出现在4月4日，出境客流高峰预计出现在4月6日。（深圳口岸发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxsia4940048.d.html</link>
-            <guid>3552575</guid>
-            <pubDate>Thu, 28 Mar 2024 23:28:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安迪苏泉州固体蛋氨酸项目动工，计划年产量15万吨】3月28日，安迪苏在华投资新建的固体蛋氨酸工厂在福建泉州泉惠石化工业区动工。该项目计划年产量15万吨，总投资额约49亿元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxshy2816399.d.html</link>
-            <guid>3552574</guid>
-            <pubDate>Thu, 28 Mar 2024 23:27:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄侦查委员会：莫斯科近郊恐袭嫌疑人与乌克兰民族主义者有关】俄罗斯侦查委员会3月28日说，莫斯科近郊音乐厅恐袭嫌疑人与乌克兰民族主义者有关。俄侦查委员会当天在社交媒体发布消息说，通过审讯被捕嫌疑人、研究从他们身上缴获的技术设备并分析金融交易信息，已获取他们与乌克兰民族主义者有关联的证据。消息说，初步调查结果证明了恐袭嫌疑人行动的计划性，组织者进行了精心准备并提供资金支持。调查证实，恐袭实施者从乌克兰收到大量资金和加密货币用于准备袭击。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxshy2816275.d.html</link>
-            <guid>3552573</guid>
-            <pubDate>Thu, 28 Mar 2024 23:25:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【车车科技与小米旗下厚积保险经纪达成合作】 车车科技3月28日在提交给美国证券交易委员会的文件中宣布，与小米公司旗下厚积保险经纪达成合作，扩大与新能源汽车行业企业的合作。车车科技将为北京、深圳、杭州等全国多个城市的车主提供车险服务解决方案。未来，这些车主将可以通过小米电动车的应用程序高效完成保险交易并获得相关服务。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxshy2815961.d.html</link>
-            <guid>3552572</guid>
-            <pubDate>Thu, 28 Mar 2024 23:23:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家邮政局：持续实施“一村一站”工程 让更多农民在家门口收寄快递】 3月28日，国家邮政局召开专题新闻发布会，介绍2023年邮政快递业服务现代农业品牌项目情况。国家邮政局表示，下一步，国家邮政局将指导各地邮政管理部门立足特色农产品寄递服务遇到的堵点痛点，推动当地农产品寄递业务规模化发展。同时今年将持续实施“一村一站”工程，加快“一点多能、一站多用”的村级寄递物流综合服务站建设，让更多农民在家门口收快递、寄快递。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxshy2815775.d.html</link>
-            <guid>3552570</guid>
-            <pubDate>Thu, 28 Mar 2024 23:21:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【低空经济再迎政策支持 eVTOL行业有望“腾飞”】 近日，工业和信息化部等四部门联合印发《通用航空装备创新应用实施方案（2024—2030年）》。《实施方案》提到，到2030年，通用航空装备全面融入民众生产生活各领域，成为低空经济增长的强大推动力，形成万亿级市场规模。“‘好风凭借力，送我上青云’。此次政策力度空前的大，并且针对eVTOL（电动垂直起降航空器）取证难、商业化难等痛点，给出了清晰的指引，为eVTOL产业的‘腾飞’奠定了坚实的基础。”国内某eVTOL企业高管表示。亿航智能副总裁贺天星在接受记者采访时分析称，《实施方案》鼓励龙头企业带动上下游企业共同开展标准研究，探索形成产品研制、场景构建、示范运行一体化的商业模式，并从创新研发、生产制造、政策法规、产业生态、示范应用等多领域切入，这将有力帮助eVTOL企业探索应用场景，促进新兴航空产业的高质量发展，进而助推新质生产力的形成。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxshy2815513.d.html</link>
-            <guid>3552569</guid>
-            <pubDate>Thu, 28 Mar 2024 23:20:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国巴尔的摩大桥坍塌现场清理工作已开始】 当地时间3月28日，据《巴伦周刊》报道，美国马里兰州巴尔的摩大桥坍塌现场的清理工作已定于当日开始。当局称，在美国这一主要港口重新开放之前，仍需要进行大量工作。(央视新闻)]]></title>
-            <guid>3552568</guid>
-            <pubDate>Thu, 28 Mar 2024 23:18:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中柬两国警方合作捣毁多个网赌电诈窝点】 日前，中柬两国开展警务执法合作，成功捣毁多个盘踞在柬埔寨西哈努克省的网赌电诈窝点，迄已抓获700余名中国籍犯罪嫌疑人。双方将深入落实两国领导人共识，持续保持高压态势，穷追猛打，直至彻底铲除柬境内涉中国人网络诈骗窝点，为两国正常经贸、投资、旅游合作营造更加安全有利的环境。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxshx3815887.d.html</link>
-            <guid>3552564</guid>
-            <pubDate>Thu, 28 Mar 2024 23:07:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【葡萄牙一华商仓库发生火灾，中使馆提醒注意消防安全】 近日，葡萄牙米尼奥地区瓦伦萨市一家华商仓库发生火灾，造成较大财产损失。中国驻葡萄牙大使馆提醒在葡中国公民和企业增强消防安全意识，提高防范火灾能力，避免人身及财产安全风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxsie1712631.d.html</link>
-            <guid>3552563</guid>
-            <pubDate>Thu, 28 Mar 2024 23:07:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
