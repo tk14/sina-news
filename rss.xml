@@ -4,317 +4,405 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 10 Jan 2025 01:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jan 2025 01:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【马来西亚宝钢制罐中段柔性改造项目顺利投运并实现首批产品供货】 据宝钢包装，日前，马来西亚宝钢制罐中段柔性改造项目顺利完成联机调试和试生产，首批订单出罐并供应客户。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnc5721423.d.html</link>
-            <guid>3971184</guid>
-            <pubDate>Fri, 10 Jan 2025 01:12:17 GMT</pubDate>
+            <title><![CDATA[【金沙江上游至湖北特高压工程预计6月建成，投运后每年将向华中地区输送400亿千瓦时清洁电能】开年以来，金沙江上游至湖北正负800千伏特高压直流工程进入全面架线阶段，电力工人们正在川西高原的百米高空上开展作业，整体工程预计将在6月份建成。金上—湖北特高压工程全长1901公里，是目前世界上海拔最高的特高压直流输电工程。该工程投运后每年将向华中地区输送400亿千瓦时清洁电能。]]></title>
+            <guid>3973551</guid>
+            <pubDate>Sat, 11 Jan 2025 01:01:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：日本禁止向俄罗斯出口音响设备和部分发动机。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnc5721075.d.html</link>
-            <guid>3971180</guid>
-            <pubDate>Fri, 10 Jan 2025 01:11:51 GMT</pubDate>
+            <title><![CDATA[【航行警告 渤海海峡黄海北部执行军事任务】据中国海事局网站消息，大连海事局发布航行警告，1月12日16时至19日16时，渤海海峡黄海北部部分海域执行军事任务，禁止驶入。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineeqftc5309954.d.html</link>
+            <guid>3973546</guid>
+            <pubDate>Sat, 11 Jan 2025 01:01:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：日韩将于13日举行高层外交会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnc5720610.d.html</link>
-            <guid>3971178</guid>
-            <pubDate>Fri, 10 Jan 2025 01:11:21 GMT</pubDate>
+            <title><![CDATA[【我国首套海上风电自主探测平台正式投运】1月11日，我国首套海上风电自主探测平台在江苏如东海上环港风电场正式投运。传统海缆检测通过载人大型船只拖拽无动力探测器进行作业，不仅需要至少9人的人员配置，每天也只能检测10公里。国家能源集团龙源电力此次投运的海上风电综合检测平台，利用无人船与机器人组合方式，实现了远程操控无人化作业，每日最大探测范围提升至100公里，极大提升了海缆检测效率精度。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineeqfth5111703.d.html</link>
+            <guid>3973535</guid>
+            <pubDate>Sat, 11 Jan 2025 00:59:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国总统尹锡悦安全主管表示，任何冲突、流血事件都不能因尹锡悦被捕而发生。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf2494520.d.html</link>
-            <guid>3971176</guid>
-            <pubDate>Fri, 10 Jan 2025 01:10:29 GMT</pubDate>
+            <title><![CDATA[ 美国白宫在一则消息中称，过去几个月来，美国向乌克兰供应了几十万枚炮弹、数千枚火箭弹、几百辆装甲车及其他武器。]]></title>
+            <guid>3973532</guid>
+            <pubDate>Sat, 11 Jan 2025 00:57:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普：我将对此案提起上诉，并相信正义会占上风。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnc5719487.d.html</link>
-            <guid>3971175</guid>
-            <pubDate>Fri, 10 Jan 2025 01:09:38 GMT</pubDate>
+            <title><![CDATA[【2024年日本国内纯电新车销量4年来首次下滑，比亚迪销量大增首超丰田】日本汽车销售协会联合会和全国微型车协会联合会1月9日公布的数据显示，2024年日本国内纯电动汽车新车销量为59736辆，较上年减少32.5%，4年来首次下滑。这是由于日本厂商投放新款车型不足。日本汽车进口协会9日公布的2024年外国厂商EV新车进口销量为24198辆，较上年增长5.7%，连续6年创新高。比亚迪增加53.7%至2223辆，首次超过丰田汽车的EV销量（减少30.4%至2038辆）。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineeqftc5309285.d.html</link>
+            <guid>3973531</guid>
+            <pubDate>Sat, 11 Jan 2025 00:56:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普：我感谢美国最高法院为纠正我所遭受的巨大不公正所付出的时间和努力。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf6415837.d.html</link>
-            <guid>3971174</guid>
-            <pubDate>Fri, 10 Jan 2025 01:09:27 GMT</pubDate>
+            <title><![CDATA[【超1.23万栋建筑被毁 美国加州大火肆虐】美国加利福尼亚州消防局当地时间1月10日表示，加州近日的多起大火烧毁了超过1.23万栋建筑，其中伊顿地区的大火可能造成超过5000栋建筑物受损或被毁。此外，加州消防局称，帕利塞兹地区的大火可能是加州历史上破坏性第三大的火灾，目前已烧毁了5316座建筑物。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineeqftf4744763.d.html</link>
+            <guid>3973530</guid>
+            <pubDate>Sat, 11 Jan 2025 00:56:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国总统警卫处长朴钟俊10日到案接受警方调查。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf6415469.d.html</link>
-            <guid>3971172</guid>
-            <pubDate>Fri, 10 Jan 2025 01:08:49 GMT</pubDate>
+            <title><![CDATA[【中东部地区气温陆续回升 冷空气将影响西部地区】今天（1月11日）至14日，中东部气温陆续回升，多地累计升温幅度可达6至12℃，江南大部地区最高气温逐渐重回15℃以上，处在三九天，却暖得像早春。而此时的冷空气也十分活跃，今起至15日，两股冷空气接连影响我国，第一股主要影响西部地区，第二股则会给中东部带来降温。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineeqfth5110598.d.html</link>
+            <guid>3973514</guid>
+            <pubDate>Sat, 11 Jan 2025 00:54:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【强瑞技术：公司除了提供液冷检测设备外 子公司还可为客户提供散热器等热管理系统】 强瑞技术1月10日在互动平台表示，公司除了提供液冷检测设备外，子公司还可为客户提供散热器等热管理系统。此外，子公司三烨科技可生产服务器和数据中心用的液冷散热器等产品。三烨科技根据市场供需、客户订单等情况有序排单生产，保障订单交付，目前持续正常经营。公司正在积极拓展相关业务，目前处在产品验证阶段，暂未形成有效订单。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf6414870.d.html</link>
-            <guid>3971169</guid>
-            <pubDate>Fri, 10 Jan 2025 01:07:16 GMT</pubDate>
+            <title><![CDATA[【陕西华达：目前已接到新一轮商业航天订单任务】 陕西华达(301517)近日在接待机构调研时表示，目前，公司已接到新一轮商业航天（星网、千帆星座）订单任务，同时，重点项目储备充足，行业需求逐步呈现出回暖积极态势。此外，在民品业务板块，公司也将持续发力，加快在新兴领域布局，与重点客户紧密协作，深度挖掘合作潜能，不断拓宽合作领域，全方位推动经营业绩稳步攀升。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmn2014569.d.html</link>
+            <guid>3973499</guid>
+            <pubDate>Sat, 11 Jan 2025 00:48:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【57只港股昨日获公司回购，腾讯控股、友邦保险、安踏体育回购金额最大】1月9日，共57只港股获公司回购，9只个股回购金额超千万港元。其中，腾讯控股、友邦保险、安踏体育回购金额最大，回购金额分别为15.01亿港元、2.41亿港元、9994.33万港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf2492138.d.html</link>
-            <guid>3971168</guid>
-            <pubDate>Fri, 10 Jan 2025 01:06:46 GMT</pubDate>
+            <title><![CDATA[德国地学研究中心：埃塞俄比亚地区发生5.5级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmn2014482.d.html</link>
+            <guid>3973494</guid>
+            <pubDate>Sat, 11 Jan 2025 00:48:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ 日经225指数日内跌幅达1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf2489732.d.html</link>
-            <guid>3971162</guid>
-            <pubDate>Fri, 10 Jan 2025 01:02:49 GMT</pubDate>
+            <title><![CDATA[【2024年全国数据市场交易规模预计超1600亿元】国家数据局局长刘烈宏10日在全国数据工作会议上表示，2024年，全国数据市场交易规模预计超1600亿元，同比增长30％以上，其中场内市场数据交易（含备案交易）规模预计超300亿元，同比实现翻番。着眼2025年，国家数据局将大力实施“东数西算”工程，加快推进全国一体化算力网建设。2025年底，国家枢纽节点地区各类新增算力要占全国新增算力的60%以上，国家枢纽节点新建数据中心使用绿电占比要超过80%。]]></title>
+            <guid>3973488</guid>
+            <pubDate>Sat, 11 Jan 2025 00:48:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上海证券：人形机器人商业化落地可期】上海证券研报称，近期国内外产业端迎来密集催化，产业潮起入局者明显增多，国内华为、字节、比亚迪、小米、广汽等车企、科技厂商纷纷加码具身智能，海外特斯拉、1X、FigureAI等加速商业化量产步伐。人形机器人产业链进入“百花齐放，百家争鸣”阶段，目前人形机器人进入工业场景，已经成为国内外确定性较高的应用趋势，人形机器人商业化落地可期，建议关注受益的国内零部件厂商，后续建议关注人形机器人产业链相关事件催化：Optimus的最新进展更新、人形机器人国内外厂商的成果发布等。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf2489461.d.html</link>
-            <guid>3971160</guid>
-            <pubDate>Fri, 10 Jan 2025 01:02:25 GMT</pubDate>
+            <title><![CDATA[【美加州南部山火肆虐灾情严峻 两党依旧不忘“党争”】自7日燃起的美国加州山火至今日仍在肆虐，灾情异常严峻。然而，在此情况下，共和党籍的候任总统特朗普仍不忘“党争”，接连指责民主党籍加州州长纽森以及现任总统拜登的相关政策导致加州应对火灾不力；而纽森则反击称，这是在把山火问题“政治化”。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmi4872444.d.html</link>
+            <guid>3973453</guid>
+            <pubDate>Sat, 11 Jan 2025 00:36:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【埃及欢迎印尼成为金砖正式成员】埃及外交部9日发表声明，对印度尼西亚成为金砖正式成员表示欢迎。声明说，印尼成为金砖正式成员为两国在官方和民间各层面合作“搭建了又一座桥梁”。埃及期待印尼参与金砖合作机制的所有活动，以丰富和加强共同关心的各领域合作。埃及重申，金砖成员在许多问题上有相似立场和愿景，特别是在经济、金融和货币合作领域。作为2025年金砖国家轮值主席国，巴西6日宣布印尼成为金砖正式成员。本月1日，哈萨克斯坦、马来西亚、古巴、玻利维亚等多国成为金砖伙伴国。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnc5713354.d.html</link>
-            <guid>3971155</guid>
-            <pubDate>Fri, 10 Jan 2025 00:59:26 GMT</pubDate>
+            <title><![CDATA[【Meta宣布终止第三方事实核查计划，拜登发声：很可耻】据法新社报道，美国总统拜登当地时间10日谴责美国社交媒体平台“脸书”和Instagram母公司“元”公司（Meta）终止其第三方事实核查的计划，称这一决定“可耻”。“我认为这真的很可耻”，拜登在白宫对记者表示，“这完全违背了美国的一切。”当地时间7日，Meta宣布，将终止其第三方事实核查计划。据悉，Meta终止其第三方事实核查计划后，将转而采用用户撰写的社区注释模式。该计划将首先在美国实施，取代此前由独立第三方进行的事实核查服务。新加坡《联合早报》评论称，这一转变正值Meta首席执行官扎克伯格试图与特朗普和解之际，自特朗普当选以来，他捐赠了100万美元给特朗普的就职基金。另据法新社7日报道，特朗普在佛罗里达州海湖庄园接受记者采访时，对Meta终止第三方事实核查计划的举措表示满意。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmn2011565.d.html</link>
+            <guid>3973452</guid>
+            <pubDate>Sat, 11 Jan 2025 00:35:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普谈论普京：他想见面，我们正在安排。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf2487608.d.html</link>
-            <guid>3971154</guid>
-            <pubDate>Fri, 10 Jan 2025 00:58:30 GMT</pubDate>
+            <title><![CDATA[【商人和环境专家 美当选总统特朗普提名两个职位人选】当地时间1月10日，美国当选总统特朗普在其社交平台“真实社交”上宣布，环境专家埃德·拉索（Ed Russo）将担任美国环境咨询特别工作组（Environmental Advisory Task Force）组长，该工作组将遵循特朗普政府清洁空气（CLEAN AIR）和清洁水（CLEAN WATER）的相关政策，就创造大量就业机会以及保护美国自然资源的举措提供建议。此外，特朗普还任命美国商人比尔·布里格斯（Bill Briggs）担任美国小企业管理局下一任副局长。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmi4872218.d.html</link>
+            <guid>3973451</guid>
+            <pubDate>Sat, 11 Jan 2025 00:34:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【聚灿光电：目前公司采购的原材料全都国产化】 聚灿光电1月10日在互动平台表示，目前公司采购的原材料全都国产化，采购的绝大多数设备也已实现国产化。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnc5712779.d.html</link>
-            <guid>3971153</guid>
-            <pubDate>Fri, 10 Jan 2025 00:57:33 GMT</pubDate>
+            <title><![CDATA[【机构组团调研热度回升，AI业务仍是关注焦点】 本周机构调研热度有所回暖，截至1月10日16时30分，共有134家上市公司披露机构调研记录。本周有易点天下、国光电器两家公司被百家以上机构调研，楚江新材、中航西飞、孚能科技等三家公司接受80家以上机构调研。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmi4872155.d.html</link>
+            <guid>3973450</guid>
+            <pubDate>Sat, 11 Jan 2025 00:33:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【易瑞生物：公司目前已无猴痘病毒检测产品】 易瑞生物(300942)1月10日在互动平台称，公司已战略性收缩了体外诊断业务，目前已无猴痘病毒相关检测产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnc5712539.d.html</link>
-            <guid>3971152</guid>
-            <pubDate>Fri, 10 Jan 2025 00:56:52 GMT</pubDate>
+            <title><![CDATA[【也门胡塞武装与美英以继续相互袭击】当地时间10日，也门胡塞武装称在红海北部对一艘美国航母发动导弹袭击，并向以色列特拉维夫发射装有炸弹的无人机。以色列国防军同一天称，以军战机袭击了也门西海岸和内陆地区的胡塞武装军事目标。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmk5236190.d.html</link>
+            <guid>3973449</guid>
+            <pubDate>Sat, 11 Jan 2025 00:32:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【预告】国务院新闻办公室定于2025年1月13日（星期一）上午10时举行“中国经济高质量发展成效”系列新闻发布会，海关总署副署长王令浚介绍2024年全年进出口情况，并答记者问。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwmy8736520.d.html</link>
-            <guid>3971150</guid>
-            <pubDate>Fri, 10 Jan 2025 00:55:51 GMT</pubDate>
+            <title><![CDATA[【挪威旅游局：挪威公民对赴华旅游兴趣浓厚，热忱希望进一步加强两国旅游业合作】1月10日，中国驻挪威大使侯悦出席挪威TravelXpo旅游展，与挪威旅游局会展部负责人斯瓦赫女士共同考察中国展区并与参观者互动交流。侯悦大使表示，中国坚定不移扩大对外开放，不断优化便利人员往来措施。挪公民赴华免签政策已延长至30天，海南航空3月即将开通北京-奥斯陆往返直航，欢迎挪各界人士赴华旅游考察、投资兴业，共谋发展。斯瓦赫女士表示，挪威公民对赴华旅游兴趣浓厚，热忱希望进一步加强两国旅游业合作，共同促进人员往来。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmn2008423.d.html</link>
+            <guid>3973447</guid>
+            <pubDate>Sat, 11 Jan 2025 00:26:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【新兴装备：居家康养场景是公司智能机器人产品未来重点推广的领域之一】 新兴装备(002933)1月10日在互动平台表示，居家康养场景是公司智能机器人产品未来重点推广的领域之一，具体落地的应用场景将根据公司产品情况和实际市场需求确定。目前智能机器人业务尚未形成收入，且尚无在手订单，敬请广大投资者理性决策谨慎投资，注意投资风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwmy8736361.d.html</link>
-            <guid>3971149</guid>
-            <pubDate>Fri, 10 Jan 2025 00:55:19 GMT</pubDate>
+            <title><![CDATA[【首批7家检测机构抵达西藏拉孜县 震后损失评估进行中】西藏定日县7日发生6.8级地震，拉孜县与定日县相邻，距离震中67公里，截至10日晚6点，地震已造成拉孜县房屋倒塌1600余户，受灾群众约4.65万名。在做好受灾群众安置工作的同时，拉孜县震后损失评估工作也在有序推进。10日，西藏自治区首批7家检测机构17名技术人员抵达拉孜县，在拉孜县城和离定日震区最近的芒普乡开展房屋鉴定工作，陆续还有33名自治区应急部门技术人员赶往拉孜县，开展地震灾害损失评估。央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmk5232401.d.html</link>
+            <guid>3973446</guid>
+            <pubDate>Sat, 11 Jan 2025 00:23:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本经济再生大臣赤泽亮正：在决定是否宣布完全退出通货紧缩时，重要的是确保日本不会再次陷入通货紧缩。一旦我们能够宣布通货紧缩完全结束，我们就可以不用部署我们为对抗通货紧缩而准备的工具。]]></title>
-            <guid>3971147</guid>
-            <pubDate>Fri, 10 Jan 2025 00:53:26 GMT</pubDate>
+            <title><![CDATA[【大单频现 A股公司密集发布中标公告】 据记者不完全统计，2025年以来，近30家A股公司披露了中标的相关公告，其中不乏中标金额在10亿元以上的重大项目，为2025年经营业绩打下了良好的基础，还有部分公司通过中标项目促进了产业转型升级。科方得智库研究负责人张新原表示：“中标项目通常会对公司未来的经营业绩产生重要作用和积极影响。因为中标项目意味着公司获得了新的市场业务机会，将带来更多的营收和利润。如果在中标的项目中表现良好，并且能够顺利完成项目，公司的声誉和品牌价值也会得到提升，从而进一步增强竞争力。”（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmn2006223.d.html</link>
+            <guid>3973445</guid>
+            <pubDate>Sat, 11 Jan 2025 00:19:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本经济再生大臣赤泽亮正：日本经济正处于消除公众通缩心态、转向以更高工资、投资为主导的增长阶段的“关键阶段”。]]></title>
-            <guid>3971146</guid>
-            <pubDate>Fri, 10 Jan 2025 00:52:48 GMT</pubDate>
+            <title><![CDATA[创新药公司Sage确认收到美国药企渤健（Biogen）的收购要约。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmf5429999.d.html</link>
+            <guid>3973438</guid>
+            <pubDate>Fri, 10 Jan 2025 23:53:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[福特首席执行官：福特计划在美国销售增程式电动汽车。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf2485357.d.html</link>
-            <guid>3971145</guid>
-            <pubDate>Fri, 10 Jan 2025 00:52:36 GMT</pubDate>
+            <title><![CDATA[【拼手速时间到了！腊月廿六火车票今日开抢 预计当天为节前客流高峰日】1月11日，按照铁路车票预售期，旅客可以购买1月25日（腊月廿六）的火车票。1月14日可以购买1月28日除夕夜车票，1月21日可以购买2月4日的初七假期返程票，1月29日可以购买2月12日元宵节的车票。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmi4864889.d.html</link>
+            <guid>3973437</guid>
+            <pubDate>Fri, 10 Jan 2025 23:48:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【富奥股份：子公司富赛公司已快速获取大众、丰田等市场的优质订单 在屏幕等产品系列上取得全面突破】 富奥股份1月9日在机构调研时表示，公司的控股子公司富赛公司作为公司智能驾舱、自动驾驶和网联技术方面的核心资源，在富赛公司设立之初即强化研发能力建设和市场订单获取，目前已在长春、大连两地完成了研发团队建设，提升了研发能力，并快速获取了红旗、大众、丰田等市场的优质订单，在屏幕、仪表、雷达、天线、控制器（智能域控，智能智驾等领域）等产品系列上取得全面突破，实现收入规模快速增长。随着汽车智能化的快速发展，未来有望迎来新的发展机遇。]]></title>
-            <guid>3971144</guid>
-            <pubDate>Fri, 10 Jan 2025 00:51:45 GMT</pubDate>
+            <title><![CDATA[市场消息：特朗普周五在海湖庄园会见了扎克伯格。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmi4864766.d.html</link>
+            <guid>3973436</guid>
+            <pubDate>Fri, 10 Jan 2025 23:47:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【贝莱德据悉正在洽谈出售Authentic Brands集团股份】据知情人士透露，一个投资者团体包括 CVC Capital Partners, General Atlantic, HPS Investment Partners 和 Leonard Green & Partners，正在商谈收购贝莱德在 Authentic Brands集团的股权。因讨论机密信息而要求匿名的知情人士称，这这些公司--都是Authentic Brands 集团的现有投资者--正在讨论可能对股权估值达到30亿美元或更高的条款。一些知情人士警告说交易尚未敲定，条款仍可能发生变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwmy8734969.d.html</link>
-            <guid>3971143</guid>
-            <pubDate>Fri, 10 Jan 2025 00:50:20 GMT</pubDate>
+            <title><![CDATA[【短剧当道 出海加速 文化传媒行业迎风起舞】 2024年底，剧集《九重紫》跻身腾讯视频爆款俱乐部。该剧导演是曾执导过多部热门短剧的曾庆杰，于是，“短剧导演整顿长剧”成为热议话题。“短剧对影视产业链进行了重塑。从内容到平台，大量海外微短剧均由国内企业或国内企业开设的海外公司主导，中国影视产业链奠定了海外微短剧行业逻辑。”柠萌影视联合创始人、副总裁周元在接受记者采访时表示。2024年，我国微短剧市场规模已超越年度电影票房。中文在线、博纳影业、柠萌影视等多家上市公司积极拥抱短剧。展望未来，多位影视行业人士表示，科技与内容依然是永恒的主题，出海有望为行业带来新的机遇。（上海证券报）]]></title>
+            <guid>3973435</guid>
+            <pubDate>Fri, 10 Jan 2025 23:43:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【两市融资余额2连降 较上一日减少4.83亿】 截至1月9日，上交所融资余额报9346.99亿元，较前一交易日减少9920.45万元；深交所融资余额报8782.78亿元，较前一交易日减少3.83亿元；两市合计1.81万亿元，较前一交易日减少4.83亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwmy8734429.d.html</link>
-            <guid>3971141</guid>
-            <pubDate>Fri, 10 Jan 2025 00:48:33 GMT</pubDate>
+            <title><![CDATA[【拜登与泽连斯基通话 讨论美国对乌克兰援助】根据美国白宫发布的一份声明，当地时间1月10日，美国总统拜登与乌克兰总统泽连斯基进行了通话，双方讨论了美国近期对乌克兰的援助。根据声明，拜登向泽连斯基通报了美国在最近几个月为增加对乌克兰的支持所做出的努力。此外，美国还在当日宣布了一项针对俄罗斯能源部门的全面制裁方案。根据声明，泽连斯基对美国的支持表示感谢，并向拜登介绍了乌克兰在俄乌冲突中的战略规划。在通话中，拜登强调了继续支持乌克兰的重要性。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmf5428583.d.html</link>
+            <guid>3973433</guid>
+            <pubDate>Fri, 10 Jan 2025 23:41:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【2024年度安全生产和消防考核巡查结束 发现问题隐患6567项】根据国务院2024年度安全生产和消防工作考核巡查统一安排部署，22个考核巡查组已按计划完成31个省（自治区、直辖市）和新疆生产建设兵团2024年度安全生产和消防工作现场考核巡查,完成国务院安委会42个成员单位现场考核。其间，共延伸考核巡查了64个市级政府，明查暗访重点行业领域企业单位1734家，发现问题隐患6567项，其中重大事故隐患176项，移交倒查责任问题线索96项。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf2483522.d.html</link>
-            <guid>3971139</guid>
-            <pubDate>Fri, 10 Jan 2025 00:48:11 GMT</pubDate>
+            <title><![CDATA[【加州洛杉矶山火肆虐 已致11人死亡】央视记者当地时间1月10日获悉，美国加州洛杉矶县法医表示，洛杉矶山火已造成至少11人死亡。根据法医办公室记录，这些死亡案例中，5人死于帕利塞兹大火，另有6人死于伊顿大火。消息显示，由于部分社区存在电线倒塌、煤气泄漏等危险，调查人员无法进入，因此尚未能确定火灾的全部死亡人数。当天稍早前，美国卫生与公众服务部长哈维尔·贝塞拉宣布，加州因洛杉矶山火进入公共卫生紧急状态。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmk5220323.d.html</link>
+            <guid>3973430</guid>
+            <pubDate>Fri, 10 Jan 2025 23:18:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国最高法院驳回了中止特朗普“封口费”案宣判的申请】据路透社、法新社等媒体当地时间1月9日报道，美国最高法院当天驳回了中止特朗普“封口费”案宣判的申请。据悉，美最高法院以5比4的投票结果驳回了特朗普要求阻止在本月10日进行宣判的紧急申请。9日稍早前，美国纽约州上诉法院作出决定，拒绝美国候任总统特朗普代理律师提出的中止特朗普“封口费”案宣判动议。法庭文件说，由于纽约州上诉法院法官詹妮·里韦拉在审视这一动议后拒绝签字，这一动议在该法院已经不处于“悬而未决”状态。纽约州最高法院法官胡安·梅尔尚1月3日决定，于本月10日就“封口费”案作出判决。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf2483397.d.html</link>
-            <guid>3971138</guid>
-            <pubDate>Fri, 10 Jan 2025 00:47:39 GMT</pubDate>
+            <title><![CDATA[【俄称对乌多个目标实施集群打击】俄罗斯国防部10日通报称，过去一周，俄军利用高精度武器和无人机对乌克兰军用机场和武器弹药库等设施进行了28次集群打击。同一天，乌克兰方面称，乌军当天打击了俄罗斯罗斯托夫州一无人机机库。俄罗斯国防部10日通报称，1月4日至10日，俄罗斯联邦武装力量用高精度武器和攻击无人机进行了28次集群打击，摧毁乌军用机场基础设施、弹药库、攻击无人机组装车间和储存地以及乌克兰部队和外国雇佣兵临时驻扎点；控制了包括库拉霍沃在内的三个定居点。俄军防空系统拦截了8枚美制陆军战术导弹系统导弹，41枚“海马斯”火箭弹，击落689架无人机，击落1架米格-29战斗机。通报还称，在库尔斯克州边境地区，乌军过去一天损失超280人，多件装备被摧毁。（央视新闻）]]></title>
+            <guid>3973429</guid>
+            <pubDate>Fri, 10 Jan 2025 23:18:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【遭无人机袭击 乌首都基辅发布防空警报】乌克兰基辅军政管理局当地时间1月10日发布了防空袭警报。据报道，基辅遭无人机袭击，有防空导弹发射升空。乌通社援引社交媒体报道称，一架无人机在基辅撞上了一栋居民楼，暂无人员伤亡报告。对此，目前暂无官方信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf6406137.d.html</link>
-            <guid>3971137</guid>
-            <pubDate>Fri, 10 Jan 2025 00:41:52 GMT</pubDate>
+            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
+1、王毅在结束对非洲四国访问后接受中国媒体采访
+2、非中合作助力非洲农业可持续发展（国际论坛）；
+3、中国—东盟医药区域集采平台启动仪式举行；
+4、第十一次中英经济财金对话将在北京举行；
+5、何立峰出席扩消费工作推进会指出 深入贯彻落实中央经济工作会议精神 加大力度推动扩消费工作；
+6、今年实施更加积极的财政政策，持续用力、更加给力 将密切跟踪形势，梯次拿出政策“后手”（权威发布·开创高质量发展新局面）；
+7、2024年登记在册经营主体1.89亿户，增长3.1% 经营主体发展质量稳中有升（权威发布·开创高质量发展新局面）；
+8、量子计算，未来不可限“量”（瞰前沿）；
+9、中国高铁为何能“杯水不洒、立币不倒”（唠“科”）。]]></title>
+            <guid>3973428</guid>
+            <pubDate>Fri, 10 Jan 2025 23:17:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【2024年全国纪检监察机关处分省部级及以上干部73人】2024年，全国纪检监察机关共接收信访举报356.3万件次，其中检举控告类信访举报100.7万件次。处置问题线索217.5万件。立案87.7万件，其中立案省部级及以上干部73人、厅局级干部4348人、县处级干部3.5万人、乡科级干部12.1万人；立案现任或原任村党支部书记、村委会主任10.4万人。处分88.9万人，其中党纪处分68万人、政务处分27万人；处分省部级及以上干部73人，厅局级干部3838人，县处级干部3.1万人，乡科级干部11.2万人，一般干部12.8万人，农村、企业等其他人员61.3万人。 (中国纪检监察报)]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf6405775.d.html</link>
-            <guid>3971134</guid>
-            <pubDate>Fri, 10 Jan 2025 00:40:22 GMT</pubDate>
+            <title><![CDATA[美国总统拜登：只要我们保持西欧在乌克兰问题上的团结，乌克兰就有真正的机会获胜。我希望给予乌克兰一切优势。]]></title>
+            <guid>3973425</guid>
+            <pubDate>Fri, 10 Jan 2025 23:12:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：贝莱德据悉正在洽谈出售Authentic Brands集团股权。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf2480508.d.html</link>
-            <guid>3971133</guid>
-            <pubDate>Fri, 10 Jan 2025 00:39:06 GMT</pubDate>
+            <title><![CDATA[拜登谈Meta：新的事实核查政策与我们在美国的谈话方式背道而驰。一个亿万富翁可以买东西，然后不核查事实，这种想法真的很可耻。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmf5425552.d.html</link>
+            <guid>3973424</guid>
+            <pubDate>Fri, 10 Jan 2025 23:09:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国总统警卫处长10日上午将出席警方调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf2478906.d.html</link>
-            <guid>3971129</guid>
-            <pubDate>Fri, 10 Jan 2025 00:35:08 GMT</pubDate>
+            <title><![CDATA[美国药企渤健（Biogen）提出以大约4.69亿美元收购创新药公司Sage。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmk5218143.d.html</link>
+            <guid>3973421</guid>
+            <pubDate>Fri, 10 Jan 2025 23:06:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【16股获券商买入评级，新集能源目标涨幅达54.24%】 1月9日，共有16只个股获券商买入评级，其中8只个股公布了目标价格。按最高目标价计算，新集能源、方盛制药、新集能源目标涨幅排名居前，涨幅分别达54.24%、48.83%、45.34%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnc5704123.d.html</link>
-            <guid>3971127</guid>
-            <pubDate>Fri, 10 Jan 2025 00:34:22 GMT</pubDate>
+            <title><![CDATA[【公安部：日喀则1155名警力在受灾现场开展抢险救援】公安部表示，当前，西藏广大公安民警、辅警正全力投入日喀则定日县地震抢险救援工作中，切实保障灾区人民群众的生命财产安全。地震发生以来，日喀则市公安机关累计组织1155名警力赶赴受灾现场，全力以赴开展抢险救援、交通疏导、治安维护等工作，切实保障人民群众生命财产安全，维护社会大局稳定。其间，日喀则市公安机关调派全市警力，进驻受灾严重的定日县5个乡55个行政村，第一时间做好人员搜救、排查工作，确保受困人员不落一人。同时，做好治安巡逻防控各项工作，妥善安置受灾群众，严防余震、低温等次生灾害，安排好群众基本生活，确保他们安全温暖过冬。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmk5217533.d.html</link>
+            <guid>3973418</guid>
+            <pubDate>Fri, 10 Jan 2025 23:02:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本半导体公司ADVANTEST涨逾4%，股价创纪录新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf2478081.d.html</link>
-            <guid>3971125</guid>
-            <pubDate>Fri, 10 Jan 2025 00:32:41 GMT</pubDate>
+            <title><![CDATA[【美国南方遭冬季风暴袭击 停飞逾3,000航班】美国南部在一场威力巨大的冬季风暴席卷下陷入了降雪和冰冻，3,000多个航班被迫停飞，客运列车服务也被中断。FlightAware的数据显示，截至美东时间周五下午2:55，各地有3,419个航班被取消。其中，亚特兰大哈茨菲尔德-杰克逊国际机场和附近的夏洛特-道格拉斯机场占到半数以上。此外周四遭受严重影响的的达拉斯地区各机场周五又取消了数百个航班。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmk5216764.d.html</link>
+            <guid>3973417</guid>
+            <pubDate>Fri, 10 Jan 2025 22:57:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【好莱坞陷入真·火海 副总统住所受波及 总统之子豪宅“夷为平地”】截至当地时间1月9日，洛杉矶历史上最严重的山火仍在席卷全城。美国电影工业核心地带也未能幸免，洛杉矶地标好莱坞山附近8日燃起的最新大火迅速蔓延，已经烧毁多所建筑。当地时间1月8日，美国副总统卡玛拉·哈里斯的新闻秘书证实，受帕利塞德大火影响，哈里斯位于洛杉矶的家已在疏散令覆盖范围内。事发时，该住宅无人居住。据多家外媒9日报道，美国总统拜登之子亨特·拜登在马里布租住的豪宅已被山火“夷为平地”。拜登当日早些时候表示，此前他们接到通知，住宅可能被烧毁了，但具体情况还不确定。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf6403474.d.html</link>
-            <guid>3971124</guid>
-            <pubDate>Fri, 10 Jan 2025 00:31:47 GMT</pubDate>
+            <title><![CDATA[【IMF总裁：特朗普关税威胁推高全球利率】国际货币基金组织(IMF)总裁克里斯塔利娜·格奥尔基耶娃表示，美国当选总统唐纳德·特朗普的关税威胁已经推高了全球较长期借贷成本。即将上任的特朗普政府的贸易政策不确定性加剧了全球经济逆风，并且“实际表现为全球范围内的长期利率走高，”格奥尔基耶娃周五在华盛顿对记者表示。她表示，这发生在短期利率已下降的情况下，是一种“非常不寻常”的组合。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmi4859464.d.html</link>
+            <guid>3973416</guid>
+            <pubDate>Fri, 10 Jan 2025 22:54:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳大利亚11月家庭支出环比增长0.4%，同比增长2.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf6402965.d.html</link>
-            <guid>3971122</guid>
-            <pubDate>Fri, 10 Jan 2025 00:30:20 GMT</pubDate>
+            <title><![CDATA[【券商密集回应投资者关切 最新自营策略、并购重组预期等话题热度高】据记者统计，截至1月10日，去年12月份以来至少有8家券商发布了合计15份投资者关系活动记录表，就当下投资者关切的自营业务战略、资管业务发展、并购重组预期等热点问题作出一一回应，也透露了新一年发展的关键战略布局方向。（之前日报表）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmk5215871.d.html</link>
+            <guid>3973415</guid>
+            <pubDate>Fri, 10 Jan 2025 22:53:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【到2027年，浙江力争智能网联新能源汽车产量达150万辆】日前，浙江省经信厅印发《浙江省智能网联汽车产业发展行动方案（2025—2027年）》，提出到2027年，浙江智能网联汽车产业竞争力明显提升。“车路云一体化”应用试点建设走在全国前列。高阶自动驾驶技术取得突破，L3级及以上高阶智能网联汽车实现量产。力争到2027年，全省智能网联新能源汽车产量达到150万辆，整零协同产业体系基本完善。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwmy8729611.d.html</link>
-            <guid>3971120</guid>
-            <pubDate>Fri, 10 Jan 2025 00:29:53 GMT</pubDate>
+            <title><![CDATA[加州州长纽森邀请特朗普前往加州亲眼目睹火灾损失。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmf5422333.d.html</link>
+            <guid>3973413</guid>
+            <pubDate>Fri, 10 Jan 2025 22:39:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【2025年哈尔滨亚冬会中国体育代表团领奖装备发布】1月9日，中国体育代表团哈尔滨亚洲冬季运动会领奖装备在哈尔滨正式发布。领奖装备的设计以“冰雪浪漫”为主题，红雪花图案展现中国健儿凌霜傲雪的必胜决心，表达出中国体育代表团和合共生、兼收并蓄的东方气节。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnc5701418.d.html</link>
-            <guid>3971115</guid>
-            <pubDate>Fri, 10 Jan 2025 00:27:09 GMT</pubDate>
+            <title><![CDATA[美国白宫：总统拜登强调继续支持乌克兰争取自由的重要性。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmk5212125.d.html</link>
+            <guid>3973412</guid>
+            <pubDate>Fri, 10 Jan 2025 22:35:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【紫金矿业：正就潜在收购藏格矿业股份进行商讨】 紫金矿业在港交所公告，公司正在与藏格矿业第一大股东西藏藏格创业投资集团有限公司（藏格创投）及其一致行动人、第二大股东宁波梅山保税港区新沙鸿运投资管理有限公司就潜在收购藏格矿业股份进行商讨，潜在收购事项可能涉及藏格矿业的控制权变更。公司提醒，本次收购尚需等待公司董事会的批准及收购协议的正式签署。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwmy8728297.d.html</link>
-            <guid>3971112</guid>
-            <pubDate>Fri, 10 Jan 2025 00:26:07 GMT</pubDate>
+            <title><![CDATA[巴西政府：委内瑞拉与巴西的边境将于今日关闭，直至1月13日。该决定由委内瑞拉当局做出。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmk5212029.d.html</link>
+            <guid>3973410</guid>
+            <pubDate>Fri, 10 Jan 2025 22:35:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【正海磁材：公司产品可高度匹配人形机器人的空心杯电机和无框力矩电机 已与多家客户开展联合研发、供样等工作】 正海磁材1月10日在互动平台表示，公司产品可高度匹配人形机器人的空心杯电机和无框力矩电机，目前公司已与多家下游客户开展联合研发、供样等工作。]]></title>
-            <guid>3971108</guid>
-            <pubDate>Fri, 10 Jan 2025 00:21:46 GMT</pubDate>
+            <title><![CDATA[OpenAI、Meta和Uber首席执行官计划参加特朗普的就职典礼。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepzmn1986429.d.html</link>
+            <guid>3973409</guid>
+            <pubDate>Fri, 10 Jan 2025 22:34:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【西藏定日地震已记录到余震1601次 】截至01月10日08时00分，共记录到余震1601次，其中2.0级以下1239次，2.0-2.9级324次，3.0-3.9级34次，4.0-4.9级4次，5.0级以上0次。目前最大余震为4.4级，距主震约18公里。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnc5697287.d.html</link>
-            <guid>3971104</guid>
-            <pubDate>Fri, 10 Jan 2025 00:18:38 GMT</pubDate>
+            <title><![CDATA[【美国反垄断监管部门支持马斯克挑战OpenAI和微软的董事会重叠问题】美国两家反垄断机构支持马斯克的部分主张，阻止人工智能初创公司OpenAI重组为一家营利性公司。1月10日，美国司法部（DOJ）和联邦贸易委员会（FTC）在一份法庭文件中辩称，OpenAI和微软公司的董事职位重叠可能会损害竞争，即使在相关人员辞职后也是如此。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvcm4987914.d.html</link>
+            <guid>3973408</guid>
+            <pubDate>Fri, 10 Jan 2025 22:31:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国最高法院驳回了特朗普有关“暂停1月10日封口费案宣判”的请求】美国最高法院星期四驳回了特朗普的请求， 特朗普要求纽约州法院停止对他的判决。  特朗普被控犯有向一名色情明星支付封口费的刑事指控。法院驳回了特朗普在最后一刻阻止他的判决的请求，该判决定于周五上午9:30（格林尼治标准时间1430）在曼哈顿的纽约州法院进行。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf6399181.d.html</link>
-            <guid>3971103</guid>
-            <pubDate>Fri, 10 Jan 2025 00:17:26 GMT</pubDate>
+            <title><![CDATA[【经济日报金观平：为壮大耐心资本提供更好环境】中央经济工作会议提出，健全多层次金融服务体系，壮大耐心资本，更大力度吸引社会资本参与创业投资，梯度培育创新型企业。壮大耐心资本，稳定的投资预期至关重要。资本的耐心不会无缘无故产生，需要一个稳定、透明、可预期的环境来呵护。这就要求着力增强宏观政策取向的协同性、一致性，加强财政、货币、产业、科技等政策协调配合，提高政策制定和执行的透明度，增强市场的理解和信任，为耐心资本创造更为安全的投资环境。尤其应健全完善适配长期投资的资本市场基础制度，优化“募投管退”全链条、各环节，并加强投资者保护，对于财务造假、欺诈发行、操纵市场等恶劣行径，坚持“零容忍”的执法态度，确保市场的公平公正公开，让资本能够“俯下身、放下心、长久干”，做创新创业的长跑搭档。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvcm4987407.d.html</link>
+            <guid>3973407</guid>
+            <pubDate>Fri, 10 Jan 2025 22:26:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【特鲁多称特朗普吞并加拿大言论是为分散注意力：“这不会发生”】加拿大总理特鲁多当地时间周四表示，他认为美国当选总统特朗普公开表示考虑吞并加拿大，只是为了分散人们对他威胁要对加拿大进口商品征收高额关税的注意力，“我认为正在发生的事情是，特朗普是一位非常老练的谈判者，他正在让人们被这个话题分散注意力，让人们远离对石油、天然气、电力、钢铁、铝、木材和混凝土征收25%关税的话题。”特鲁多说，他并不担心美国真的会吞并加拿大，“这不会发生”。特鲁多还说，他的辞职与特朗普在美国的胜利无关，他在第一个任期内与特朗普合作良好，“我期待着在接下来两个月里，在我还在任期间继续与他合作。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwmy8725775.d.html</link>
-            <guid>3971102</guid>
-            <pubDate>Fri, 10 Jan 2025 00:16:43 GMT</pubDate>
+            <title><![CDATA[【新进展不断 房企化债或将提速】岁末年初，房企化债迎来新一轮的进展。1月9日晚间，碧桂园宣布境外债务重组提案的关键条款已与由七家知名银行组成的协调委员会达成共识。同日，万科控股子公司2019年的一笔期限不超过5年的保险资管债权投资计划，到期日调整至2026年12月31日。此外，融创中国、龙光集团、*ST金科等公司的债务重组或重整事宜亦有新进展。同策研究院联席院长宋红卫认为，房企化债取得新进展是相关方积极努力的结果，鉴于2025年仍是房企债务集中到期的时间点，预计房企化债工作在2025年将会进一步提速。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvcq2115362.d.html</link>
+            <guid>3973405</guid>
+            <pubDate>Fri, 10 Jan 2025 22:15:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【优必选UBHOME智能割草机M10在CES首发】 据优必选科技消息，当地时间1月7日，2025年CES展正式在美国拉斯维加斯开幕。优必选旗下家庭消费子品牌UBHOME牵手高通，面向全球用户正式发布了智能割草机M10。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwmy8725739.d.html</link>
-            <guid>3971101</guid>
-            <pubDate>Fri, 10 Jan 2025 00:16:28 GMT</pubDate>
+            <title><![CDATA[【短剧当道 出海加速 文化传媒行业迎风起舞】2024年，我国微短剧市场规模已超越年度电影票房。中文在线、博纳影业、柠萌影视等多家上市公司积极拥抱短剧。展望未来，多位影视行业人士表示，科技与内容依然是永恒的主题，出海有望为行业带来新的机遇。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvcq2115329.d.html</link>
+            <guid>3973404</guid>
+            <pubDate>Fri, 10 Jan 2025 22:15:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【比博斯特完成超3亿元B轮融资】 1月9日，比博斯特（上海）汽车电子有限公司（下称“比博斯特”）宣布完成超3亿元B轮融资。本轮融资由普华资本、东方嘉富、恒隆集团、保隆科技等联合投资。据介绍，目前，比博斯特全系智能制动产品、智能悬架产品均已量产，智能后轮转向系统BRWS、纯线控转向系统BSBW、电子机械制动系统BEMB等产品已进入量产测试阶段，将于2026年正式量产。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwmy8725329.d.html</link>
-            <guid>3971098</guid>
-            <pubDate>Fri, 10 Jan 2025 00:13:20 GMT</pubDate>
+            <title><![CDATA[【银行理财拼抢“开门红” 行业“二次转型”已成共识银行理财拼抢“开门红” 行业“二次转型”已成共识】进入2025年，银行理财行业拼抢业务“开门红”。此外，多家机构透露固收+、多资产等新年新打法。业内人士预计，2025年银行理财规模将持续增长。在规模扩大的同时，银行理财行业须正视产品供需结构失衡、资产端单一化等问题，通过拓展多资产、研发新策略等方式，实现二次转型。（上证报）]]></title>
+            <guid>3973403</guid>
+            <pubDate>Fri, 10 Jan 2025 22:14:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【英伟达高管新年伊始出售公司股票 套现550万美元】英伟达全球现场运营执行副总裁Ajay K. Puri在今年首次内部人士股票出售中，于1月6日至7日出售了价值550万美元的股票，每股价格在150.41美元至152.50美元之间，接近该股票的历史最高价。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf2469336.d.html</link>
-            <guid>3971094</guid>
-            <pubDate>Fri, 10 Jan 2025 00:10:33 GMT</pubDate>
+            <title><![CDATA[惠誉：奥地利经济前景依然低迷，预计2025年实际GDP增长率仅为0.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvcn5340219.d.html</link>
+            <guid>3973401</guid>
+            <pubDate>Fri, 10 Jan 2025 22:08:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[三菱日联金融跌超1%，日本三菱日联银行此前出现系统故障，导致个人及企业用户的部分网络银行交易受到影响，跨行转账也发生延迟。]]></title>
-            <guid>3971093</guid>
-            <pubDate>Fri, 10 Jan 2025 00:09:48 GMT</pubDate>
+            <title><![CDATA[惠誉：预计澳大利亚2026年经济才会出现更显著的复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvci5550942.d.html</link>
+            <guid>3973400</guid>
+            <pubDate>Fri, 10 Jan 2025 22:08:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[白宫称，哈里斯取消新加坡、巴林和德国之行。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf6397940.d.html</link>
-            <guid>3971092</guid>
-            <pubDate>Fri, 10 Jan 2025 00:09:16 GMT</pubDate>
+            <title><![CDATA[美国商务部长雷蒙多：台积电在亚利桑那州为美国客户大规模生产4纳米芯片。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvcn5339598.d.html</link>
+            <guid>3973399</guid>
+            <pubDate>Fri, 10 Jan 2025 22:05:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[现代汽车股价上涨4.7%，此前宣布与英伟达建立合作伙伴关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnc5694046.d.html</link>
-            <guid>3971091</guid>
-            <pubDate>Fri, 10 Jan 2025 00:08:32 GMT</pubDate>
+            <title><![CDATA[【澳大利亚墨尔本西南部发生持刀伤人事件 造成1人死亡】当地时间10日晚，澳大利亚墨尔本西南部发生持刀伤人事件，造成1人死亡、2人受伤。伤者已在附近医院接受治疗。警方在案发现场附近逮捕了4人，并封锁了现场。事件发生的原因仍在调查中。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvci5550584.d.html</link>
+            <guid>3973398</guid>
+            <pubDate>Fri, 10 Jan 2025 22:04:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【丹麦首相：期待与特朗普政府进行良好合作】 丹麦首相梅特·弗雷泽里克森9日晚在接受当地媒体采访时表示，丹麦政府期待与即将上任的美国总统特朗普进行良好合作。弗雷泽里克森是在当晚刚刚结束的格陵兰岛紧急会议后接受媒体采访时做出上述表态的。据当地媒体报道，丹麦首相弗雷泽里克森在会上就丹麦、格陵兰岛和美国之间的关系向丹麦议会各党派领导人做了情况通报。在会上就丹麦、格陵兰岛和美国之间的关系向丹麦议会各党派领导人做了情况通报。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf2467825.d.html</link>
-            <guid>3971088</guid>
-            <pubDate>Fri, 10 Jan 2025 00:06:36 GMT</pubDate>
+            <title><![CDATA[惠誉将奥地利信评展望调整至负面，确认'AA+'评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvci5550570.d.html</link>
+            <guid>3973397</guid>
+            <pubDate>Fri, 10 Jan 2025 22:03:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国泰航空回应连续两日尼泊尔抵港客机乘客疑食物中毒】 国泰航空1月8日和9日由尼泊尔加德满都抵港的CX640航班，分别有乘客报称不适，怀疑食物中毒。香港特区政府卫生署卫生防护中心表示，两宗个案共涉及36人，正跟进调查是否有流行病学关连，呼吁乘坐这两班机的旅客，致电中心热线，以便提供适切评估，如果出现感染病征，例如发烧或感到不适，应同时立即求医。国泰航空向受影响顾客致歉，强调非常认真看待食物安全及卫生事宜，据现阶段调查所知，受污染的食物相信并非来自国泰航空，但如果最终调查结果显示国泰处理食物的程序出现问题，公司将公开交代，并采取纠正措施。（香港电台）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf6397038.d.html</link>
-            <guid>3971086</guid>
-            <pubDate>Fri, 10 Jan 2025 00:04:22 GMT</pubDate>
+            <title><![CDATA[【中央气象台1月11日06时继续发布大风蓝色预警】预计，1月11日08时至12日08时，西藏中西部、青海东北部、甘肃中西部、内蒙古中西部、宁夏、陕西北部等地部分地区有5～6级风，阵风7～8级；台湾海峡、巴士海峡、南海大部海域、北部湾将有7~8级、阵风9级的东北风，其中南海西南部的部分海域风力可达9级、阵风10级。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvcn5339045.d.html</link>
+            <guid>3973396</guid>
+            <pubDate>Fri, 10 Jan 2025 21:59:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本7&I控股公司股价下跌2.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwmy8723701.d.html</link>
-            <guid>3971085</guid>
-            <pubDate>Fri, 10 Jan 2025 00:03:58 GMT</pubDate>
+            <title><![CDATA[【泽连斯基称与拜登进行了交谈，并感谢他的支持】乌克兰总统泽连斯基表示，他今天早些时候与美国总统拜登进行了交谈，并感谢他的“坚定不移的支持”。“我与（拜登）进行了交谈，并对加州毁灭性的山火和悲惨的生命损失表示哀悼，”泽连斯基表示。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvcm4985854.d.html</link>
+            <guid>3973394</guid>
+            <pubDate>Fri, 10 Jan 2025 21:56:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[福特汽车董事长与特朗普讨论了关税、美国制造业的健康状况等。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwnf6396968.d.html</link>
-            <guid>3971084</guid>
-            <pubDate>Fri, 10 Jan 2025 00:03:42 GMT</pubDate>
+            <title><![CDATA[【2025年生猪价格中枢同比或有所下移】春节前通常是猪肉消费的季节性需求旺季，节日备货、腌腊等需求集中开启，然而近期生猪市场却是“旺季不旺”，价格不仅不涨，反而创下阶段性新低。 业内人士表示，近期，猪肉腌腊需求支撑力度不足，且养殖端加速出栏，造成市场供应充裕，导致生猪价格在传统消费旺季不涨反跌。根据能繁母猪对应10个月后的生猪供应规律，未来生猪出栏量或呈逐渐增加态势，而需求端或难有明显改善，2025年生猪价格中枢或较2024年有所下移，全年有望维持区间震荡。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvcm4985569.d.html</link>
+            <guid>3973390</guid>
+            <pubDate>Fri, 10 Jan 2025 21:50:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[福特董事长表示，他与特朗普就汽车行业问题进行了交谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwmy8723605.d.html</link>
-            <guid>3971083</guid>
-            <pubDate>Fri, 10 Jan 2025 00:03:27 GMT</pubDate>
+            <title><![CDATA[【达美航空恢复亚特兰大枢纽航班】达美航空公司周五表示，在极端的冬季天气迫使亚特兰大哈茨菲尔德-杰克逊枢纽的所有五条跑道关闭两个多小时后，该枢纽的航班起降已经恢复。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvcn5337993.d.html</link>
+            <guid>3973389</guid>
+            <pubDate>Fri, 10 Jan 2025 21:45:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国洛杉矶山火已造成至少6人死亡】美国洛杉矶山火已造成至少6人死亡。当地政府部门仍在继续核实具体的伤亡人数。据悉，最新确认的一名死亡人员来自马里布市，因帕利塞德大火丧生。另外五人因伊顿大火死亡。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-10/detail-ineemwmy8723583.d.html</link>
-            <guid>3971082</guid>
-            <pubDate>Fri, 10 Jan 2025 00:03:13 GMT</pubDate>
+            <title><![CDATA[【银行业ETF和区域银行ETF在美国非农日跌约3%，本周至少跌3.7%，航空业ETF周涨超4.3%】 周五（1月10日），银行业ETF收跌3.01%，区域银行ETF跌2.96%，金融业ETF跌2.41%，全球科技股指数ETF、科技行业ETF、半导体ETF也至少跌2%，能源业ETF则收涨超0.4%，全球航空业ETF涨1.75%。]]></title>
+            <guid>3973388</guid>
+            <pubDate>Fri, 10 Jan 2025 21:43:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[拜登将在美国东部时间下午5:00就经济问题发表讲话。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvcn5337607.d.html</link>
+            <guid>3973387</guid>
+            <pubDate>Fri, 10 Jan 2025 21:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗伊斯兰革命卫队公布一处新导弹基地】当地时间10日，伊朗伊斯兰革命卫队公布一处新的导弹基地。伊朗伊斯兰革命卫队司令萨拉米在揭幕仪式上讲话称，敌人以为伊朗的导弹生产能力被切断，但伊朗的导弹力量无论在技术上还是质量上依然在增加，这意味着伊朗在未来还将生产新的导弹以及建造更多的导弹基地。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvcq2111833.d.html</link>
+            <guid>3973386</guid>
+            <pubDate>Fri, 10 Jan 2025 21:38:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一油轮因机械故障在波罗的海失去控制 暂无原油泄漏风险】一艘载有99000吨原油的油轮当地时间1月9日晚在德国吕根岛附近波罗的海海面上因机械故障失去控制，无法行驶。德国已经派出三艘救援船和拖轮试图将这艘油轮拖至岸边。但由于海面上天气情况不好，救援行动暂时还未展开。目前船上的24名水手没有生命危险，船体也没有结构损坏，不会发生原油泄漏。据了解，这条发生事故的油轮名为“埃夫汀”号，悬挂巴拿马国旗，但实际归俄罗斯所有。事故发生时正在从俄罗斯港口驶往埃及塞得港。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvcm4984975.d.html</link>
+            <guid>3973385</guid>
+            <pubDate>Fri, 10 Jan 2025 21:35:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果CEO库克2024年总薪酬7460万美元，前年为6320万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvcq2111534.d.html</link>
+            <guid>3973384</guid>
+            <pubDate>Fri, 10 Jan 2025 21:33:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美法官再次裁定特朗普前私人律师朱利安尼藐视法庭】当地时间1月10日，美国联邦法官裁定，特朗普前私人律师鲁迪·朱利安尼因在涉及佐治亚州前选举工作人员的诽谤案中发表进一步诽谤性言论，构成藐视法庭。这是朱利安尼本周内第二次被指控藐视法庭。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvcn5336818.d.html</link>
+            <guid>3973383</guid>
+            <pubDate>Fri, 10 Jan 2025 21:32:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拜登将于下周三发表告别演讲】美国白宫称，总统拜登将于下周三（1月15日）星期三晚上8点（北京时间周四09:00），在椭圆形办公室向全国发表告别演讲，届时距离特朗普重新执政还有五天。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvcq2111079.d.html</link>
+            <guid>3973382</guid>
+            <pubDate>Fri, 10 Jan 2025 21:25:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国上周银行存款17.748万亿美元，之前一周17.865万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvcq2110588.d.html</link>
+            <guid>3973380</guid>
+            <pubDate>Fri, 10 Jan 2025 21:17:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高档酒业公司Constellation Brands Inc.（STZ）收跌17.09%，创2013年以来最差单日表现。]]></title>
+            <guid>3973378</guid>
+            <pubDate>Fri, 10 Jan 2025 21:14:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美卫生部长宣布加州进入公共卫生紧急状态】美国卫生与公众服务部长哈维尔·贝塞拉当地时间1月10日宣布加州因洛杉矶山火进入公共卫生紧急状态。此举旨在帮助应对山火对居民及救援人员健康造成的影响，为医疗系统提供更大的灵活性，以满足紧急健康需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvci5548500.d.html</link>
+            <guid>3973377</guid>
+            <pubDate>Fri, 10 Jan 2025 21:12:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[杰富瑞收跌10.79%，创2020年3月份以来最差单日表现。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvcq2109565.d.html</link>
+            <guid>3973376</guid>
+            <pubDate>Fri, 10 Jan 2025 21:11:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国连锁百货店诺德斯特龙预计2024财年收入将增长1.5%至2.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvcm4983742.d.html</link>
+            <guid>3973375</guid>
+            <pubDate>Fri, 10 Jan 2025 21:07:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构最新调研路线图出炉 易点天下最受关注】Wind数据显示，机构本周（1月6日至1月10日）共调研了169家上市公司，其中易点天下最获关注，参与调研的机构达138家，中际旭创获得119家机构调研，国光电器获得109家机构调研。据统计，广信材料获机构调研9次，科思科技、桂林三金、周大生获调研3次。从调研行业来看，机构持续聚焦工业机械、电子元件、电子设备和仪器等板块。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvcm4983538.d.html</link>
+            <guid>3973373</guid>
+            <pubDate>Fri, 10 Jan 2025 21:04:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国防部：超600名国民警卫队员参与洛杉矶山火救援】美国国防部副新闻发言人萨布丽娜·辛格在当地时间1月10日简报会上表示，已有超过600名加州国民警卫队员参与洛杉矶山火救援行动，预计救援人数将进一步增加。目前8架配备空中灭火系统的飞机准备投入工作，同时，500名现役海军陆战队员已做好准备，将根据需求提供道路清理、物资分发、搜救、运输以及综合支持。另有10架海军直升机也已准备提供协助。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvcq2102900.d.html</link>
+            <guid>3973364</guid>
+            <pubDate>Fri, 10 Jan 2025 20:41:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国乔安百货计划申请一年之内的第二次破产保护。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineepvcm4981095.d.html</link>
+            <guid>3973362</guid>
+            <pubDate>Fri, 10 Jan 2025 20:37:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
