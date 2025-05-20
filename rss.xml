@@ -4,333 +4,336 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 19 May 2025 01:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 May 2025 01:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[阅文集团集团开跌4.73%，恒指季检中遭剔除出恒生科技指数成分股。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaekc1155701.d.html</link>
-            <guid>4201101</guid>
-            <pubDate>Mon, 19 May 2025 01:24:34 GMT</pubDate>
+            <title><![CDATA[【鸿蒙折叠电脑14小时预约近5万】昨日，鸿蒙电脑正式发布，鸿蒙系统终于完成了生态闭环。备受关注的要数鸿蒙折叠电脑，虽然售价高达23999元-26999元，但华为用户们的热情不减，截至5月20日8点，即预约开始14个小时，华为商城中华为MateBook Fold非凡大师的预约人数就超过了4.7万人。鸿蒙电脑要打破Windows和MacOS的垄断，应用生态是关键一环。鸿蒙电脑中默认内置了一个名为Oseasy虚拟机的工具，可以在鸿蒙电脑中运行Windows11，Oseasy应用商店中也提供了众多Windows应用。这种方式也可以暂时解决一些应用还未鸿蒙化的问题，以保障用户体验。]]></title>
+            <guid>4203072</guid>
+            <pubDate>Tue, 20 May 2025 01:22:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【预告：商务部定于5月22日下午3时举行新闻发布会】商务部定于2025年5月22日(星期四)下午3时举行新闻发布会，请新闻发言人介绍近期商务领域重点工作有关情况，并答记者问。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaekc1154379.d.html</link>
-            <guid>4201099</guid>
-            <pubDate>Mon, 19 May 2025 01:22:29 GMT</pubDate>
+            <title><![CDATA[【昆仑万维：艾捷科芯研发项目整体研发进度已经过半】 昆仑万维(300418)在互动平台上表示，公司旗下艾捷科芯研发项目进展顺利，目前已攻克多项核心技术难关，整体研发进度已经过半，向实现量产迈出了坚实的一步。]]></title>
+            <guid>4203067</guid>
+            <pubDate>Tue, 20 May 2025 01:20:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【迈瑞医疗：国内业务将从今年三季度开始迎来重大拐点】迈瑞医疗在业绩说明会上表示，随着医疗设备更新项目逐步启动，医疗设备月度招标数据的复苏如果能够持续，同时考虑到过去几年上下半年收入分布非常态，尤其是去年二季度是国内业务基数最高的一个季度，公司有信心国内业务将从今年三季度开始迎来重大拐点。国际市场，通过继续加大力度建设海外本地化平台，公司预计二季度开始国际业务增速将有所恢复，其中发展中国家全年有望维持快速增长的趋势。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaekc1154185.d.html</link>
-            <guid>4201098</guid>
-            <pubDate>Mon, 19 May 2025 01:22:13 GMT</pubDate>
+            <title><![CDATA[【深圳港集团：拟投资境外某上市主体项目 选聘财务顾问等服务】 近日，深圳港集团作为采购单位，发布《关于选聘参与投资境外某上市主体项目财务顾问服务机构市场询价公告》、《深圳港集团有限公司投资境外某上市主体项目专项法律服务市场询价公告》、《关于选聘参与投资境外某上市主体项目税务筹划服务机构市场询价公告市场询价公告》。其中，财务顾问服务内容包括股权收购财务顾问服务，完成标的资产及相关公司的投资可行性研究；风险评估；境外投资项目的交易结构、项目公司或平台公司设置等方案，例如负责跨境资本运作方案的整体设计，协助参与跟发行主体等核心参与方的商务谈判及磋商协议条款。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiik1589582.d.html</link>
+            <guid>4203066</guid>
+            <pubDate>Tue, 20 May 2025 01:19:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[力宝华润停牌等待内幕消息公告。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaeke7925690.d.html</link>
-            <guid>4201094</guid>
-            <pubDate>Mon, 19 May 2025 01:17:16 GMT</pubDate>
+            <title><![CDATA[                                    【微软将xAI的Grok 3纳入Azure AI Foundry模型列表】 微软5月19日宣布扩展一站式AI开发平台Azure AI Foundry模型列表，纳入xAI的 Grok 3和Grok 3 mini，这些模型由微软直接托管和计费，并通过Azure AI Foundry服务提供给微软自己的产品团队和客户。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiih2151184.d.html</link>
+            <guid>4203063</guid>
+            <pubDate>Tue, 20 May 2025 01:15:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【精研科技：机器人灵巧手部分项目的空心杯电机和行星减速器已经给客户送样】 精研科技在互动平台上表示，工业控制方面，公司正在给客户交样无刷电机+行星减速箱+控制器的组件。服务机器人方面，公司已经小批量供应无刷电机和行星减速器；机器人灵巧手方面，部分项目的空心杯电机和行星减速器已经给客户送样了。公司看好该领域长期发展潜力，将持续深化研发，但产品与市场需求的精准匹配仍需时间磨合，只有当应用场景充分打开，市场需求才能真正释放，推动灵巧手的放量。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaekc1150513.d.html</link>
-            <guid>4201091</guid>
-            <pubDate>Mon, 19 May 2025 01:16:23 GMT</pubDate>
+            <title><![CDATA[【日本财务大臣加藤胜信：与贝森特就外汇问题进行的会谈将寻求遵循现有立场】日本财务大臣加藤胜信表示，先前与贝森特的双边会谈中，双方确认汇率应由市场决定，汇市过度波动对经济有不利影响。本周与贝森特的任何会谈预计都将建立在这项汇率认知的基础上。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiih2149083.d.html</link>
+            <guid>4203061</guid>
+            <pubDate>Tue, 20 May 2025 01:12:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【航行警告！黄海北部军事任务】大连海事局发布航行警告，自5月19日12时至5月23日17时，黄海北部部分海域执行军事任务，禁止驶入。（中国海事局网站）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaekc1149848.d.html</link>
-            <guid>4201089</guid>
-            <pubDate>Mon, 19 May 2025 01:15:24 GMT</pubDate>
+            <title><![CDATA[                                    【金禄电子：目前暂未与人形机器人制造商建立直接合作关系】 金禄电子5月20日在互动平台表示，公司密切关注人形机器人领域的市场机会并积极寻求技术储备、产品布局，目前暂未与人形机器人制造商建立直接合作关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiih2148754.d.html</link>
+            <guid>4203060</guid>
+            <pubDate>Tue, 20 May 2025 01:12:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本经济再生大臣赤泽亮正：如果美国征收新的关税，我们将密切关注并做出适当反应。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaeke7923550.d.html</link>
-            <guid>4201087</guid>
-            <pubDate>Mon, 19 May 2025 01:14:10 GMT</pubDate>
+            <title><![CDATA[【海关总署副署长王令浚率团访问纳米比亚、莫桑比克、马达加斯加】 5月7日至17日，海关总署副署长王令浚率中国海关代表团访问纳米比亚、莫桑比克、马达加斯加三国。 访问期间，代表团一行与三国海关、农业、经济、卫生等部门负责人围绕开展智慧海关、“单一窗口”、能力建设、缉私执法、“经认证的经营者”等合作，加强农食产品贸易合作、邀请三国加入“一带一路”海关食品安全合作机制，开展国境卫生检疫合作、共同做好跨境人员管理等事宜进行交流；签署海关合作备忘录、农食产品输华议定书等3份文件。 期间，代表团赴三国进出口贸易企业、海关监管现场等开展实地调研，召开企业答疑会，并与我驻外使馆负责同志交流工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiic0198698.d.html</link>
+            <guid>4203058</guid>
+            <pubDate>Tue, 20 May 2025 01:09:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本经济再生大臣赤泽亮正：不会在贸易谈判中牺牲农业。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaeke7923297.d.html</link>
-            <guid>4201086</guid>
-            <pubDate>Mon, 19 May 2025 01:13:48 GMT</pubDate>
+            <title><![CDATA[【公安机关对广州市某科技公司遭境外黑客网络攻击开展立案调查】5月20日上午9时，广州市公安局天河区分局官方微博发布警情通报称，广州某科技公司自助设备的后台系统遭受网络攻击并被上传多份恶意代码。接警后，公安机关立即开展调查，提取相关样本，依法固定电子证据。经对网络攻击手法和相关恶意代码样本开展技术分析，现已初步判定该事件为境外黑客组织发起的网络攻击活动。据警方透露，此次网络攻击是境外黑客组织的一次有组织、有预谋的大规模网络攻击行动，带有明显的网络战痕迹，并非普通个人黑客所能完成。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiie6971781.d.html</link>
+            <guid>4203055</guid>
+            <pubDate>Tue, 20 May 2025 01:05:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【共拓AI+金融新场景 京北方中标银行人工智能专家项目】 近日，京北方凭借在人工智能领域的卓越技术实力与丰富项目经验，成功中标某国有大型商业银行人工智能专家项目。该项目的中标不仅彰显了京北方在金融科技赛道的领先地位，同时也为行方构建智慧金融新生态注入了强劲动能。国有大型商业银行始终走在金融科技创新的前沿，致力于通过人工智能、大数据等技术提升服务效率、优化客户体验、强化风险管控。此次，京北方将聚焦AI风险管理场景与AI大模型基础技术平台，为客户正加速布局人工智能“平台+生态”提供新范式。（京北方）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaekk2496461.d.html</link>
-            <guid>4201085</guid>
-            <pubDate>Mon, 19 May 2025 01:12:33 GMT</pubDate>
+            <title><![CDATA[【下降10个基点！LPR迎来年内首降】5月20日，新一期贷款市场报价利率（LPR）出炉，1年期和5年期以上LPR双双下降10个基点，1年期LPR降至3%，5年期以上LPR降至3.5%，这是LPR年内首降，将进一步降低企业、居民融资成本，提振市场信心，支持实体经济稳定增长。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiic0197225.d.html</link>
+            <guid>4203054</guid>
+            <pubDate>Tue, 20 May 2025 01:05:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本经济再生大臣赤泽亮正：下一次美日贸易谈判的日程尚未设定。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaeke7921970.d.html</link>
-            <guid>4201083</guid>
-            <pubDate>Mon, 19 May 2025 01:11:45 GMT</pubDate>
+            <title><![CDATA[台湾证交所加权股价指数开高0.5%报21,631.61。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiie6969727.d.html</link>
+            <guid>4203046</guid>
+            <pubDate>Tue, 20 May 2025 01:00:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【长亮科技与FPT集团达成战略合作】 5月16日，长亮科技与FPT正式签署战略合作协议。根据协议，双方将整合优势资源，重点深耕泰国市场并辐射全球，加速银行核心系统现代化进程。此次合作将聚焦三大维度：核心系统迭代、全渠道客户体验重构及智能化运营体系搭建，加速推动银行数字化转型。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaekh3059030.d.html</link>
-            <guid>4201082</guid>
-            <pubDate>Mon, 19 May 2025 01:10:39 GMT</pubDate>
+            <title><![CDATA[日本经济产业大臣：日本要求美国取消关税的立场不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiic0195006.d.html</link>
+            <guid>4203043</guid>
+            <pubDate>Tue, 20 May 2025 00:59:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【10月底前已售罄 成都赴新疆票价5万起“熊猫专列”大火】据四川观察报道，5月18日，Y444次“熊猫专列·成都号”从四川成都安靖站发车，前往新疆喀什站，满载着109位中外游客开启了为期16天的“全景南北疆极致之旅”。“熊猫专列·成都号”于2024年12月开启全球预售，票价5万起，将漫游全疆8000公里。截至目前，5月至10月共计10趟次的新疆线产品已全部售罄，其中70%为入境游客。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaekk2494127.d.html</link>
-            <guid>4201081</guid>
-            <pubDate>Mon, 19 May 2025 01:09:36 GMT</pubDate>
+            <title><![CDATA[日本财务大臣加藤胜信：将出席在加拿大举行的七国集团会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiik1576103.d.html</link>
+            <guid>4203042</guid>
+            <pubDate>Tue, 20 May 2025 00:59:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【奥的斯：奥的斯机电品牌将继续坚持其市场主体地位】奥的斯官微发文称，近期关注到市场上出现关于奥的斯机电品牌的不实信息传播，为传递正确信息、维护市场秩序及合作伙伴权益，现就相关事宜声明如下：奥的斯中国区于年初启动了“一个团队管理双品牌”战略升级，通过集约化组织管理，提升运营效率，推动旗下奥的斯（Otis）与奥的斯机电（Otis Electric）双品牌专业化运营，进一步发挥双品牌积累的优势，更高效地满足市场多元化需求。新的战略是组织管理和品牌策略的双重升级，旨在为奥的斯和奥的斯机电两个品牌提供更加坚定的市场支持，统筹市场资源配置，形成战略协同和业务协作效应；通过集约管理高效协调内部资源，放大双品牌优势，加大创新投入，聚力向上，实现1+1＞2、集中力量办大事的战略优势。在新战略下，奥的斯机电（Otis Electric）品牌将继续坚持其市场主体地位、品牌策略、产品及服务体系。对于持续散播不实信息、扰乱市场秩序的行为，我司保留法律追诉权利。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaekk2493831.d.html</link>
-            <guid>4201080</guid>
-            <pubDate>Mon, 19 May 2025 01:08:50 GMT</pubDate>
+            <title><![CDATA[                                    【官方通报凤阳鼓楼瓦片脱落详情】 安徽凤阳县文化和旅游局发布鼓楼楼宇瓦片脱落情况通报：鼓楼，位于凤阳县老城区，建于明洪武八年（1375年），由台基和楼宇两部分组成，台基于1989年被列为安徽省重点文物保护单位；原楼宇部分已毁于清咸丰三年，现楼宇为1995年建设。5月19日18时30分许，鼓楼楼宇顶部东侧瓦片部分脱落，无人员伤亡。事件发生后，凤阳县立即启动应急处置机制，迅速疏散现场围观群众，设置安全硬隔离区域，确保周边群众安全。凤阳县委、县政府已成立调查组，责令项目设计单位、施工单位、监理单位赶赴现场，并邀请相关专家开展调查核实。截至5月19日23时，现场安全防护隔离设施已安装完成，其他有关工作有序推进中。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiic0194575.d.html</link>
+            <guid>4203040</guid>
+            <pubDate>Tue, 20 May 2025 00:57:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【北京将智能假肢等一批高科技产品纳入补贴范围】18日是第三十五个全国助残日，由北京市残联主办、北京市残疾人服务示范中心承办的“科技助翼·自强筑梦”——北京市科技助残成果展示区启幕活动在示范中心汇爱大厦举行。方便视障人士出行的电子导盲犬，帮助听障人士获取信息的同声传译字幕眼镜，帮助肢体障碍人士出行的脑机AI轮椅等60余种科技助残产品集中亮相。采访中，记者了解到，越来越多的助残科技走出了实验室，走向了市场。市残联康复部副主任李闻告诉记者，北京市辅助器具综合服务管理平台上线运行以来，帮助47万残疾人足不出户申请辅具122万件，“AR字幕眼镜、智能假肢等一批高科技产品已经纳入补贴目录，残疾人朋友能够以优惠的价格用上这些辅具产品。截至目前，平台中的高科技辅具产品占到四分之一，我们会继续引导社会力量参与科技助残，加快促进高科技辅助器具产品应用推广。”（北京日报）]]></title>
-            <guid>4201079</guid>
-            <pubDate>Mon, 19 May 2025 01:08:37 GMT</pubDate>
+            <title><![CDATA[瓦莱罗能源公司（VLO.N）位于得克萨斯州科珀斯克里斯蒂的炼油西厂称，电力中断导致多台设备断电。]]></title>
+            <guid>4203038</guid>
+            <pubDate>Tue, 20 May 2025 00:55:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[东北证券：给予兰剑智能增持的初始评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaeke7919748.d.html</link>
-            <guid>4201077</guid>
-            <pubDate>Mon, 19 May 2025 01:07:04 GMT</pubDate>
+            <title><![CDATA[日本经济再生大臣赤泽亮正：日本和美国周一在华盛顿特区就双边贸易进行了工作层面的会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiie6967539.d.html</link>
+            <guid>4203035</guid>
+            <pubDate>Tue, 20 May 2025 00:51:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国林科技：国林半导体少量型号产品处于小批量订单验证阶段】 国林科技(300786)在互动平台上表示，子公司国林半导体目前已与部分清洗设备厂商、光伏、面板等头部企业建立了合作关系，目前部分型号产品处于样机验证阶段，少量型号产品处于小批量订单验证阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaeke7919072.d.html</link>
-            <guid>4201076</guid>
-            <pubDate>Mon, 19 May 2025 01:05:43 GMT</pubDate>
+            <title><![CDATA[【Alphabet 旗下 Waymo 获加州批准在旧金山湾区扩展机器人出租车业务】Alphabet旗下自动驾驶部门Waymo周一表示，它已获得加州批准，可以在旧金山半岛更多地区以及包括圣何塞在内的更南部地区扩大机器人出租车业务。Waymo获得加州许可的同时，特斯拉正准备下月在得克萨斯州奥斯汀推出付费机器人出租车服务。特斯拉首席执行官马斯克表示，这家电动汽车制造商将在今年晚些时候把这项服务扩展到加州。加利福尼亚州公用事业委员会在一份声明中说，Waymo 在 3 月份申请授权扩大其业务，并收到了 23 份支持答复，没有收到利益相关者的抗议。不过，Waymo 表示不会立即在旧金山湾区扩大服务范围。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiih2137365.d.html</link>
+            <guid>4203034</guid>
+            <pubDate>Tue, 20 May 2025 00:51:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【洽洽食品：第三大品类正在孵化中 希望做到花生果细分品类数一数二】 洽洽食品(002557)日前在2024年年度股东大会上表示，公司中短期策略还是聚焦在坚果、瓜子，第三大品类在孵化中，比如花生果，市场容量较大，目前没有一个市占率很高的大品牌，未来希望做到这个细分品类的数一数二。另外，公司的鲜切薯条上市一年不到收入已达几千万元。对于魔芋制品，先在海外试销，公司的品牌和渠道在海外有一定的优势。公司海外发展的策略是一国一策，不断推进海外渠道和新品的拓展。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaekk2491844.d.html</link>
-            <guid>4201075</guid>
-            <pubDate>Mon, 19 May 2025 01:04:34 GMT</pubDate>
+            <title><![CDATA[名仕快相集团控股有限公司在香港暂停交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiik1572394.d.html</link>
+            <guid>4203033</guid>
+            <pubDate>Tue, 20 May 2025 00:50:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本东证指数收复稍早跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaekc1143353.d.html</link>
-            <guid>4201073</guid>
-            <pubDate>Mon, 19 May 2025 01:03:35 GMT</pubDate>
+            <title><![CDATA[【两市融资余额增加35.43亿元】上交所融资余额报9096.57亿元，较前一交易日增加22.3亿元；深交所融资余额报8833.67亿元，较前一交易日增加13.13亿元；两市合计17930.24亿元，较前一交易日增加35.43亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiie6966932.d.html</link>
+            <guid>4203032</guid>
+            <pubDate>Tue, 20 May 2025 00:49:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美元兑日元跌至144.81，为5月8日以来最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaeke7917653.d.html</link>
-            <guid>4201072</guid>
-            <pubDate>Mon, 19 May 2025 01:03:18 GMT</pubDate>
+            <title><![CDATA[【2025上合组织数字经济论坛将在天津举办】 据国家数据局，根据有关工作安排，国家数据局、天津市人民政府将于2025年7月10日至11日，在天津市举办2025上合组织数字经济论坛。本次论坛以“数字经济新纽带共拓合作新空间”为主题，将围绕数实融合、城市全域数字化转型、数字技术创新、数字基础设施建设、数据产权与隐私保护、数据资源开发利用等议题进行深入交流，推动建立上合组织国家数字经济合作生态，促进产业间、城市间、高校间、智库间数字经济务实合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiik1571782.d.html</link>
+            <guid>4203031</guid>
+            <pubDate>Tue, 20 May 2025 00:48:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美团110万股大宗交易成交价每股131.864港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaekc1142333.d.html</link>
-            <guid>4201070</guid>
-            <pubDate>Mon, 19 May 2025 01:02:10 GMT</pubDate>
+            <title><![CDATA[【38股获券商买入评级，劲仔食品目标涨幅达59.72%】5月19日，共有38只个股获券商买入评级，其中5只个股公布了目标价格。按最高目标价计算，劲仔食品、拓普集团、天味食品目标涨幅排名居前，涨幅分别达59.72%、58.48%、36.4%。从评级调整方向来看，33只个股评级维持不变，1只个股评级获调高，4只个股为首次评级。从获买入评级个股所属Wind行业来看，资本货物、技术硬件与设备、材料Ⅱ买入评级个股数量最多，分别有7只、6只、5只。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiic0191733.d.html</link>
+            <guid>4203030</guid>
+            <pubDate>Tue, 20 May 2025 00:46:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【圣元环保：已开发了多款“牛磺酸+”功能性饮品】 圣元环保5月19日在互动平台表示，结合牛磺酸特有的功效，针对不同消费场景和人群需求，公司已开发了多款“牛磺酸+”功能性饮品，并将根据实际情况持续提升产品品质、丰富产品种类和优化产品包装设计。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaekc1142069.d.html</link>
-            <guid>4201069</guid>
-            <pubDate>Mon, 19 May 2025 01:01:50 GMT</pubDate>
+            <title><![CDATA[                                    【戴尔与英伟达深化合作，推出全新企业级AI解决方案】 戴尔与英伟达深化合作，推出全新企业级AI解决方案，旨在简化企业AI部署流程。戴尔在拉斯维加斯技术大会上发布了新一代PowerEdge服务器及相关软硬件服务，以应对日益增长的企业AI需求。戴尔还计划在未来支持更多英伟达产品，例如RTX Pro 6000 Blackwell Server Edition GPU，以覆盖从边缘到数据中心的各种AI部署需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiik1570684.d.html</link>
+            <guid>4203027</guid>
+            <pubDate>Tue, 20 May 2025 00:45:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【南方新一轮降水无缝衔接 北方首场高温天气持续 外出注意防暑】今明两天（5月19日至20日），我国首场大范围高温天气将达到鼎盛，多地将现37℃到39℃的高温，河北、河南、陕西局地更是可能出现超过40℃的酷热天气，公众请注意防暑。与此同时，南方大范围降水仍会持续，其中明天新一轮降水将无缝衔接，需防范降雨叠加带来的次生灾害风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaekc1141799.d.html</link>
-            <guid>4201068</guid>
-            <pubDate>Mon, 19 May 2025 01:01:26 GMT</pubDate>
+            <title><![CDATA[                                    【华南近期降水偏多，18条河流发生超警洪水】 近期，珠江流域出现大范围持续性强降雨过程，西江支流贺江、南盘江支流巴江等18条河流发生超警洪水。珠江防总、水利部珠江水利委员会已于18日同步启动防汛Ⅳ级应急响应和洪水防御Ⅳ级应急响应。据珠江水情预报中心预计，本周（5月19日—25日），受冷暖空气共同影响，珠江流域中部和北部仍将有持续性降雨过程。降雨集中区内部分中小河流可能发生超警洪水，提醒相关地区做好中小河流洪水，山洪灾害防御工作。目前，水利部珠江水利委员会强化流域统一调度，后续将根据汛情发展，滚动优化大藤峡、长洲等水利枢纽调度方案，充分发挥水库防洪减灾效益。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiik1570614.d.html</link>
+            <guid>4203026</guid>
+            <pubDate>Tue, 20 May 2025 00:45:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【麦角硫因概念股受关注 多家公司回应】 近期，麦角硫因概念股异军突起，多家上市公司在互动平台最新回应相关问题。①诚志股份：公司麦角硫因尚在小试过程中。②仙乐健康：公司美国子公司Best Formulations具备生产NAD+麦角硫因细胞能量胶囊的能力。公司非常看好抗衰市场的发展潜力，除麦角硫因外，公司亦布局了PQQ、槲皮素、Q10等可应用于抗衰类场景的相关产品。今年2月份，公司宣布成立抗衰研究院，旨在以“科研创新+产业转化”为核心，重点聚焦细胞系统、益生菌和肠道、肌肉关节、女性卵巢这四大方向。③万邦医药：公司有为改善干眼症的麦角硫因洗眼液项目提供临床功效试验服务。④富士莱：公司目前暂无麦角硫因相关业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaeke7916185.d.html</link>
-            <guid>4201067</guid>
-            <pubDate>Mon, 19 May 2025 01:01:15 GMT</pubDate>
+            <title><![CDATA[【永鼎股份新设子公司 含电工器材制造业务】 企查查APP显示，近日，江苏永鼎电缆有限公司成立，注册资本2000万元，经营范围包含：电工器材制造；电工器材销售；机械电气设备销售；电力设施器材制造等。企查查股权穿透显示，该公司由永鼎股份全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiic0191157.d.html</link>
+            <guid>4203025</guid>
+            <pubDate>Tue, 20 May 2025 00:44:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【拓邦股份：已构建8mm和10mm空心杯电机产品平台】 拓邦股份(002139)在互动平台上表示，公司在智能控制领域将持续扩大部件业务应用，机器人属于重要且市场空间巨大的行业，公司已构建8mm和10mm空心杯电机产品平台，并以空心杯电机、丝杠、减速器等高精度组件打造灵巧手解决方案，具备高性能、高扭矩、高精度的特性，并获得客户小批量订单。未来公司将协同产业链需求，加速部件或整机在各类机器人场景的规模化应用。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaekc1141251.d.html</link>
-            <guid>4201066</guid>
-            <pubDate>Mon, 19 May 2025 01:00:30 GMT</pubDate>
+            <title><![CDATA[【雅创电子在上海新设微电子公司】 企查查APP显示，近日，上海雅创芯和微电子有限公司成立，法定代表人为谢力书，经营范围包含：集成电路设计；集成电路制造；集成电路芯片及产品制造等。企查查股权穿透显示，该公司由雅创电子全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiic0191149.d.html</link>
+            <guid>4203024</guid>
+            <pubDate>Tue, 20 May 2025 00:44:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[台湾证交所加权股价指数开低0.3%报21,786.33。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaekc1141111.d.html</link>
-            <guid>4201064</guid>
-            <pubDate>Mon, 19 May 2025 01:00:14 GMT</pubDate>
+            <title><![CDATA[【河南：加快国家生物育种产业创新中心建设 打造以种业为核心的农业创新高地】 河南省人民政府近日印发《关于进一步深化农村改革扎实推进乡村全面振兴的实施意见》。其中提到，推动种业创新。大力推进中原农谷建设，推动农科教、育繁推等资源聚集，构建全链条科技创新生态圈，加快国家生物育种产业创新中心建设，打造以种业为核心的农业创新高地。深入实施种业振兴行动，巩固粮食、油料领域研发优势，加强果蔬、食用菌、中药材领域科研力量，培育具有自主知识产权的突破性品种。加快建设全国一流制种基地，培育制种大县、区域性良种繁育基地和畜禽核心育种场。加快培育种企雁阵，壮大种业产业集群。推进生物育种产业化。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiic0190648.d.html</link>
+            <guid>4203023</guid>
+            <pubDate>Tue, 20 May 2025 00:43:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【北京：115家工厂入选首批先进级智能工厂】近日，北京市第一批先进级智能工厂名单出炉。这是《北京市智能工厂认定管理办法》印发后认定的首批先进级智能工厂，共有115家工厂，涉及生物医药、智能装备、汽车交通、电子信息、都市产业、材料产业等领域。首批先进级智能工厂不仅包括整车厂，还囊括了不少汽车关键零部件生产企业。位于房山区中关村高端制造业基地的京西智行（北京）汽车电子科技有限公司年产600个智能悬架，是京西智行集团在全球的第5座智能工厂、亚太地区第二大智能工厂。记者梳理发现，115家先进级智能工厂还包括京东方、施耐德、曲美家居、北京奔驰、理想汽车、北京同仁堂健康药业等知名企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaeke7913779.d.html</link>
-            <guid>4201061</guid>
-            <pubDate>Mon, 19 May 2025 00:54:37 GMT</pubDate>
+            <title><![CDATA[【大华股份与京东工业签署战略合作协议】5月16日，大华股份与北京京东数智工业科技有限公司（简称“京东工业”）签署战略合作协议。双方将重点围绕工业供应链，在行业细分场景解决方案及产品展开深度合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiie6964981.d.html</link>
+            <guid>4203022</guid>
+            <pubDate>Tue, 20 May 2025 00:42:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【三联虹普：公司现有业务尚未涉及PEEK材料的生产线技术】三联虹普在互动平台上表示，公司现有业务尚未涉及PEEK材料的生产线技术，但PEEK作为机器人主要材料之一，公司对其相关技术保持关注。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaekh3052079.d.html</link>
-            <guid>4201060</guid>
-            <pubDate>Mon, 19 May 2025 00:53:18 GMT</pubDate>
+            <title><![CDATA[【全国超14万公里城市“生命线”焕新升级】 城市地下管网更新改造既事关安全又涉及民生，是今年“两重”建设的一项重要任务。当前，各地管网改造进入施工高峰期，城市“生命线”加速焕新。在黑龙江大庆，铁东防洪排涝能力提升工程进入了管线铺设阶段，通过雨污管道分流、易涝水塘治理、排涝和雨水提升泵站建设，进一步筑牢城市防汛安全屏障。今年，当地还在燃气管网改造中投入了智能化装备。这个燃气生产指挥中心刚刚引入了智能调压柜，在原调节压力的基础上，增设数据采集功能，可以对压力、流量、设备泄漏等情况在线实时监测。大庆市副市长吕航表示，我们不仅建立了“两重”建设工作机制，还先后制定了20余项相关规划、制度文件，涵盖项目谋划、投融资、建设、运维等全流程，从根本上保障了各类建设项目统一规划、协同实施。在“两重”资金的带动下，今年全国推动建设改造燃气、供排水、供热等城市地下管网超14万公里，城市地下管网系统安全韧性能力不断提升。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiic0189818.d.html</link>
+            <guid>4203019</guid>
+            <pubDate>Tue, 20 May 2025 00:39:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【达仁堂与华为深化合作】 据达仁堂消息，5月16日，津药达仁堂-华为全面深化合作启动会在津药大厦召开。公司表示，此次会议标志着津药达仁堂和华为的合作揭开了全面深化的序幕。双方将充分利用各自优势和生态资源，共同建立中医药数智化生态圈。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexaeke7912032.d.html</link>
-            <guid>4201058</guid>
-            <pubDate>Mon, 19 May 2025 00:49:50 GMT</pubDate>
+            <title><![CDATA[【河南：降低产粮大县农业保险县级保费补贴承担比例】河南省人民政府近日印发《关于进一步深化农村改革扎实推进乡村全面振兴的实施意见》。其中提到，落实粮食生产支持政策。健全种粮农民收益保障机制，落实耕地地力保护补贴、稻谷小麦最低收购价等政策。加强粮食和重要农产品全链条监测分析预警，深化粮食购销和储备管理体制机制改革，统筹做好粮食市场化收购和政策性收储工作。继续推动省级化肥政府储备，完善农资保供稳价应对机制，推动粮食等重要农产品价格保持在合理水平。完善农业保险大灾风险分散机制，落实粮食作物完全成本保险和种植收入保险政策，降低产粮大县农业保险县级保费补贴承担比例。实施产粮大县公共服务能力提升行动。落实产粮大县奖补政策。落实中央统筹下的粮食产销区省际横向利益补偿政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiie6964300.d.html</link>
+            <guid>4203018</guid>
+            <pubDate>Tue, 20 May 2025 00:39:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【硕贝德：公司的天线、线束、散热等产品均可应用于机器人领域】硕贝德在互动平台表示，公司的天线、线束、散热等产品均可应用于机器人领域，目前天线产品已向信息查询机器人、送餐机器人等小批量供货。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzyak3180989.d.html</link>
-            <guid>4201057</guid>
-            <pubDate>Mon, 19 May 2025 00:48:04 GMT</pubDate>
+            <title><![CDATA[【河南：不允许城镇居民到农村购买农房、宅基地 不允许退休干部到农村占地建房】河南省人民政府近日印发《关于进一步深化农村改革扎实推进乡村全面振兴的实施意见》。其中提到，加强农村资源资产管理使用。做好房地一体宅基地确权登记颁证工作。探索农户合法拥有的住房通过出租、入股、合作等方式盘活利用的有效实现形式。不允许城镇居民到农村购买农房、宅基地，不允许退休干部到农村占地建房。有序推进农村集体经营性建设用地入市改革，健全收益分配和权益保护机制。健全农村集体“三资”管理制度，深化农村集体“三资”管理使用不规范问题整治，深入开展“三规范两促进一提升”三年行动，发展壮大新型农村集体经济，不对集体收入提硬性目标，严控集体经营风险和债务。推进新增耕地规范管理和合理利用。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiih2132664.d.html</link>
+            <guid>4203017</guid>
+            <pubDate>Tue, 20 May 2025 00:38:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【两市融资余额减少18.45亿元】截至5月16日，上交所融资余额报9074.27亿元，较前一交易日减少9.22亿元；深交所融资余额报8820.54亿元，较前一交易日减少9.23亿元；两市合计17894.81亿元，较前一交易日减少18.45亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzyah8042158.d.html</link>
-            <guid>4201056</guid>
-            <pubDate>Mon, 19 May 2025 00:47:46 GMT</pubDate>
+            <title><![CDATA[【河南：推进农村高额彩礼问题综合治理 打击婚托婚骗等违法行为】河南省人民政府近日印发《关于进一步深化农村改革扎实推进乡村全面振兴的实施意见》。其中提到，推进移风易俗。推进农村高额彩礼问题综合治理，打击婚托婚骗等违法行为。发挥妇联、共青团等组织作用，加强对农村适婚群体的公益性婚恋服务和关心关爱。加强宗祠规范管理。深化殡葬改革，推进公益性生态安葬设施建设。持续整治人情攀比、大操大办、厚葬薄养、散埋乱葬等突出问题。加强科普工作，提升农村居民科学素质，营造崇尚科学文明、反对封建迷信的社会风气。净化农村演出市场，深入整治低俗表演活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiie6963789.d.html</link>
+            <guid>4203016</guid>
+            <pubDate>Tue, 20 May 2025 00:37:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[                                    【石家庄中医医院生产销售的“中药液”涉嫌添加安眠药？官方：立案调查】 石家庄市桥西区市场监督管理局5月19日通报，近日，有媒体报道桥西区河北普泽医养服务有限公司石家庄中医医院生产销售的“中药液”涉嫌添加安眠药问题。桥西区市监局已就此问题对该医院进行立案调查，目前，该案件正在调查之中，将根据调查结果依法依规进行处置。桥西区市监局将持续加大药品安全监管力度，切实保障群众用药安全。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzyaf1266859.d.html</link>
-            <guid>4201054</guid>
-            <pubDate>Mon, 19 May 2025 00:45:11 GMT</pubDate>
+            <title><![CDATA[【中国经济的稳健和韧性正成为稀缺品 为全球投资者提供机遇】昨天，深交所2025全球投资者大会在深圳举行。大会主题为“新质生产力：投资中国新机遇——开放创新的深圳市场”。与会嘉宾认为，中国新质生产力的发展，正为全球投资者带来新的投资机遇。与会嘉宾认为，近些年，全球面临的不确定、不稳定因素不断增多。在当下，中国经济的稳健和韧性正成为一种稀缺品。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiic0188297.d.html</link>
+            <guid>4203015</guid>
+            <pubDate>Tue, 20 May 2025 00:34:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【奋达科技：收到监管函涉及董监高及控股股东】 奋达科技公告，收到监管函涉及公司董监高、控股股东及实际控制人。监管函要求公司全面自查并整改相关问题，以确保公司治理结构的规范性和信息披露的准确性。公司将根据监管函的要求进行整改，并对相关问题进行深入分析，以防止类似情况再次发生。根据公告，监管函要求公司在规范治理结构和信息披露方面采取有效措施。奋达科技表示将积极配合监管部门的要求，并及时向投资者提供相关信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzyah8040962.d.html</link>
-            <guid>4201052</guid>
-            <pubDate>Mon, 19 May 2025 00:43:51 GMT</pubDate>
+            <title><![CDATA[宇部兴产株式会社：启动宇部机械株式会社在东京证券交易所上市的筹备工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiic0187450.d.html</link>
+            <guid>4203012</guid>
+            <pubDate>Tue, 20 May 2025 00:31:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[                                    【可能存在火灾隐患，乐扣乐扣电子饭盒召回1008件】 上海乐扣乐扣贸易有限公司自2025年5月19日至2025年8月18日召回2024年8月8日生产的LocknLock牌液体加热器（电子饭盒），共计1008件。召回原因：输入功率和电流项目不符合GB4706.1-2005《家用和类似用途电器的安全 第一部分：通用要求》的标准要求。可能存在火灾隐患。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzyak3179541.d.html</link>
-            <guid>4201051</guid>
-            <pubDate>Mon, 19 May 2025 00:43:48 GMT</pubDate>
+            <title><![CDATA[ 【联邦快递宣布零担货运部门CEO人选，预计明年6月完成分拆】 联邦快递5月19日发布声明称，随着公司零担货运部门FedEx Freight的分拆工作取得进展，集团宣布多项高管人事任命。联邦快递美国和加拿大首席运营官约翰·A·史密斯（John A. Smith）被任命为FedEx Freight总裁兼CEO，集团董事会副主R·布拉德·马丁（R. Brad Martin）同意担任FedEx Freight董事会主席。两项任命均将在先前宣布的FedEx Freight分拆完成后生效。预计2026年6月完成的分拆仍在按计划进行。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiik1565026.d.html</link>
+            <guid>4203011</guid>
+            <pubDate>Tue, 20 May 2025 00:30:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【普京称俄寻求消除冲突根源】据俄罗斯媒体5月18日报道，俄罗斯总统普京日前在接受采访时表示，“俄罗斯特别军事行动的目标是消除引发冲突的根源，创造实现持久稳定和平的条件，确保俄罗斯的安全，维护那些把俄语视为母语、把俄罗斯视为祖国的人民的权益。”普京说，当前俄罗斯“有足够的力量和手段”来实现这些目标。同一天，乌克兰总统泽连斯基再次强调尽快实现全面和无条件停火的重要性，并表示，乌方准备以任何形式与俄方就解决冲突进行对话。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzyak3178128.d.html</link>
-            <guid>4201049</guid>
-            <pubDate>Mon, 19 May 2025 00:39:35 GMT</pubDate>
+            <title><![CDATA[                                    【斯巴鲁美国公司上调部分车型售价】 斯巴鲁美国公司周一表示，该公司正在提高几款车型的价格以应对“当前的市场状况”。该公司在一份声明中说，变化是为了抵消增加的成本，公司的定价并不基于产品的原产地。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiih2129367.d.html</link>
+            <guid>4203010</guid>
+            <pubDate>Tue, 20 May 2025 00:29:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本农林水产省一名官员称，在巴西南里奥格兰德州爆发禽流感之后，日本已暂停从该州进口活禽。]]></title>
-            <guid>4201047</guid>
-            <pubDate>Mon, 19 May 2025 00:38:48 GMT</pubDate>
+            <title><![CDATA[【2025年河南省委一号文件发布】5月20日消息，近日中共河南省委、河南省人民政府出台《关于进一步深化农村改革扎实推进乡村全面振兴的实施意见》。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiik1564825.d.html</link>
+            <guid>4203008</guid>
+            <pubDate>Tue, 20 May 2025 00:29:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[一项民意调查显示，波兰中间派人士特扎斯科夫斯基（Trzaskowski）在总统选举中预计将获得31.2%的选票。]]></title>
-            <guid>4201045</guid>
-            <pubDate>Mon, 19 May 2025 00:35:28 GMT</pubDate>
+            <title><![CDATA[日经225指数日内涨幅达到1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiic0186329.d.html</link>
+            <guid>4203007</guid>
+            <pubDate>Tue, 20 May 2025 00:28:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【29股获券商买入评级，新凤鸣目标涨幅达53.96%】5月16日，共有29只个股获券商买入评级，其中5只个股公布了目标价格。按最高目标价计算，新凤鸣、快克智能、比音勒芬目标涨幅排名居前，涨幅分别达53.96%、40.98%、39.05%。从评级调整方向来看，27只个股评级维持不变，2只个股为首次评级。此外，有1只个股获多家券商关注，新凤鸣获评级数量居前，分别有2家券商给予评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzyan2611888.d.html</link>
-            <guid>4201042</guid>
-            <pubDate>Mon, 19 May 2025 00:34:19 GMT</pubDate>
+            <title><![CDATA[【微软开源Windows子系统】北京时间5月20日凌晨，微软宣布开源适用于Linux的Windows子系统——WSL。WSL是微软在2016年发布的一项重磅功能，可在Windows操作系统上运行Linux环境，而无需单独的虚拟机或双引导。也能快速安装各种Linux版本软件，例如Ubuntu、Debian、Kali等，可以让开发人员无缝使用Windows和Linux进行项目开发。此外，美东时间5月19日周一开始举行的年度开发者大会Build会议上，微软表现出，正在以前所未有的步伐将Windows转变为AI智能体的核心平台。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiik1564179.d.html</link>
+            <guid>4203006</guid>
+            <pubDate>Tue, 20 May 2025 00:27:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国外汇交易中心（CFETS）：5月16日人民币汇率指数按周涨0.17至96.70。]]></title>
-            <guid>4201041</guid>
-            <pubDate>Mon, 19 May 2025 00:33:50 GMT</pubDate>
+            <title><![CDATA[【英伟达回应在上海设立新办公空间：正租用一个新办公空间，这是在中国持续深耕的努力】 AI（人工智能）芯片龙头英伟达正在为上海的现有员工租用一个新的办公空间。5月20日，关于英伟达将在上海设立新办公空间的传闻，英伟达向澎湃新闻回应称：“我们正在为现有员工租用一个新的办公空间，这是我们在中国持续深耕的努力。但我们遵守当前的出口管制，不会将任何GPU设计或核心IP发送到中国进行修改。”（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiic0186037.d.html</link>
+            <guid>4203005</guid>
+            <pubDate>Tue, 20 May 2025 00:26:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[云工场公告，接获控股股东之一Ru Yi Information Technology Co., LTD通知，其拟进行出售不超过6900万股公司股份，相当于已发行股本约15%。]]></title>
-            <guid>4201040</guid>
-            <pubDate>Mon, 19 May 2025 00:32:59 GMT</pubDate>
+            <title><![CDATA[【天风证券：小米自研芯片或加速国产高端手机竞争格局变化 助估值提升】天风证券称，预计小米发布自研芯片后，国产手机高端竞争格局或开始加速变化，头部具备自研底层硬件能力的手机厂商市占率提升或是小米估值提升的核心逻辑之一。天风证券分析师孔蓉等在报告中指出，小米核心业务企稳和汽车业务第二曲线为造芯提供了充分的支持条件。旗舰SoC芯片(系统级芯片)手机发布是一次用户破圈，对芯片、AI等底层技术的长期投入，使小米作为科技消费品公司逐步拥有一定护城河。预计小米2025-2026年经调整归母净利润分别为429亿元和855亿元人民币，维持对公司的买入评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiic0185817.d.html</link>
+            <guid>4203004</guid>
+            <pubDate>Tue, 20 May 2025 00:26:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【谱尼测试取得环境电离辐射监测CMA资质】 据谱尼测试消息，近日，谱尼测试旗下西安查德威克首次拓展取得环境电离辐射监测CMA资质，此次资质的取得，填补了谱尼测试在辐射环境监测方面的空白。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzyah8038179.d.html</link>
-            <guid>4201039</guid>
-            <pubDate>Mon, 19 May 2025 00:32:40 GMT</pubDate>
+            <title><![CDATA[【美国前劳工部长：如果关税落地美国将重回“大萧条”】当地时间19日，据美国消费者新闻与商业频道报道，美国前劳工部长罗伯特·赖克表示，短期来看，美国关税政策造成的不确定性将导致美国投资减少、经济增长放缓。而长期来看，如果美国政府的关税政策全面落地，所有人都会成为输家，美国将重回上世纪30年代的“大萧条”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiic0185047.d.html</link>
+            <guid>4203001</guid>
+            <pubDate>Tue, 20 May 2025 00:23:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国家运输安全委员会(NTSB)将对撞上布鲁克林大桥的船只展开调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzyaf1263336.d.html</link>
-            <guid>4201037</guid>
-            <pubDate>Mon, 19 May 2025 00:31:40 GMT</pubDate>
+            <title><![CDATA[【吉利等在亳州成立远程新能源商用车公司 注册资本5000万】天眼查App显示，近日，亳州远程新能源商用车有限公司成立，法定代表人为王彦彬，注册资本5000万人民币，经营范围包括道路机动车辆生产、汽车零部件及配件制造、汽车销售、新能源汽车整车销售、信息咨询服务、机械设备租赁等，由浙江吉利远程新能源商用车集团有限公司、蒙城县开发区兴蒙投资有限公司、亳州交通投资控股集团有限公司共同持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiic0183980.d.html</link>
+            <guid>4202995</guid>
+            <pubDate>Tue, 20 May 2025 00:19:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中柬“金龙-2025”联合演习的双方参演官兵在柬埔寨组织混编同训】当地时间18日，参加中柬“金龙-2025”联合演习的双方参演官兵在柬埔寨组织混编同训，开展突击车班组协同、索降、无人装备运用等课目训练，打牢专业技能基础，增强战术协同配合能力。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzyaf1263052.d.html</link>
-            <guid>4201036</guid>
-            <pubDate>Mon, 19 May 2025 00:30:53 GMT</pubDate>
+            <title><![CDATA[【高端化+智能化+绿色化 我国工业转型焕新提速】国家统计局19日公布的多个数据显示，今年以来，我国工业新动能加快培育，工业智能化、绿色化转型焕新提速，发展质量持续提升。今年，我国制造业高端化、智能化、绿色化持续推进。在高端化方面，4月份，规模以上高技术制造业增加值同比增速高于全部规模以上工业3.9个百分点。在智能化方面，4月份，规模以上数字产品制造业增加值增长10%，其中，智能设备制造、电子元器件及设备制造等行业加快增长；服务器受大模型带动订单激增，产量实现近2倍增长。绿色化方面，4月份，新能源汽车、汽车用锂离子动力电池、太阳能电池等“新三样”相关产品表现亮眼。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiie6957563.d.html</link>
+            <guid>4202992</guid>
+            <pubDate>Tue, 20 May 2025 00:14:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【林园成茅台股东大会“顶流”，杨德龙回应缺席原因】5月19日，日前贵州茅台酒股份有限公司2024年度股东大会前夜，著名投资人林园现身茅台国际大酒店。现场，有大量股东围观合影，甚至还有股东带着孩子来找“股神”沾沾喜气。有股东表示，林总还是一如既往的火，“想合个影得排队”。值得注意的是，前海开源基金执行总经理杨德龙缺席了今年股东大会。对此，他向部分媒体解释，因为工作的原因，他不能实地参加，但是贵州茅台仍是其管理的基金的前十大重仓股，“飞天茅台是否会有提价的计划、直销比例是否会提高、产品结构是否会进一步丰富等，是我关注的重点。”（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzyaf1262905.d.html</link>
-            <guid>4201034</guid>
-            <pubDate>Mon, 19 May 2025 00:30:21 GMT</pubDate>
+            <title><![CDATA[【特斯拉在鄂尔多斯成立销售服务公司 朱晓彤任董事长】天眼查App显示，近日，特斯拉汽车销售服务（鄂尔多斯市）有限公司成立，法定代表人、总经理为王昊，董事长为朱晓彤，注册资本100万美元，经营范围包括汽车销售、二手车经纪、汽车零配件批发、汽车零配件零售、机动车修理和维护、光伏设备及元器件销售等，由特斯拉汽车香港有限公司全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiik1560785.d.html</link>
+            <guid>4202991</guid>
+            <pubDate>Tue, 20 May 2025 00:14:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英伟达美股夜盘跌近2%，沃尔玛百货和谷歌跌1%，特斯拉跌超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzyak3173638.d.html</link>
-            <guid>4201030</guid>
-            <pubDate>Mon, 19 May 2025 00:25:56 GMT</pubDate>
+            <title><![CDATA[【以军空袭加沙地带多地 已致35人死亡】以色列军队当地时间19日夜间至20日凌晨空袭加沙地带中部代尔拜拉赫一处民宅、努赛赖特难民营以西一座加油站和加沙城中部一所学校，造成35人死亡、多人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiih2125019.d.html</link>
+            <guid>4202990</guid>
+            <pubDate>Tue, 20 May 2025 00:12:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【银河证券：银行基本面积极因素持续积累 有望迎来业绩拐点】 中国银河证券研报表示，2025年第一季度银行业绩短期受非息收入扰动，但核心收入增速改善延续，息差降幅收窄，增量信贷投放空间打开。一揽子金融政策出台，降准降息落地，结构性工具加力引导银行信贷结构优化。银行基本面积极因素持续积累，有望迎来业绩拐点。中长期资金入市有望加速银行红利价值兑现。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzyah8035867.d.html</link>
-            <guid>4201026</guid>
-            <pubDate>Mon, 19 May 2025 00:23:17 GMT</pubDate>
+            <title><![CDATA[【中国银河证券：城市更新将加速，有望带动消费建材需求企稳】中国银河证券研报指出，2025年1-3月建筑及装潢材料类零售额同比持平，其中3月单月同比下降0.1%。2025年以来，商品房销售面积降幅收窄，后续随着商品房成交热度的延续，有望带动消费建材重装需求回升。《关于持续推进城市更新行动的意见》发布，城市更新、老旧小区改造等有望加速推进，修缮、旧改等需求的加速释放将进一步带动消费建材市场企稳回升。从企业层面来看，近年消费建材龙头企业加速调整销售策略，推进渠道下沉，零售业务规模不断扩大，龙头企业市占率有望不断提升。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiie6956820.d.html</link>
+            <guid>4202988</guid>
+            <pubDate>Tue, 20 May 2025 00:10:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本首相石破茂在国会表示，通过投资寻求与美国的双赢关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzyak3171248.d.html</link>
-            <guid>4201021</guid>
-            <pubDate>Mon, 19 May 2025 00:17:43 GMT</pubDate>
+            <title><![CDATA[微信今天已将单个红包额度上限由原来的200元调升至520元，限时一天。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiik1559919.d.html</link>
+            <guid>4202987</guid>
+            <pubDate>Tue, 20 May 2025 00:10:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【谢乐斌任海富通基金董事长 海富通基金换帅完成工商变更】天眼查App显示，近日，海富通基金管理有限公司发生工商变更，路颖卸任法定代表人、董事长，由谢乐斌接任。该公司成立于2003年4月，注册资本3亿人民币，经营范围为基金募集、基金销售、资产管理和中国证监会许可的其他业务，由国泰海通（601211）、法国巴黎资产管理BE控股公司共同持股。据媒体此前报道，该公司公告称，路颖因工作调整离任董事长，国泰海通证券股份有限公司副总裁谢乐斌兼任公司董事长一职，任职日期为2025年4月21日。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzyaf1260145.d.html</link>
-            <guid>4201020</guid>
-            <pubDate>Mon, 19 May 2025 00:17:06 GMT</pubDate>
+            <title><![CDATA[                                    【英欧将启动“青年流动计划”，重点推进打击非法移民方面合作】 英国首相府5月19日发布声明说，英国与欧盟已在渔业和贸易等多个领域达成协议。根据协议，英欧还将启动“青年流动计划”。首相府在声明中表示，该计划将设定人员流动限额及停留期限，具体规定预计将参照英国与澳大利亚、新西兰等国之间的协议。该协议将重点推进英欧在打击非法移民方面的合作，包括“设立遣返机制，协同应对英吉利海峡偷渡问题”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiic0182000.d.html</link>
+            <guid>4202986</guid>
+            <pubDate>Tue, 20 May 2025 00:09:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【航行警告！南海实弹射击】据中国海事局网站消息，珠海海事局发布航行警告，5月19日、5月20日，9时至15时，南海部分海域进行实弹射击，禁止驶入。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzyan2606541.d.html</link>
-            <guid>4201019</guid>
-            <pubDate>Mon, 19 May 2025 00:16:21 GMT</pubDate>
+            <title><![CDATA[【集度科技武汉公司等被执行8012万】天眼查天眼风险信息显示，近日，集度科技（武汉）有限公司新增两则被执行人信息，执行标的合计8012万余元，涉及金融借款合同纠纷等案件，其中一起案件被执行人还包括武汉集度汽车服务有限公司，执行法院均为武汉市江岸区人民法院。集度科技（武汉）有限公司成立于2022年11月，法定代表人为夏一平，注册资本4亿美元，经营范围包括食品销售、互联网信息服务、电动汽车充电基础设施运营、新能源汽车整车销售、新能源汽车电附件销售、日用百货销售等，由集度汽车（香港）有限公司全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiik1559616.d.html</link>
+            <guid>4202985</guid>
+            <pubDate>Tue, 20 May 2025 00:08:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本首相石破茂：不能接受美国对包括汽车在内的商品征收关税。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzyan2606482.d.html</link>
-            <guid>4201018</guid>
-            <pubDate>Mon, 19 May 2025 00:15:58 GMT</pubDate>
+            <title><![CDATA[【消息人士：印度计划收紧外资所有权规定】两位政府消息人士称，印度正计划收紧外资所有权规定，此举可能会对从电子商务到制药等行业产生重大影响。这些变化将重新定义印度如何看待外资企业，无论是直接还是间接外资企业，使它们在涉及股权转让或重组时受到外商直接投资（FDI）法规的约束。两位消息人士称，讨论已接近尾声。由于讨论不公开，他们拒绝具名。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiih2122999.d.html</link>
+            <guid>4202979</guid>
+            <pubDate>Tue, 20 May 2025 00:03:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【林园“辟谣”40元以上不买茅台：最近还在买茅台股票，不会减仓只会加仓】5月19日，日前，知名私募林园现身茅台国际大酒店参加晚餐，遭到大量股民围观合影。林园向《酒业内参》表示，茅台当前的增长幅度仍在乐观预期内，此后10年至20年间将继续保持当前增速，“最近我还在买茅台的股票，不会减仓只会加仓”。（酒业内参）]]></title>
-            <guid>4201016</guid>
-            <pubDate>Mon, 19 May 2025 00:14:09 GMT</pubDate>
+            <title><![CDATA[【银河证券：银行基本面积极因素持续积累、改善可期】 中国银河证券研报表示，政府债持续发力拉动社融，信贷需求仍待修复。一季度银行业绩有所波动，但随着近期一揽子金融政策出台，降准降息落地，结构性工具加力，银行基本面积极因素持续积累、改善可期。公募低配修复，中长期资金入市加速银行红利价值兑现。继续看好银行板块配置价值，维持推荐评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiik1556784.d.html</link>
+            <guid>4202974</guid>
+            <pubDate>Mon, 19 May 2025 23:57:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【局地40℃！北方今年首场高温过程已开启】 目前，北方今年首场高温过程已开启，今起至22日进入核心影响时段，西北、华北、黄淮多地或经历40℃高温天气。陕西关中盆地、河北南部、河南西北部等地最高气温可达37℃至39℃，局地40℃，部分站点会出现5月少见甚至破纪录的高温。西安今起3天最高气温或达39℃，太原今明天最高气温38℃以上，都将挑战当地5月最高气温纪录。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzyak3170349.d.html</link>
-            <guid>4201015</guid>
-            <pubDate>Mon, 19 May 2025 00:13:06 GMT</pubDate>
+            <title><![CDATA[【阿斯利康旗下药物AirSupra可使哮喘急性发作风险降低47%】 研究显示，阿斯利康旗下药物AirSupra可使哮喘急性发作风险降低47%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiie6953208.d.html</link>
+            <guid>4202972</guid>
+            <pubDate>Mon, 19 May 2025 23:55:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【郭明錤：苹果AirPods耳机可能明年才会有重大更新】 5月19日，天风国际分析师郭明錤爆料称，苹果AirPods可能要到2026年才会有重大更新，他先前预测配备IR相机的AirPods在2026年量产。爆料还称，轻量版本的苹果AirPods Max预计在2027年量产。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzyan2605464.d.html</link>
-            <guid>4201012</guid>
-            <pubDate>Mon, 19 May 2025 00:11:35 GMT</pubDate>
+            <title><![CDATA[【一品红：受让控股子公司少数股东部分股权】 一品红公告，公司于2025年5月16日召开了第四届董事会第九次会议和第四届监事会第九次会议，审议通过了《关于受让控股子公司少数股东部分股权暨关联交易的议案》，为了提高公司持有创新药AR882的中国区市场权益及推动其高效研发和快速上市，同意公司全资子公司瑞奥生物与合作方Arthrosi签订《股权转让协议》，瑞奥生物拟以自有资金680万美元（折合人民币约4,900.96万元）受让公司控股子公司广州瑞安博少数股东Arthrosi15.25%的股权。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiie6953156.d.html</link>
+            <guid>4202971</guid>
+            <pubDate>Mon, 19 May 2025 23:55:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中化岩土所属公司中标乌鲁木齐机场改扩建工程一施工项目】 据中化岩土消息，近日，中化岩土所属北京场道市政工程集团有限公司成功中标乌鲁木齐机场改扩建工程南区现有设施改造工程飞行区场道工程施工Ⅲ标段。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzyah8033352.d.html</link>
-            <guid>4201011</guid>
-            <pubDate>Mon, 19 May 2025 00:10:21 GMT</pubDate>
+            <title><![CDATA[渣打银行策略师Steve Brice表示，最近穆迪的降级“不是什么大问题”，可能带有政治动机，他对美国股市仍持乐观态度。然而，他说需要关注即将到来的美国零售企业的财报和指引。]]></title>
+            <guid>4202970</guid>
+            <pubDate>Mon, 19 May 2025 23:54:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[葡萄牙总理路易斯·蒙特内格罗在选举获胜后表示：另一个少数派政府很可能是（组建政府的）最佳选择。]]></title>
-            <guid>4201008</guid>
-            <pubDate>Mon, 19 May 2025 00:08:12 GMT</pubDate>
+            <title><![CDATA[【37℃以上！郑州市气象台发布高温橙色预警信号】郑州市气象台2025年5月20日6时40分发布高温橙色预警信号：预计今天白天，郑州市主城区、航空港区、上街区所辖乡镇及街道最高气温将升至37℃以上，请注意防范高温天气带来的不利影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiih2120638.d.html</link>
+            <guid>4202969</guid>
+            <pubDate>Mon, 19 May 2025 23:54:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[受工厂火灾影响，韩国锦湖轮胎股价下挫10%，竞争对手韩泰轮胎跳涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzyaf1257778.d.html</link>
-            <guid>4201006</guid>
-            <pubDate>Mon, 19 May 2025 00:05:26 GMT</pubDate>
+            <title><![CDATA[【印度百年老屋失火致一家17口遇难，莫迪发声：深感悲痛】据《印度时报》报道，18日清晨，印度海得拉巴市中心珠宝店街一栋房屋失火，造成一家17口人死亡。失火原因可能是电器短路。 海得拉巴是印度中部的历史古城，珠宝店街位于海得拉巴老城，靠近1591年建成的市中心标志性建筑“查米纳塔门”。着火的建筑始建于1906年，一楼是三家珠宝店，同属于一个家族经营，二楼是该家族的祖宅。印度总理莫迪发声表示，对此次火灾造成的伤亡深感悲痛，宣布将通过总理国家救济基金，为每位遇难者提供20万卢比的抚恤金（约合人民币1.6万元）。目前，印度政府还在对火灾原因进行详细调查。（环球时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexeiic0178394.d.html</link>
+            <guid>4202968</guid>
+            <pubDate>Mon, 19 May 2025 23:53:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
