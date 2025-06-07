@@ -4,420 +4,347 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 06 Jun 2025 01:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jun 2025 01:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【华为鸿蒙电脑今日开售】华为鸿蒙电脑今日正式开售，包括MateBook Pro和首款折叠电脑MateBook Fold非凡大师，两款产品均搭载HarmonyOS 5系统。其中，华为MateBook Pro售价7999元起，MateBook Fold非凡大师售价23999元起。]]></title>
-            <guid>4228324</guid>
-            <pubDate>Fri, 06 Jun 2025 01:23:30 GMT</pubDate>
+            <title><![CDATA[【宏利基金拟1000万自购旗下新型浮动费率基金】宏利基金今日公告称，公司基于对中国资本市场长期健康稳定发展的信心，将于近日运用固有资金1000万元投资旗下宏利睿智领航混合型证券投资基金。该只基金为宏利基金推出的新型浮动费率基金产品。首批新兴浮动费率基金自5月27日发行以来，东方红资管、天弘基金、博时基金、中欧基金以及兴证全球基金已宣布自购。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezfcmm6594477.d.html</link>
+            <guid>4229893</guid>
+            <pubDate>Sat, 07 Jun 2025 01:08:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[港股友邦保险(01299.HK)涨超1%，杜嘉祺将自9月30日起退任汇丰集团主席，加入友邦保险。]]></title>
-            <guid>4228323</guid>
-            <pubDate>Fri, 06 Jun 2025 01:22:34 GMT</pubDate>
+            <title><![CDATA[【面壁智能发布端侧大模型MiniCPM 4.0】6月6日晚，面壁智能发布端侧大模型MiniCPM 4.0。该公司称新模型通过自研CPM.cu推理框架，在极限场景下实现最高220倍提速，常规5倍提速，支持在vLLM、SGLang、LlamaFactory等框架部署。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezfcmh1790964.d.html</link>
+            <guid>4229892</guid>
+            <pubDate>Sat, 07 Jun 2025 01:07:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[马斯克表示，我们不会退役“龙”飞船。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezaynk0758007.d.html</link>
-            <guid>4228322</guid>
-            <pubDate>Fri, 06 Jun 2025 01:21:36 GMT</pubDate>
+            <title><![CDATA[【科大讯飞与中国五矿化工进出口商会达成战略合作】中国五矿化工进出口商会于6月4日-6日在海南省海口市举办第32届中国五矿化工行业高质量发展大会。会议期间，科大讯飞与中国五矿化工进出口商会正式签署战略合作协议。根据协议，双方将针对商会企业所在行业进一步深化垂直领域技术合作机制，针对行业特殊场景存在的如无网络、高噪音、多语种翻译难且成本高等行业难题，打造行业级AI语言基础设施，同时联合开发行业专业术语库，强化国际化场景服务能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezfcmi9819018.d.html</link>
+            <guid>4229891</guid>
+            <pubDate>Sat, 07 Jun 2025 01:04:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ 【驻加拿大使馆提醒在加中国公民注意山火灾害】 6月6日，据“中国驻加拿大大使馆”公众号消息，近日，加拿大多地发生山林火灾，部分地区火势蔓延迅速，已对当地交通、通信和居民生活造成影响。加相关部门已发布山火预警或疏散令。驻加拿大使馆提醒在加中国公民，避免前往山火波及区域，提高自我保护意识，加强自身安全防范。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezaynh2658048.d.html</link>
-            <guid>4228319</guid>
-            <pubDate>Fri, 06 Jun 2025 01:20:54 GMT</pubDate>
+            <title><![CDATA[【中国港湾与中免集团签署战略合作框架协议】6月6日，中国港湾与中国免税品（集团）有限责任公司在京签署战略合作框架协议。中国港湾董事长白银战与中免集团总经理常筑军出席签约仪式，并就全面深化战略合作进行座谈交流。白银战与常筑军分别代表双方签署战略合作框架协议。根据协议，双方将围绕免税业务深化战略合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezfcmp4779711.d.html</link>
+            <guid>4229890</guid>
+            <pubDate>Sat, 07 Jun 2025 01:03:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【可灵AI月付费金额连续两月破1亿元】快手旗下可灵AI上线一周年。快手官网信息显示，可灵AI在推出10个月之后（即今年3月）的年化收入运行率（ARR）已突破1亿美元，另外今年4月和5月的月度付费金额均超过1亿元人民币。目前可灵AI全球用户规模突破2200万，为超过1万家的企业客户提供API服务。]]></title>
-            <guid>4228318</guid>
-            <pubDate>Fri, 06 Jun 2025 01:20:18 GMT</pubDate>
+            <title><![CDATA[【日本修订《聚变能源创新战略》，竞逐2030年代发电实证】 6月4日，经综合创新战略推进会议审议通过，日本内阁府正式发布了修订后的《聚变能源创新战略》文件，作为下一阶段核聚变科研与产业发展的纲领性文件。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezfcmp4778780.d.html</link>
+            <guid>4229888</guid>
+            <pubDate>Sat, 07 Jun 2025 01:01:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【5月份中国仓储指数为50.5% 连续7个月运行在扩张区间】中国物流与采购联合会今天（6日）公布5月份中国仓储指数。数据变化显示，仓储业务活动活跃，需求保持增长，仓储行业保持平稳向好运行态势。5月份中国仓储指数为50.5%，较上月回落0.2个百分点，连续七个月运行在扩张区间。从分项指数来看，新订单指数保持在扩张区间。随着节日消费需求充分释放，消费品仓储业务需求表现较好，特别是食品、农副产品、家电、日用品等品种的新订单指数升幅显著。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezaynh2657577.d.html</link>
-            <guid>4228317</guid>
-            <pubDate>Fri, 06 Jun 2025 01:19:58 GMT</pubDate>
+            <title><![CDATA[【腾讯QQ出现全球首位256级用户，解锁新等级图标“时光企鹅”】腾讯6月7日凌晨发布消息称，今夜QQ迎来全球首位256级用户，这位昵称为「爱芥末」的QQ用户获得全新QQ等级图标“时光企鹅”，这也是历经22年QQ出现皇冠之后的新图标。这个新图标带有象征QQ成长等级的星星、月亮、太阳元素。腾讯官方表示，@爱芥末的QQ在2000年左右注册。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezfcmi9817322.d.html</link>
+            <guid>4229886</guid>
+            <pubDate>Sat, 07 Jun 2025 00:58:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【和展能源等在河南成立生物能源公司】 企查查APP显示，河南必展生物能源有限公司成立，法定代表人为高芳，经营范围包含：生物基材料技术研发；生物农药技术研发；生物有机肥料研发；肥料销售等。企查查股权穿透显示，该公司由和展能源全资子公司北京和展能源有限公司等共同持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezaynh2657057.d.html</link>
-            <guid>4228316</guid>
-            <pubDate>Fri, 06 Jun 2025 01:19:02 GMT</pubDate>
+            <title><![CDATA[【雄安新区首次承接高考工作】今年是雄安新区自成立以来首次承接高考工作，新区共设3个考区、7个考点、243个考场。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezfcmi9816984.d.html</link>
+            <guid>4229885</guid>
+            <pubDate>Sat, 07 Jun 2025 00:56:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国移动与河南省人民政府签署合作协议】 6月4日，中国移动通信集团有限公司与河南省人民政府签署“人工智能+”重点场景应用合作协议。根据协议，双方将深入实施“人工智能+”行动，共同推动人工智能科技创新与产业创新深度融合，加快培育新质生产力；加大新型信息基础设施建设投入，加快智算网络布局建设，加快建设高质量数据集和人工智能基座能力；聚焦农业、中医药、水利、工业、文旅等场景，共同开展大模型应用研发和场景拓展，加快重点行业应用场景建设。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezaynk0755963.d.html</link>
-            <guid>4228315</guid>
-            <pubDate>Fri, 06 Jun 2025 01:18:56 GMT</pubDate>
+            <title><![CDATA[                                    【上海电气与国家能源集团商讨新能源技术研发等合作】 6月6日下午，国家能源投资集团有限责任公司党组书记、董事长邹磊与上海电气集团党委书记、董事长吴磊举行会谈，双方就煤炭清洁利用、新能源技术研发、产业链协同等议题达成多项共识。吴磊表示，希望双方继续加强对接，持续深化在新型电力系统领域的合作，重点推进掺氢氨燃烧、调峰灵活性改造等新一代煤电示范项目和重大技术装备示范工程]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezfcmh1786097.d.html</link>
+            <guid>4229882</guid>
+            <pubDate>Sat, 07 Jun 2025 00:50:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【可灵AI月付费金额连续两月破1亿元】6月6日，快手旗下可灵AI上线一周年。快手官网信息显示，可灵AI在推出10个月之后（即今年3月）的年化收入运行率（ARR）已突破1亿美元，另外今年4月和5月的月度付费金额均超过1亿元人民币。目前可灵AI全球用户规模突破2200万，为超过1万家的企业客户提供API服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezaynh2656113.d.html</link>
-            <guid>4228313</guid>
-            <pubDate>Fri, 06 Jun 2025 01:17:20 GMT</pubDate>
+            <title><![CDATA[【机构：5月中国电视市场品牌整机出货量为283.0万台，同比下降2.1%】洛图科技数据显示，2025年5月，中国电视市场品牌整机出货量为283.0万台，同比下降2.1%。自去年10月“国补”见效以来，连续六个月的出货量均实现了同比增长；而从4月开始，则呈现了连续两个月的同比下降。截至5月底，电视市场的累计出货量为1403.5万台，受益于第一季度的表现，整体较去年同期小幅增长1.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezfcmi9815552.d.html</link>
+            <guid>4229881</guid>
+            <pubDate>Sat, 07 Jun 2025 00:49:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【三只松鼠成立超鲜密码食品公司】 企查查APP显示，近日，安徽超鲜密码食品有限公司成立，法定代表人为严秀国，经营范围包含：食品添加剂销售；食用农产品零售；食用农产品批发；农副产品销售等。企查查股权穿透显示，该公司由三只松鼠全资持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezaynm7525257.d.html</link>
-            <guid>4228311</guid>
-            <pubDate>Fri, 06 Jun 2025 01:14:12 GMT</pubDate>
+            <title><![CDATA[                                    【海南自贸港：推进全岛封关准备工作专班第28次领导小组会议召开】 6月5日，推进全岛封关准备工作专班第28次领导小组会议在海口召开，研究海南自贸港核心政策落地相关工作。省长、推进全岛封关准备工作专班领导小组组长刘小明主持会议。会议听取开展新型离岸国际贸易、货物进境维修免关税、支持海南自贸港开展重点行业再制造产品进口试点等政策落地实施过程中打通堵点、集成加持、稳定预期、释放效能工作汇报，指出要以只争朝夕的昂扬状态，按照“小切口、守底线、试点示范蹚路子”的工作思路，坚持问题导向、分类施策、协同作战，做到精准发力，狠抓任务落实，打通政策堵点，拓展应用场景，推动政策红利持续扩大。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezfcmi9814903.d.html</link>
+            <guid>4229880</guid>
+            <pubDate>Sat, 07 Jun 2025 00:47:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国白宫新闻发言人Leavitt：马斯克有权代表公司说话。特朗普的重点是通过共和党的税收法案。]]></title>
-            <guid>4228310</guid>
-            <pubDate>Fri, 06 Jun 2025 01:13:33 GMT</pubDate>
+            <title><![CDATA[                                    【机构：5月全球AI APP预估下载总量达2.8亿次，环比下滑16.4%】 点点数据显示，2025年5月，全球（含中国大陆）AI APP苹果App Store与谷歌Google Play双端预估下载总量达2.8亿次（不含重复下载），环比4月下滑了16.4%。其中，ChatGPT、Google Gemini、DeepSeek、豆包与PixVerse位列TOP 5，占据了全球市场双端AI应用下载量的51%。具体来看，ChatGPT下载量占比进一步提升，由4月份的27%提升至5月份的32%，其余4款应用下载量占比相差不大。4月份位列第四的Genius在5月份跌出前五，取而代之的是在4月份跌出榜单的PixVerse位列5月份第五，豆包则前进一名成为第四。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezfcmi9814447.d.html</link>
+            <guid>4229879</guid>
+            <pubDate>Sat, 07 Jun 2025 00:45:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[亚马逊计划在中国台湾投资超过50亿美元，以支持新区域的发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezaynh2652884.d.html</link>
-            <guid>4228308</guid>
-            <pubDate>Fri, 06 Jun 2025 01:12:04 GMT</pubDate>
+            <title><![CDATA[【中国科学院召开生命科学和生物技术领域发展战略研讨会】6月4日，中国科学院召开生命科学和生物技术领域发展战略研讨会。中国科学院院长、党组书记侯建国出席会议并讲话。侯建国指出，要聚焦重点药物研发和重大疾病防治技术突破、保障粮食安全和农业高质量发展、依托重大科技基础设施的高水平研究、关键设备装置和材料试剂佐剂自主研制、人工智能赋能及学科交叉融合研究等重点方面，以解决前沿基础科学重大问题、突破关键核心技术“卡脖子”难题、完成国家相关科技重大任务、在2035年建成科技强国时实现高水平自立自强为目标，充分发挥体系化建制化优势，努力抢占生命科学和生物技术领域科技制高点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezfcmp4773373.d.html</link>
+            <guid>4229878</guid>
+            <pubDate>Sat, 07 Jun 2025 00:39:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【深圳智能网联汽车产业链企业超2400家】 统计数据显示，《深圳经济特区智能网联汽车管理条例》实施的次年，深圳智能网联汽车产业集群增加值就大幅增长38.2%。到2024年，深圳智能网联汽车产业集群增加值达1023.72亿元，同比增长38.8%，增速位列20大战略性新兴产业集群前列。截至目前，深圳智能网联汽车产业链上下游企业已超过2400家，其中自动驾驶相关企业约1400家。（深圳发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezaynh2652248.d.html</link>
-            <guid>4228307</guid>
-            <pubDate>Fri, 06 Jun 2025 01:10:48 GMT</pubDate>
+            <title><![CDATA[【鄂湘苏皖沪等地有强降雨 河南山东局地最高气温可达37℃】昨日，湖北、湖南、江苏、安徽、重庆等地的部分地区出现分散性强降雨，安徽和湖北局地出现大暴雨。预计未来三天，降雨区域将位于江淮、江南北部等地，今日为本次降雨过程最强时段，8日雨带将有所南压。中央气象台今晨继续发布暴雨蓝色预警：预计今天，湖北东部和南部、安徽中南部、江苏南部、上海、湖南西部和北部、江西北部、浙江西部和北部、贵州东部和南部、广西西北部等地部分地区有大到暴雨，其中，江苏南部等局地有大暴雨(100~150毫米)。上述部分地区伴有短时强降水(最大小时降雨量30~60毫米，局地可超过80毫米)，局地有雷暴大风等强对流天气。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezfcmi9812651.d.html</link>
+            <guid>4229877</guid>
+            <pubDate>Sat, 07 Jun 2025 00:36:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【雄帝科技：目前没有参与稳定币的相关技术服务】 雄帝科技6月6日在互动平台上表示，公司目前没有参与稳定币的相关技术服务。数字货币领域，目前公司在公共交通场景的产品已经完成了数字货币技术的相关研发，也参与了多个城市公共交通场景的数字货币应用；数字货币后续的应用拓展主要根据国家相关政策而进行。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezaynk0747419.d.html</link>
-            <guid>4228306</guid>
-            <pubDate>Fri, 06 Jun 2025 01:10:43 GMT</pubDate>
+            <title><![CDATA[【下周10股解禁市值均超过10亿元】 据统计，下周（6月9日—13日），A股市场有43只个股面临解禁。以个股最新价计算，43只解禁股对应市值合计468.44亿元。从解禁规模上来看，10股解禁市值均超过10亿元。达梦数据(688692)解禁市值达到107.52亿元，居首。相较于市值规模，解禁比例（解禁股数量占总股本比例）更能反映出解禁对股价的冲击。上述43股中，11股解禁比例高于20%，其中3股解禁比例大于50%。个股中，阳光乳业解禁比例为72.74%，居首；宇邦新材、通灵股份解禁比例分别为60.52%、58.62%。从解禁股类型来看，上述3股均为首发原股东限售股份解禁。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezfcmh1781873.d.html</link>
+            <guid>4229874</guid>
+            <pubDate>Sat, 07 Jun 2025 00:32:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【新北洋：将继续探索相关设备在数字人民币场景下的支持应用】 新北洋6月6日在互动平台表示，围绕金融机具场景化产品解决方案，新北洋聚焦“银行网点转型”和“海外商业零售”两大场景，提供从核心模块和智能整机到平台软件和系统集成的一体化解决方案。与此同时，公司顺应数字人民币的推广趋势，积极储备数字人民币相应的产品和解决方案，智能自助零售、智慧柜员机等设备可以根据客户需求支持数字人民币。接下来，公司将继续保持与客户的密切联系，探索相关设备在数字人民币场景下的支持应用。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauen0876370.d.html</link>
-            <guid>4228305</guid>
-            <pubDate>Fri, 06 Jun 2025 01:06:23 GMT</pubDate>
+            <title><![CDATA[【美国亚利桑那州一小型飞机坠毁 两人受伤】当地时间6月6日清晨，美国亚利桑那州首府凤凰城（菲尼克斯）迪尔谷机场附近发生一起小型飞机坠毁事故，造成两人受伤。据悉，消防部门于早上约5点30分接到报警，事故现场伴有火情，已及时扑灭。机内两人已自行从机舱中脱困。凤凰城消防局表示，两人均头部受伤，目前情况稳定。美国联邦航空管理局（FAA）确认，坠毁的是一架赛斯纳C-150型小型飞机。事故原因尚不明朗，FAA已介入调查。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezfcmp4771668.d.html</link>
+            <guid>4229873</guid>
+            <pubDate>Sat, 07 Jun 2025 00:32:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【泰和新材：民士达芳纶纸项目进展顺利 产品销售较好】 泰和新材6月6日在互动平台回复投资者称，公司控股子公司民士达的募投项目1500吨的芳纶纸项目进展顺利，产品销售较好。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauen0875391.d.html</link>
-            <guid>4228303</guid>
-            <pubDate>Fri, 06 Jun 2025 01:03:57 GMT</pubDate>
+            <title><![CDATA[消息人士称，美国国务院正考虑向新的加沙援助组织提供5亿美元资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezfcmi9811705.d.html</link>
+            <guid>4229872</guid>
+            <pubDate>Sat, 07 Jun 2025 00:31:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【哥伦比亚一煤矿发生爆炸 造成3人死亡】哥伦比亚昆迪纳马卡省省长豪尔赫·埃米利奥·雷伊当地时间6月5日证实，该省一煤矿4日晚上发生爆炸，造成两起塌方。经过20个小时的救援后，确认3名矿工死亡，1人获救。事故发生后，哥伦比亚消防部门等共同展开救援工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauen0874714.d.html</link>
-            <guid>4228302</guid>
-            <pubDate>Fri, 06 Jun 2025 01:02:57 GMT</pubDate>
+            <title><![CDATA[【教育部副部长王嘉毅出席第十二届金砖国家教育部长会议并访问巴西】6月2日至7日，教育部副部长王嘉毅赴巴西出席第十二届金砖国家教育部长会议，并访问巴西。 王嘉毅在金砖国家教育部长会议上表示，中国打造了国家智慧教育平台，发布了中小学人工智能通识教育指南和生成式人工智能使用指南，力求实现技术进步与教育伦理的有机统一。同时，中国着力向青年人才提供从入学到就业的全周期支持，持续以数字化和国际化推动职业教育转型。会议通过了《金砖国家职业教育联盟章程》和《2025年金砖国家教育部长联合宣言》。（教育部）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezfcmi9810927.d.html</link>
+            <guid>4229871</guid>
+            <pubDate>Sat, 07 Jun 2025 00:27:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ 【37℃＋！郑州市气象台继续发布高温橙色预警信号】郑州市气象台2025年06月06日06时15分继续发布高温橙色预警信号：预计今天白天，郑州市主城区、航空港区、上街区所辖乡镇及街道最高气温将升至37℃以上，请注意防范高温天气带来的不利影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauer5769130.d.html</link>
-            <guid>4228301</guid>
-            <pubDate>Fri, 06 Jun 2025 01:02:18 GMT</pubDate>
+            <title><![CDATA[俄罗斯国防部通报说，6月6日中午至午夜，俄防空系统的值班武器在俄罗斯多个地区上空击落了82架乌克兰无人机。]]></title>
+            <guid>4229867</guid>
+            <pubDate>Sat, 07 Jun 2025 00:21:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[台湾证交所加权股价指数开低0.2%报21,637.77。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauer5767882.d.html</link>
-            <guid>4228298</guid>
-            <pubDate>Fri, 06 Jun 2025 01:00:13 GMT</pubDate>
+            <title><![CDATA[市场消息：美国大学希望通过承诺动用更多捐赠资金来避免大幅加税。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezfcmi9807905.d.html</link>
+            <guid>4229866</guid>
+            <pubDate>Sat, 07 Jun 2025 00:16:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【百通能源在北京新设热电公司】 企查查APP显示，近日，北京百通热电有限公司成立，法定代表人为于瑞怀，经营范围包含：热力生产和供应；企业管理等。企查查股权穿透显示，该公司由百通能源全资持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauen0873158.d.html</link>
-            <guid>4228296</guid>
-            <pubDate>Fri, 06 Jun 2025 00:59:42 GMT</pubDate>
+            <title><![CDATA[【台媒：不惧台当局阻挠，马英九拟出席海峡论坛】大陆规划于6月中旬举办第17届海峡论坛。就在民进党当局极力阻挠岛内人士出席之际，台湾地区前领导人马英九被曝将出席。 台湾联合新闻网6日援引马英九基金会执行长萧旭岑的话称，马英九持续规划行程，确定后会主动对外公布。报道说，马英九出席今年海峡论坛的可能性很高。萧旭岑表示，马英九认为在两岸兵凶战危之际，唯有深化两岸交流，才能降低紧张，增进了解，因此过去两年亲自带马英九基金会“大九学堂”的学生访问大陆三次，“事实证明对两岸关系都有极其正面的影响”。他还说欢迎台湾各界一起促进两岸民间交流。 （环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezfcmi9803651.d.html</link>
+            <guid>4229858</guid>
+            <pubDate>Fri, 06 Jun 2025 23:56:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【恒勃股份：公司小型PEEK传动件进入特斯拉人形机器人产业链传闻不实】 有投资者向恒勃股份提问：近期市场炒作公司股价，理由是公司的小型PEEK传动件进入特斯拉人形机器人产业链，是否属实？恒勃股份6月6日在互动平台回复，不属实。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauer5767620.d.html</link>
-            <guid>4228295</guid>
-            <pubDate>Fri, 06 Jun 2025 00:59:17 GMT</pubDate>
+            <title><![CDATA[【美制裁ICC法官，ICC发声回击，联合国要求美撤销制裁措施】美国政府5日宣布，将对国际刑事法院（ICC）的4名法官实施制裁，包括禁止其入境美国并冻结在美资产。ICC谴责称，美方的制裁措施“显然试图破坏国际司法机构的独立性”。 综合路透社、法新社等媒体6日报道，这4名法官分别来自乌干达、秘鲁、贝宁和斯洛文尼亚。其中两名法官涉及去年11月对以色列总理内塔尼亚胡和前国防部长加兰特等人发出逮捕令，指控他们在加沙地区犯下战争罪和危害人类罪。另两名法官则参与授权调查美军在阿富汗涉嫌战争罪。 （环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezexcr4890200.d.html</link>
+            <guid>4229857</guid>
+            <pubDate>Fri, 06 Jun 2025 23:53:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【亚马逊进行更多裁员 这次是图书部门】亚马逊当地时间周四表示，该公司已经削减了图书部门的工作岗位，包括Goodreads评论网站和Kindle部门。这家总部位于西雅图的零售商表示，受影响的员工不到 100 人，此举旨在提高效率和简化运营。亚马逊发言人在一份声明中说："作为我们正在进行的提高团队和项目运作效率工作的一部分，并为了更好地与我们的业务路线图保持一致，我们做出了一个艰难的决定，取消图书组织内部的少量职位。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauek2777523.d.html</link>
-            <guid>4228294</guid>
-            <pubDate>Fri, 06 Jun 2025 00:58:46 GMT</pubDate>
+            <title><![CDATA[【人民日报钟声：对话和合作是中美唯一正确的选择】人民日报钟声7日发布文章指出，中美经贸关系既对两国意义重大，也对世界经济稳定和发展有着重要影响。根据美方提议，两国经贸牵头人此前在日内瓦举行会谈，迈出了通过对话协商解决经贸问题的重要一步，受到两国各界和国际社会普遍欢迎，也证明对话和合作是唯一正确的选择。中方一向言必行、行必果，始终本着负责任的态度，认真对待、严格落实、积极维护日内瓦经贸会谈共识。反观美方，在日内瓦经贸会谈后，陆续新增出台多项对华歧视性限制措施，严重破坏日内瓦经贸会谈既有共识，严重损害中方正当权益，也势必损害美方的诚信。同美方通过对话协商解决经贸问题，中方是有诚意的，也是有原则的。既然达成了共识，双方都应遵守，秉持平等态度，尊重各自关切，争取双赢结果。美方应实事求是看待取得的进展，撤销对中国实施的消极举措。历史和现实一再表明，中美合则两利、斗则俱伤。中方始终秉持相互尊重、和平共处、合作共赢的原则看待和处理对美关系，致力于同美方加强对话沟通，妥善管控分歧，拓展互利合作。两国根据日内瓦会谈有关共识调整关税措施后，中美航运市场“一船难求”，充分展现两国企业的合作刚需，再次印证互利共赢是双方经贸关系的本质。无论是推动各自发展，还是推动世界经济复苏、解决国际和地区热点问题，都需要中美协调合作。双方应增进外交、经贸、军队、执法等各领域交流，增进共识、减少误解、加强合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezexcm9932403.d.html</link>
+            <guid>4229854</guid>
+            <pubDate>Fri, 06 Jun 2025 23:42:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[马自达计划在其位于日本西部的防府工厂生产新的电动汽车。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauek2776521.d.html</link>
-            <guid>4228292</guid>
-            <pubDate>Fri, 06 Jun 2025 00:55:55 GMT</pubDate>
+            <title><![CDATA[【债市“科技板”满月 科创债发行规模突破4000亿元】 5月7日正式落地的债市“科技板”满月，科创债发行规模达4172亿元。数据显示，截至6月6日，科创债共发行225只，总规模达4172亿元，占全市场同期发行规模的17.4%。相关主体发行意愿较为积极。商业银行表现突出，科创债发行规模1910亿元，占比45.8%。而政策性银行发行规模为200亿元，证券公司为259亿元，金融机构发行规模比例合计达56.8%。非金融企业科创债发行规模达1803亿元，远超原科创票据和科技创新公司债券的单月发行水平。（上海证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezexcp6706905.d.html</link>
+            <guid>4229853</guid>
+            <pubDate>Fri, 06 Jun 2025 23:42:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[                                    【国际电信联盟：随着人工智能兴起，科技巨头的间接排放量在三年内增长150%】 当地时间6月5日，国际电信联盟（ITU）发布《2025绿色数字企业》报告。报告称，由于数据中心供电需要大量能源，四家以人工智能为核心领域的领先科技公司亚马逊、微软、Alphabet 和 Meta，其运营所产生的间接碳排放量在2020-2023年间平均上升了150%。间接排放包括公司消耗的外购电力、蒸汽、供热和制冷所产生的排放。报告显示，与三年前相比，亚马逊在2023年的运营碳排放量增长最多，达到182%，微软为155%、Meta为145%以及Alphabet为138%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauek2776261.d.html</link>
-            <guid>4228291</guid>
-            <pubDate>Fri, 06 Jun 2025 00:55:12 GMT</pubDate>
+            <title><![CDATA[【特斯拉人形机器人项目主管将离职】知情人士称，特斯拉Optimus人形机器人项目工程主管米兰・科瓦奇即将离职。他已经于当地时间周五通知团队，自己将立即离职。特斯拉自动驾驶负责人阿肖克・埃卢斯瓦米将接手该项目。 科瓦奇随后在X上证实了离职消息，称这是“人生中最艰难的决定”，他希望能更多陪伴家人。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezexck1895752.d.html</link>
+            <guid>4229848</guid>
+            <pubDate>Fri, 06 Jun 2025 23:37:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：欧洲外交官担心，美国总统特朗普会在即将举行的北约峰会上关于最终声明的讨论中，反对对乌克兰提供援助的承诺，并试图阻止在声明中加入批评俄罗斯的措辞。]]></title>
-            <guid>4228290</guid>
-            <pubDate>Fri, 06 Jun 2025 00:55:06 GMT</pubDate>
+            <title><![CDATA[日本首席谈判代表、经济再生大臣赤泽亮正（Ryosei Akazawa）：美国关税正在对日本经济产生重大影响。]]></title>
+            <guid>4229847</guid>
+            <pubDate>Fri, 06 Jun 2025 23:36:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【法媒：巴黎为塞纳河申请“法人资格”，通过后塞纳河将正式拥有“生存权”】据法新社报道，巴黎市正在为塞纳河申请“法人资格”。如果该决议在法国国民议会上通过，这条闻名世界的古老河流将正式拥有“生存权”，并在司法层面获得更有力的“辩护”保障。 本周三，巴黎市议会呼吁法国国民议会批准“赋予塞纳河‘法人资格’的法律”。若这一法律成功落地，塞纳河将在司法层面成立独立的监护机构，专门在法庭上捍卫其合法权利。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauep7646059.d.html</link>
-            <guid>4228289</guid>
-            <pubDate>Fri, 06 Jun 2025 00:54:18 GMT</pubDate>
+            <title><![CDATA[日本首席谈判代表、经济再生大臣赤泽亮正（Ryosei Akazawa）：相信在与美国的贸易谈判中取得了进一步进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezexcp6705736.d.html</link>
+            <guid>4229846</guid>
+            <pubDate>Fri, 06 Jun 2025 23:35:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【北京亦庄工融交融股权投资基金登记成立】 企查查APP显示，近日，北京亦庄工融交融股权投资基金合伙企业（有限合伙）成立，出资额25亿元，经营范围包含：以私募基金从事股权投资、投资管理、资产管理等活动。企查查股权穿透显示，该企业由北京亦庄国际投资发展有限公司、工银金融资产投资有限公司等共同出资。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauep7645803.d.html</link>
-            <guid>4228288</guid>
-            <pubDate>Fri, 06 Jun 2025 00:53:33 GMT</pubDate>
+            <title><![CDATA[【适用“轻资产、高研发投入”标准 多家科创板公司再融资加大研发投入】 6月4日，寒武纪再融资申请获得上交所受理，这是又一家适用“轻资产、高研发投入”企业认定标准的再融资案例。证券时报记者获悉，自去年10月11日上交所发布《发行上市审核规则适用指引第6号——轻资产、高研发投入认定标准（试行）》（下称《指引》）以来，已有9家科创板公司按照“轻资产、高研发投入”认定标准申请再融资，合计拟融资247.96亿元。根据《指引》，科创板公司被认定为具有“轻资产、高研发投入”特点，再融资募资中非资本性支出比例不再受30%的限制，进一步支持科技型企业加大研发投入和提升研发水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezexcr4885199.d.html</link>
+            <guid>4229845</guid>
+            <pubDate>Fri, 06 Jun 2025 23:35:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【盛新锂能 ：印尼锂盐项目预计第三季度将批量供货】 盛新锂能6月5日在机构调研中表示，公司在印尼新建的6万吨锂盐项目已于2024年投入试生产，目前部分核心客户的认证已进入最后环节，预计第三季度将批量供货。此外，公司非常看好固态电池发展前景，在固态电池关键材料金属锂方面有业务布局，公司金属锂项目已建成产能500吨，超薄超宽锂带已实现批量生产，公司也在积极推动新规划的2500吨金属锂产能项目的进展和建设工作。公司也在固态电解质材料方面进行相关研发工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauep7645737.d.html</link>
-            <guid>4228287</guid>
-            <pubDate>Fri, 06 Jun 2025 00:53:22 GMT</pubDate>
+            <title><![CDATA[【驻芝加哥总领馆发言人就中国留学生被起诉走私危险菌种事答记者问】问：美国有关司法部门称，两名中国留学生因走私危险菌种遭到调查起诉。请问发言人对此有何评论？
+
+答：我们从美国媒体报道中得知此事，正通过有关渠道了解案情，并就美方执法部门未能履行中美领事条约规定的相关义务向美方提出了严正交涉。
+
+中国政府一贯要求海外中国公民严格遵守当地法律法规，包括出入境相关规定。同时，中方依法维护海外中国公民的正当合法权益，坚决反对美方以意识形态和泛化国家安全为借口对有关案件搞政治操弄。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezexcp6702202.d.html</link>
+            <guid>4229841</guid>
+            <pubDate>Fri, 06 Jun 2025 23:13:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【负债350亿美元！扩建高速公路，印度难逃负债累累】印度正大力扩建新高速公路，以促进经济增长，缓解城市交通拥堵和污染问题。然而，最新的报道显示，随着印度基础设施建设的扩张，公共部门的债务也在与日俱增。据《日经亚洲评论》3日报道，仅仅达到目前的扩张速度，印度公路管理部门就已负债350亿美元。 据报道，印度公路交通和运输部部长尼廷·加德卡里今年4月表示，他希望将印度每日高速公路建设里程提升至100公里，而目前，建设速度还没有跨越37公里的门槛。然而，仅达到目前的扩张速度，公路管理部门已负债350亿美元，据称，政府开始采用建设-运营-移交（BOT）融资模式吸引私人投资以减轻政府负担。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauen0870615.d.html</link>
-            <guid>4228284</guid>
-            <pubDate>Fri, 06 Jun 2025 00:51:11 GMT</pubDate>
+            <title><![CDATA[【美国联邦航空管理局决定限制纽瓦克机场航班数量】美国联邦航空管理局（FAA）当地时间6月6日表示，经过数周的设备故障、跑道施工和空中交通管制人员短缺问题后，FAA正式敲定新泽西州纽瓦克自由国际机场的临时航班削减措施。根据命令，自9月1日至12月31日的周末期间，纽瓦克机场每小时起降航班将被限制为各28架次。在此之外的时间段内，起降航班不得超过每小时各34架次，将持续至2025年10月25日。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezexck1889359.d.html</link>
+            <guid>4229839</guid>
+            <pubDate>Fri, 06 Jun 2025 23:11:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【建研设计投资成立工程咨询公司】 企查查APP显示，近日，省建院（肥西）工程咨询有限公司成立，法定代表人为江深，经营范围包含：工程技术服务（规划管理、勘察、设计、监理除外）；工程管理服务；工程造价咨询业务。企查查股权穿透显示，该公司由建研设计全资持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauep7644468.d.html</link>
-            <guid>4228282</guid>
-            <pubDate>Fri, 06 Jun 2025 00:48:32 GMT</pubDate>
+            <title><![CDATA[【特朗普：乌克兰给了普京一个轰炸他们的理由】当地时间6月6日，美国总统特朗普表示，“乌克兰给了普京一个理由，让他可以进去狠狠轰炸他们”。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezexcm9926841.d.html</link>
+            <guid>4229838</guid>
+            <pubDate>Fri, 06 Jun 2025 23:06:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中方对恐怖分子编入叙政府军表关切】北京时间今天（6月6日）凌晨，联合国安理会就叙利亚化武问题举行公开会。中国常驻联合国副代表耿爽在会上发言时表示，中方对有关踞叙外国恐怖作战分子近日被编入叙利亚政府军的报道表示关切，敦促叙利亚临时当局履行反恐义务，采取一切措施，打击包括“东伊运”在内的所有被安理会列名的恐怖组织和个人，并防止危险的化学品和化学武器落入恐怖分子之手。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauen0869817.d.html</link>
-            <guid>4228281</guid>
-            <pubDate>Fri, 06 Jun 2025 00:47:51 GMT</pubDate>
+            <title><![CDATA[【标普道琼斯指数在季度调整中维持标普500指数成分股不变】 6月6日美股盘后，标普道琼斯指数公司发言人称，该公司在周五进行的最新一轮季度调整中，维持了标普500指数成分股不变。该公司在发送给彭博的电子邮件中表示，对于标普1500指数也没有最新消息。华尔街分析师通常会在公告发布前预测哪些公司将被纳入。此次，经纪公司Robinhood Markets, Inc.股价本周上涨约13%，此前包括美国银行和巴克莱银行在内的多家公司猜测该公司是加入该基准指数的首选。Robinhood股价在盘后交易中下跌了6%。 根据4月份的编制方法，若要被纳入标普500指数，公司市值必须至少达到205亿美元，并满足盈利能力、流动性和流通股标准。被纳入美国股票基准指数可以提升公司的形象，随着被动投资基金的增长，这一点变得越来越重要。被剔除出基准指数可能会对股价造成压力，因为指数基金将出售股票以适应标准普尔 500 指数的新构成。在上一季度的成分股调整中，DoorDash Inc.、Williams-Sonoma Inc.、TKO Group Holdings Inc.和Expand Energy Corp.被纳入标普500指数。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezexcp6697438.d.html</link>
+            <guid>4229835</guid>
+            <pubDate>Fri, 06 Jun 2025 22:37:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【两市融资余额增加45.04亿元】截至6月5日，上交所融资余额报9094.98亿元，较前一交易日增加19.47亿元；深交所融资余额报8845.63亿元，较前一交易日增加25.57亿元；两市合计17940.61亿元，较前一交易日增加45.04亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauer5763621.d.html</link>
-            <guid>4228280</guid>
-            <pubDate>Fri, 06 Jun 2025 00:47:13 GMT</pubDate>
+            <title><![CDATA[【特朗普祝马斯克的特斯拉事业成功】美国总统特朗普在空军一号上对记者表示，政府效率部(DOGE)推动的减支措施“对我们帮助很大”，希望马斯克“在特斯拉取得好成绩”。他还说，“我没有与马斯克通话的打算。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezexcp6695689.d.html</link>
+            <guid>4229833</guid>
+            <pubDate>Fri, 06 Jun 2025 22:21:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【雷军官宣小米汽车高阶驾驶培训课开课：SU7实车训练、演练打滑失控等场景】今日，小米CEO雷军宣布，小米汽车精英驾驶高阶驾驶培训课北京站于今天正式开课，冠军车手谢欣哲将会作为嘉宾到场。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauer5763296.d.html</link>
-            <guid>4228279</guid>
-            <pubDate>Fri, 06 Jun 2025 00:46:31 GMT</pubDate>
+            <title><![CDATA[【暴雨蓝色预警 多地将有大到暴雨】中央气象台6月7日06时继续发布暴雨蓝色预警：预计，6月7日08时至8日08时，湖北东部和南部、安徽中南部、江苏南部、上海、湖南西部和北部、江西北部、浙江西部和北部、贵州东部和南部、广西西北部等地部分地区有大到暴雨，其中，江苏南部等地局地有大暴雨（100～150毫米）。上述部分地区伴有短时强降水（最大小时降雨量30～60毫米，局地可超过80毫米），局地有雷暴大风等强对流天气。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezexcr4871017.d.html</link>
+            <guid>4229832</guid>
+            <pubDate>Fri, 06 Jun 2025 22:20:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国汽车品牌在泰国曼谷集体亮相联合国道路安全周】 2025年6月2—5日，联合国道路安全周系列活动在泰国曼谷联合国亚洲及太平洋经济社会委员会（UNESCAP）总部举办，期间联合国世界车辆法规协调论坛自动驾驶与网联汽车工作组与道路交通安全论坛联合举办自动驾驶技术和产品展示体验活动。长安汽车、广汽集团、比亚迪汽车、长城汽车等在泰中国企业在中国汽车企业国际化发展创新联盟的组织下，携其畅销车型应邀参加此次“静态展示+动态试乘”相关活动，与奔驰汽车、路虎汽车等国际厂商一起，同台展示自适应巡航、自动紧急制动、自动泊车等最新自动驾驶系统及产品，并将借助智能化网联化技术的加持为东南亚市场提供更安全、更绿色、更智能的新车型。来自联合国欧洲经济委员会（UNECE）、联合国亚洲及太平洋经济社会委员会（UNESCAP）、世界汽车制造商协会（OICA）、欧盟、德国、英国、美国、加拿大、日本、韩国、泰国等国际组织及相关国家和地区的100多位专家现场观摩和试乘体验了中国的新技术、新产品。（工信部）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauer5763167.d.html</link>
-            <guid>4228278</guid>
-            <pubDate>Fri, 06 Jun 2025 00:46:14 GMT</pubDate>
+            <title><![CDATA[【阿斯麦CEO：美国的打压措施只会适得其反，让中国“更努力取得成功”】 荷兰光刻机巨头阿斯麦（ASML）首席执行官傅恪礼（Christophe Fouquet）在接受《纽约时报》采访时表示，尽管中国在赶超ASML的技术方面还有很长的路要走，但美国出台的打压措施只会适得其反，让中国“更努力取得成功”。中国已经开始研发一些国产光刻设备，尽管中国在赶超ASML的技术方面还有很长的路要走，但“你试图阻止的人会更加努力地取得成功。”傅恪礼补充道：“无论你设置多少障碍都没用。”他还称，与其打压中国等竞争对手，不如将注意力放在创新上。（环球时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezexcm9921009.d.html</link>
+            <guid>4229831</guid>
+            <pubDate>Fri, 06 Jun 2025 22:19:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[华夏特变电工新能源封闭式基础设施证券投资基金在上海暂停交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauep7643559.d.html</link>
-            <guid>4228277</guid>
-            <pubDate>Fri, 06 Jun 2025 00:45:51 GMT</pubDate>
+            <title><![CDATA[【腾讯：全球首位256级QQ用户获得“金企鹅”】 6月7日，腾讯官方公众号发布消息表示，QQ昵称为“爱芥末”的用户，成为了全球拥有“时光企鹅”等级图标的第一人。据悉，这是全球首位QQ 256级用户。腾讯表示，为感谢这一路的深情陪伴，将给@爱芥末送出限量版专属神秘惊喜、终身SVIP会员、多款专属个性化装扮等礼物作为纪念礼物。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezexck1880742.d.html</link>
+            <guid>4229830</guid>
+            <pubDate>Fri, 06 Jun 2025 22:17:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本经济产业大臣武藤容治：台积电日本第二座厂的投产计划不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauer5762892.d.html</link>
-            <guid>4228276</guid>
-            <pubDate>Fri, 06 Jun 2025 00:45:36 GMT</pubDate>
+            <title><![CDATA[马斯克：美国需要一个新的政党来代表中间的80%人群。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezexcr4869972.d.html</link>
+            <guid>4229829</guid>
+            <pubDate>Fri, 06 Jun 2025 22:10:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【降落过程未能完全减速？日本民间企业月球着陆器未成功着陆】日本民间企业“i太空公司”的月球着陆器“坚韧”号6日凌晨尝试在月球表面着陆，但着陆器在预定着陆前失去联系。“i太空公司”表示，“坚韧”号未能成功实现月球着陆。可能在降落过程中未能完全减速而撞击月球表面。“坚韧”号于2025年1月15日搭乘美国太空探索技术公司的“猎鹰9”火箭升空，5月7日进入绕月轨道。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauek2772296.d.html</link>
-            <guid>4228275</guid>
-            <pubDate>Fri, 06 Jun 2025 00:43:34 GMT</pubDate>
+            <title><![CDATA[美国总统特朗普：我没有任何与马斯克交谈的计划，还没想过是否要保留马斯克赠予的那辆特斯拉。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezexck1879848.d.html</link>
+            <guid>4229827</guid>
+            <pubDate>Fri, 06 Jun 2025 22:09:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【经济日报金观平：着力健全企业激励创新制度】中共中央、国务院日前印发《关于完善中国特色现代企业制度的意见》，专设“健全企业激励创新制度”一章，从创新组织形式、要素配置效率、激励机制设计等三方面提出具体举措，推动大中小企业构建协同、高效、开放的创新生态。 当前，科技创新已进入分工协作、整体推进的大科学新阶段，健全企业激励创新制度，推动企业发展方式从规模速度型向质量效益型转变，是释放企业作为创新主体活力的重要举措。《意见》立足发展新质生产力，提升创新链产业链水平，提出构建科学合理的企业激励创新制度框架，为解决企业创新资源与力量分散、重复和低效等问题提供了新思路。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauen0868202.d.html</link>
-            <guid>4228274</guid>
-            <pubDate>Fri, 06 Jun 2025 00:42:46 GMT</pubDate>
+            <title><![CDATA[美国总统特朗普：尚未与参议员讨论俄罗斯制裁法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezexcr4869674.d.html</link>
+            <guid>4229826</guid>
+            <pubDate>Fri, 06 Jun 2025 22:08:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【A股分红派息转增一览：71股今日股权登记】根据上市公司权益分配方案梳理统计，71只A股今日股权登记。其中，55股拟派息，2股拟转增，14股派息、转增或送股同时实施。分红派息方面，55只个股分红派息的股权登记日为6月6日。慕思股份、毕得医药、康辰药业分红力度最大，每10股分别派息10.00元、9.00元、6.00元。转增股本方面，2只个股转增股本的股权登记日为6月6日。中洲特材、爱克股份转增股数最多，每10股分别转增4股、4股。14股派息、转增或送股同时实施，股权登记日为6月6日。公牛集团、柏楚电子、华盛昌分红力度最大，每10股分别派息24.00元、21.60元、7.30元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauen0868114.d.html</link>
-            <guid>4228273</guid>
-            <pubDate>Fri, 06 Jun 2025 00:42:21 GMT</pubDate>
+            <title><![CDATA[美国总统特朗普：乌克兰利用无人机对俄罗斯发动袭击，让普京有理由反击。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezexcr4869566.d.html</link>
+            <guid>4229825</guid>
+            <pubDate>Fri, 06 Jun 2025 22:07:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[                                    【太山景区通报建筑物局部塌陷：塌陷建筑物不属于文物】 太山景区6月6日通报：6月3日14点15分左右，太山景区东坪区域建筑物局部塌陷。塌陷建筑物位于全国重点文物保护单位太山龙泉寺保护范围和建设控制地带之外，不属于文物。本次塌陷建筑物约350㎡，周边地面出现塌陷、裂缝。塌陷未造成人员伤亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauen0867717.d.html</link>
-            <guid>4228272</guid>
-            <pubDate>Fri, 06 Jun 2025 00:41:09 GMT</pubDate>
+            <title><![CDATA[【微软发布AI Agent故障白皮书】 微软发布了《AI Agent系统故障模式分类》白皮书，以帮助开发者和用户更好的理解、解决日常Agent出现的各种故障。这些故障主要分为新型故障和既有故障两大类，并详细解读了出现这些故障的原因以及如何解决。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezexcr4868802.d.html</link>
+            <guid>4229823</guid>
+            <pubDate>Fri, 06 Jun 2025 22:00:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OpenAI创始人Sam Altman：纽约时报请求法院强制我们不得删除任何用户聊天记录，我们认为这是一个不恰当的请求。]]></title>
-            <guid>4228271</guid>
-            <pubDate>Fri, 06 Jun 2025 00:40:10 GMT</pubDate>
+            <title><![CDATA[【加拿大野火肆虐，数万人撤离】 加拿大目前有208处在燃野火，其中104处处于失控状态。马尼托巴省和萨斯喀彻温省已宣布进入紧急状态，数万人从受影响区域撤离。居民约瑟夫·加里表示，大火离他们只有半公里远，风向又对着机场，情况十分危急。被疏散的居民瓦妮莎·哈特称，他们被困在社区，无法自行撤离，直到直升机到来。塞莱娜·卡斯特尔表示，失去亲人是最大的痛苦，物质损失可以重建，但生命无法替代。数据表明，加拿大野火季通常从5月持续至9月，2024年和2023年森林大火过火面积均创纪录，预计2025年野火季仍将保持活跃态势。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezexcp6693441.d.html</link>
+            <guid>4229822</guid>
+            <pubDate>Fri, 06 Jun 2025 21:58:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美媒：受美政策影响，科学家想“另寻他处”】美国《纽约时报》4日报道称，美国正大幅削减高等教育研究经费，同时，总统特朗普持续攻击美国顶尖大学并试图限制国际学生入学，这迫使许多学者另寻他处。“来自中国的科学家面临尤其大的压力。” 报道援引《美国国家科学院院刊》发表的一项研究结果称，有近1.25万名华裔科学家在2010年到2021年间离开美国回到中国。他们离开的速度不断加快：有一半以上是在2017年至2021年的5年里离开的，正值特朗普第一任期。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauer5760457.d.html</link>
-            <guid>4228270</guid>
-            <pubDate>Fri, 06 Jun 2025 00:39:05 GMT</pubDate>
+            <title><![CDATA[【特朗普加密钱包之争以World Liberty购买Memecoin告终】 美国总统特朗普的儿子埃里克·特朗普周五表示，特朗普加密帝国内部竞争派系之间的紧张关系已经降温，其家族旗下的World Liberty Financial将购买“大量”处于争议中心的Memecoin。埃里克表示，负责特朗普Memecoin的公司不会推进数字钱包发行，这已导致其与部分由特朗普家族拥有的加密公司World Liberty Financial产生分歧。知情人士表示，World Liberty Financial已向Fight Fight Fight（特朗普利润丰厚的Memecoin背后的组织）发出了一封停止令信，要求停止开发名为“$TRUMP Wallet”的数字钱包。World Liberty表示，它正在推出自己的钱包。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezexcm9918459.d.html</link>
+            <guid>4229820</guid>
+            <pubDate>Fri, 06 Jun 2025 21:53:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【南方新一轮降雨今晚展开 黄淮晴热持续 华南等地高温耐力强】今天（6月6日）夜间起，南方将展开新一轮降雨过程，多地将现中到大雨，江淮、江南局地或现暴雨、大暴雨。华北、黄淮等地，未来几天仍然晴热，河南等地高温持久；与此同时，华南部分地区也将迎来持续性高温，公众请注意防暑降温。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauek2770284.d.html</link>
-            <guid>4228268</guid>
-            <pubDate>Fri, 06 Jun 2025 00:38:26 GMT</pubDate>
+            <title><![CDATA[【白宫未采取行动罢免与马斯克有关联的百余名官员】据三位联邦政府官员称，尽管美国总统特朗普与埃隆·马斯克之间公开不和，但白宫并未采取行动罢免与马斯克有关联的100多名政府官员。自特朗普与马斯克公开爆发冲突以来，截至当日下午，白宫尚未收到任何政府效率部（DOGE）工作人员的正式辞职报告。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezexcr4866924.d.html</link>
+            <guid>4229818</guid>
+            <pubDate>Fri, 06 Jun 2025 21:44:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OpenAI创始人Sam Altman：我们正在对有关纽约时报案件的判决提出上诉。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauek2769687.d.html</link>
-            <guid>4228266</guid>
-            <pubDate>Fri, 06 Jun 2025 00:36:40 GMT</pubDate>
+            <title><![CDATA[俄罗斯国防部：在8个半小时的时间里，防空系统在俄罗斯领土（包括莫斯科地区）上空拦截并摧毁了82架乌克兰无人机。]]></title>
+            <guid>4229816</guid>
+            <pubDate>Fri, 06 Jun 2025 21:33:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【燕京啤酒：2025年行业原材料成本仍处于下行周期】燕京啤酒在机构调研中表示，2024年，中国啤酒行业迎来历史性成本红利周期，出现进口大麦均价同比回落、玻瓶瓦楞纸燃料成本全线下行的结构性改善。整体来看，2025年行业原材料成本（如麦芽、玻瓶）仍处于下行周期，公司将持续强化管理，进一步释放成本红利。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauer5759073.d.html</link>
-            <guid>4228265</guid>
-            <pubDate>Fri, 06 Jun 2025 00:35:10 GMT</pubDate>
+            <title><![CDATA[【加拿大东部主要城市因野火烟雾空气质量恶化】加拿大环境部6日表示，受野火烟雾影响，该国东部包括首都渥太华、多伦多和蒙特利尔等在内的主要城市空气质量恶化。加拿大环境部当天针对这些城市及其周边地区发布空气质量特别声明，提醒人们避免在户外进行剧烈活动，并在身体出现不适时及时寻求医疗护理。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezesvn2003418.d.html</link>
+            <guid>4229812</guid>
+            <pubDate>Fri, 06 Jun 2025 21:06:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【24股获券商买入评级，三星医疗目标涨幅达69.51%】6月5日，共有24只个股获券商买入评级，其中14只个股公布了目标价格。按最高目标价计算，三星医疗、宇通客车、招商蛇口目标涨幅排名居前，涨幅分别达69.51%、57.94%、44.91%。从评级调整方向来看，21只个股评级维持不变，1只个股评级获调高，2只个股为首次评级。此外，有1只个股获多家券商关注，海南华铁获评级数量居前，分别有2家券商给予评级。从获买入评级个股所属Wind行业来看，资本货物、银行、食品、饮料与烟草买入评级个股数量最多，分别有5只、2只、2只。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauer5758618.d.html</link>
-            <guid>4228264</guid>
-            <pubDate>Fri, 06 Jun 2025 00:33:38 GMT</pubDate>
+            <title><![CDATA[惠誉：下调奥地利评级至AA（之前为AA+评级），前景展望稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezesvr6819399.d.html</link>
+            <guid>4229811</guid>
+            <pubDate>Fri, 06 Jun 2025 21:02:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本财务大臣加藤胜信：将继续实施合适的债券政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauen0865142.d.html</link>
-            <guid>4228263</guid>
-            <pubDate>Fri, 06 Jun 2025 00:32:44 GMT</pubDate>
+            <title><![CDATA[【泽连斯基将与特朗普在加拿大会晤】乌克兰总统办公室主任叶尔马克当地时间6日表示，泽连斯基与特朗普将在加拿大G7峰会期间举行会晤。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezesvq0043418.d.html</link>
+            <guid>4229808</guid>
+            <pubDate>Fri, 06 Jun 2025 20:47:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本财务大臣加藤胜信 ：不会对收益率走势、债券发行发表评论。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauep7639629.d.html</link>
-            <guid>4228262</guid>
-            <pubDate>Fri, 06 Jun 2025 00:32:40 GMT</pubDate>
+            <title><![CDATA[马斯克通过自家社交媒体平台X询问，美国中产阶层是时候创立新的党派了吗？投票结果显示，80.4%的用户支持。]]></title>
+            <guid>4229807</guid>
+            <pubDate>Fri, 06 Jun 2025 20:45:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本财务大臣加藤胜信：不会对该报告的细节置评。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauen0864394.d.html</link>
-            <guid>4228258</guid>
-            <pubDate>Fri, 06 Jun 2025 00:30:02 GMT</pubDate>
+            <title><![CDATA[惠誉将优步（Uber）的长期发行人违约评级（IDR）上调至“BBB+”，商业票据评级定为“F1”。]]></title>
+            <guid>4229806</guid>
+            <pubDate>Fri, 06 Jun 2025 20:42:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【苹果App Store去年促成1.3万亿美元开发者营业额和销售额】 苹果官网披露，一份新研究显示，全球App Store（苹果应用程序商店）2024年共促成1.3万亿美元开发者营业额和销售额。据查，2019年这一金额为5190亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauep7637603.d.html</link>
-            <guid>4228254</guid>
-            <pubDate>Fri, 06 Jun 2025 00:25:24 GMT</pubDate>
+            <title><![CDATA[美国法院裁定特朗普可以将记者排除在椭圆形办公室之外。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezesvr6817245.d.html</link>
+            <guid>4229805</guid>
+            <pubDate>Fri, 06 Jun 2025 20:41:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【 朝鲜“重大事故”驱逐舰修复平衡性并安全下水  】据朝中社6日报道，朝鲜发生“重大事故”的新建驱逐舰已于6月初“完全修复舰船平衡性”，于5日下午“安全纵下水并在码头系留”。报道说，现场修复推进小组5日向朝鲜劳动党中央军事委员会汇报了驱逐舰修复工作情况。（新华社）]]></title>
-            <guid>4228252</guid>
-            <pubDate>Fri, 06 Jun 2025 00:24:04 GMT</pubDate>
+            <title><![CDATA[美国国家航空航天局就波音公司星际客机进展提供最新情况，仍在评估下一次飞行是载人还是载货。]]></title>
+            <guid>4229804</guid>
+            <pubDate>Fri, 06 Jun 2025 20:35:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本iSpace CEO：这次登月是一次失败。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauer5755355.d.html</link>
-            <guid>4228251</guid>
-            <pubDate>Fri, 06 Jun 2025 00:21:35 GMT</pubDate>
+            <title><![CDATA[美国联邦航空局：确认纽瓦克自由国际机场在2025年12月31日之前的到港和离港限流措施。]]></title>
+            <guid>4229802</guid>
+            <pubDate>Fri, 06 Jun 2025 20:21:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌克兰基辅多地遭袭 持续传出爆炸声】当地时间6日，乌克兰基辅持续传出爆炸声，基辅市多地遭袭。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauen0861459.d.html</link>
-            <guid>4228250</guid>
-            <pubDate>Fri, 06 Jun 2025 00:20:20 GMT</pubDate>
+            <title><![CDATA[标普将斯洛文尼亚评级上调至“AA”；展望稳定。]]></title>
+            <guid>4229799</guid>
+            <pubDate>Fri, 06 Jun 2025 20:14:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[越秀交通基建拟通过发行债券融资人民币5亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauek2764911.d.html</link>
-            <guid>4228249</guid>
-            <pubDate>Fri, 06 Jun 2025 00:19:23 GMT</pubDate>
+            <title><![CDATA[中国地震台网正式测定：06月07日03时28分在斐济群岛以南海域（南纬22.05度，西经177.75度）发生5.8级地震，震源深度360千米。]]></title>
+            <guid>4229796</guid>
+            <pubDate>Fri, 06 Jun 2025 19:58:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[林郑月娥：香港回到正确轨道，未来前景非常乐观。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauek2764880.d.html</link>
-            <guid>4228248</guid>
-            <pubDate>Fri, 06 Jun 2025 00:19:10 GMT</pubDate>
+            <title><![CDATA[特斯拉人形机器人Optimus Robot业务主管Milan Kovac将离职。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezesvn1995452.d.html</link>
+            <guid>4229795</guid>
+            <pubDate>Fri, 06 Jun 2025 19:58:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【银河证券：国家能源局印发通知推动新型电力系统建设试点 多管齐下助力新能源消纳】银河证券发布研究报告称，国家能源局印发《关于组织开展新型电力系统建设第一批试点工作的通知》，从七大维度出发推动新型电力系统建设，有助于改善新能源的消纳形势。在此基础上，1)发展构网型技术、系统友好型新能源电站、大规模高比例新能源外送利好相关的设备/软件供应商，以及有相应技术储备的新能源发电企业。2)《通知》指出重点在国家枢纽节点和青海、新疆、黑龙江等地区，发展算电协同。3)积极推动煤电机组的清洁降碳和高效调节改造，一方面有助于催化国内绿色合成氨等零碳低碳燃料的需求，建议关注吉电股份(000875.SZ)(绿氨项目投产在即)；另一方面，也有助于煤电的成功转型，迎来盈利和估值的重塑。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauek2764727.d.html</link>
-            <guid>4228247</guid>
-            <pubDate>Fri, 06 Jun 2025 00:18:26 GMT</pubDate>
+            <title><![CDATA[【俄罗斯阿斯特拉罕州发生交通事故 三名警察死亡】俄联邦侦查委员会阿斯特拉罕州侦查总局6日报告称，该州一段联邦公路上，一辆民用轿车与一辆油罐车相撞，三名警察当场身亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezesvq0037348.d.html</link>
+            <guid>4229794</guid>
+            <pubDate>Fri, 06 Jun 2025 19:43:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GoDaddy首席财务官McCaffrey出售596,430美元的股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauer5752686.d.html</link>
-            <guid>4228243</guid>
-            <pubDate>Fri, 06 Jun 2025 00:11:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【杜嘉祺将自9月30日起退任汇丰集团主席，加入友邦保险】 汇丰控股公告，继5月1日公布确认杜嘉祺拟于2025年底前退任集团主席职位后，本公司现已同意杜嘉祺将自9月30日起退任汇丰集团主席及董事会成员。利伯特将担任临时集团主席。本公司留意到友邦保险控股有限公司作出公布，确认委任杜嘉祺为独立非执行主席，自2025年10月1日起生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauen0857966.d.html</link>
-            <guid>4228241</guid>
-            <pubDate>Fri, 06 Jun 2025 00:05:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【友邦保险：董事会主席谢仕荣9月30日退任 杜嘉祺将接任】友邦保险在港交所公告，友邦保险集团董事会主席谢仕荣退任，9月30日起生效；杜嘉祺将于10月1日接任。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauep7632049.d.html</link>
-            <guid>4228239</guid>
-            <pubDate>Fri, 06 Jun 2025 00:03:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国将与美国就汇率问题进行沟通，以增进相互理解。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauen0857348.d.html</link>
-            <guid>4228238</guid>
-            <pubDate>Fri, 06 Jun 2025 00:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[由于卖单泛滥，iSpace股票未能成交。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauen0856870.d.html</link>
-            <guid>4228235</guid>
-            <pubDate>Fri, 06 Jun 2025 00:00:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[日本iSpace：月球着陆器可能硬着陆】日本iSpace公司：判定月球着陆器“坚韧号”（Resilience）的月球着陆难度很大。月球着陆器“坚韧号”可能硬着陆于月球表面。]]></title>
-            <guid>4228234</guid>
-            <pubDate>Thu, 05 Jun 2025 23:59:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【提醒】韩国证券交易所今日休市。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauer5749530.d.html</link>
-            <guid>4228231</guid>
-            <pubDate>Thu, 05 Jun 2025 23:56:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中证报：推动有效投资加速落地，新型政策性金融工具渐行渐近】 近日，多地陆续开展新型政策性金融工具项目培训，释放出新型政策性金融工具渐行渐近的信号。专家建议，应加快建立新型政策性金融工具协调机制，认真做好备选项目的筛选和推荐以及要素保障工作，优先支持既利当前、又利长远、列入规划、前期工作成熟的重大基础设施项目，及时推送给参与新型政策性金融工具设立的金融机构，推动更多有效投资加速落地。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauep7630807.d.html</link>
-            <guid>4228230</guid>
-            <pubDate>Thu, 05 Jun 2025 23:56:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亿万富翁比尔·阿克曼希望特朗普和马斯克“讲和”】对冲基金亿万富翁比尔·阿克曼周四敦促特朗普总统和埃隆·马斯克停止争斗。两人应该“为了我们国家的利益和平相处，”阿克曼在x上说。这位对冲基金潘兴广场资本管理公司的创始人兼首席执行官去年在11月大选前几个月支持了特朗普。“我们在一起比分开强大得多，”阿克曼写道。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauep7630692.d.html</link>
-            <guid>4228228</guid>
-            <pubDate>Thu, 05 Jun 2025 23:55:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本政府表示，日本经济再生大臣赤泽亮正与卢特尼克在华盛顿举行了110分钟的会谈，赤泽亮正强烈要求重新研议美国关税。双方在6月5日的会谈中讨论了非关税壁垒和扩大贸易等问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauer5749108.d.html</link>
-            <guid>4228227</guid>
-            <pubDate>Thu, 05 Jun 2025 23:53:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                    【中国贸促会副会长陈建安率团访问乌兹别克斯坦】 当地时间6月1日至4日，中国贸促会副会长陈建安率团访问乌兹别克斯坦，推动中乌两国工商界交流合作，促进双边经贸关系发展。访问期间，陈建安出席第二届中国—乌兹别克斯坦地方合作论坛开幕式及中乌商品展等相关活动，在中乌经贸与投资合作论坛上致辞，分别会见乌兹别克斯坦工商会副主席拉苏洛夫、撒马尔罕州工商会主席迪尔肖德等乌对口机构负责人，重点宣介中国经济发展和对外开放最新举措，就加强在中国—中亚实业家委员会、上合组织实业家委员会等机制下协作，推动贸易投资务实合作，欢迎乌工商界参加第三届链博会等议题深入交流。此外，代表团还与乌兹别克斯坦中国企业商会工作交流，调研当地中资企业经营情况。]]></title>
-            <guid>4228225</guid>
-            <pubDate>Thu, 05 Jun 2025 23:52:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[碧桂园在港交所公告，延长早鸟重组支持协议同意费用限期及一般重组支持协议同意费用限期。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauer5748511.d.html</link>
-            <guid>4228224</guid>
-            <pubDate>Thu, 05 Jun 2025 23:50:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本财务省：5月末外汇储备为12981.39亿美元（4月末为12982.49亿美元）。]]></title>
-            <guid>4228223</guid>
-            <pubDate>Thu, 05 Jun 2025 23:50:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华西证券：稳定币+RWA，助力实现数字金融新格局】华西证券指出，随着全球监管框架逐步完善，稳定币与RWA将深度融合，成为金融市场关键基础设施。稳定币的合规性和可编程性将推动RWA在绿色金融、供应链金融等领域实现自动化和全球化，助力传统资产实现“链上流动、全球配置”的数字金融新格局。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-06/detail-inezauen0855506.d.html</link>
-            <guid>4228221</guid>
-            <pubDate>Thu, 05 Jun 2025 23:49:59 GMT</pubDate>
+            <title><![CDATA[Warburg Pincus持股的能源公司Solar Mosaic申请破产。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-07/detail-inezesvr6810435.d.html</link>
+            <guid>4229791</guid>
+            <pubDate>Fri, 06 Jun 2025 19:31:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
