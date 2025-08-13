@@ -4,329 +4,368 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 12 Aug 2025 01:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Aug 2025 01:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[巴西对外贸易秘书处（Secex）数据显示，8月第一周巴西出口棉花17,242.63吨，日均出口量为2,873.77吨，较上年8月全月的日均出口量减少43%。上年8月全月出口量为111,764.74吨。]]></title>
-            <guid>4331773</guid>
-            <pubDate>Tue, 12 Aug 2025 01:18:08 GMT</pubDate>
+            <title><![CDATA[【未来五年 四川将谋划4个总投资达7360亿元的“重大项目包”】据四川省交通运输厅消息，今年以来，四川交通多方统筹，凝聚强大合力，推动有效投资高位运行，上半年全省完成公路水路建设投资1349亿元，同比增长3.5％。着眼未来五年，四川将谋划4个总投资达7360亿元的“重大项目包”，为“十五五”公路水路完成万亿元投资奠定基础。 (中国交通新闻网 )]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyfa7213772.d.html</link>
+            <guid>4333525</guid>
+            <pubDate>Wed, 13 Aug 2025 01:25:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【无线传媒等成立大河之北投资管理公司】 企查查APP显示，近日，大河之北投资管理（河北雄安）有限公司成立，注册资本3000万元，经营范围包含：以自有资金从事投资活动；信息咨询服务（不含许可类信息咨询服务）。企查查股权穿透显示，该公司由无线传媒等共同持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqye8166019.d.html</link>
-            <guid>4331772</guid>
-            <pubDate>Tue, 12 Aug 2025 01:17:44 GMT</pubDate>
+            <title><![CDATA[【国轩高科：公司已正式启动第一代全固态电池2GWh量产线的设计工作】国轩高科8月13日在投资者互动平台表示，公司已正式启动第一代全固态电池2GWh量产线的设计工作，相关进展，请关注公司公开披露信息。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyfk3452834.d.html</link>
+            <guid>4333523</guid>
+            <pubDate>Wed, 13 Aug 2025 01:22:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【394股获融资买入超亿元，东方财富获买入20.89亿元居首】A股8月11日共有3707只个股获融资资金买入，有394股买入金额超亿元。其中，东方财富、新易盛、中际旭创融资买入金额排名前三，分别获买入20.89亿元、13.94亿元、13.92亿元。从融资买入额占当日总成交金额比重来看，有7只个股融资买入额占比超30%。其中鲁阳节能、四川成渝、中粮糖业融资买入额占成交额比重排名前三，分别为45.32%、43.71%、41.61%。从融资净买入金额来看，有39只个股获融资净买入超亿元。其中，中际旭创、大族激光、宁德时代融资净买入金额排名前三，分别获净买入4.71亿元、4.47亿元、4.09亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqym3581848.d.html</link>
-            <guid>4331770</guid>
-            <pubDate>Tue, 12 Aug 2025 01:15:27 GMT</pubDate>
+            <title><![CDATA[【叫停Dojo AI项目后，特斯拉对工程师团队进行重大重组】据报道，特斯拉公司近日对工程师团队进行重大重组，此前首席执行官埃隆·马斯克叫停了公司的自研芯片和超级计算机项目。据知情人士透露，这个名为“Dojo”的项目现已拆分，相关人员被调配至多个部门。其中部分专注于软件开发的员工已转由Ashok Elluswamy领导，其目前在特斯拉负责机器人出租车和人形机器人领域的人工智能研发工作。另有知情人士表示，从事硅基芯片或半导体研发的其他工程师团队已转由Aaron Rodgers领导，其负责特斯拉自动驾驶硬件研发，并主导AI5芯片项目。固件开发团队则交由Silvio Brugada管理。目前，特斯拉公司及马斯克本人均未就此事置评。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyfa7210907.d.html</link>
+            <guid>4333522</guid>
+            <pubDate>Wed, 13 Aug 2025 01:22:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【昆仑万维发布并开源Matrix-Game 2模型】8月12日，昆仑万维发布并开源自研世界模型Matrix系列中Matrix-Game交互世界模型的升级版本——“Matrix-Game 2.0”。据介绍，Matrix-Game 2能够生成跨场景的长时视频，保持动作和视觉的时序一致性，并且支持用户在交互过程中的连续指令输入。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyf5244331.d.html</link>
-            <guid>4331769</guid>
-            <pubDate>Tue, 12 Aug 2025 01:12:15 GMT</pubDate>
+            <title><![CDATA[【美国国民警卫队进驻首都华盛顿】美国总统特朗普11日宣布首都华盛顿进入“治安紧急状态”，并将首都警察局置于联邦直接管控之下。他还宣布向华盛顿派遣800名国民警卫队人员，以协助华盛顿恢复法律秩序和公共安全。华盛顿市长鲍泽对此表示，华盛顿的暴力犯罪率现已降至30年来最低点，联邦政府的行为“令人不安”。这是特朗普今年1月上任以来第二次在民主党主政的城市部署国民警卫队。今年6月，美国联邦政府曾以搜捕非法移民为由，向加州洛杉矶派出国民警卫队，与当地居民发生冲突。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyfk3451249.d.html</link>
+            <guid>4333519</guid>
+            <pubDate>Wed, 13 Aug 2025 01:21:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本丸红株式会社：7 月底日本主要港口铝库存为 315,400 吨，6 月底为 316,700 吨。]]></title>
-            <guid>4331768</guid>
-            <pubDate>Tue, 12 Aug 2025 01:12:13 GMT</pubDate>
+            <title><![CDATA[【中国银行：9月1日起针对符合政策条件的个人消费贷款开展财政贴息工作】中国银行发布关于落实个人消费贷款财政贴息工作的公告，将全力落实并严格执行《关于印发的通知》（财金[2025]80号），确保财政贴息的政策红利直达广大消费者，为激发消费潜力贡献金融力量。中国银行将遵循市场化、法治化原则，于2025年9月1日开始，针对符合政策条件的个人消费贷款开展财政贴息工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyfc4292297.d.html</link>
+            <guid>4333517</guid>
+            <pubDate>Wed, 13 Aug 2025 01:19:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【马斯克：xAI 将对苹果就 App Store 问题采取法律行动】马斯克：苹果(AAPL.O)的行为使除OpenAI之外的任何AI公司都不可能在App Store上排名第一，这构成了明显的反垄断违规行为。xAI将立即采取法律行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyi8999640.d.html</link>
-            <guid>4331766</guid>
-            <pubDate>Tue, 12 Aug 2025 01:09:30 GMT</pubDate>
+            <title><![CDATA[【南非公布五大举措 直面美方贸易霸凌】当地时间12日，南非政府召开新闻发布会，介绍了内阁已批准并正在推进的五大举措，以应对美国自8月7日起对南非出口商品加征30%单边关税的政策。其中包括继续与美方进行关税谈判、推动出口市场多元化、出台经济支持方案、采取贸易防御措施以及实施内需拉动计划。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyfc4290441.d.html</link>
+            <guid>4333516</guid>
+            <pubDate>Wed, 13 Aug 2025 01:16:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【北京市启动防汛四级应急响应】8月12日7时45分北京启动全市防汛四级应急响应（现一级、三级响应区域级别不变），请有关单位按照预案落实降雨防范应对措施，做好防汛工作。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqye8157204.d.html</link>
-            <guid>4331765</guid>
-            <pubDate>Tue, 12 Aug 2025 01:07:58 GMT</pubDate>
+            <title><![CDATA[【康众医能“AI+基层医疗”业务试点正式启动】近日，康众医疗控股子公司康众医能科技（浙江）有限公司（简称“康众医能”）与无锡市新吴区旺庄街道社区卫生服务中心正式签署《社区智慧医疗合作共建协议》，标志着康众医能“AI+基层医疗”业务模式试点全面启动。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyfk3446416.d.html</link>
+            <guid>4333515</guid>
+            <pubDate>Wed, 13 Aug 2025 01:16:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【岱勒新材：公司机器人腱绳样品已在国内几家相关厂商进行验证】岱勒新材8月12日在互动平台上表示，目前公司机器人腱绳样品已在国内几家相关厂商进行验证。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyf5239159.d.html</link>
-            <guid>4331763</guid>
-            <pubDate>Tue, 12 Aug 2025 01:06:00 GMT</pubDate>
+            <title><![CDATA[澳大利亚国库部长查默斯将于格林威治时间2：30（北京时间10:30）举行新闻发布会。]]></title>
+            <guid>4333511</guid>
+            <pubDate>Wed, 13 Aug 2025 01:14:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【三变科技等成立新公司，含供应链管理业务】企查查APP显示，坤元启泰（山西）投资有限公司成立，注册资本1000万元，经营范围包含：在线能源监测技术研发；在线能源计量技术研发；电力行业高效节能技术研发等。企查查股权穿透显示，该公司由三变科技等共同持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyf5239065.d.html</link>
-            <guid>4331762</guid>
-            <pubDate>Tue, 12 Aug 2025 01:05:55 GMT</pubDate>
+            <title><![CDATA[【移为通信：公司两轮车智能终端将迎来政策红利释放与市场需求爆发的双重机遇期】移为通信8月13日在互动平台上表示，近期配备公司两轮车IOT智能终端的电动车已通过新国标认证送检，验证了产品的合规性。目前公司已与国内大型两轮车厂商有合作，后续随着新国标落地和智能化需求的提升，公司两轮车智能终端将迎来政策红利释放与市场需求爆发的双重机遇期。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyfa7203406.d.html</link>
+            <guid>4333510</guid>
+            <pubDate>Wed, 13 Aug 2025 01:12:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【商务部新闻发言人就出口管制管控名单答记者问】商务部新闻发言人就出口管制管控名单答记者问。根据出口管制相关法律法规规定，商务部于2025年4月4日和9日分别发布了第21号和22号公告，将28家美国实体列入出口管制管控名单，禁止向其出口两用物项。为落实中美经贸高层会谈共识，决定自2025年8月12日起，对于2025年4月4日被列入出口管制管控名单的16家美国实体，继续暂停上述相关措施90天；对于2025年4月9日被列入出口管制管控名单的12家美国实体，停止执行相关措施。出口经营者如需向上述实体出口两用物项，应当根据《中华人民共和国两用物项出口管制条例》相关规定向商务部提出申请；商务部将依法依规进行审查，符合规定的将准予许可。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqym3575127.d.html</link>
-            <guid>4331761</guid>
-            <pubDate>Tue, 12 Aug 2025 01:04:17 GMT</pubDate>
+            <title><![CDATA[日本东证指数涨幅扩大至1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyfc4286256.d.html</link>
+            <guid>4333507</guid>
+            <pubDate>Wed, 13 Aug 2025 01:11:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[台湾证交所加权股价指数开高0.2%报24,182.84。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqym3572706.d.html</link>
-            <guid>4331758</guid>
-            <pubDate>Tue, 12 Aug 2025 01:00:28 GMT</pubDate>
+            <title><![CDATA[【建设银行：9月1日起对符合要求的客户进行贴息】中国建设银行发布关于个人消费贷款财政贴息工作的公告称，积极响应并严格执行《关于印发的通知》（财金〔2025〕80号），有序开展个人消费贷款贴息相关工作。自2025年9月1日起，对符合上述通知要求的客户进行贴息。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyfa7202390.d.html</link>
+            <guid>4333506</guid>
+            <pubDate>Wed, 13 Aug 2025 01:11:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【7月份中国电商物流指数再创年内新高】今天（12日），中国物流与采购联合会公布7月份中国电商物流指数。在促消费政策的支持下，电商物流持续活跃，指数再创年内新高。7月份中国电商物流指数为112.0点，比上月回升0.2点，再创年内新高。中国物流与采购联合会副会长何辉表示，7月份电商物流指数可以看出淡季不淡，出现了再创新高的好迹象。随着业务量的回升，电商物流的实载率指数也在回升，物流的成本在下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqym3572632.d.html</link>
-            <guid>4331756</guid>
-            <pubDate>Tue, 12 Aug 2025 01:00:17 GMT</pubDate>
+            <title><![CDATA[【加拿大航空称与空乘人员劳资谈判陷入僵局 并警告或停运】加拿大航空(Air Canada)周二表示，与旗下10,000名空乘人员的劳资谈判陷入僵局，并警告称，如果无法达成协议，该公司最早可能从周六开始停止运营。加拿大航空说，代表空乘人员的工会最近提出了一份寻求“过高”薪酬涨幅的还价，并拒绝了进入一场具有约束性的第三方仲裁的提议。加拿大航空的总部位于蒙特利尔，每天的客运量达到13万人次。“我们在关键问题上仍存在很大分歧，”该公司负责劳资关系的执行副总裁Arielle Meloul-Wechsler说。“加拿大航空目前正在研究所有剩余选项……以防止运营受到干扰，或者至少为我们的客户消除这种无法忍受的不确定性。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyfc4285783.d.html</link>
+            <guid>4333505</guid>
+            <pubDate>Wed, 13 Aug 2025 01:10:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[远东发展有限公司在香港暂停交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyi8993926.d.html</link>
-            <guid>4331753</guid>
-            <pubDate>Tue, 12 Aug 2025 00:59:11 GMT</pubDate>
+            <title><![CDATA[美国总统特朗普将于美东时间周三11:15在肯尼迪中心发表声明。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyfk3439428.d.html</link>
+            <guid>4333504</guid>
+            <pubDate>Wed, 13 Aug 2025 01:08:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【下半年“产能治理”将成多行业重要任务】从政策层面到行业行动，近期均释放出产能治理提速的信号。记者采访了解到，下半年“产能治理”将成为钢铁、有色金属、建材、光伏等多行业的重要任务，相关部门、行业协会和企业都在谋划破解“内卷”之策。业内人士指出，本轮产能治理预计将通过“市场淘汰+技术替代”实现优化，企业要积极探索市场化产能出清的路径。（经济参考报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyi8993321.d.html</link>
-            <guid>4331752</guid>
-            <pubDate>Tue, 12 Aug 2025 00:57:28 GMT</pubDate>
+            <title><![CDATA[【马斯克指控苹果应用商店偏袒OpenAI 苹果发文否认】苹果公司针对埃隆·马斯克的法律威胁作出回应，强调其应用商店“秉持公平原则，不存在偏袒行为”。苹果发言人表示，该平台通过排行榜、算法推荐及专家精选榜单展示应用，“所有推荐均遵循客观标准”，并称其目标是“为用户提供安全探索环境，同时为开发者创造公平竞争机会”。当地时间8月11日，xAI创始人埃隆·马斯克在社交平台上发文，指控苹果公司“公然违反反垄断法”，称其通过应用商店排名偏袒OpenAI，使其他人工智能企业难以跻身前列。马斯克警告称旗下公司xAI将立即对苹果采取法律行动，并在另一篇帖文中质问苹果为何“拒绝将X或Grok列入‘必备应用’推荐区”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyff8042649.d.html</link>
+            <guid>4333502</guid>
+            <pubDate>Wed, 13 Aug 2025 01:07:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【享界S9T车型将于8月18日开启预订】8月12日，享界汽车宣布，鸿蒙智行首款旅行车享界S9T将于8月18日正式开启预订。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyf5232701.d.html</link>
-            <guid>4331751</guid>
-            <pubDate>Tue, 12 Aug 2025 00:57:10 GMT</pubDate>
+            <title><![CDATA[【诚志股份：公司的D-核糖可以作为部分创新药的起始原料】诚志股份8月13日在互动平台上表示，公司的D-核糖可以作为部分创新药的起始原料。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyff8042110.d.html</link>
+            <guid>4333501</guid>
+            <pubDate>Wed, 13 Aug 2025 01:06:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【爆炸瞬间黑烟腾空 美国钢铁公司宾州一工厂爆炸】当地时间8月11日，美国钢铁公司位于宾夕法尼亚州的克莱顿工厂发生爆炸，多架医疗直升机已被派往该地区。就当地媒体报道，目前爆炸事故已造成一人死亡，多人受伤。据美国哥伦比亚广播公司报道，爆炸时产生的浓烟，数公里外仍然可见。克莱顿市市长称工厂发生爆炸，请求调配多辆救护车前往现场。当地相关部门宣布发生“大规模伤亡事件”。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqym3570513.d.html</link>
-            <guid>4331749</guid>
-            <pubDate>Tue, 12 Aug 2025 00:54:01 GMT</pubDate>
+            <title><![CDATA[白宫：特朗普将于周三下午4点签署行政命令。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyfa7198449.d.html</link>
+            <guid>4333500</guid>
+            <pubDate>Wed, 13 Aug 2025 01:05:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【利比亚“国民军”领导人任命其子为副总司令】的黎波里消息：据利比亚“国民军”司令部11日发表的声明，现年81岁的“国民军”领导人哈利法·哈夫塔尔当天任命其子萨达姆·哈夫塔尔为“国民军”副总司令。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyi8992004.d.html</link>
-            <guid>4331748</guid>
-            <pubDate>Tue, 12 Aug 2025 00:53:46 GMT</pubDate>
+            <title><![CDATA[法国、德国和英国已向联合国表示，他们准备启动对伊朗的重新实施制裁程序，除非伊朗恢复谈判。]]></title>
+            <guid>4333499</guid>
+            <pubDate>Wed, 13 Aug 2025 01:04:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【德国7月破产企业数量同比大幅增加】根据德国联邦统计局11日公布的初步数据，德国地方法院记录的7月份新增企业破产数量较去年同期增长了19.2%，登记的企业破产数量创下自去年10月份以来的最高纪录。德国哈勒经济研究所的最新月度分析中也显示，德国7月份合伙企业和公司破产数量为1588起，较去年7月大幅增加。 (央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqym3570208.d.html</link>
-            <guid>4331747</guid>
-            <pubDate>Tue, 12 Aug 2025 00:53:09 GMT</pubDate>
+            <title><![CDATA[法国、德国和英国有意重新对伊朗实施制裁。（英国金融时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyfa7197065.d.html</link>
+            <guid>4333498</guid>
+            <pubDate>Wed, 13 Aug 2025 01:03:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【14家上市公司股票遭重要股东减持 瑞芯微减持金额最高】Wind数据显示，按变动截止日期为基准，8月11日，1股获重要股东增持，鑫科材料获重要股东增持158.55万股，增持金额为543.79万元。14家上市公司股票遭重要股东减持，瑞芯微遭重要股东减持113.58万股，减持金额为1.83亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqye8146714.d.html</link>
-            <guid>4331745</guid>
-            <pubDate>Tue, 12 Aug 2025 00:51:59 GMT</pubDate>
+            <title><![CDATA[【湘佳股份：近期黄羽肉鸡价格有回升迹象】湘佳股份在互动平台上表示，近期受整个行业市场回暖影响，黄羽肉鸡价格有回升迹象。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyfa7196528.d.html</link>
+            <guid>4333497</guid>
+            <pubDate>Wed, 13 Aug 2025 01:03:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【经济日报刊评：切实保障超龄劳动者权益】未来，要建立适老化的制度体系和公共服务体系。政府应该利用财政补贴、税收和社会保险减免等政策，支持和鼓励用人单位雇用超龄劳动者；在各地数字政府APP设立银发服务中心页面，在街道、社区建立老年人就业服务驿站，形成线上线下联动，为超龄劳动者提供具有高度便捷性、可及性的就业介绍、职业培训、维权等服务。企业层面，营造超龄劳动者就业友好的职场环境。对超龄劳动者来说，要积极参与劳动就业和职业培训，不断提升自身劳动能力，以适应社会发展需要。（经济日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyi8991044.d.html</link>
-            <guid>4331744</guid>
-            <pubDate>Tue, 12 Aug 2025 00:51:11 GMT</pubDate>
+            <title><![CDATA[【无岛、无亭、无杆 一批智慧收费站在四川加速落地】从四川高速公路建设开发集团有限公司（下称川高公司）获悉，为推进新型收费站、自由流收费系统落地运用，四川将试点建设一批“无岛、无亭、无杆”智慧收费站。今年该公司将利用大数据、人工智能等先进技术，推动四川高速公路收费站实现少人化、云端化管理，进一步提升收费站整体通行效率。 川高公司相关负责人介绍，“无岛、无亭、无杆”智慧收费站是采用自由流收费模式，提前预缴或事后收费来收取通行费，车辆驶离高速公路时，不再现场收取。与传统收费站相比，智慧收费站标准化站点单车平均通行速度提升约36.6%，平均通行时间下降10%，通行效率显著提升。（四川日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyfa7195892.d.html</link>
+            <guid>4333496</guid>
+            <pubDate>Wed, 13 Aug 2025 01:02:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[华为余承东：享界S9T，8月18日正式开启预订。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqye8146126.d.html</link>
-            <guid>4331743</guid>
-            <pubDate>Tue, 12 Aug 2025 00:50:37 GMT</pubDate>
+            <title><![CDATA[【深圳市台风白色预警信号】深圳市气象台2025年08月13日09时00分发布全市台风白色预警信号，预计台风“杨柳”登陆台湾南部后将于13日夜间至14日凌晨再次在闽粤交界登陆，之后穿过广东，受其影响14日我市有明显降雨，请注意做好防御。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyfk3435112.d.html</link>
+            <guid>4333495</guid>
+            <pubDate>Wed, 13 Aug 2025 01:01:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【盛帮股份：碳纤维材料与PEEK材料研发目前不是公司研发的主要方向】盛帮股份8月12日在互动平台上表示，公司主要专注在橡塑材料的改性研究与应用，同时也开展PEEK材料的产品应用研究。碳纤维材料与PEEK材料研发目前不是公司研发的主要方向。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqym3569084.d.html</link>
-            <guid>4331742</guid>
-            <pubDate>Tue, 12 Aug 2025 00:50:12 GMT</pubDate>
+            <title><![CDATA[【赣锋锂业投资成立新公司，含工业互联网数据业务】企查查APP显示，近日，深圳建源能源科技有限公司成立，注册资本1.3亿元，经营范围包含：工业互联网数据服务；商业综合体管理服务；软件开发；电池制造等。企查查股权穿透显示，该公司由赣锋锂业旗下深圳易储能源科技有限公司全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyfa7193989.d.html</link>
+            <guid>4333492</guid>
+            <pubDate>Wed, 13 Aug 2025 01:00:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【深圳质子治疗中心正式启用】深圳商报消息，近日，深圳质子治疗中心正式启用。作为华南地区首个集医疗、科研、教学于一体的国际化质子治疗机构，该中心依托全球领先的质子放射治疗技术，为肿瘤患者提供“精准、高效、低损伤”的尖端医疗服务，深圳肿瘤放射治疗正式迈入质子治疗时代。相较传统放射治疗，质子治疗可以最大限度减少对正常组织的损伤，降低对生长发育的影响及远期并发症（包括第二原发肿瘤）的风险，尤其适用于紧邻脑、脊髓、眼睛等关键功能器官的肿瘤以及儿童肿瘤的治疗。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqym3569055.d.html</link>
-            <guid>4331741</guid>
-            <pubDate>Tue, 12 Aug 2025 00:50:06 GMT</pubDate>
+            <title><![CDATA[台湾证交所加权股价指数开高0.3%报24,232.04。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyfc4277653.d.html</link>
+            <guid>4333490</guid>
+            <pubDate>Wed, 13 Aug 2025 01:00:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美关税大棒下大量出口订单被搁置 印度企业疾呼“摆脱单一市场”】近日，美国大幅提高了印度出口到美国的产品关税，双方的谈判前景不明，大量的出口订单被搁置，给印度相关行业带来了巨大的困扰。印度各界表示，美国对印度加征关税不仅会严重扰乱印美贸易，也会同时造成全球贸易增长疲软。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyf5229579.d.html</link>
-            <guid>4331740</guid>
-            <pubDate>Tue, 12 Aug 2025 00:49:54 GMT</pubDate>
+            <title><![CDATA[【恒辉安防：机器人灵巧手腱绳产品仍处持续开发优化阶段 尚未形成商品化订单】恒辉安防在互动平台上表示，关于公司应用于机器人灵巧手的传动腱绳产品，目前仍处于持续开发优化阶段，尚未形成商品化订单。公司密切关注机器人产业的发展动态，尤其是工业机器人、服务机器人等领域对灵巧手部件的技术要求变化，已与多家机器人公司建立常态化技术交流机制，持续反馈产品测试数据以优化开发方向。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyfk3433558.d.html</link>
+            <guid>4333488</guid>
+            <pubDate>Wed, 13 Aug 2025 00:57:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【健康中国筑牢幸福根基】当前，我国已建成世界规模最大的基本医疗保障网，覆盖超过13亿人；人均预期寿命从新中国成立初期的35岁提高到2024年的79岁，居民主要健康指标已位于中高收入国家前列，成为“全球医疗服务可及性和质量指数”排名中进步幅度最大的国家之一。截至2024年底，全国基本医疗保险参保约13.27亿人，参保率稳定在95%以上；截至2025年6月，2.53亿人参加生育保险，基金累计支出4383亿元，享受待遇达9614.32万人次；截至2024年底，1.9亿人参加长护险，妥善解决失能人员长期照护问题。“十四五”期间，各项医保帮扶政策累计减轻农村低收入人口费用负担超6500亿元；长护险累计惠及超200万名失能群众，减轻群众护理服务费用负担超500亿元。（经济日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqye8145690.d.html</link>
-            <guid>4331739</guid>
-            <pubDate>Tue, 12 Aug 2025 00:49:33 GMT</pubDate>
+            <title><![CDATA[【近百台智元机器人进厂“上岗”】在位于四川省的富临精工股份有限公司内，一群机器人远征A2-W正忙着搬运物料箱，成为连接车间生产流程的核心运力。记者从浦东具身智能代表企业——智元机器人公司了解到，在与富临精工达成数千万元标的的项目合作后，近百台远征A2-W已迅速落地富临精工工厂，正式进厂“上岗”。值得关注的是，这是该品类在全球智能制造场景的首次规模化落地。（人民财讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyfk3433326.d.html</link>
+            <guid>4333487</guid>
+            <pubDate>Wed, 13 Aug 2025 00:56:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【两市融资余额增加167.36亿元】截至8月11日，上交所融资余额报10217.92亿元，较前一交易日增加90.72亿元；深交所融资余额报9838.97亿元，较前一交易日增加76.64亿元；两市合计20056.89亿元，较前一交易日增加167.36亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqye8145235.d.html</link>
-            <guid>4331738</guid>
-            <pubDate>Tue, 12 Aug 2025 00:48:18 GMT</pubDate>
+            <title><![CDATA[香港长江基建成为泰晤士水务的主要竞争者。（泰晤士报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyfa7192382.d.html</link>
+            <guid>4333486</guid>
+            <pubDate>Wed, 13 Aug 2025 00:55:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【知情人士：广汽华为合作的华望汽车将采取代理制渠道模式】广汽牵手华为合作的华望汽车，已经开始渠道招商。据多名渠道方面知情人士处消息，其渠道招商目前已启动意向填报，首批覆盖40个城市，主要采取代理制模式，有别于鸿蒙智行网络，是另外建的品牌销售渠道。“首批每个城市可能预计会选1-2家合作伙伴合作，后续有第二批等，但需等首批招募结束后。”前述一名消息人士表示，厂家方面也会提供补贴（如建店补贴、租金补贴等），但具体补贴系数尚未确定。前述人士并指出，华望汽车的渠道网络将采取代理制模式，“不会压库存，经销商从门店获取订单信息后给中台，厂家负责发车发运，每台车会有返点。”（蓝鲸新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyi8989644.d.html</link>
-            <guid>4331734</guid>
-            <pubDate>Tue, 12 Aug 2025 00:46:13 GMT</pubDate>
+            <title><![CDATA[【中国研发世界首台智能育种机器人】当生物技术与人工智能深度融合，世界首台可自动巡航杂交授粉的智能育种机器人诞生了。这台由中国科学院遗传与发育生物学研究所研究员许操团队研发的机器人“吉儿”，能够降低育种成本、缩短育种周期、提高育种效率。目前，“吉儿”已在商业化生产温室内实现稳定运行——每授粉一朵花仅耗时15秒，并能全天候不间断反复巡航、自动杂交授粉，以确保每朵花成功授粉坐果。同时，“吉儿2.0”正在研发，将拓展应用于不同作物。这款机器人的零部件国产化自主率已超95%。（北京日报）]]></title>
+            <guid>4333485</guid>
+            <pubDate>Wed, 13 Aug 2025 00:54:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【广东建科在深交所上市】深交所公告，广东建科（证券代码：301632）于2025年08月12日登陆创业板。广东建科本次公开发行股票1.05亿股，其中公开发行新股1.05亿股，发行价格6.56元/股，新股募集资金6.87亿元，发行后总股本4.19亿股。广东建科主要从事提供建设工程领域的检验检测技术服务。2024年度，公司实现营业收入11.97亿元，净利润1.07亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqye8144320.d.html</link>
-            <guid>4331733</guid>
-            <pubDate>Tue, 12 Aug 2025 00:45:38 GMT</pubDate>
+            <title><![CDATA[【400余家企业将展信息通信前沿成果 数字服务“北京方案展”将成服贸会上亮点】记者昨天获悉，9月10日至14日2025年服贸会期间，首钢园3号馆将举办“电信、计算机和信息服务专题展”。专题展将吸引100余家企业线下参展，近300家企业线上参展，主要围绕创新科技赋能，重点展现信息通信领域前沿技术成果。联通、移动、电信、铁塔公司将集中展示5G-A、F5G-A双万兆最新成果，包括低空经济、自动驾驶、超高清视频、智慧家庭、智慧城市等应用，以及数字原生、跨区域算力互联互通、人工智能大模型等数字经济主流技术。（北京日报）]]></title>
+            <guid>4333484</guid>
+            <pubDate>Wed, 13 Aug 2025 00:53:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【韩国前第一夫人金建希抵达法院 出席拘捕必要性审查】韩国前第一夫人金建希12日上午抵达首尔中央地方法院，准备出席定于当地时间10时10分开始举行的拘捕必要性审查。负责调查金建希相关嫌疑的特别检查组本月7日以涉嫌违反《资本市场法》《政治资金法》和《特定犯罪加重处罚法》等为由提请法院批捕金建希。特检组方面11日表示，特检组先后在7日和11日向法院提交了总计超过800页的拘留意见书。特检组方面还表示，应拘押前总统尹锡悦的首尔拘留所方面的要求，特检组已向法院提交了将拘留场所从首尔拘留所变更为首尔南部拘留所的变更申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyi8988650.d.html</link>
-            <guid>4331730</guid>
-            <pubDate>Tue, 12 Aug 2025 00:43:29 GMT</pubDate>
+            <title><![CDATA[【拒绝配合特朗普政府清理行动的华盛顿特区无家可归者可能面临监禁】当地时间12日，白宫发言人卡罗琳·莱维特表示，如果华盛顿特区的无家可归者不配合美国总统特朗普“打击犯罪和清除首都无家可归者营地”的努力，他们可能面临监禁。莱维特表示，无家可归者可以选择离开营地，被带到无家可归者收容所，接受戒毒或心理健康服务，如果拒绝，将面临罚款或监禁。莱维特称，美国政府正在探索将无家可归者“迁离首都”的策略。她表示，自3月以来，美国公园警察已从联邦公园中清理了70个无家可归者的营地，并将于本周晚些时候清理该市剩余的两个营地。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyff8035323.d.html</link>
+            <guid>4333481</guid>
+            <pubDate>Wed, 13 Aug 2025 00:49:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特斯拉中国：续航830公里的后轮驱动版Model 3起售价为26.95万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyf5225620.d.html</link>
-            <guid>4331727</guid>
-            <pubDate>Tue, 12 Aug 2025 00:41:08 GMT</pubDate>
+            <title><![CDATA[【两市融资余额增加80.92亿元】截至8月12日，上交所融资余额报10255.71亿元，较前一交易日增加37.79亿元；深交所融资余额报9882.1亿元，较前一交易日增加43.13亿元；两市合计20137.81亿元，较前一交易日增加80.92亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkuyff8034849.d.html</link>
+            <guid>4333480</guid>
+            <pubDate>Wed, 13 Aug 2025 00:47:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ 新加坡贸工部：新加坡制造业预计在未来几个季度将走弱。新加坡下半年经济增长预计将比上半年放缓。]]></title>
-            <guid>4331726</guid>
-            <pubDate>Tue, 12 Aug 2025 00:40:32 GMT</pubDate>
+            <title><![CDATA[【欧尔班：俄美领导人会谈 欧盟没受邀就不要大喊大叫 显得很可悲】匈牙利总理欧尔班当地时间12日在接受媒体采访时表示，他之所以否决欧洲理事会当日发布的一份关于乌克兰问题的声明，是因为该声明含有明确支持乌克兰加入欧盟的表态，而匈牙利对此已做出否决，因此不会签署任何与此相关的声明。此外，在采访中，欧尔班还表示，当俄美两国领导人决定坐下来谈判，如果此时有第三方未受邀，就不应该急着打电话或大喊大叫，也不要在俄美双方面前彰显自己的重要性。欧尔班认为，这样的举措“会让你显得可悲”。在欧尔班的发言中，欧盟显然是这样的“可悲”角色。欧尔班认为，欧洲拥有超过4亿人口和庞大的经济规模，不应表现得软弱可怜。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxf4403749.d.html</link>
+            <guid>4333477</guid>
+            <pubDate>Wed, 13 Aug 2025 00:44:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[北海康成制药有限公司在香港暂停交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyf5224494.d.html</link>
-            <guid>4331725</guid>
-            <pubDate>Tue, 12 Aug 2025 00:39:13 GMT</pubDate>
+            <title><![CDATA[【四川双马：参投的基金关注脑机接口相关领域技术公司】四川双马8月13日在互动平台表示，公司参投的基金关注脑机接口相关领域技术公司，如涉及需要披露的信息，公司将按照规定履行信息披露义务。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxf4403197.d.html</link>
+            <guid>4333476</guid>
+            <pubDate>Wed, 13 Aug 2025 00:42:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【维峰电子：公司已进入部分机器人头部厂商供应链】维峰电子8月12日在互动平台表示，公司已进入部分机器人头部厂商供应链。另外，昆山工厂暂未投产，预计今年下半年能投产。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyi8985366.d.html</link>
-            <guid>4331722</guid>
-            <pubDate>Tue, 12 Aug 2025 00:35:50 GMT</pubDate>
+            <title><![CDATA[【以色列驻荷兰大使馆遭破坏，入口处被涂上红漆，以外交部发声】据《以色列时报》、美国彭博社等媒体报道，以色列驻荷兰大使馆当地时间12日遭到破坏，入口处被人涂上红漆，玻璃门被砸碎。以色列外交部最新消息称，三名嫌疑人已被荷兰警方逮捕，并公布了现场照片。以色列《耶路撒冷邮报》称，以色列外交部所有使馆工作人员均未受到伤害，以色列驻荷兰大使在社交平台 X上表示，这一“懦弱行为”是“仇恨和煽动言行日益加剧所带来的危险后果的又一例证”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxe7319332.d.html</link>
+            <guid>4333475</guid>
+            <pubDate>Wed, 13 Aug 2025 00:42:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【浙江省政府批复同意《海宁历史文化名城保护规划》】近日，浙江省政府批复，原则同意《海宁历史文化名城保护规划（2021—2035年）》。海宁历史城区位于硖石街道，包括清代、民国和中华人民共和国成立初期的城区范围，以及东西山、市河、两侧重要历史水道和硖石火车站。历史城区内划定南关厢、横头街、干河街3片历史文化街区。要进一步加强历史文化名城的保护工作，保持和延续传统风貌，传承和弘扬优秀传统文化，促进文化保护与经济社会协调发展，充分彰显历史文化名城的特色和形象。加快历史建筑公布、挂牌、测绘建档工作，依法合理适度利用历史文化遗存，努力实现社会效益、环境效益和经济效益的协调统一。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqye8139196.d.html</link>
-            <guid>4331721</guid>
-            <pubDate>Tue, 12 Aug 2025 00:35:45 GMT</pubDate>
+            <title><![CDATA[【上海核聚变民企再创单笔融资新高】近日，诺瓦聚变能源科技（上海）有限公司完成5亿元天使轮融资，创下国内民营核聚变企业单笔融资新高。在投资机构中，既有社保基金中关村自主创新专项基金、临港科创投等国有资本，也有君联资本、光速光合等社会资本。这些机构都看好诺瓦聚变的“场反位形+磁压缩”技术路线，支持公司研发小型化、模块化、可分布式部署的核聚变电站。（解放日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxn3558450.d.html</link>
+            <guid>4333474</guid>
+            <pubDate>Wed, 13 Aug 2025 00:40:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【迈威生物靶向Nectin-4 ADC创新药9MW2821完成美国ADC经治三阴性乳腺癌临床试验首例患者给药】迈威生物宣布其靶向Nectin-4 ADC创新药（研发代号：9MW2821，通用名：Bulumtatug Fuvedotin）用于ADC经治三阴性乳腺癌患者的临床试验在美国完成首例患者给药。这是9MW2821在海外开展的首个临床试验，也是迈威生物在ADC领域品种全球化的重要一步。]]></title>
-            <guid>4331719</guid>
-            <pubDate>Tue, 12 Aug 2025 00:30:42 GMT</pubDate>
+            <title><![CDATA[【深圳市在氮化镓/碳化硅集成领域取得突破】记者昨日从市国资委了解到，由市属国企深重投集团与市科技创新局联合打造的国家第三代半导体技术创新中心深圳综合平台（简称“国创中心”）在氮化镓/碳化硅集成领域取得突破性进展。该国创中心在国际上首次研制了商用8英寸4°倾角4H-SiC衬底上的高质量氮化铝镓/氮化镓异质结构外延，能显著降低氮化镓外延材料的缺陷密度，大幅提升散热性能，各项指标均达到国际领先水平，有望从根本上解决其可靠性问题。这一成果打破了大尺寸氮化镓与碳化硅材料单片集成的技术瓶颈，可批量应用于大尺寸、高质量氮化镓外延材料制备，为现有硅基氮化镓技术路线提供了一种极具竞争力的替代方案，为氮化镓/碳化硅混合晶体管的发展和产业化进程奠定基础。 (深圳特区报)]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxf4401586.d.html</link>
+            <guid>4333473</guid>
+            <pubDate>Wed, 13 Aug 2025 00:38:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日股软银集团涨超7%创新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqye8136707.d.html</link>
-            <guid>4331718</guid>
-            <pubDate>Tue, 12 Aug 2025 00:29:18 GMT</pubDate>
+            <title><![CDATA[【银河证券：预计8月中下旬需求有望逐步回升 水泥价格有望止跌回涨】中国银河证券研报表示，7月处于季节性淡季，高温雨水影响下游施工，全国水泥需求减少，全国熟料线停窑率有所提升，但熟料库存继续增长，行业供需矛盾较大，水泥价格均呈下降态势。后续来看，预计8月中下旬需求有望逐步回升，水泥价格有望止跌回涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxn3557519.d.html</link>
+            <guid>4333472</guid>
+            <pubDate>Wed, 13 Aug 2025 00:38:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【钟薛高创始人谈百果园事件：不希望任何企业成为第二个钟薛高】8月8日，百果园董事长在一则视频中回应百果园的水果贵：不会迎合消费者，在教育消费者成熟。一时引发网络热议。 8月11日，钟薛高创始人在直播中谈及该事件，他表示：“我永远不希望再有任何企业成为第二个钟薛高。我觉得（百果园）在表述方式上确实是让受众听起来心里不太舒服。但你让我去说百果园的老大看不起消费者、嫌贫爱富，打死我都不觉得。能做到这样一个公司的一把手，他的格局不会那么狭隘。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyf5220141.d.html</link>
-            <guid>4331717</guid>
-            <pubDate>Tue, 12 Aug 2025 00:28:24 GMT</pubDate>
+            <title><![CDATA[市场消息：华盛顿特区警方将协助特朗普计划，清理无家可归者营地、提供庇护所或服务；不遵守规定可能会被罚款或入狱。]]></title>
+            <guid>4333471</guid>
+            <pubDate>Wed, 13 Aug 2025 00:37:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【截至8月12日 社保基金二季度共现身40只个股前十大流通股东】据Wind数据统计显示，8月12日，社保基金现身8只个股前十大流通股东，合计持股1.1亿股，合计持股市值达31.85亿元。华峰化学、万华化学、卫星化学持股数量居前，社保基金分别持有0.43亿股、0.21亿股、0.20亿股。从社保基金持股市值来看，万华化学、南微医学、春风动力排名居前，持股市值分别为11.51亿元、6.20亿元、4.29亿元。截至8月12日，社保基金二季度共现身40只个股前十大流通股东，合计持股7.39亿股，合计持股市值达125.53亿元。其中，16只个股持股数量超千万，常熟银行、华峰化学、燕京啤酒持股数量居前，社保基金分别持有2.78亿股、0.43亿股、0.38亿股。从社保基金持股行业分布来看，主要集中在化工、制药、机械，分别有6只、3只、3只。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqym3560156.d.html</link>
-            <guid>4331715</guid>
-            <pubDate>Tue, 12 Aug 2025 00:25:14 GMT</pubDate>
+            <title><![CDATA[【媒体：“普特会”将在安克雷奇的军事基地举行】美国有线电视新闻网（CNN）援引白宫不愿透露姓名的官员的话报道称，俄罗斯总统普京与美国总统特朗普的会晤将在阿拉斯加安克雷奇的埃尔门多夫-理查森军事基地举行。该电视台报道称：“只有位于城市北郊的埃尔门多夫-理查森联合基地符合历史性会晤的要求，尽管白宫希望避免在美军基地内接待俄罗斯领导人及其随行人员的场面曝光。据白宫两名官员透露，此次会晤将于8月15日在该基地举行。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxn3555891.d.html</link>
+            <guid>4333469</guid>
+            <pubDate>Wed, 13 Aug 2025 00:34:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【特斯拉官宣续航830公里的Model 3车型开卖】8月12日，特斯拉宣布，Model 3长续航后轮驱动版正式上线，续航830公里（CLTC），5.2秒百公里加速。Model 3四款车型均已完成续航升级。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqym3560031.d.html</link>
-            <guid>4331714</guid>
-            <pubDate>Tue, 12 Aug 2025 00:24:46 GMT</pubDate>
+            <title><![CDATA[【58股获券商买入评级，德赛西威目标涨幅达42.22%】Wind数据显示，8月12日，共有58只个股获券商买入评级，其中16只个股公布了目标价格。按最高目标价计算，德赛西威、万华化学、德赛西威目标涨幅排名居前，涨幅分别达42.22%、36.72%、34.11%。从评级调整方向来看，55只个股评级维持不变，3只个股为首次评级。此外，有12只个股获多家券商关注，万华化学、乖宝宠物、德赛西威获评级数量居前，分别有7家、3家、3家券商给予评级。从获买入评级个股所属Wind行业来看，材料Ⅱ、食品、饮料与烟草、技术硬件与设备买入评级个股数量最多，分别有11只、11只、10只。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxi8158892.d.html</link>
+            <guid>4333467</guid>
+            <pubDate>Wed, 13 Aug 2025 00:31:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【新加坡上调2025年经济增长预测 仍警告下半年下行风险】新加坡在上半年经济超预期后上调全年增长预测，上半年经济表现主要受益于美国关税生效前企业提前拉货以及贸易紧张局势缓解。新加坡贸工部周二在声明中表示，预计今年国内生产总值(GDP)同比增长1.5%-2.5%，高于自5月以来预测的0%-2%增速区间。贸工部表示，这主要反映2025年上半年新加坡经济表现优于预期。不过，下半年经济前景依然充满不确定性，风险偏向下行。新加坡第二季度GDP同比增长4.4%，高于政府此前4.3%的预估值，并符合市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqye8134884.d.html</link>
-            <guid>4331712</guid>
-            <pubDate>Tue, 12 Aug 2025 00:24:00 GMT</pubDate>
+            <title><![CDATA[【巴勒斯坦呼吁国际社会阻止以色列暴行】巴勒斯坦外交和侨民事务部12日就来自多国外交部长以及欧盟官员发表的联合声明表示欢迎。巴方呼吁所有国家、国际和区域联盟以及联合国将这一国际共识转化为对以色列具有约束力的实际步骤，迫使其停止针对巴勒斯坦平民的犯罪行为。英国、法国等20多国外长及欧盟官员当天发表联合声明，呼吁就加沙地带民众遭受的饥荒采取紧急行动，敦促以色列解除对人道主义机构的限制，使援助物资能够经陆路不受阻碍地进入加沙地带。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxe7314920.d.html</link>
+            <guid>4333466</guid>
+            <pubDate>Wed, 13 Aug 2025 00:31:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美对华关税措施再暂停90天】当地时间8月11日，美国总统特朗普已签署行政令，将对中国的关税暂停措施再延长90天。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyf5217269.d.html</link>
-            <guid>4331708</guid>
-            <pubDate>Tue, 12 Aug 2025 00:20:29 GMT</pubDate>
+            <title><![CDATA[【德国左翼党领导人：德国应全面停止向以色列提供武器】德国左翼党联合主席施韦尔特纳12日表示，德国应该全面停止向以色列提供武器，并且尽快跟随国际社会的脚步，承认巴勒斯坦国。在西方大国中，法国、英国、加拿大、澳大利亚近期已表示将承认巴勒斯坦国，而德国尚未就此明确表态，称“承认巴勒斯坦国”是巴以和谈进程中的最后一步。对此，左翼党联合主席施韦尔特纳称，德国不仅应该全面停止向以色列提供武器，而且应跟随国际社会的脚步，尽快承认巴勒斯坦国。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxe7314670.d.html</link>
+            <guid>4333465</guid>
+            <pubDate>Wed, 13 Aug 2025 00:30:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【特斯拉北美市场服务总监离职】特斯拉北美市场服务总监Piero Landolfi当地时间8月11日宣布，在该公司任职八年半后，他已决定离职。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyf5216433.d.html</link>
-            <guid>4331704</guid>
-            <pubDate>Tue, 12 Aug 2025 00:18:08 GMT</pubDate>
+            <title><![CDATA[【易普力：公司积极拓展布局新疆市场，率先将现场混装炸药技术应用于疆内矿山市场】易普力8月13日在互动平台表示，公司积极拓展布局新疆市场，率先将现场混装炸药技术应用于疆内矿山市场。所属新疆公司是疆内首家具备“营业性爆破作业单位”一级和“矿山工程施工总承包”壹级的“双一级”资质的民爆企业。深耕新疆近二十年，现已成为疆内集混装炸药生产、爆破施工、民爆器材销售配送、矿山工程施工总承包、智能化矿山及绿色矿山建设于一体的矿山全产业链一流服务商，拥有工业炸药产能11.2万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxf4398149.d.html</link>
+            <guid>4333463</guid>
+            <pubDate>Wed, 13 Aug 2025 00:29:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日经225指数涨至高于2024年7月创下的42426.77点的高位。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqym3557131.d.html</link>
-            <guid>4331702</guid>
-            <pubDate>Tue, 12 Aug 2025 00:16:19 GMT</pubDate>
+            <title><![CDATA[白宫降低特朗普与普京阿拉斯加峰会预期。（英国金融时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxi8157817.d.html</link>
+            <guid>4333461</guid>
+            <pubDate>Wed, 13 Aug 2025 00:28:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【英伟达推出具身智能推理模型Cosmos Reason】英伟达周一推出一系列面向机器人开发者的世界模型、应用库和基础设施。其中，最引人关注的是参数量只有70亿的开源物理AI应用和机器人视觉推理模型Cosmos Reason。凭借记忆和理解能力，Cosmos Reason能够使机器人和AI具身代理“像人类一样推理”，并在真实世界中采取行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqye8131272.d.html</link>
-            <guid>4331699</guid>
-            <pubDate>Tue, 12 Aug 2025 00:13:36 GMT</pubDate>
+            <title><![CDATA[【ONERWAY完成1000万美元A+轮融资】8月11日，总部位于英国的全球支付品牌ONERWAY完成了1000万美元的A+轮融资，此次融资由云启资本，A轮投资者蓝驰创投、靖亚资本和明裕创投共同参与。ONERWAY将利用这笔资金来提升其技术研发、拓展全球授权，并深化与合作伙伴的战略关系，公司还计划在2026年展开B轮融资。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxe7314054.d.html</link>
+            <guid>4333460</guid>
+            <pubDate>Wed, 13 Aug 2025 00:27:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[因买单过多，软银集团股票暂未交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyf5211609.d.html</link>
-            <guid>4331694</guid>
-            <pubDate>Tue, 12 Aug 2025 00:04:14 GMT</pubDate>
+            <title><![CDATA[【韩加密大亨就400亿崩盘案在美认罪】韩国加密货币大亨、Terraform Labs联合创办人权道亨（Do Kwon）在美国纽约联邦法庭就电信欺诈和串谋欺诈两项指控认罪。权道亨曾设计了两款数字货币，但在 2022 年遭遇崩盘，导致投资人损失约400亿美元。他于周二承认犯有两项欺诈罪。据纽约联邦法院的一场听证会记录显示，权道亨承认犯有一项共谋实施商品欺诈、证券欺诈和电信欺诈的罪行，以及一项实施电信欺诈的罪行。法官保罗·A·恩格尔马耶同意了被告的认罪请求，这一消息由曼哈顿美国检察官办公室的发言人尼古拉斯·比亚塞透露。比亚塞称， 权道亨同意放弃其加密货币交易所得的超过 1900 万美元的收益。如果法官决定判处最高刑罚，权道亨可能会面临 25 年的监禁。但比亚塞表示，根据认罪协议，政府不会向法官请求超过 12 年的刑期。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxe7313433.d.html</link>
+            <guid>4333458</guid>
+            <pubDate>Wed, 13 Aug 2025 00:25:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【 华西证券：基建板块的中长期逻辑难以支撑短期快涨行情 】华西证券指出，基建板块的中长期逻辑，难以支撑短期快涨行情。若本轮基建再度加速过快，仍然需要警惕大幅回撤的可能。值得注意的是，彼时基建行情波动后，资金转移至科技板块，且当前科技板块热度退坡&产业叙事强化的矛盾仍然存在，或许能够为本轮基建行情波动后的市场方向提供参考。]]></title>
-            <guid>4331692</guid>
-            <pubDate>Tue, 12 Aug 2025 00:03:44 GMT</pubDate>
+            <title><![CDATA[【睿智医药与科恩泰达成深度战略合作】8月6日，睿智医药科技股份有限公司（简称“睿智医药”）与广州科恩泰生物医药科技有限公司（简称“科恩泰”）正式签署深度战略合作协议。未来双方将围绕多种模态药物的发现与评价，进一步发挥各自优势，秉持合作共赢的基本原则，在创新药开发研究的临床前体外、体内药理药效、药代和生物分析、安全性评价以及CDMO等多个关键环节，探索构建适合国产创新药快速开发推进的生态模式。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxi8155897.d.html</link>
+            <guid>4333457</guid>
+            <pubDate>Wed, 13 Aug 2025 00:23:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中央气象台8月12日06时发布台风黄色预警。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyi8973984.d.html</link>
-            <guid>4331691</guid>
-            <pubDate>Tue, 12 Aug 2025 00:02:28 GMT</pubDate>
+            <title><![CDATA[【巴西南部炸药厂爆炸已致9人死亡】当地时间8月12日，巴西南部巴拉那州公共安全部确认，该州库里奇巴市一炸药工厂发生爆炸，已造成9人死亡、7人受伤。爆炸发生于当日上午，事故发生时，一组员工正在处理准备装车的爆炸物材料。根据通报，遇难者遗体损毁严重，需通过DNA检测确认身份。7名伤者已由医护人员现场医治，目前均已返家休养。巴西劳工部已就涉事公司安全生产条件展开调查。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxi8155786.d.html</link>
+            <guid>4333456</guid>
+            <pubDate>Wed, 13 Aug 2025 00:22:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中美再次暂停实施相互24%关税90天。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqye8126508.d.html</link>
-            <guid>4331688</guid>
-            <pubDate>Tue, 12 Aug 2025 00:01:00 GMT</pubDate>
+            <title><![CDATA[【天风证券：海内外AI共振将有望推动中国AI应用生态进入快速迭代的周期】天风证券指出，中国AI板块继续呈现海外前沿模型迭代与国产模型进化共振的积极趋势。海内外AI共振将有望推动中国AI应用生态进入快速迭代的周期。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxi8154525.d.html</link>
+            <guid>4333454</guid>
+            <pubDate>Wed, 13 Aug 2025 00:20:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本日经225指数涨至2024年7月以来的最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyf5210134.d.html</link>
-            <guid>4331687</guid>
-            <pubDate>Tue, 12 Aug 2025 00:00:39 GMT</pubDate>
+            <title><![CDATA[【奥士康：AI PC所用PCB板的价值量相较传统PC有明显提升】奥士康8月12日在机构调研时表示，近年来，AI对各类智能终端的赋能正在逐步体现，使其从孤立产品向场景化、生态化发展。其中，人工智能个人计算机（AI PC）作为PC行业创新发展的前沿产物，在AI搜索、内容生成、智能推荐等应用场景赋予PC用户更好的使用体验，正迅速崛起并逐步确立其在PC市场未来发展中的主导地位。由于算力的增加，AI PC所用PCB板的价值量相较传统PC也有明显的提升。公司在AI PC市场兴起之初便迅速切入该领域，与行业内多家PC厂商建立深度合作关系，在AI PC、桌面智能一体机等产品上为客户提供定制化的产品解决方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxi8153037.d.html</link>
+            <guid>4333450</guid>
+            <pubDate>Wed, 13 Aug 2025 00:14:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[新加坡第二季度GDP终值同比增长4.4%，预估增长4.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyf5209996.d.html</link>
-            <guid>4331685</guid>
-            <pubDate>Tue, 12 Aug 2025 00:00:11 GMT</pubDate>
+            <title><![CDATA[【华西证券：勿质疑本轮A股行情的上行趋势与市场空间】华西证券指出，勿质疑本轮A股行情的上行趋势与市场空间。本轮行情增量资金来源众多，有保险、养老金、公募基金、私募基金等机构资金，也有居民配置资金的入市。自“924”行情启动以来，我国M1-M2同比增速负剪刀差持续收窄，反映资金活化程度增强，居民的消费和投资意愿出现边际回暖迹象。近期两融余额站上十年新高，反映个人投资者风险偏好正在持续回升。在资产配置荒下，牛市思维正促进居民资产配置向权益类资产倾斜，居民增量资金入市将成为本轮“慢牛”行情的重要驱动，我们仍看好下半年A股冲击2024年高点。风格上，“十五五”规划将成为聚焦点，科技成长仍将是未来较长一段时间的政策主线。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxi8152379.d.html</link>
+            <guid>4333446</guid>
+            <pubDate>Wed, 13 Aug 2025 00:11:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【特朗普给美俄会晤“降调” 乌克兰要“明确安全保障”】美国总统特朗普11日表示，几天后他与俄罗斯总统普京的会晤是一次“试探性会晤”，结果“或好或坏”。乌克兰总统泽连斯基当天分别与加拿大总理卡尼和立陶宛总统瑙塞达通电话，强调乌克兰需要“明确的安全保障”。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyf5209888.d.html</link>
-            <guid>4331684</guid>
-            <pubDate>Mon, 11 Aug 2025 23:59:45 GMT</pubDate>
+            <title><![CDATA[【500+场景落地 机器人应用正走进“千家万景”】2025世界机器人大会于12日在北京闭幕。本届大会集中展示了220家国内外知名机器人企业的1569件产品。其中，人形机器人开始从“表演型”转向“应用型”。一系列应用场景落地，为我们带来了未来已来的体验。2025世界机器人大会围绕工业、农业、家政等领域搭建超500个应用场景，生动呈现了机器人的丰富生态。本届大会还举办了首届集购物、餐饮、文创、打卡于一体的“E-Town机器人消费节”，打造了机器人大世界、机器人4S店，售出机器人及相关产品1.9万台，销售额超2亿元，有力推动了机器人加快走进“千家万景”。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxe7309798.d.html</link>
+            <guid>4333445</guid>
+            <pubDate>Wed, 13 Aug 2025 00:11:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【银河证券：锂矿供应收缩 锂盐价格有进一步走高的可能】银河证券研报认为，宁德时代枧下窝陶瓷土（含锂）矿采矿证于8月9日到期，按照7月1日续办采矿证涉及矿种变更储量核实的情况下，预计枧下窝矿或将停产较长时间。枧下窝陶瓷土矿碳酸锂月产量1万吨LCE左右，枧下窝矿的停产将影响国内碳酸锂产量近12%，锂盐行业供应过剩的格局将得到改善。而宜春市自然资源局发布通知要求8家涉锂矿山企业于9月30日前完成矿种变更储量核实报告编制，在枧下窝陶瓷土矿停产后，市场对于其他7家锂云母矿的停产预期或将提升，带来更强烈的锂供应收缩预期。锂矿供应端的扰动，叠加行业高质量发展与“反内卷”政策的催化，锂盐价格有进一步走高的可能。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyf5209684.d.html</link>
-            <guid>4331682</guid>
-            <pubDate>Mon, 11 Aug 2025 23:58:50 GMT</pubDate>
+            <title><![CDATA[文件显示：达美航空和墨西哥航空（Aeroméxico）请求美国当局将拟议的反垄断协议终止日期从10月25日延长至3月28日。]]></title>
+            <guid>4333444</guid>
+            <pubDate>Wed, 13 Aug 2025 00:10:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国银河证券：液冷景气度上行】中国银河证券指出，随着海外厂商GPU方案对于液冷需求的逐步提升，液冷（尤其是冷板式）市场空间逐步增长，且在当下时点产业趋势的革新已经提前到来，在高集成、低功耗以及低成本的优势下，建议重点关注具备成熟冷板式液冷技术的厂家，以及布局浸没式液冷以及喷淋式液冷的重点厂家。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqyf5208263.d.html</link>
-            <guid>4331677</guid>
-            <pubDate>Mon, 11 Aug 2025 23:54:20 GMT</pubDate>
+            <title><![CDATA[【机构：全球7月电动汽车销量同比增幅放缓至21%】市场研究公司Rho Motion周三表示，7月全球电动汽车销量同比增长21%，低于6月的增长25%，且为1月以来最慢增速。在Rho Motion的数据中，电动汽车包括纯电动汽车和插电式混合动力汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxf4393069.d.html</link>
+            <guid>4333442</guid>
+            <pubDate>Wed, 13 Aug 2025 00:09:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本7月货币存量M2同比 1%，前值 0.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-12/detail-infksqye8123245.d.html</link>
-            <guid>4331675</guid>
-            <pubDate>Mon, 11 Aug 2025 23:50:27 GMT</pubDate>
+            <title><![CDATA[文件显示，微软以数百万美元的代价吸引Meta的人工智能人才。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxe7309090.d.html</link>
+            <guid>4333440</guid>
+            <pubDate>Wed, 13 Aug 2025 00:08:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构：上半年全球AMOLED手机面板出货量同比微增0.2%】根据CINNO Research统计数据显示，2025年上半年全球市场AMOLED智能手机面板出货量约4.2亿片，同比微增0.2%，其中第二季度出货量同比下滑6.3%，环比下滑1.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxf4392437.d.html</link>
+            <guid>4333439</guid>
+            <pubDate>Wed, 13 Aug 2025 00:06:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日股东证指数升至纪录高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxf4392267.d.html</link>
+            <guid>4333437</guid>
+            <pubDate>Wed, 13 Aug 2025 00:06:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大就业部长哈吉杜谈加拿大航空谈判情况：在今天以及整个谈判过程中，我都与加拿大公共雇员工会（CUPE）旗下的加拿大航空空乘人员进行了会面。]]></title>
+            <guid>4333432</guid>
+            <pubDate>Wed, 13 Aug 2025 00:01:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【歌礼制药：临床前数据显示ASC47与替尔泊肽联用疗效胜过与司美格鲁肽联用】8月13日，歌礼制药宣布，治疗肥胖症的减重不减肌候选药物ASC47在临床前模型中显示与替尔泊肽联用的疗效胜过与司美格鲁肽联用。数据显示，在饮食诱导肥胖（DIO）小鼠模型中，低剂量ASC47与替尔泊肽联用对比替尔泊肽单药多减重87%，ASC47与司美格鲁肽联用对比司美格鲁肽单药多减重55%，即低剂量ASC47联合司美格鲁肽的疗效弱于联合替尔泊肽的疗效，具有统计学显著性。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxi8149116.d.html</link>
+            <guid>4333428</guid>
+            <pubDate>Wed, 13 Aug 2025 00:00:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京解除山洪黄色预警】北京市水务局与市气象局于2025年8月13日8时解除山洪黄色预警：目前雨势减弱，现解除全市山洪灾害黄色预警，降级发布密云、怀柔区山洪灾害黄色预警以及平谷区山洪灾害蓝色预警。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxn3545050.d.html</link>
+            <guid>4333427</guid>
+            <pubDate>Tue, 12 Aug 2025 23:59:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大就业部长哈吉杜谈加拿大航空公司谈判事宜：联邦调解人员将随时待命，直至达成协议。]]></title>
+            <guid>4333426</guid>
+            <pubDate>Tue, 12 Aug 2025 23:59:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大就业部长哈吉杜就加拿大航空公司空乘人员罢工事件表示：密切关注事态发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-13/detail-infkutxe7306664.d.html</link>
+            <guid>4333425</guid>
+            <pubDate>Tue, 12 Aug 2025 23:58:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
