@@ -4,132 +4,304 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 01 Dec 2025 01:47:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Dec 2025 01:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[市场消息：因公司公告平台持续出现故障，澳大利亚证券交易所已暂停约80家公司的交易。]]></title>
-            <guid>4529106</guid>
-            <pubDate>Mon, 01 Dec 2025 01:47:02 GMT</pubDate>
+            <title><![CDATA[【双鹭药业：目前奥司他韦订单数量有所增加】双鹭药业在互动平台表示，本次国家集采为奥司他韦颗粒剂，公司产品为奥司他韦胶囊，并非一种产品。目前奥司他韦订单数量有所增加，其与其他抗流感类药物的具体销售情况公司也在密切关注。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftp2913637.d.html</link>
+            <guid>4531198</guid>
+            <pubDate>Tue, 02 Dec 2025 01:20:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国11月RatingDog制造业PMI 49.9，预期50.5，前值50.6。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-01/detail-infzhaup3829833.d.html</link>
-            <guid>4529103</guid>
-            <pubDate>Mon, 01 Dec 2025 01:45:05 GMT</pubDate>
+            <title><![CDATA[【天华新能：未来将根据市场需求变化 择机增加锂盐产能达到25万吨-26万吨/年】天华新能在机构调研中表示，公司新能源锂电材料产品生产基地主要分布在四川省宜宾市、四川省眉山市和江西省宜春市，其中位于宜宾市的子公司天宜锂业拥有年产7.5万吨电池级氢氧化锂产能；位于眉山市的子公司四川天华拥有年产6万吨电池级氢氧化锂产能，并可根据市场需求转化为年产约5.5万吨电池级碳酸锂产能；位于宜春市的子公司奉新时代拥有年产3万吨电池级碳酸锂产能。公司未来将会根据市场对锂盐产品的需求变化，择机增加锂盐产能达到25万吨-26万吨/年。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftr1401841.d.html</link>
+            <guid>4531197</guid>
+            <pubDate>Tue, 02 Dec 2025 01:20:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【库迪咖啡旗下安徽供应链公司增资至1.5亿美元 增幅50%】天眼查工商信息显示，近日，库迪供应链（安徽）有限公司发生工商变更，注册资本由1亿美元增至1.5亿美元，增幅50%。该公司成立于2023年9月，法定代表人为钱治亚，经营范围含供应链管理服务、品牌管理、餐饮管理、销售代理、采购代理服务、国内贸易代理、食品销售、食品互联网销售、机械设备租赁、自动售货机销售、互联网销售等。股东信息显示，该公司由Cotti Coffee (China) Limited全资持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-01/detail-infzhaun3293607.d.html</link>
-            <guid>4529098</guid>
-            <pubDate>Mon, 01 Dec 2025 01:41:27 GMT</pubDate>
+            <title><![CDATA[【特朗普政府将入股芯片初创公司 XLight 】特朗普政府将入股前英特尔首席执行官创办的芯片初创企业XLight，据报道，政府已同意向该初创企业注资高达1.5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftt0640244.d.html</link>
+            <guid>4531194</guid>
+            <pubDate>Tue, 02 Dec 2025 01:15:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【智己汽车11月销量环比增长3%】12月1日，智己汽车公布11月销售13,577台，环比增长3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-01/detail-infzhauk4380216.d.html</link>
-            <guid>4529096</guid>
-            <pubDate>Mon, 01 Dec 2025 01:40:09 GMT</pubDate>
+            <title><![CDATA[特朗普政府将向XLIGHT投资至多1.5亿美元。（华尔街日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftr1398119.d.html</link>
+            <guid>4531192</guid>
+            <pubDate>Tue, 02 Dec 2025 01:14:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【*ST华嵘新设子公司，含多项AI相关业务】企查查APP显示，近日，宜昌华嵘信息科技有限公司成立，经营范围包含：人工智能公共数据平台；人工智能基础资源与技术平台；人工智能基础软件开发；人工智能理论与算法软件开发等。企查查股权穿透显示，该公司由*ST华嵘全资持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-01/detail-infzhaun3292319.d.html</link>
-            <guid>4529095</guid>
-            <pubDate>Mon, 01 Dec 2025 01:40:05 GMT</pubDate>
+            <title><![CDATA[特朗普政府将入股芯片初创公司XLIGHT。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftt0638818.d.html</link>
+            <guid>4531190</guid>
+            <pubDate>Tue, 02 Dec 2025 01:13:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【消息称苹果全新 Studio Display 搭载 A19 Pro 芯片，配备 Mini LED 面板】苹果在上个月中旬发布了 M5 iPad Pro，其中性能以外最突出的升级便是外接显示器时最高可输出 120Hz 高刷画面且具备自适应同步，这种特性可以使游戏、视频剪辑等工作流延迟更低、看起来更流畅，而且视觉拖影更小，还能进一步加快整体的响应速度。 不过值得注意的是，虽然 Mac 早已支持 120Hz 外接显示器，但苹果始终没有出过刷新率高于 60Hz 的显示器，这种做法在当今业界十分罕见。 多方传言显示，苹果正准备在 2026 年初为 Studio Display 带来重大升级，今年早些时候，一款代码为 J427 的全新苹果显示器被泄露，显示其搭载 A19 Pro 芯片。]]></title>
-            <guid>4529089</guid>
-            <pubDate>Mon, 01 Dec 2025 01:38:19 GMT</pubDate>
+            <title><![CDATA[【无论科技完成数千万元Pre-A轮融资】12月2日，无论科技宣布正式完成数千万元Pre-A轮融资。本轮由包括滴滴战投在内的产业资本投资，云岫资本担任独家财务顾问。本轮融资将重点用于表情头标准化产品的完善和情感交互模型的升级迭代。]]></title>
+            <guid>4531189</guid>
+            <pubDate>Tue, 02 Dec 2025 01:13:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【公安部等十部门联合印发《关于加强生态警务机制建设的意见》】公安部等十部门联合印发《关于加强生态警务机制建设的意见》。《意见》强调，加强生态警务机制建设，要坚持系统观念、坚持守正创新、坚持协同共治、坚持因地制宜、坚持依法履职。在此基础上，提出推进生态警务机制建设“两步走”的目标：到2027年，生态警务机制基本建成；到2035年，系统完备、科学规范、运行高效的生态警务机制成熟定型。同时，明确了强化刑事打击、加强主动预防、推动综合治理、服务价值转化等四项主要任务。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-01/detail-infzhauh5202394.d.html</link>
-            <guid>4529084</guid>
-            <pubDate>Mon, 01 Dec 2025 01:35:56 GMT</pubDate>
+            <title><![CDATA[【教育部召开2025年度部省合建工作会议】会议指出，近年来，部省合建“四方联动”机制不断优化，合建高校综合改革成效显著、服务能力加快提升、办学实力整体跃升，合建工作积累了宝贵经验，必须长期坚持并不断丰富发展。会议强调，要准确把握“十五五”时期合建工作面临的新形势新要求，明确发展方向，聚焦重点任务，在落实立德树人根本任务上担当更大使命，在加快高水平科技自立自强上展现更大作为，在服务区域经济社会发展上发挥更大作用，在夯实人才“第一资源”上提供更强支撑，奋力在新起点推动部省合建工作实现新发展、迈上新台阶。]]></title>
+            <guid>4531188</guid>
+            <pubDate>Tue, 02 Dec 2025 01:12:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[赛力斯涨超4%，获调入港股通。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-01/detail-infzhauk4370328.d.html</link>
-            <guid>4529076</guid>
-            <pubDate>Mon, 01 Dec 2025 01:31:01 GMT</pubDate>
+            <title><![CDATA[【外交部副部长马朝旭会见密克罗尼西亚联邦国会议长摩西斯】2025年12月1日，外交部副部长马朝旭会见密克罗尼西亚联邦国会议长摩西斯。双方就中密关系及共同关心的问题交换意见。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftn2439954.d.html</link>
+            <guid>4531187</guid>
+            <pubDate>Tue, 02 Dec 2025 01:12:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【SemiAnalysis：OpenAI“筹备采用谷歌TPU”导致英伟达让步 其算力集群成本降低约30%】研究机构SemiAnalysis指出，自2024年5月GPT-4o发布以来，OpenAI研究人员尚未成功完成任何大规模部署的新前沿模型预训练。另外，OpenAI甚至还没有真正部署TPU，仅仅是“可能筹备采用TPU”，便促使英伟达让步，使其在算力集群总体拥有成本（TCO）上节省了约30%。]]></title>
-            <guid>4529068</guid>
-            <pubDate>Mon, 01 Dec 2025 01:26:24 GMT</pubDate>
+            <title><![CDATA[【国家医保局：已有27省份，超九成统筹区全面实现生育津贴直接发放至个人】近日，湖南、广东正式发文，于12月1日起在全省实现生育津贴直接发放至个人。这意味着，到12月1日，全国共有27个省份（含新疆生产建设兵团）全面实现生育津贴直接发放至个人，仅剩5省份未全面实现，即北京、天津、广西、贵州和新疆。生育津贴直接发放至个人的统筹区超九成。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftp2907081.d.html</link>
+            <guid>4531184</guid>
+            <pubDate>Tue, 02 Dec 2025 01:10:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【委内瑞拉将调查公民遭美军谋杀事件】当地时间11月30日，委内瑞拉议长罗德里格斯宣布，12月1日将召开国民议会特别会议，提议成立由众议员组成的特别调查委员会，彻底调查导致委内瑞拉公民在加勒比海域被美军谋杀事件，并研究衡量是否该行为已构成战争罪或法外处决。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-01/detail-infzhaup3813230.d.html</link>
-            <guid>4529064</guid>
-            <pubDate>Mon, 01 Dec 2025 01:24:04 GMT</pubDate>
+            <title><![CDATA[韩国总统李在明：在Coupang客户数据泄露事件发生后，我们必须考虑提高处罚力度和罚款金额。]]></title>
+            <guid>4531182</guid>
+            <pubDate>Tue, 02 Dec 2025 01:10:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国机精工：公司在国内航天轴承领域的市占率在90%以上】国机精工在机构调研中表示，目前，公司在国内航天轴承领域的市占率在90%以上。具体产品如火箭燃料涡轮泵轴承、卫星动量轮用轴承组件、卫星电池帆板用轴承等。商业航天的发展会为公司带来新的业务增长机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-01/detail-infzhauk4362370.d.html</link>
-            <guid>4529058</guid>
-            <pubDate>Mon, 01 Dec 2025 01:21:02 GMT</pubDate>
+            <title><![CDATA[【港股股票回购一览：46只个股获公司回购】Wind数据显示，12月1日，共46只港股获公司回购，5只个股回购金额超千万港元。其中，腾讯控股、小米集团-W、维他奶国际回购金额最大，分别获公司回购6.36亿港元、4.02亿港元、1301.62万港元。截至12月1日，今年已有251只港股获公司回购，65只个股年内累计回购金额超亿港元。其中，腾讯控股、汇丰控股、友邦保险年内累计回购金额最大，分别获公司回购673.22亿港元、302.57亿港元、176.93亿港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftp2906772.d.html</link>
+            <guid>4531180</guid>
+            <pubDate>Tue, 02 Dec 2025 01:09:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【我国绿氢年产能超22万吨 多项技术指标居全球首位】“十五五”规划建议中提出，要前瞻布局包括氢能和核聚变能在内的六大未来产业。数据显示，当前我国氢能产业快速发展，多项技术指标位居全球首位。 在宁夏，宁东可再生氢碳减排示范区已持续提供绿氢近1100万标方，实现碳减排约2万吨。数据显示，截至今年9月底，我国清洁氢项目投资额占全球比重的30%，居全球首位。 中国氢能联盟秘书长 万燕鸣：目前，我国的绿氢产能已经超过每年22万吨，占全球的50%以上；建成的加氢站已经超过540座，占全球的40%。 同时，氢能产业相关创新技术不断涌现，电解水制氢成本降至20~30元/公斤区间，较2020年下降近40%，带动绿色氨醇、长输管道、海洋氢能等领域加快突破。“十五五”期间，我国将加快推动氢能规模化发展，力争实现可再生能源制氢装机达到100GW，形成较为完备的氢能产业技术创新体系、清洁能源制氢及供应体系。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-01/detail-infzhauk4361476.d.html</link>
-            <guid>4529056</guid>
-            <pubDate>Mon, 01 Dec 2025 01:20:11 GMT</pubDate>
+            <title><![CDATA[韩国总统李在明：必须追究对Coupang数据泄露造成的损失负责的相关人员的责任。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftn2436751.d.html</link>
+            <guid>4531171</guid>
+            <pubDate>Tue, 02 Dec 2025 01:08:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[植田和男：外汇比以前更有可能影响价格。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-01/detail-infzhauh5187385.d.html</link>
-            <guid>4529053</guid>
-            <pubDate>Mon, 01 Dec 2025 01:16:37 GMT</pubDate>
+            <title><![CDATA[【苏丹快速支援部队宣布控制苏丹西部重要城市巴巴努萨】当地时间12月1日，苏丹快速支援部队发表声明称，已于当天控制该国西部西科尔多凡州巴巴努萨市。声明表示，快速支援部队经过激烈战斗控制了巴巴努萨，并击退了苏丹武装部队发起的反攻。对于该声明，苏丹武装部队暂未回应。巴巴努萨是苏丹西部的重要交通枢纽，也是苏丹军方在西科尔多凡州的最后一处主要据点。近期，冲突双方围绕该市控制权持续交火。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftt0633295.d.html</link>
+            <guid>4531170</guid>
+            <pubDate>Tue, 02 Dec 2025 01:08:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[植田和男：将在12月会议上就利率问题做出正确决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-01/detail-infzhaup3806383.d.html</link>
-            <guid>4529049</guid>
-            <pubDate>Mon, 01 Dec 2025 01:15:15 GMT</pubDate>
+            <title><![CDATA[力拓：与Karlka Nyiyaparli Aboriginal Corp.签署更新版原住民土地权协议。]]></title>
+            <guid>4531164</guid>
+            <pubDate>Tue, 02 Dec 2025 01:07:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【哈马斯官员称以军阻碍停火协议执行】当地时间11月30日，巴勒斯坦伊斯兰抵抗运动（哈马斯）政治局成员胡萨姆·巴德兰在接受采访时表示，哈马斯及加沙地带武装组织已全面履行加沙停火第一阶段协议的义务，但协议执行受以色列阻挠。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-01/detail-infzhaup3805954.d.html</link>
-            <guid>4529044</guid>
-            <pubDate>Mon, 01 Dec 2025 01:14:37 GMT</pubDate>
+            <title><![CDATA[12月1日14时40分许，红凌路102号公建门前供热主管线发生爆裂事故，造成1人送医抢救无效死亡，1人烫伤。相关部门第一时间到达现场开展救援抢修，全力做好善后工作。目前，该区域供热管网已完成抢修，恢复供热，路面已修整完毕。事故原因正在调查中。 (北京日报)]]></title>
+            <guid>4531163</guid>
+            <pubDate>Tue, 02 Dec 2025 01:07:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【英飞特与Synapse Wireless达成战略合作】据英飞特消息，12月1日，英飞特与Synapse Wireless正式宣布双方建立战略合作伙伴关系。双方将共同为客户打造专业、协调的体育与户外应用场景一体化系统解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-01/detail-infzhauh5184930.d.html</link>
-            <guid>4529039</guid>
-            <pubDate>Mon, 01 Dec 2025 01:13:21 GMT</pubDate>
+            <title><![CDATA[【海南离岛免税新政实施首月购物金额23.8亿元】12月1日，记者从海口海关获悉，2025年11月1日至30日海南“离岛免税”升级政策实施首月，海南离岛免税购物金额23.8亿元，同比增长27.1%，购物人数32.9万，件数190.5万件，政策对消费的拉动效应初步显现。“作为岛内居民，新政让我们日常购物方便太多了！”在海控全球精品免税城内，一位海口市民说：“家里孩子用的进口奶粉、尿不湿，现在凭年内离岛记录就能随时‘即购即提’，价格更划算，这是切切实实的生活福利。”（经济参考报）]]></title>
+            <guid>4531155</guid>
+            <pubDate>Tue, 02 Dec 2025 01:05:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[植田和男：调整不能太晚，也不能太早。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-01/detail-infzhaup3804975.d.html</link>
-            <guid>4529038</guid>
-            <pubDate>Mon, 01 Dec 2025 01:13:15 GMT</pubDate>
+            <title><![CDATA[【贵州黔能一号私募基金成立】企查查APP显示，近日，贵州黔能一号私募基金合伙企业（有限合伙）成立，出资额27亿元，经营范围包含：私募股权投资基金管理、创业投资基金管理服务。企查查股权穿透显示，该企业由贵州省能源结构调整股权投资基金合伙企业（有限合伙）、贵州产业投资基金管理有限公司等共同出资。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftr1392924.d.html</link>
+            <guid>4531154</guid>
+            <pubDate>Tue, 02 Dec 2025 01:05:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[植田和男：预计企业利润将整体保持在高位。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-01/detail-infzhaup3803664.d.html</link>
-            <guid>4529032</guid>
-            <pubDate>Mon, 01 Dec 2025 01:11:36 GMT</pubDate>
+            <title><![CDATA[【三星推出首款可折叠手机 竞争将白热化】三星电子周二发布了其首款可多次折叠的智能手机，以巩固其在手机市场上的地位，预计该市场的竞争将日趋激烈。Galaxy Z TriFold的推出标志着三星希望巩固其在这一领域的地位，尽管分析师称，高昂的价格和生产方面的挑战意味着可折叠设备目前可能仍是一个小众类别。Galaxy Z TriFold的售价约为359万韩元(2440.17美元)， 可展开成253.1毫米(10英寸) 显示屏，使用三块面板。它比三星最新的可折叠 Galaxy Z Fold 7 大近 25%。这款在韩国生产的新机型将于 12 月 12 日在国内上市，并将于今年内在中国、新加坡、阿联酋等推出。预计最早将于明年第一季度在美国上市。该设备配备了三星旗舰机型中最大的电池，并支持超快速充电，30 分钟内可将手机电量充至 50%。分析师表示，考虑到多向折叠形式的早期阶段和扩大生产规模的挑战，三星的首款多向折叠设备更有可能是新技术的展示，而不是推动销量的旗舰产品。NH Investment & Securities 的高级分析师 Ryu Young-ho 说："三折手机是第一代产品，也是首次将三折设计商业化，因此很难看到三星在现阶段推动大批量生产。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftp2904099.d.html</link>
+            <guid>4531153</guid>
+            <pubDate>Tue, 02 Dec 2025 01:05:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美元指数跌至99.352的两周低点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-01/detail-infzhaun3262668.d.html</link>
-            <guid>4529025</guid>
-            <pubDate>Mon, 01 Dec 2025 01:10:02 GMT</pubDate>
+            <title><![CDATA[三星推出GALAXY Z TRIFOLD，为其首款三折叠手机。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftt0629800.d.html</link>
+            <guid>4531152</guid>
+            <pubDate>Tue, 02 Dec 2025 01:03:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【迈为股份：公司高选择比刻蚀设备及混合键合设备等可用于DRAM（高带宽存储器HBM）工艺】迈为股份在互动平台表示，公司高选择比刻蚀设备及混合键合设备等可用于DRAM（高带宽存储器HBM）工艺。公司刻蚀和薄膜沉积设备已广泛应用于存储芯片、逻辑芯片制造领域。]]></title>
-            <guid>4529022</guid>
-            <pubDate>Mon, 01 Dec 2025 01:09:14 GMT</pubDate>
+            <title><![CDATA[三星Galaxy Z TriFold发布，预计将于2026年登陆美国市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftt0629516.d.html</link>
+            <guid>4531151</guid>
+            <pubDate>Tue, 02 Dec 2025 01:03:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【山子高科在浙江成立机器人科技公司，含多项AI业务】企查查APP显示，近日，浙江山子机器人科技有限公司成立，注册资本1000万元，经营范围包含：智能机器人的研发；人工智能基础软件开发；人工智能应用软件开发；人工智能理论与算法软件开发等。企查查股权穿透显示，该公司由山子高科间接全资持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-01/detail-infzhauh5181084.d.html</link>
-            <guid>4529008</guid>
-            <pubDate>Mon, 01 Dec 2025 01:06:25 GMT</pubDate>
+            <title><![CDATA[台湾证交所加权股价指数开高0.8%报27,550.35。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftt0626091.d.html</link>
+            <guid>4531122</guid>
+            <pubDate>Tue, 02 Dec 2025 01:00:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄军称已控制红军城 时机选择耐人寻味】俄罗斯方面12月1日晚宣布，俄军已经控制顿涅茨克地区重镇红军城（乌克兰称波克罗夫斯克）。多家外媒报道认为，俄罗斯发布上述消息的时机选择耐人寻味。12月2日，俄总统普京即将会见美国中东问题特使威特科夫，讨论美方提出的俄乌“和平计划”。就俄军已控制红军城的消息，乌克兰方面尚未正式回应。乌克兰武装部队12月1日早些时候说，尽管当地及周围地区“情况艰难”，乌军仍“继续抵御”俄军攻势。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftt0626014.d.html</link>
+            <guid>4531121</guid>
+            <pubDate>Tue, 02 Dec 2025 01:00:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京越野：11月销量突破22400台】12月2日，北京越野宣布11月销量突破22400台，环比增长27%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftp2901475.d.html</link>
+            <guid>4531111</guid>
+            <pubDate>Tue, 02 Dec 2025 00:59:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【12月2日新股提示：精创电气上市 百奥赛图中签号出炉】12月2日，据交易所公告，精创电气今日上市。百奥赛图今日公布网上中签结果。百奥赛图今日缴款。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftt0625382.d.html</link>
+            <guid>4531100</guid>
+            <pubDate>Tue, 02 Dec 2025 00:58:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日媒：日本经团联、议员团接连请求访华】据日本共同社12月2日报道，消息人士透露，日本跨党派组织“日中友好议员联盟”已向中方传达希望在今年年内派议员团访华的请求。此外，据报道，日本经济团体联合会会长筒井义信日前也向中方传达了希望派团访问中国的请求。报道称，这两个团体请求访华的背景是，日本首相高市早苗的涉台错误言论导致中日关系急速恶化。(环球网)]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftp2900867.d.html</link>
+            <guid>4531093</guid>
+            <pubDate>Tue, 02 Dec 2025 00:56:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华丰股份入股极篇人工智能科技公司】企查查APP显示，近日，上海极篇人工智能科技有限公司发生工商变更，新增华丰股份为股东，同时注册资本增至6250万元。企查查信息显示，该公司成立于2023年，法定代表人为毛文杰，经营范围包含：人工智能硬件销售；人工智能理论与算法软件开发；人工智能基础资源与技术平台等。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftn2428099.d.html</link>
+            <guid>4531091</guid>
+            <pubDate>Tue, 02 Dec 2025 00:56:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【住房城乡建设部部长倪虹会见伊朗道路与城市发展部部长萨德格】近日，住房城乡建设部部长倪虹会见伊朗道路与城市发展部部长萨德格。双方围绕住房保障、装配式建筑、城市基础设施建设等方面合作进行深入交流。 倪虹表示，中国正在编制第十五个五年规划，大力实施城市更新，从好标准、好设计、好材料、好建造、好运维五个方面，积极推进建设安全、舒适、绿色、智慧的“好房子”。中方愿与伊方分享相关经验，共同研究制定城市发展、住房等领域的合作方案，尽早开展务实合作，造福两国人民。 萨德格提出，伊朗正在落实第七个国家发展规划，保障住房建设和城市基础设施改善是重要目标。伊方愿借鉴中方在“好房子”、实施城市更新、打造韧性城市等方面的宝贵经验，开展技术攻关与标准互认合作。 中伊双方还就建立沟通协调机制、开展装配式建筑、新城新区建设、专业技术人员能力建设等领域合作达成共识。 住房城乡建设部有关司局负责人参加会见。（住建部）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftn2426961.d.html</link>
+            <guid>4531072</guid>
+            <pubDate>Tue, 02 Dec 2025 00:52:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国海警依法驱离日非法进入我钓鱼岛领海船只。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftr1388444.d.html</link>
+            <guid>4531069</guid>
+            <pubDate>Tue, 02 Dec 2025 00:51:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【藏格矿业：在青海察尔汗盐湖拥有年产1万吨碳酸锂的产能，西藏麻米错盐湖项目预计建设周期为9至12个月】藏格矿业在投资者互动平台回答称，公司在青海察尔汗盐湖拥有年产1万吨碳酸锂的产能。此外，公司参股的西藏麻米错盐湖项目已于2025年第三季度正式启动一期年产5万吨碳酸锂工程的全面建设，目前项目正按计划有序推进，预计建设周期为9至12个月。]]></title>
+            <guid>4531065</guid>
+            <pubDate>Tue, 02 Dec 2025 00:50:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【OpenAI准备在ChatGPT中植入广告】近日，据媒体报道，ChatGPT应用的最新安卓测试版中存在约十几行被标记为“特色广告”的代码，其中包含引用商业广告的字符串，例如“搜索广告”“搜索广告轮播”和“集市内容”。上个月有报道称，OpenAI正在考虑根据ChatGPT对用户交互的记忆，投放个性化广告。据报道，OpenAI正在从Google和Meta等竞争对手那里挖走顶尖的广告人才，同时还在LinkedIn上发布与广告相关的招聘信息。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftp2899088.d.html</link>
+            <guid>4531053</guid>
+            <pubDate>Tue, 02 Dec 2025 00:49:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【11月重卡销量同比涨近5成 全年或将突破110万辆】根据第一商用车网初步掌握的数据，2025年11月份，我国重卡市场共计销售10万辆左右（批发口径，包含出口和新能源），环比今年10月下降约6%，比上年同期的6.85万辆大幅增长约46%。截止到目前，重卡市场已经实现了八连涨，从4月份一直涨到11月份，平均增速高达42%。累计来看，今年1-11月，我国重卡市场累计销量超过了100万辆——达到103万辆，同比增长约26%。无疑，110万辆已经近在咫尺。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftp2898943.d.html</link>
+            <guid>4531047</guid>
+            <pubDate>Tue, 02 Dec 2025 00:48:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【两市融资余额增加101.66亿元】截至12月1日，上交所融资余额报12486.17亿元，较前一交易日增加52.82亿元；深交所融资余额报12105.22亿元，较前一交易日增加48.84亿元；两市合计24591.39亿元，较前一交易日增加101.66亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftt0621489.d.html</link>
+            <guid>4531040</guid>
+            <pubDate>Tue, 02 Dec 2025 00:47:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马来西亚总理：英特尔宣布追加8.6亿林吉特投资用于封装测试业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftp2897907.d.html</link>
+            <guid>4531021</guid>
+            <pubDate>Tue, 02 Dec 2025 00:43:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【健友股份子公司健进制药自主研发注射用达巴万星获美国FDA批准上市】健友股份子公司健进制药自主研发注射用达巴万星获美国FDA批准上市，主要用于治疗成人与儿科患者的急性细菌性皮肤及皮肤结构感染。此次获批不仅进一步丰富了健友股份在美国市场的产品管线，也使健进制药成为国内首家在该品种上获得国际批准的企业。达巴万星为半合成脂糖肽类抗菌药，由五种密切相关的活性同系物组成，其质量研究工作涉及多项关键质量属性的方法学研究与精准控制。公司子公司健进制药团队依托全流程质量合规控制体系，通过连续技术攻关，充分保障了产品的纯度与安全性。同时，该品种相关研制技术已获得国内专利授权，国际专利也在积极布局中。（健友股份）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftr1386304.d.html</link>
+            <guid>4531014</guid>
+            <pubDate>Tue, 02 Dec 2025 00:42:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【可灵AI正式发布“可灵O1”】12月1日，可灵AI正式发布“可灵O1”，定位为首个大一统的多模态创作工具。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftn2421950.d.html</link>
+            <guid>4531003</guid>
+            <pubDate>Tue, 02 Dec 2025 00:40:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天风证券：低估值及高政策敏感度特征仍存 看好地产板块结构性机会】天风证券发布研报称，地产房企销售虽未摆脱下行趋势，但较2024年实现降速收窄，头部房企得益于持续新货补充、集中度优势或继续放大。展望2026年，板块或仍受到基本面弱、长期增长叙事缺乏等掣肘，但其低估值、低持仓的避险属性及高政策敏感度博弈的特征仍存。伴随基本面悲观预期的继续修正，板块或具备较高的安全边际和修复空间，对板块结构性交易机会持乐观态度。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftt0618134.d.html</link>
+            <guid>4530998</guid>
+            <pubDate>Tue, 02 Dec 2025 00:38:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长安汽车11月销量28.3万辆 新能源销量再创新高】长安汽车11月新能源销量12.5万辆，同比增长23%，新能源销量再次刷新记录，连续3个月破100000辆；海外销量5.5万辆，同比增长47%；总销量28.3万辆，同比增长2.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftr1385309.d.html</link>
+            <guid>4530997</guid>
+            <pubDate>Tue, 02 Dec 2025 00:38:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[习近平就老挝人民民主共和国成立50周年向老挝人民革命党中央委员会总书记、国家主席通伦致贺电。 （新华社）]]></title>
+            <guid>4530980</guid>
+            <pubDate>Tue, 02 Dec 2025 00:35:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【涉嫌杀害联合健康首席执行官的凶手谈到了 3D打印枪支】根据法庭听证会上的证词， 路易吉-曼乔内（Luigi Mangione）在因涉嫌 枪杀一名联合健康医疗高管 而被捕后告诉一名狱警，他的背包里有一把3D打印枪 ， 听证会的目的是确定检察官能否在他的谋杀案审判中使用这些证词和其他证据 。曼乔内现年27岁，于2024年12月被捕，被控在曼哈顿中城的人行道上枪杀联合健康保险公司首席执行官布莱恩-汤普森（Brian Thompson）。曼吉尼成为了一些批评 美国医疗 成本高昂的人 心目中的民间英雄。政府官员谴责了这起暗杀事件。曼吉奥尼对执法人员的陈述和他背包里的物品可能是他受审时的关键证据，但他的律师认为这些证据不应被采纳，因为他被非法搜查，而且没有被告知他的合法权利。检察官否认曼乔内被非法搜查和审问的说法。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftn2419685.d.html</link>
+            <guid>4530979</guid>
+            <pubDate>Tue, 02 Dec 2025 00:34:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国安部：警惕境外组织利用恶意SDK嵌入应用软件，收集敏感信息】  SDK（软件开发工具包）是一套为特定软件框架、硬件平台或操作系统提供的开发工具集合，它就像一个“百宝箱”，贴心地为软件开发者提供构建应用程序所需要的半成品、工具和说明，极大地提升了工作效率。然而，便利的SDK，也可能潜藏失泄密风险。境外组织可能通过将恶意SDK嵌入到各类应用软件中，非法收集敏感信息，并远程传输至境外服务器。这种行为不仅严重侵犯公民个人隐私，更可能导致用户画像、行业数据等关键信息被境外掌控，进而对我国家安全构成现实威胁。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftn2419181.d.html</link>
+            <guid>4530971</guid>
+            <pubDate>Tue, 02 Dec 2025 00:33:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本财务大臣：由于日本依赖进口，日元汇率波动会影响物价。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftp2894338.d.html</link>
+            <guid>4530968</guid>
+            <pubDate>Tue, 02 Dec 2025 00:32:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【前三季度天津社会融资规模累计增量达4368亿元】据天津日报，日前，记者从中国人民银行天津市分行获悉，2025年前三季度，天津市社会融资规模累计增量达4368亿元，创下同期有统计以来的历史新高。截至10月末，全市各项贷款余额已达4.8万亿元，展现出金融对实体经济的有力支撑。]]></title>
+            <guid>4530966</guid>
+            <pubDate>Tue, 02 Dec 2025 00:32:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本财务大臣片山皋月平衡的预算措施对于维持货币和市场的信心至关重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftr1382937.d.html</link>
+            <guid>4530965</guid>
+            <pubDate>Tue, 02 Dec 2025 00:32:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【湖南11项举措提振扩大消费】据湖南日报，近日，中国人民银行湖南省分行联合省委金融办、省发改委、省财政厅、省商务厅等部门印发《关于金融支持湖南省提振和扩大消费的通知》（以下简称《通知》），提出11条具体举措，持续加大金融资源投入，助力全省消费市场扩容提质。《通知》要求加大对消费品以旧换新、新型消费、文体消费、生活服务、消费基础设施、商贸流通等关键消费领域的金融支持力度，创新丰富金融产品供给，推动金融机构消费领域金融服务能力持续提升，金融产品和服务体系更加多元化，金融供给力度持续加大，形成多元、便捷、高效的消费金融服务体系。《通知》强调要拓宽多元化资金来源渠道，支持符合条件的发债主体发行企业债券、专项金融债券、资产支持证券等。同时，鼓励符合条件的消费企业在境内外资本市场上市融资；积极发挥各类投资基金作用，加大消费型企业股权投资；发挥金芙蓉投资基金引导作用，带动社会资本加大消费领域投入力度；积极发挥汽车金融公司、消费金融公司、小额贷款公司专业优势，开发符合各类消费场景需求的金融产品。《通知》同时明确要持续优化支付服务，做好多元支付方式服务保障。加强金融消费权益保护，倡导健康消费理念。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftp2893627.d.html</link>
+            <guid>4530957</guid>
+            <pubDate>Tue, 02 Dec 2025 00:31:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚10月私营部门住房批准数经季节调整后环比下降2.1%；澳大利亚10月建筑许可环比下降6.4%，经季节调整（调查预期为下降4.5%）。]]></title>
+            <guid>4530948</guid>
+            <pubDate>Tue, 02 Dec 2025 00:30:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚三季度经常帐 -166亿澳元，预期 -130亿澳元，前值 -137亿澳元。]]></title>
+            <guid>4530945</guid>
+            <pubDate>Tue, 02 Dec 2025 00:30:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本财务大臣片山皋月：  对植田和男的最新表态不作评论。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftp2892960.d.html</link>
+            <guid>4530933</guid>
+            <pubDate>Tue, 02 Dec 2025 00:28:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中东部多地气温将创下半年来新低 南方干燥暂时缓和】未来三天（12月2日至4日），我国中东部持续降温，多地气温将创下半年来新低，4日早晨最低气温0℃线会南压至浙江中南部、安徽南部、湖北北部一带。降温过后，气温又会快速回升，冷暖转换迅速，公众请适时调整着装，谨防感冒。同时，北方大部雨雪稀少，天气干燥，南方今明天降雨发展增多，干燥有所缓和。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftp2892391.d.html</link>
+            <guid>4530922</guid>
+            <pubDate>Tue, 02 Dec 2025 00:26:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银河证券：新能源有望打开第二成长空间】银河证券指出，2025年末各省机制电价竞价结果陆续出台，整体来看机制电价低于燃煤基准价，光伏电价低于风电。全面入市将对电量电价造成压力，其中光伏由于出力集中影响大于风电。目前新能源消纳压力大，通过与绿色氢氨醇、算力等集成融合发展有望促进新能源高效利用，打开第二成长空间。建议关注运营能力优异的龙头企业以及具备区位优势和成本优势的企业。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftp2891284.d.html</link>
+            <guid>4530905</guid>
+            <pubDate>Tue, 02 Dec 2025 00:23:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本财务大臣片山皋月：将就在补贴项目和投资基金审查事宜与执政党进行协调。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-02/detail-infzkftn2412044.d.html</link>
+            <guid>4530882</guid>
+            <pubDate>Tue, 02 Dec 2025 00:19:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全国首支AI领域孵化培育型创新基金发布】2025 XAI科技节产业投资主题论坛近日在北京中关村学院与中关村人工智能研究院（以下简称“中关村两院”）举行，作为全国首支AI领域孵化培育型创新基金，中关村两院AI科创基金正式启动，基金初始规模一亿元。据悉，中关村两院AI科创基金由中关村两院与上海大钧资产管理中心共同发起。基金秉持“投早、投小、投好、投AI”策略，通过“用AI投资AI、用AI孵化AI”的创新模式增效提速，并依托AI北纬社区孵化平台，构建了“前店后厂”机制。在提供基金的同时，还将为项目提供“科学家、研究中心、算力、数据、产业资源”等全周期投后服务。（北京日报）]]></title>
+            <guid>4530881</guid>
+            <pubDate>Tue, 02 Dec 2025 00:19:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
