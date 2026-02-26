@@ -4,254 +4,186 @@
         <title>新浪新闻</title>
         <link>https://tk14.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 25 Feb 2026 02:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 01:56:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tk14.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【河南省委巡视组原正厅级巡视专员高建慧被开除党籍】经查，高建慧丧失政治信仰，背离初心使命，违反中央八项规定精神，接受可能影响公正执行公务的旅游活动安排，违规收受礼金；违背组织原则，不按规定报告个人有关事项，在组织谈话时不如实说明问题，利用职权为他人谋取人事利益并收受钱款；廉洁底线失守，收受可能影响公正执行公务的礼金，借用管理和服务对象钱款，利用职权在购买团购房方面谋取利益；毫无纪法底线，大搞权钱交易，在任时及退休后为他人在职务调整、项目承揽等方面提供帮助，非法收受巨额财物。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupr1361075.d.html</link>
-            <guid>4696554</guid>
-            <pubDate>Wed, 25 Feb 2026 02:01:14 GMT</pubDate>
+            <title><![CDATA[OpenAI 讨论扩大云服务协议以纳入亚马逊 Tranium 芯片。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccuu1586161.d.html</link>
+            <guid>4699088</guid>
+            <pubDate>Thu, 26 Feb 2026 01:55:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【盈趣科技等成立新公司 含AI及无人飞行器业务】企查查APP显示，近日，盈趣智算融合（北京）科技有限公司成立，注册资本1000万元，经营范围包含人工智能应用软件开发；人工智能理论与算法软件开发；智能无人飞行器制造等。企查查股权穿透显示，该公司由盈趣科技(002925)等共同持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupr1360667.d.html</link>
-            <guid>4696548</guid>
-            <pubDate>Wed, 25 Feb 2026 02:00:36 GMT</pubDate>
+            <title><![CDATA[穆迪评级：越南银行业将从改革中受益。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccuq7355190.d.html</link>
+            <guid>4699087</guid>
+            <pubDate>Thu, 26 Feb 2026 01:55:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【长江商学院：2月中国企业经营状况指数小幅回落至52.4】长江商学院周三公布的2月中国企业经营状况指数（BCI ）录得52.4，较去年1月的53.7小幅回落。该指数由4个分指数以算术平均的方式构成。本月四个分指数出现了三降一升的局面。企业销售前瞻指数由上月的64.7升至了本月的69.1。企业利润前瞻指数本月为51.2，上月为52.7。企业融资环境指数本月为48.7，上月为50.3。企业库存前瞻指数本月为40.7，上月为47.3。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupw2427655.d.html</link>
-            <guid>4696531</guid>
-            <pubDate>Wed, 25 Feb 2026 01:57:44 GMT</pubDate>
+            <title><![CDATA[穆迪评级：越南的债务负担可能仍将低于同侪。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccus4483791.d.html</link>
+            <guid>4699086</guid>
+            <pubDate>Thu, 26 Feb 2026 01:54:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【港股存储概念股走低 澜起科技跌超5%】截至发稿，澜起科技(06809.HK)跌5.22%、兆易创新(03986.HK)跌5.14%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupw2426921.d.html</link>
-            <guid>4696524</guid>
-            <pubDate>Wed, 25 Feb 2026 01:56:45 GMT</pubDate>
+            <title><![CDATA[穆迪：越南加大对大型基础设施项目的投资将导致财政赤字和公共债务上升]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccup0577073.d.html</link>
+            <guid>4699085</guid>
+            <pubDate>Thu, 26 Feb 2026 01:54:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【墨西哥对涉华冷轧板卷启动反倾销调查】近日，墨西哥经济部发布公告称，应墨西哥生产商Ternium México, S.A. de C.V.申请，对原产于中国、美国和马来西亚的冷轧板卷启动反倾销调查，同时对美国涉案产品启动反补贴调查。本案调查期为2024年4月1日至2025年3月31日，损害分析期为2022年4月1日至2025年3月31日。涉案产品为厚度小于4.75毫米、宽度不限，无涂层或镀层，合金或非合金的未退火及退火冷轧板卷，涉及TIGIE税号7209.15.04、7209.16.01、7209.17.01、7209.18.01、7209.25.01、7209.26.01、7209.27.01、7209.28.01、7209.90.99等项下的产品。公告自发布次日起生效。]]></title>
-            <guid>4696519</guid>
-            <pubDate>Wed, 25 Feb 2026 01:55:53 GMT</pubDate>
+            <title><![CDATA[亚马逊对OpenAI 500亿美元的投资可能取决于首次公开募股（IPO）和通用人工智能（AGI）情况。 （The Information）]]></title>
+            <guid>4699084</guid>
+            <pubDate>Thu, 26 Feb 2026 01:53:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【巴西东南部地区暴雨造成死亡人数升至30人】巴西东南部米纳斯吉拉斯州军事消防部门24日发布最新通报确认，暴雨造成该地区死亡人数升至30人，另有39人失踪。 暴雨从23日下午开始袭击该地区，造成山体滑坡、河水泛滥、树木倾倒、建筑物倒塌，米纳斯吉拉斯州茹伊斯－迪福拉市和乌巴市受到严重影响。24日凌晨，茹伊斯－迪福拉市政府宣布进入公共灾难状态。州军事消防部门最新通报显示，灾害已造成该地区30人死亡、39人失踪，上千人无家可归，救援行动仍在持续。 巴西总统卢拉在社交媒体上发文向受灾家庭致以最深切慰问。巴西联邦政府已派遣卫生系统部队、民防技术人员和军队前往该区支援，米纳斯吉拉斯州州长罗梅乌·泽马宣布该州哀悼三天。(新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupw2425927.d.html</link>
-            <guid>4696518</guid>
-            <pubDate>Wed, 25 Feb 2026 01:55:42 GMT</pubDate>
+            <title><![CDATA[【四维图新中标南方电网项目】近日，四维图新成功中标南方电网相关项目。作为双方长期合作的重要延续，本次合作将聚焦南方电网数字电网建设核心需求，提供全方位地理信息数据服务，助力其筑牢数字化转型空间基础设施，协同推进能源数字化转型。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccus4481147.d.html</link>
+            <guid>4699082</guid>
+            <pubDate>Thu, 26 Feb 2026 01:51:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【无人货运诞生首家百亿独角兽】自动驾驶科技企业九识智能近日完成新一轮超3亿美元融资，成为全球RoboVan领域首家突破百亿人民币估值的独角兽。本轮投资方涵盖大型产业方、多个一线城市政府基金，以及市场化美元和人民币投资机构。此前，九识与菜鸟无人车业务完成战略合并，整合后的九识智能同时运营九识与菜鸟无人车双品牌，RoboVan车队总规模超2万台，覆盖全球20个国家超300座城市，居全球首位。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupr1357055.d.html</link>
-            <guid>4696514</guid>
-            <pubDate>Wed, 25 Feb 2026 01:55:12 GMT</pubDate>
+            <title><![CDATA[【中国通号等在广东成立湾区低空研究院公司】企查查APP显示，近日，湾区低空研究院（广东）有限公司成立，法定代表人为孙晓光，注册资本1亿元，经营范围含人工智能行业应用系统集成服务、人工智能应用软件开发、飞行训练、旅游业务等。企查查股权穿透显示，该公司由中国通号全资子公司通号低空智能科技有限公司、珠海市北理工大湾区创新研究院等共同持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccuq7349582.d.html</link>
+            <guid>4699080</guid>
+            <pubDate>Thu, 26 Feb 2026 01:49:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【吉林省具身智能机器人训练场公司登记成立 注册资本1亿】天眼查App显示，近日，吉林省具身智能机器人训练场有限公司成立，法定代表人为冯思铭，注册资本1亿人民币，经营范围含人工智能公共数据平台、智能机器人的研发、智能机器人销售、工业机器人销售、特殊作业机器人制造、工程和技术研究和试验发展、自然科学研究和试验发展、计算机系统服务、人工智能应用软件开发等。股权全景穿透图显示，该公司由吉林省吉翼具身智能机器人有限公司全资持股，后者由长春捷翼汽车科技股份有限公司、吉林省工业技术研究院集团有限公司、长春市产业投资集团有限公司等共同持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupr1356659.d.html</link>
-            <guid>4696512</guid>
-            <pubDate>Wed, 25 Feb 2026 01:54:42 GMT</pubDate>
+            <title><![CDATA[科创50指数跌幅扩大至1%，现报1458.51点。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccuq7349096.d.html</link>
+            <guid>4699078</guid>
+            <pubDate>Thu, 26 Feb 2026 01:49:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【消息称三星电子1c DRAM良率超80% HBM4良率接近60%】业内人士透露，三星电子内部已实现1c DRAM 80%的良率，这是在高温环境下（热测试）取得的最高良率，2025年第四季度其良率约为60-70%，如今已显著提升，并有望在5月份左右达到90%。业内人士进一步表示，三星基于1c DRAM的HBM4的良率也有所提高，已接近60%，去年第四季度约为50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupu5323050.d.html</link>
-            <guid>4696505</guid>
-            <pubDate>Wed, 25 Feb 2026 01:54:22 GMT</pubDate>
+            <title><![CDATA[高田创：美国关税不太可能成为日本经济的重大下行因素。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccuu1581125.d.html</link>
+            <guid>4699077</guid>
+            <pubDate>Thu, 26 Feb 2026 01:48:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美锦能源等在内蒙古成立储能科技新公司】企查查APP显示，近日，内蒙古汇锦储能科技有限公司成立，注册资本2000万元，经营范围包含储能技术服务；太阳能发电技术服务；发电技术服务；风力发电技术服务等。企查查股权穿透显示，该公司由美锦能源(000723)全资子公司内蒙古美锦新能源有限公司等共同持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupw2424249.d.html</link>
-            <guid>4696498</guid>
-            <pubDate>Wed, 25 Feb 2026 01:53:24 GMT</pubDate>
+            <title><![CDATA[【罗马尼亚出动战机应对无人机闯入领空】罗马尼亚国防部25日发布新闻公报称，因监测到一架无人机靠近领空，已派遣两架F-16战机升空应对。据罗国防部通报，当天下午，国防部雷达系统在国家领空邻近区域探测到一架无人机，防空部队随即启动预防性警戒措施。当地时间17时50分许，驻扎在费泰什蒂空军基地的两架F-16战斗机紧急升空应对。通报称，这架无人机曾短暂进入罗马尼亚领空，随后向北飞行离开，未对人员生命安全构成直接威胁。25日18时45分许，警戒措施解除，现场未发现飞行器残骸。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccuq7347795.d.html</link>
+            <guid>4699075</guid>
+            <pubDate>Thu, 26 Feb 2026 01:47:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【土耳其空军一架F-16战机坠毁】土耳其国防部25日在社交媒体上发表声明说，土耳其空军一架F-16战机当天坠毁，一名飞行员身亡。声明说，这架战机从土耳其西北部巴勒克埃西尔省一处基地起飞，当地时间25日0时56分后失去联系。该战机现已确认坠毁，其坠毁位置已确定，飞行员已身亡。事故原因正在调查中。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupr1355715.d.html</link>
-            <guid>4696492</guid>
-            <pubDate>Wed, 25 Feb 2026 01:53:13 GMT</pubDate>
+            <title><![CDATA[【金正恩：不断加强自卫遏制力和战争执行力】据朝中社26日报道，朝鲜劳动党第九次代表大会25日在平壤闭幕。朝鲜劳动党总书记金正恩作工作总结报告时说，不断扩大和加强自卫遏制力和战争执行力，是朝鲜坚定不移的国防建设政策，也是最正当的国防战略。金正恩说，在亚太地区，以美国为首的侵略集团军事活动严重威胁朝鲜半岛和地区安全。进一步扩大和加强国家核力量，彻底行使核国家地位，是朝鲜坚定不移的意志。朝鲜的核国家地位在遏制潜在威胁、维护地区稳定方面发挥着重要作用，国家核力量是国家安全、利益和发展权的基本保证和强有力的安全机制。他说，为在新五年计划期间提升朝鲜武装力量的军事技术能力，朝鲜提出了新的秘密武器和特殊战略资产在朝军服役的重大课题，研究制定新的国防发展计划，并批准了前瞻性计划。（新华社）]]></title>
+            <guid>4699073</guid>
+            <pubDate>Thu, 26 Feb 2026 01:46:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【摩比发展近两日累计涨幅超40% 旗下业务备受市场关注】截至发稿，摩比发展(00947.HK)涨22.64%，值得注意的是，该公司近两日累计涨幅超40%。消息方面，公司业务涵盖天线系统及新能源相关项目，其“通信+新能源”的第二增长曲线战略受到市场关注。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupr1353286.d.html</link>
-            <guid>4696478</guid>
-            <pubDate>Wed, 25 Feb 2026 01:49:37 GMT</pubDate>
+            <title><![CDATA[【中国石油在大连成立燃料油新公司】企查查APP显示，近日，中石油（大连）燃料油有限责任公司成立，法定代表人为江发强，注册资本4900万元，经营范围含生物基材料销售、生物质成型燃料销售、贸易经纪等。企查查股权穿透显示，该公司由中国石油旗下中石油燃料油有限责任公司全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccup0568282.d.html</link>
+            <guid>4699072</guid>
+            <pubDate>Thu, 26 Feb 2026 01:45:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【存储芯片板块盘初下挫，普冉股份跌超8%】存储芯片板块盘初下挫，普冉股份跌超8%，兆易创新、江波龙、佰维存储跌超4%，香农芯创、灿芯股份纷纷下挫。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupw2420391.d.html</link>
-            <guid>4696477</guid>
-            <pubDate>Wed, 25 Feb 2026 01:48:49 GMT</pubDate>
+            <title><![CDATA[【港股半导体板块盘初上扬，天数智芯涨超13%】港股半导体板块盘初上扬，天数智芯涨超13%，兆易创新、澜起科技、纳芯微、英诺赛科跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccuu1577819.d.html</link>
+            <guid>4699070</guid>
+            <pubDate>Thu, 26 Feb 2026 01:45:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【众合科技等成立科技新公司 含AI相关业务】企查查APP显示，近日，众合天越（杭州）科技有限公司成立，经营范围包含计算机系统服务；人工智能应用软件开发；人工智能理论与算法软件开发等。企查查股权穿透显示，该公司由众合科技(000925)等共同持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyups8127413.d.html</link>
-            <guid>4696474</guid>
-            <pubDate>Wed, 25 Feb 2026 01:44:40 GMT</pubDate>
+            <title><![CDATA[【Minimax推出MaxClaw】2月26日，Minimax发文介绍MiniMax Agent Expert的功能升级，同步介绍MaxClaw。据介绍，在Expert 2.0中进一步优化了专家Agent的创建体验。用户不需要考虑Skill、SubAgent、MCP的配置，以及提示词的结构编排，只需用自然语言描述任务目标或能力需求，Agent会根据目标完成SOP梳理、工具编排与能力配置。与Expert 2.0升级同步，Minimax上线MaxClaw，基于OpenClaw构建的云端AI助手，直接集成在MiniMax Agent网页端，为用户在云端部署并运行OpenClaw，无需自备服务器或API Key。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccup0567289.d.html</link>
+            <guid>4699069</guid>
+            <pubDate>Thu, 26 Feb 2026 01:44:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【油服工程板块反复活跃，通源石油涨超10%】油服工程板块反复活跃，通源石油涨超10%，准油股份、石化油服、海油发展、惠博普、中油工程等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyups8127082.d.html</link>
-            <guid>4696473</guid>
-            <pubDate>Wed, 25 Feb 2026 01:44:17 GMT</pubDate>
+            <title><![CDATA[高田创：必须关注外汇对价格的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccuq7344262.d.html</link>
+            <guid>4699068</guid>
+            <pubDate>Thu, 26 Feb 2026 01:44:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普抵达国会。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupw2416494.d.html</link>
-            <guid>4696472</guid>
-            <pubDate>Wed, 25 Feb 2026 01:44:11 GMT</pubDate>
+            <title><![CDATA[【赛力斯新专利可实时准确识别晕车状态】企查查APP显示，近日，赛力斯汽车有限公司申请的“一种晕车识别方法、装置、存储介质及设备”专利公布。企查查专利摘要显示，本申请方法中，利用多源信号样本训练用于预测驾乘人员的晕车状态的教师模型，通过知识蒸馏技术，基于训练好的教师模型提供的软标签和IMU信号样本训练学生模型，将训练好的学生模型确定为晕车识别模型，将该晕车识别模型部署于车载芯片后，通过晕车识别模型对实时采集的车辆IMU信号进行处理，即可得到车辆的驾乘人员的晕车状态。如此，将基于多源信号的教师模型压缩为仅需IMU信号输入的学生模型，从而解决实际应用中信号采集受限和车端算力不足的问题，实现晕车状态的实时、准确识别。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccup0566671.d.html</link>
+            <guid>4699066</guid>
+            <pubDate>Thu, 26 Feb 2026 01:44:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日经225指数涨幅扩大至1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyups8126062.d.html</link>
-            <guid>4696471</guid>
-            <pubDate>Wed, 25 Feb 2026 01:42:44 GMT</pubDate>
+            <title><![CDATA[【涉嫌恐怖主义渗透 古巴截获在美注册快艇 击毙4名武装人员】古巴内务部25日通报，当天在古巴领海截获一艘涉嫌从事恐怖主义渗透活动的非法快艇。该船注册于美国佛罗里达州，注册号为FL7726SH，船上共有10名武装人员，其中4名被击毙。据初步审讯，被捕人员均为居住在美国的古巴公民，其中多数有犯罪记录和暴力史，并处于古巴当局的通缉名单之上。被捕人员供述称，此行意图实施恐怖主义渗透行动。在抓捕行动中，古巴安全部门缴获突击步枪、手枪、自制燃烧装置、防弹背心、瞄准镜及迷彩服等军用装备。此外，另有一名负责接应此次渗透行动的嫌疑人在境内被捕。目前，相关调查仍在进行中。当天早些时候，古巴内务部通报称，古巴边防警卫队在古巴比亚克拉拉省附近领海内发现一艘在美国佛罗里达州注册的快艇违规闯入，双方发生交火，外方4名袭击者被打死、6人受伤。美国国务卿鲁比奥随后表示，古巴当局已告知其古巴沿海发生的一起事件，正在等待确认涉事人员是否为美国公民。鲁比奥还表示，他们不知道是谁控制了这艘船，没有美国政府人员参与其中。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccup0565434.d.html</link>
+            <guid>4699058</guid>
+            <pubDate>Thu, 26 Feb 2026 01:42:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【阿根廷对华铝箔作出反倾销日落合并情势变迁复审终裁】2026年2月23日，阿根廷经济部发布2026年第172号公告，对原产于中国的铝箔作出反倾销日落合并情势变迁复审否定性终裁，终止对涉案产品的反倾销措施。2019年3月8日，阿根廷对原产于中国的铝箔启动反倾销调查。2020年3月9日，阿根廷对该案作出肯定性终裁，正式对涉案产品征收离岸价28%的反倾销税，有效期为五年。2025年2月21日，阿根廷对该案启动第一次日落复审调查，同时启动情势变迁复审调查。（中国贸易救济信息网）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyups8123711.d.html</link>
-            <guid>4696465</guid>
-            <pubDate>Wed, 25 Feb 2026 01:39:25 GMT</pubDate>
+            <title><![CDATA[【西安市2026年高质量项目建设推进大会召开】据西安日报消息，2月25日，西安市召开2026年高质量项目建设推进大会。省委常委、西安市委书记蒿慧杰出席并讲话。蒿慧杰指出，要加速项目落地，围绕争取、招引、转化、技改、扩能五个途径，积极争取“两重”“两新”、中央预算内投资、新型政策性金融工具等资金支持，重点招引世界500强企业、行业领军企业、专精特新“小巨人”企业、制造业单项冠军企业和高水平创新团队，畅通科技产业资本循环，强化科技创新和场景牵引无缝衔接，加快科技成果转化，引导、鼓励企业加大技改投入，支持本地龙头企业增资扩产、带动链上企业投资，推动更多项目滚动落地。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccuq7341540.d.html</link>
+            <guid>4699057</guid>
+            <pubDate>Thu, 26 Feb 2026 01:41:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普在讲话中捍卫经济纪录，要求结束政府停摆。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupr1346344.d.html</link>
-            <guid>4696464</guid>
-            <pubDate>Wed, 25 Feb 2026 01:39:16 GMT</pubDate>
+            <title><![CDATA[高田创：难以确定中性利率的水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccuq7338243.d.html</link>
+            <guid>4699043</guid>
+            <pubDate>Thu, 26 Feb 2026 01:38:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[何小鹏：2026款小鹏X9纯电版，将于3月2日正式上市，]]></title>
-            <guid>4696463</guid>
-            <pubDate>Wed, 25 Feb 2026 01:38:55 GMT</pubDate>
+            <title><![CDATA[【全国铁路今天预计发送旅客1565万人次】从国铁集团获悉，今天（2月26日）全国铁路预计发送旅客1565万人次，计划加开旅客列车1080列。昨天（2月25日），全国铁路发送旅客1701.4万人次，连续6天保持在1500万人次以上，运输安全平稳有序。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccup0560026.d.html</link>
+            <guid>4699036</guid>
+            <pubDate>Thu, 26 Feb 2026 01:37:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ 特朗普将在国情咨文演讲中要求国会永久禁止大型华尔街投资公司购买单户住宅。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupr1345535.d.html</link>
-            <guid>4696462</guid>
-            <pubDate>Wed, 25 Feb 2026 01:38:21 GMT</pubDate>
+            <title><![CDATA[【中联重科约85亿元设备发往国内外市场】2月25日，中联重科全国各园区同频联动，举行2026年开门红活动暨发车仪式。起重机械、混凝土机械、农业机械、应急装备、新材料等合计超1.5万台（套）各类设备发往国内外市场，总金额约85亿元。（湖南日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccuq7332640.d.html</link>
+            <guid>4699022</guid>
+            <pubDate>Thu, 26 Feb 2026 01:33:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本首相高市早苗：以高度紧迫感密切关注外汇走势。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyups8120837.d.html</link>
-            <guid>4696456</guid>
-            <pubDate>Wed, 25 Feb 2026 01:36:23 GMT</pubDate>
+            <title><![CDATA[【长沙市重大项目集中签约开工】据湖南日报消息，25日，2026年长沙市“迎老乡、回故乡、建家乡”座谈暨重大项目签约仪式隆重举行。现场集中签约18个重大项目，总投资额超260亿元。签约项目涵盖智能制造、数字经济、人工智能、生物医药与大健康等重点领域。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccup0552222.d.html</link>
+            <guid>4699005</guid>
+            <pubDate>Thu, 26 Feb 2026 01:30:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【海螺水泥港股盘初涨超5%，报26.72港元】海螺水泥港股盘初涨超5%，报26.72港元。消息面上，公司拟增持金额不低于人民币7亿元（含）且不高于人民币14亿元（含）。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupw2407901.d.html</link>
-            <guid>4696445</guid>
-            <pubDate>Wed, 25 Feb 2026 01:34:37 GMT</pubDate>
+            <title><![CDATA[【陈茂波：楼市政策调整需小心，不想因微调引发大波动】据香港电台网站2月26日消息，香港特区政府财政司司长陈茂波表示，港府非常密切关注楼市发展，对土地供应、单位供应等数据掌握充分。他强调，政策目标是住宅楼市平稳及健康发展。他还指出，除了私人住宅外，公营房屋供应亦稳定地增加。陈茂波表示，楼市的发展对各方面影响很大，新一份财政预算案对楼市的着墨不多，主要因为楼市正处于平稳健康发展状态。（界面新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccuu1562293.d.html</link>
+            <guid>4699001</guid>
+            <pubDate>Thu, 26 Feb 2026 01:29:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[白宫发布特朗普国情咨文节选。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupr1341436.d.html</link>
-            <guid>4696444</guid>
-            <pubDate>Wed, 25 Feb 2026 01:34:28 GMT</pubDate>
+            <title><![CDATA[【用友中标三峡集团财务共享平台推广实施项目】2月26日，据用友消息，近日，用友网络科技股份有限公司成功中标中国长江三峡集团有限公司“财务共享平台推广实施项目”。据介绍，这是继本年度用友成功中标三峡集团资产管理系统建设项目之后，双方合作版图的进一步扩大。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccup0551103.d.html</link>
+            <guid>4699000</guid>
+            <pubDate>Thu, 26 Feb 2026 01:29:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国股市市值达到3.76万亿美元，超过法国股市。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupr1340199.d.html</link>
-            <guid>4696417</guid>
-            <pubDate>Wed, 25 Feb 2026 01:33:15 GMT</pubDate>
+            <title><![CDATA[【磷化工板块延续强势，澄星股份3连板】磷化工板块延续强势，澄星股份3连板，六国化工、和邦生物、川发龙蟒、湖北宜化、云天化跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccup0550156.d.html</link>
+            <guid>4698999</guid>
+            <pubDate>Thu, 26 Feb 2026 01:28:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普在演讲中将要求国会禁止投资公司买房。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyups8117095.d.html</link>
-            <guid>4696414</guid>
-            <pubDate>Wed, 25 Feb 2026 01:32:56 GMT</pubDate>
+            <title><![CDATA[【汇绿生态：正积极进行CPO技术探索和布局】汇绿生态2月26日在互动平台表示，公司依托在硅光技术方面的积累，正积极进行CPO技术探索和布局。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccuq7324212.d.html</link>
+            <guid>4698996</guid>
+            <pubDate>Thu, 26 Feb 2026 01:24:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[派拉蒙：重申将消除华纳兄弟探索公司（WBD）债务交换要约可能产生的15亿美元融资成本。]]></title>
-            <guid>4696412</guid>
-            <pubDate>Wed, 25 Feb 2026 01:32:20 GMT</pubDate>
+            <title><![CDATA[【云南锗业：子公司磷化铟晶片（衬底）已批量生产超过三年】云南锗业2月26日在互动平台表示，公司控股子公司云南鑫耀半导体材料有限公司磷化铟晶片（衬底）已批量生产超过三年，并已向国内外多家知名厂商供货。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccuq7324051.d.html</link>
+            <guid>4698995</guid>
+            <pubDate>Thu, 26 Feb 2026 01:24:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【锐迈科技启动北交所IPO辅导】证监会网站披露，锐迈科技股份有限公司于2026年2月24日在江苏证监局办理辅导备案登记，拟向不特定合格投资者公开发行股票并在北交所上市，辅导券商为国泰海通证券。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyups8115107.d.html</link>
-            <guid>4696411</guid>
-            <pubDate>Wed, 25 Feb 2026 01:31:01 GMT</pubDate>
+            <title><![CDATA[【海目星：2026年1月公司新签锂电池生产设备订单突破10亿元】据“深圳龙华”公众号消息，作为激光及自动化综合解决方案领域的标杆企业，春节期间海目星的生产车间里呈现出一派繁忙景象。2026年1月，公司新签锂电池生产设备订单一举突破10亿元，覆盖国内主流客户及海外市场。为保障交付进度，常州、江门等生产基地全面满产，生产人员规模较日常增长近一倍。随着全球新能源基建加速扩张、AI数据中心用电需求激增，储能设备市场迎来新机遇，海目星凭借前瞻性布局形成先发优势，春节期间海外在手订单充沛。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-26/detail-inhpccuq7323873.d.html</link>
+            <guid>4698994</guid>
+            <pubDate>Thu, 26 Feb 2026 01:24:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[派拉蒙：重申若交易失败将支付28亿美元的解约金。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupu5302805.d.html</link>
-            <guid>4696410</guid>
-            <pubDate>Wed, 25 Feb 2026 01:30:43 GMT</pubDate>
+            <title><![CDATA[港股长和(00001.HK)开涨2.42%，消息面上，长和系出售英国电网业务，套现逾1100亿港元。]]></title>
+            <guid>4698992</guid>
+            <pubDate>Thu, 26 Feb 2026 01:22:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[派拉蒙天空之舞：欢迎华纳兄弟探索公司董事会的决定，将积极开展建设性沟通，为华纳兄弟探索公司股东实现派拉蒙提案的益处。]]></title>
-            <guid>4696408</guid>
-            <pubDate>Wed, 25 Feb 2026 01:30:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：特朗普将在讲话中呼吁恢复国土安全部和边境拨款。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupr1336192.d.html</link>
-            <guid>4696401</guid>
-            <pubDate>Wed, 25 Feb 2026 01:29:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[派拉蒙天空之舞宣布提供收购报价，将以每股31美元现金的价格收购华纳兄弟探索公司（WBD）100%的股份。]]></title>
-            <guid>4696397</guid>
-            <pubDate>Wed, 25 Feb 2026 01:28:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【磷化工板块延续活跃，澄星股份2连板】磷化工板块延续活跃，澄星股份2连板，和邦生物、六国化工、川金诺、云天化、川发龙蟒跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupr1334669.d.html</link>
-            <guid>4696388</guid>
-            <pubDate>Wed, 25 Feb 2026 01:26:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Anthropic推出智能体AI工具，旨在实现人力资源、投资银行等领域工作自动化】据报道，在旗下AI工具引发市场暴跌并激起AI颠覆性影响的思考后，AI初创公司Anthropic PBC正在将其Claude聊天机器人的触角延伸至新的领域。该公司周二为其Claude Cowork智能体软件推出全新AI工具，旨在实现人力资源、投资银行和设计等领域工作的自动化。Anthropic表示，这些工具是与合作伙伴公司共同开发的，例如与金融数据提供商FactSet Research Systems Inc.合作创建的插件。Anthropic的Claude AI模型产品负责人Scott White表示，公司的目标是消除人们使用AI回答工作相关查询的方式与他们从事具体工作所用的工具之间的隔阂。他表示，将市场表现与单一产品发布联系起来“有点过度解读或反应过度了”，公司的AI模型正在帮助企业客户实现增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyups8108676.d.html</link>
-            <guid>4696377</guid>
-            <pubDate>Wed, 25 Feb 2026 01:23:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【碧桂园拟对旗下9只境内债进行回购，购回资金总额上限为4.5亿元】2月24日，碧桂园境内主要发债主体碧桂园地产集团有限公司和腾越建筑科技集团有限公司发布境内债务重组的进展，涉及碧桂园旗下9只债券。公告显示，重组主体拟对9笔标的债券进行购回，合计拟购回资金总额上限为4.5亿元。购回登记期为2026年2月27日至2026年3月12日，购回资金兑付日为2026年4月2日。]]></title>
-            <guid>4696350</guid>
-            <pubDate>Wed, 25 Feb 2026 01:21:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗外长说希望尽快与美国达成协议】据伊朗伊斯兰共和国通讯社24日报道，伊朗外交部长阿拉格齐就即将同美国在日内瓦举行新一轮谈判表示，伊朗希望尽快达成一项公正公平的协议。阿拉格齐当天在社交媒体上表示：“伊朗将基于此前谈判中形成的共识，在日内瓦重启与美国的谈判，决心在最短时间内达成一项公正公平的协议。”阿拉格齐说，伊朗的立场和基本原则极为明确，伊朗在任何情况下都不会发展核武器，也绝不会放弃和平利用核技术的权利。他表示，伊美拥有“达成一项前所未有协议的历史性机遇”。“达成协议触手可及，但前提是必须优先考虑外交途径。”]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupu5295236.d.html</link>
-            <guid>4696348</guid>
-            <pubDate>Wed, 25 Feb 2026 01:20:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒：美防长要求人工智能公司允许军方无限制使用其技术，否则将面临惩罚】据美联社等多家美媒报道，美国国防部长赫格塞斯当地时间2月24日会见了美国人工智能公司Anthropic的首席执行官达里奥·阿莫迪。消息人士透露，赫格塞斯在会晤时要求对方在本周五前签署文件，允许美军方无限制使用该公司的人工智能（AI）技术，否则将受到惩罚。综合美媒报道，多名消息人士透露，赫格塞斯警告阿莫迪，Anthropic公司必须放下关于军方使用其技术的担忧。赫格塞斯还威胁可能会动用《国防生产法》，迫使Anthropic接受要求。《国防生产法》赋予美国政府在战争或国家紧急状态时期对私营公司的广泛权力。(环球网)]]></title>
-            <guid>4696332</guid>
-            <pubDate>Wed, 25 Feb 2026 01:15:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小米申请注册多枚小米智能存储商标】企查查APP显示，近期，小米科技有限责任公司申请注册多枚“小米智能存储”商标，国际分类包括科学仪器、通讯服务等，当前商标状态均为注册申请中。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupw2390978.d.html</link>
-            <guid>4696317</guid>
-            <pubDate>Wed, 25 Feb 2026 01:14:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【文件显示欧盟执委会拟永久禁止进口俄罗斯石油】据欧盟官员及媒体获得的文件，欧盟执委会将于4月15日——即匈牙利议会选举三天后——提出一项永久禁止进口俄罗斯石油的立法提案。两名欧盟官员透露，这一时间安排旨在避免石油禁令成为匈牙利竞选活动的主要议题。目前仍依赖俄罗斯石油进口的匈牙利和斯洛伐克强烈反对任何禁令。在4月12日的选举中，匈牙利总理欧尔班(及他领导的青年民主党(FIDESZ)面临16年来对其执政地位的最大挑战。欧盟已对俄罗斯海运原油进口实施制裁。但欧盟希望通过立法确保全面停止俄罗斯原油进口，即使乌克兰战争达成和平协议导致欧盟解除制裁，该立法仍将有效。据媒体获得的议程草案显示，欧盟执委会计划于4月15日提出俄罗斯石油禁令提案。欧盟执委会发言人就此事回应称，欧盟执委会的议程安排为暂定，提交提案的确切时间表尚未确定。]]></title>
-            <guid>4696310</guid>
-            <pubDate>Wed, 25 Feb 2026 01:13:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【凯格精机：已向海外客户交付800G及1.6T光模块自动化组装产品线】凯格精机2月25日在互动平台表示，公司已经向海外客户交付了800G及1.6T光模块自动化组装产品线，并获得了客户充分肯定；国内相关客户正在积极接洽。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupr1322030.d.html</link>
-            <guid>4696304</guid>
-            <pubDate>Wed, 25 Feb 2026 01:13:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海口新海港和铁路南港复运】据海口市交通运输和港航管理局消息，因琼州海峡大雾影响减弱，海口新海港和铁路南港于2026年2月25日9时恢复运输，海口各港口均正常通航。复运后，请出岛司机旅客按已购船票航班时间提前不超过2小时进港。持有因雾停航时段船票的出岛司机旅客，请留意港口发送的短信提醒。复运后，港口预计需要3个小时恢复正常秩序。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupr1320934.d.html</link>
-            <guid>4696300</guid>
-            <pubDate>Wed, 25 Feb 2026 01:12:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宝马CEO强调车企离不开中国市场】据路透社报道，在德国总理默茨访华前，宝马集团首席执行官奥利弗·齐普策警告，若德国车企忽视中国这一全球最大汽车市场，将危及未来的经济成功，他还称与北京合作至关重要。 齐普策2月19日受访时说：“复杂的全球挑战只能通过合作来解决。总理此次访华将释放出加强对话与合作的强烈信号。” 他认为，如果对中国庞大的市场规模和创新潜力视而不见，“就等于错失全球增长和经济成功的重大机遇”。 中国市场曾长期是德国车企利润的重要来源，但在电动汽车补贴政策推动下，中国本土品牌迅速崛起。同时，一些传统车企在电动化、软件平台和自动驾驶技术领域的竞争中逐渐落后。 齐普策说：“创新和进步不是孤立产生的，而是开拓精神、开放和全球专业知识的结合。”据透露，大众汽车和奔驰的首席执行官也将随团访华。（参考消息）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-25/detail-inhnyupr1319202.d.html</link>
-            <guid>4696284</guid>
-            <pubDate>Wed, 25 Feb 2026 01:10:37 GMT</pubDate>
+            <title><![CDATA[澳航首席执行官表示，美国航线需求疲软是短期现象，随着澳元汇率回升至0.7美元上方，其对下半年仍持乐观态度。]]></title>
+            <guid>4698991</guid>
+            <pubDate>Thu, 26 Feb 2026 01:22:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
